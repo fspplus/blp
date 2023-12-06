@@ -7,7 +7,7 @@ ob_start();
 // header("Cache-Control: post-check=0, pre-check=0", false);
 // header("Pragma: no-cache");
 //     session_set_cookie_params(0);
-include '/var/www/html/connectdb.php';
+// include './connectdb.php';
 // error_reporting(E_ALL);
 // ini_set('display_errors', 1);
 //ini_set('session.gc_maxlifetime', 144000000000);
@@ -46,37 +46,37 @@ if(!isset($_SESSION['role'])){
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.1.4/css/fileinput.min.css" type="text/css" media="all">
     	    <!-- chartist CSS -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-    <link href="/assets/plugins/chartist-js/dist/chartist.min.css" rel="stylesheet">
-    <link href="/assets/plugins/chartist-js/dist/chartist-init.css" rel="stylesheet">
+    <link href="../assets/plugins/chartist-js/dist/chartist.min.css" rel="stylesheet">
+    <link href="../assets/plugins/chartist-js/dist/chartist-init.css" rel="stylesheet">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Merriweather:400,900,900i" rel="stylesheet">
-    <!--<link href="/assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" rel="stylesheet">
+    <!--<link href="../assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" rel="stylesheet">
     <!--This page css - Morris CSS -->
     <!-- Favicon icon -->
-    <link rel="icon" sizes="16x16" href="/assets/images/favicon.png?v=2">
+    <link rel="icon" sizes="16x16" href="../assets/images/favicon.png?v=2">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <!-- Bootstrap Core CSS -->
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="" crossorigin="anonymous">
-    <link href="/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--This page css - C3 CSS -->
-    <link href="/assets/plugins/c3-master/c3.min.css" rel="stylesheet">
+    <link href="../assets/plugins/c3-master/c3.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="/css/style.css?<?php echo rand(); ?>" rel="stylesheet">
-    <link href="/css/styler-new.css?<?php echo date("h:i:sa"); ?>" rel="stylesheet">
-    <link href="/css/custom.css?<?php echo date("h:i:sa"); ?>" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/css/styleform.css">
-    <link href="/css/colors/orange.css" id="theme" rel="stylesheet">
-	<link href="/css/new-dev.css" rel="stylesheet">
-	<!-- <link href="//cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css" rel="stylesheet"> -->
-    <script type="text/javascript" src="/js/form.js?v=<?php echo rand(); ?>"></script>
+    <link href="../css/style.css?<?php echo rand(); ?>" rel="stylesheet">
+    <link href="../css/styler-new.css?<?php echo date("h:i:sa"); ?>" rel="stylesheet">
+    <link href="../css/custom.css?<?php echo date("h:i:sa"); ?>" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../css/styleform.css">
+    <link href="../css/colors/orange.css" id="theme" rel="stylesheet">
+	<link href="../css/new-dev.css" rel="stylesheet">
+	<!-- <link href="..//cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css" rel="stylesheet"> -->
+    <script type="text/javascript" src="../js/form.js?v=<?php echo rand(); ?>"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="/js/parallax/parallax.js"></script>
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="../js/parallax/parallax.js"></script>
+    <link rel="stylesheet" href="..//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="/js/parallax/parallax.js"></script>
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="../js/parallax/parallax.js"></script>
+    <link rel="stylesheet" href="..//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
       <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
       <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -90,7 +90,7 @@ if(!isset($_SESSION['role'])){
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.1.4/js/fileinput.min.js"></script>
-      <script type="text/javascript" src="//cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+      <script type="text/javascript" src="..//cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
 
 	<script src="../js/form.js?d=<?php echo rand(); ?>"></script>
 
@@ -104,7 +104,7 @@ if(!isset($_SESSION['role'])){
     <meta name="google-signin-scope" content="profile email">
     <meta name="google-signin-client_id" content="717604991361-gdncv3f6blgba400grpmtf0ndk1jvjcb.apps.googleusercontent.com">
     <script src="https://apis.google.com/js/platform.js" async defer></script>
-	<script src="/js/new-dev.js" async defer></script>
+	<script src="../js/new-dev.js" async defer></script>
     <style>
         <?php
         if(isset($_SESSION['status_hanwhasmart'])){
@@ -122,19 +122,19 @@ if(!isset($_SESSION['role'])){
 
     include 'controller/session-info.php';
 
-        $query_p = "
-            SELECT * FROM popup_table
-            WHERE popup_status LIKE 'active'
-            ORDER BY RAND()
-        ";
-        $result_p = mysqli_query($conn, $query_p);
-        $row_p = mysqli_fetch_array($result_p);
+        // $query_p = "
+        //     SELECT * FROM popup_table
+        //     WHERE popup_status LIKE 'active'
+        //     ORDER BY RAND()
+        // ";
+        // $result_p = mysqli_query($conn, $query_p);
+        // $row_p = mysqli_fetch_array($result_p);
 
-        $today = date('Y-m-d');
-        $startdate = date('Y-m-d', strtotime($row_p['start_date']));
-        $enddate = date('Y-m-d', strtotime($row_p['end_date']));
+        // $today = date('Y-m-d');
+        // $startdate = date('Y-m-d', strtotime($row_p['start_date']));
+        // $enddate = date('Y-m-d', strtotime($row_p['end_date']));
 
-        if ($today > $startdate && $today < $enddate) {
+        // if ($today > $startdate && $today < $enddate) {
             ?>
             <div id="myModal" class="modal">
                 <!-- Modal content -->
@@ -144,12 +144,13 @@ if(!isset($_SESSION['role'])){
                 </div>
             </div>
             <?php
-        }
+        //}
     ?>
 
     <!--Header || ALSO FUNCTION-->
     <?php /*include ('/var/www/html/jsonapp/json-hanwha-api.php'); writelog();*/
-	include ('/var/www/html/jsonapp/json-hanwha-api.php'); writelog();
+	include ('../json-hanwha-api.php'); 
+    // writelog();
 	// $phone=get_kvkcontact();
 	$phone="+6281113906463";//omb sementara dulu
 
@@ -205,11 +206,11 @@ if(!isset($_SESSION['role'])){
                     </li>
                 <?php
                 } ?>
-            		<li id="menu1" class="listMenuLists main"><a href="/productpage?scroll=purchase" id="btnBuy">Yuk! Beli Disini!</a>
+            		<li id="menu1" class="listMenuLists main"><a href="../productpage?scroll=purchase" id="btnBuy">Yuk! Beli Disini!</a>
             		</li>
-                    <li id="menu2" class="listMenuLists main"><a href="/promo">Promo &amp; Partner</a></li>
-					<li id="menu2" class="listMenuLists main"><a href="/articles">Artikel</a></li>
-                    <li id="menu2" class="listMenuLists main"><a href="/faq-koreaversikamu">FAQ</a></li>
+                    <li id="menu2" class="listMenuLists main"><a href="../promo">Promo &amp; Partner</a></li>
+					<li id="menu2" class="listMenuLists main"><a href="../articles">Artikel</a></li>
+                    <li id="menu2" class="listMenuLists main"><a href="../faq-koreaversikamu">FAQ</a></li>
             		<li id="menu2" class="listMenuLists main">
                 		<a href="productpage"><b>Produk Kami</b></a>
             		</li>
@@ -243,7 +244,7 @@ if(!isset($_SESSION['role'])){
 		                <a href="productpage"><b><span>Produk Kami</span></b></a>
 		            </li>
 					<li id="mmenu2" class="listMenuLists main" style="width: 200px; margin-right: 35px; padding: 15px">
-		                <a href="/articles"><b><span>Artikel</span></b></a>
+		                <a href="../articles"><b><span>Artikel</span></b></a>
 		            </li>
 
                     <li class="listMenuLists main" id="menu4" style="width: 200px; margin-right: 35px; padding: 15px"><a href="promo">Promo &amp; Partner</a></li>

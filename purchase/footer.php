@@ -419,4 +419,4 @@
 </script>
 
 
-<?php mysqli_close($conn); ?>
+<!-- <?php mysqli_close($conn); ?> -->
