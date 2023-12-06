@@ -1,0 +1,99 @@
+114.79.57.9 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:30:39 2021-03-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Timmothy Edbert A Nababan",
+    "birthDate": "20010802", 
+"birthPlace": "Medan",
+"emailAddress": "nababantimmothy17@gmail.com",
+"mobilePhone": "087874343769",
+"homePhone": "087874343769",
+"lineAddress1": "Jl. Lombok no. 10S RT/RW:001/003",
+"lineAddress2": "Merdeka - Sumur Bandung",
+"cityAddress": "Bandung",
+"postalCode": 40113,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Lombok no. 10S RT/RW:001/003",
+"mailingLineAddress2": "Merdeka - Sumur Bandung",
+"mailingCityAddress": "Bandung",
+"mailingpostalCode": 40113,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3172010208011008",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Timmothy Edbert A Nababan",
+    "birthDate": "20010802", 
+"birthPlace": "Medan",
+"emailAddress": "nababantimmothy17@gmail.com",
+"mobilePhone": "087874343769",
+"homePhone": "087874343769",
+"lineAddress1": "Jl. Lombok no. 10S RT/RW:001/003",
+"lineAddress2": "Merdeka - Sumur Bandung",
+"cityAddress": "Bandung",
+"postalCode": 40113,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Lombok no. 10S RT/RW:001/003",
+"mailingLineAddress2": "Merdeka - Sumur Bandung",
+"mailingCityAddress": "Bandung",
+"mailingpostalCode": 40113,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3172010208011008",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},"policyPayor":{"fullName":"Timmothy Edbert A Nababan","birthDate":"20010802","birthPlace":"","emailAddress":"nababantimmothy17@gmail.com","mobilePhone":"087874343769","homePhone":"087874343769","lineAddress1":"Jl. Lombok no.10S RT/RW:001/003 Merdeka","lineAddress2":"Sumur Bandung","cityAddress":"Bandung","postalCode":"40113","sameMailing":"0","mailingLineAddress1":"Jl. Lombok no.10S RT/RW:001/003 Merdeka","mailingLineAddress2":"Sumur Bandung","mailingCityAddress":"Bandung","mailingpostalCode":40113,"gender":"M","jobType":"58","identityType":1,"identityNumber":"3172010208011008","incomeSource":"6","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"S","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"58","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"1","incomeoth":"3","incomeothdesc":"","incomeothtype":"","npwp":"0984923661210","relwinsured":"nababantimmothy17@gmail.com","relwholder":"0","kitasNo":"3172010208011008","office_phone1":"087871343769","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92113049",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210326173038",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7772217075",
+"bankAccountName": "Timmothy Edbert A Nababan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895357142195",
+"name": "Yosi Linda Ginting, SE",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19701203",
+"percentage": 100,
+"email": "yosilind0312@gmail.com"
+}
+]
+}

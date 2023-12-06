@@ -1,0 +1,204 @@
+116.206.31.53 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:20:50 2023-09-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Go, Rusli",
+    "birthDate": "19750622", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "go_rusli@yahoo.co.id",
+"mobilePhone": "081533700123",
+"homePhone": "081533700123",
+"lineAddress1": "Jl pukat banting II no 17 B",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pukat banting II no 17 B",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271142204750002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Go, Rusli",
+    "birthDate": "19750622", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "go_rusli@yahoo.co.id",
+"mobilePhone": "081533700123",
+"homePhone": "081533700123",
+"lineAddress1": "Jl pukat banting II no 17 B",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pukat banting II no 17 B",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271142204750002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230907102049",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950530916",
+"bankAccountName": "Go, Rusli",
+"ewalletNo": "081533700123",
+"ewalletType": "OVO",
+"ewalletName": "Gho Rusli",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087868642888",
+"name": "Herbert Gozalie",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20040514",
+"percentage": 100,
+"email": "go_rusli@yahoo.co.id"
+}
+]
+}
+180.214.232.24 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:55:32 2023-09-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yenni",
+    "birthDate": "19860111", 
+"birthPlace": "Medan ",
+"emailAddress": "sansan_miu@yahoo.com",
+"mobilePhone": "085102405285",
+"homePhone": "085102405285",
+"lineAddress1": "Jl Asahan no 38",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asahan no 38",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271205101860001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yenni",
+    "birthDate": "19860111", 
+"birthPlace": "Medan ",
+"emailAddress": "sansan_miu@yahoo.com",
+"mobilePhone": "085102405285",
+"homePhone": "085102405285",
+"lineAddress1": "Jl Asahan no 38",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asahan no 38",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271205101860001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230907165530",
+"bankCode": "151",
+"ropBankCode": "151",
+"bankAccount": "20114013976",
+"bankAccountName": "Yenni",
+"ewalletNo": "085102405285",
+"ewalletType": "OVO",
+"ewalletName": "Yenni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085102405285",
+"name": "Kenzie xavier huang",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20120415",
+"percentage": 100,
+"email": "sansan_miu@yahoo.com"
+}
+]
+}

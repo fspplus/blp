@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:54:35 2022-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Oei Kim Ling",
+    "birthDate": "19630301", 
+"birthPlace": "Medan",
+"emailAddress": "marsellink@yahoo.com",
+"mobilePhone": "082174142192",
+"homePhone": "082174142192",
+"lineAddress1": "Komp Plem Beach Blok A No.17 ",
+"lineAddress2": "RT 05/09 Tanjung Uma, Lubuk Baja",
+"cityAddress": "Batam",
+"postalCode": 29445,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Plem Beach Blok A No.17 ",
+"mailingLineAddress2": "RT 05/09 Tanjung Uma, Lubuk Baja",
+"mailingCityAddress": "Batam",
+"mailingpostalCode": 29445,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271184103630002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Catering Oma Batam",
+				"bidangUsaha": "Catering (jasa makanan) "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Oei Kim Ling",
+    "birthDate": "19630301", 
+"birthPlace": "Medan",
+"emailAddress": "marsellink@yahoo.com",
+"mobilePhone": "082174142192",
+"homePhone": "082174142192",
+"lineAddress1": "Komp Plem Beach Blok A No.17 ",
+"lineAddress2": "RT 05/09 Tanjung Uma, Lubuk Baja",
+"cityAddress": "Batam",
+"postalCode": 29445,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Plem Beach Blok A No.17 ",
+"mailingLineAddress2": "RT 05/09 Tanjung Uma, Lubuk Baja",
+"mailingCityAddress": "Batam",
+"mailingpostalCode": 29445,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271184103630002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Catering Oma Batam",
+				"bidangUsaha": "Catering (jasa makanan) "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92012541",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220331115432",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1090018787044",
+"bankAccountName": "Oei Kim Ling",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08117882929",
+"name": "Marselorin",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19910310",
+"percentage": 100,
+"email": "marselorin@gmail.com"
+}
+]
+}

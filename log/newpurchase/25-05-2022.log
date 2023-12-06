@@ -1,0 +1,297 @@
+27.112.68.3 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:03:59 2022-05-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Claudya Regina Manangka",
+    "birthDate": "19930323", 
+"birthPlace": "Jakarta",
+"emailAddress": "claudyamarch@gmail.com",
+"mobilePhone": "081386950609",
+"homePhone": "0",
+"lineAddress1": "Komplek Kejaksaan Agung RI Blok E 3 No. 15 RT.008/RW.008",
+"lineAddress2": "Kelu. Cipayung, Kec. CIputat",
+"cityAddress": "",
+"postalCode": 15411,
+"sameMailing": "tidaksesuai",
+"mailingLineAddress1": "Gedung Permata Kuningan Lt. GF (PT. Hanwha Life Insurance Indonesia) ",
+"mailingLineAddress2": "Jl. Kuningan Mulya Kav. 9C, Guntur, Setia Budi",
+"mailingCityAddress": "",
+"mailingpostalCode": 12980,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674046303930013",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI JIWA "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Claudya Regina Manangka",
+    "birthDate": "19930323", 
+"birthPlace": "Jakarta",
+"emailAddress": "claudyamarch@gmail.com",
+"mobilePhone": "081386950609",
+"homePhone": "0",
+"lineAddress1": "Komplek Kejaksaan Agung RI Blok E 3 No. 15 RT.008/RW.008",
+"lineAddress2": "Kelu. Cipayung, Kec. CIputat",
+"cityAddress": "",
+"postalCode": 15411,
+"sameMailing": "tidaksesuai",
+"mailingLineAddress1": "Gedung Permata Kuningan Lt. GF (PT. Hanwha Life Insurance Indonesia) ",
+"mailingLineAddress2": "Jl. Kuningan Mulya Kav. 9C, Guntur, Setia Budi",
+"mailingCityAddress": "",
+"mailingpostalCode": 12980,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674046303930013",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI JIWA "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "00000241",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20220525110358",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8800520941",
+"bankAccountName": "CLAUDYA REGINA MANANGKA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082122789606",
+"name": "Dyah Widyanti",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19640112",
+"percentage": 100,
+"email": "dyahwidyanti12@gmail.com"
+}
+]
+}
+27.112.68.3 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:08:50 2022-05-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Claudya Regina Manangka",
+    "birthDate": "19930323", 
+"birthPlace": "Jakarta",
+"emailAddress": "claudyamarch@gmail.com",
+"mobilePhone": "081386950609",
+"homePhone": "0",
+"lineAddress1": "Komplek Kejaksaan Agung RI Blok E 3 No, 15",
+"lineAddress2": "RT.8/RW.8 Cipayung, Ciputat",
+"cityAddress": "",
+"postalCode": 15411,
+"sameMailing": "tidaksesuai",
+"mailingLineAddress1": "Gedung Permata Kuningan Lt. GF (PT. Hanwha Life Insurance Indonesia) ",
+"mailingLineAddress2": "Jl. Kuningan Mulya Kav. 9C, Guntur, Setia Budi",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12980,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674046303930013",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI JIWA "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Claudya Regina Manangka",
+    "birthDate": "19930323", 
+"birthPlace": "Jakarta",
+"emailAddress": "claudyamarch@gmail.com",
+"mobilePhone": "081386950609",
+"homePhone": "0",
+"lineAddress1": "Komplek Kejaksaan Agung RI Blok E 3 No, 15",
+"lineAddress2": "RT.8/RW.8 Cipayung, Ciputat",
+"cityAddress": "",
+"postalCode": 15411,
+"sameMailing": "tidaksesuai",
+"mailingLineAddress1": "Gedung Permata Kuningan Lt. GF (PT. Hanwha Life Insurance Indonesia) ",
+"mailingLineAddress2": "Jl. Kuningan Mulya Kav. 9C, Guntur, Setia Budi",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12980,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674046303930013",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI JIWA "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "00000241",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20220525110849",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8800520941",
+"bankAccountName": "CLAUDYA REGINA MANANGKA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082122789606",
+"name": "Dyah Widyanti",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19930323",
+"percentage": 100,
+"email": "dyahwidyanti12@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:19:42 2022-05-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rini Rianti",
+    "birthDate": "19910426", 
+"birthPlace": "Jakarta",
+"emailAddress": "rinirianti26@gmail.com",
+"mobilePhone": "083874295226",
+"homePhone": "083874295226",
+"lineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"lineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"cityAddress": "",
+"postalCode": 15151,
+"sameMailing": "1",
+"mailingLineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"mailingLineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"mailingCityAddress": "",
+"mailingpostalCode": 15151,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3276106604910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "swasta",
+				"bidangUsaha": "swasta "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Rini Rianti",
+    "birthDate": "19910426", 
+"birthPlace": "Jakarta",
+"emailAddress": "rinirianti26@gmail.com",
+"mobilePhone": "083874295226",
+"homePhone": "083874295226",
+"lineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"lineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"cityAddress": "",
+"postalCode": 15151,
+"sameMailing": "1",
+"mailingLineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"mailingLineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG TANGERANG",
+"mailingCityAddress": "",
+"mailingpostalCode": 15151,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3276106604910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "swasta",
+				"bidangUsaha": "swasta "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000402",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220525151939",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5250295318",
+"bankAccountName": "Rini Rianti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081389024116",
+"name": "RAFA ATHALLA RIANDIANSYAH",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20160307",
+"percentage": 100,
+"email": "rinirianti26@gmail.com"
+}
+]
+}

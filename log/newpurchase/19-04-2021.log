@@ -1,0 +1,99 @@
+36.88.147.170 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:10:03 2021-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Winda Nanti Eka Nur Afua",
+    "birthDate": "19980628", 
+"birthPlace": "Banyuwangi",
+"emailAddress": "winda.fani@gmail.com",
+"mobilePhone": "082210161680",
+"homePhone": "082210161680",
+"lineAddress1": "Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi",
+"lineAddress2": "Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi",
+"cityAddress": "",
+"postalCode": 68462,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.ketapang no 25 rt 5 rw 1 jatipadang pasar minggu jakarta selatan",
+"mailingLineAddress2": "Jl.ketapang no 25 rt 5 rw 1 jatipadang pasar minggu jakarta selatan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12540,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3276076806980002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Winda Nanti Eka Nur Afua",
+    "birthDate": "19980628", 
+"birthPlace": "Banyuwangi",
+"emailAddress": "winda.fani@gmail.com",
+"mobilePhone": "082210161680",
+"homePhone": "082210161680",
+"lineAddress1": "Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi",
+"lineAddress2": "Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi",
+"cityAddress": "",
+"postalCode": 68462,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.ketapang no 25 rt 5 rw 1 jatipadang pasar minggu jakarta selatan",
+"mailingLineAddress2": "Jl.ketapang no 25 rt 5 rw 1 jatipadang pasar minggu jakarta selatan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12540,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3276076806980002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},"policyPayor":{"fullName":"Junami","birthDate":"19730606","birthPlace":"","emailAddress":"winda.fani@gmail.com","mobilePhone":"085232030209","homePhone":"085232030209","lineAddress1":"Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi","lineAddress2":"Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi","cityAddress":"banyuwangi","postalCode":"68462","sameMailing":"0","mailingLineAddress1":"Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi","mailingLineAddress2":"Dusun Prejengan II Rt. 003 Rw.004 Kel. Rogojampi Kec. Rogojampi","mailingCityAddress":"banyuwangi","mailingpostalCode":68462,"gender":"F","jobType":"58","identityType":1,"identityNumber":"3276074606730004","incomeSource":"2","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"D","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"58","occupationdesc":"","jobpos":"","incomesourcedesc":"2","incomesrcoth":"2","incomeoth":"3","incomeothdesc":"","incomeothtype":"","npwp":"-","relwinsured":"winda.fani@gmail.com","relwholder":"6","kitasNo":"3276074606730004","office_phone1":"085232030209","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "71909947",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210419160958",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0660901744",
+"bankAccountName": "Winda Nanti Eka Nur Afua",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "AABIGP"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085232030209",
+"name": "Diestra Guruh Lintang Saputra",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20041217",
+"percentage": 100,
+"email": "diestraguruh@gmail.com"
+}
+]
+}

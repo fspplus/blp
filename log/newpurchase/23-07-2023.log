@@ -1,0 +1,99 @@
+182.253.242.76 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 22:43:41 2023-07-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Julham",
+    "birthDate": "19650415", 
+"birthPlace": "Medan",
+"emailAddress": "julham65@yahoo.com",
+"mobilePhone": "0811617943",
+"homePhone": "0811617943",
+"lineAddress1": "Jl. Hos Cokroaminoto No.58",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Hos Cokroaminoto No.58",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271181504650002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Frieght Liner",
+				"bidangUsaha": "Logistik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Julham",
+    "birthDate": "19650415", 
+"birthPlace": "Medan",
+"emailAddress": "julham65@yahoo.com",
+"mobilePhone": "0811617943",
+"homePhone": "0811617943",
+"lineAddress1": "Jl. Hos Cokroaminoto No.58",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Hos Cokroaminoto No.58",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271181504650002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Frieght Liner",
+				"bidangUsaha": "Logistik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230723224339",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0220185672",
+"bankAccountName": "Julham",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811617943",
+"name": "Maverick Ryu",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20051218",
+"percentage": 100,
+"email": "julham65@yahoo.com"
+}
+]
+}

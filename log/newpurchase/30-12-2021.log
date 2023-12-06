@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:35:25 2021-12-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ALWI",
+    "birthDate": "19761119", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "brokenaerow@gmail.com",
+"mobilePhone": "085275768878",
+"homePhone": "085275768878",
+"lineAddress1": "Komp Graha Krakatau C-4 PSR 3",
+"lineAddress2": "Tegal Rejo, Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20237,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Graha Krakatau C-4 PSR 3",
+"mailingLineAddress2": "Tegal Rejo, Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20237,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271181911760003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "swasta",
+				"bidangUsaha": "swasta "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ALWI",
+    "birthDate": "19761119", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "brokenaerow@gmail.com",
+"mobilePhone": "085275768878",
+"homePhone": "085275768878",
+"lineAddress1": "Komp Graha Krakatau C-4 PSR 3",
+"lineAddress2": "Tegal Rejo, Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20237,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Graha Krakatau C-4 PSR 3",
+"mailingLineAddress2": "Tegal Rejo, Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20237,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271181911760003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "swasta",
+				"bidangUsaha": "swasta "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 6,
+"referenceCode": "92012391",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20211230143523",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221821661",
+"bankAccountName": "ALWI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126438248",
+"name": "Hong Hoa",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19790825",
+"percentage": 100,
+"email": "hong250876@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+103.127.65.44 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:29:44 2022-05-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sri Aoemini",
+    "birthDate": "19660712", 
+"birthPlace": "Surabaya",
+"emailAddress": "sriaoemini57820@gmail.com",
+"mobilePhone": "089677248106",
+"homePhone": "085731173353",
+"lineAddress1": "Tambak Arum 4 nomor 9",
+"lineAddress2": "Kelurahan Tambak Rejo Kecamatan Simokerto",
+"cityAddress": "",
+"postalCode": 60141,
+"sameMailing": "0",
+"mailingLineAddress1": "The Savana Regency Blok D nomor 3",
+"mailingLineAddress2": "Jln Tanjungan, Dusun Widodo Sumput ",
+"mailingCityAddress": "",
+"mailingpostalCode": 61177,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3578175207660002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Tizhie Travel ",
+				"bidangUsaha": "Travel "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Sri Aoemini",
+    "birthDate": "19660712", 
+"birthPlace": "Surabaya",
+"emailAddress": "sriaoemini57820@gmail.com",
+"mobilePhone": "089677248106",
+"homePhone": "085731173353",
+"lineAddress1": "Tambak Arum 4 nomor 9",
+"lineAddress2": "Kelurahan Tambak Rejo Kecamatan Simokerto",
+"cityAddress": "",
+"postalCode": 60141,
+"sameMailing": "0",
+"mailingLineAddress1": "The Savana Regency Blok D nomor 3",
+"mailingLineAddress2": "Jln Tanjungan, Dusun Widodo Sumput ",
+"mailingCityAddress": "",
+"mailingpostalCode": 61177,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3578175207660002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Tizhie Travel ",
+				"bidangUsaha": "Travel "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011518",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220531182943",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1400021259065",
+"bankAccountName": "Sri Aoemini",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011518"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085731173353",
+"name": "Dwi Sukronistiyo",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19920626",
+"percentage": 100,
+"email": "dwisukronistyo.car@gmail.com"
+}
+]
+}

@@ -1,0 +1,198 @@
+140.213.170.248 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:45:12 2022-04-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Shafira Roeslianty Leony Putri",
+    "birthDate": "19980724", 
+"birthPlace": "Jakarta",
+"emailAddress": "shafiraleony@gmail.com",
+"mobilePhone": "085697403882",
+"homePhone": "085697403882",
+"lineAddress1": "Jl Rawasari Barat Gang III NO E51",
+"lineAddress2": "Cempaka Putih, Jakarta Pusat",
+"cityAddress": "Jakarta",
+"postalCode": 10510,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Rawasari Barat Gang III NO E51",
+"mailingLineAddress2": "Cempaka Putih, Jakarta Pusat",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10510,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171056407981001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Shafira Roeslianty Leony Putri",
+    "birthDate": "19980724", 
+"birthPlace": "Jakarta",
+"emailAddress": "shafiraleony@gmail.com",
+"mobilePhone": "085697403882",
+"homePhone": "085697403882",
+"lineAddress1": "Jl Rawasari Barat Gang III NO E51",
+"lineAddress2": "Cempaka Putih, Jakarta Pusat",
+"cityAddress": "Jakarta",
+"postalCode": 10510,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Rawasari Barat Gang III NO E51",
+"mailingLineAddress2": "Cempaka Putih, Jakarta Pusat",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10510,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171056407981001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000533",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220425154510",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5415097422",
+"bankAccountName": "Shafira Roeslianty Leony Putri",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08568032037",
+"name": "Yulia Kusumawati",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19700704",
+"percentage": 100,
+"email": "yuliakswt@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:45:15 2022-04-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ayom Awal Putra",
+    "birthDate": "19780113", 
+"birthPlace": "Jakarta",
+"emailAddress": "putraayom@gmail.com",
+"mobilePhone": "081296618782",
+"homePhone": "081296618782",
+"lineAddress1": "Bumi sentosa asri blok B.6, Rt. 004/ Rw. 015 No.43",
+"lineAddress2": "kelurahan jejalenjaya, tambun utara",
+"cityAddress": "",
+"postalCode": 17510,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi sentosa asri blok B.6, Rt. 004/ Rw. 015 No.43",
+"mailingLineAddress2": "kelurahan jejalenjaya, tambun utara",
+"mailingCityAddress": "",
+"mailingpostalCode": 17510,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216051301780006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Jasa Keuangan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ayom Awal Putra",
+    "birthDate": "19780113", 
+"birthPlace": "Jakarta",
+"emailAddress": "putraayom@gmail.com",
+"mobilePhone": "081296618782",
+"homePhone": "081296618782",
+"lineAddress1": "Bumi sentosa asri blok B.6, Rt. 004/ Rw. 015 No.43",
+"lineAddress2": "kelurahan jejalenjaya, tambun utara",
+"cityAddress": "",
+"postalCode": 17510,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi sentosa asri blok B.6, Rt. 004/ Rw. 015 No.43",
+"mailingLineAddress2": "kelurahan jejalenjaya, tambun utara",
+"mailingCityAddress": "",
+"mailingpostalCode": 17510,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216051301780006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Jasa Keuangan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000574",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220425154514",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3450329834",
+"bankAccountName": "Ayom Awal Putra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "088213871540",
+"name": "Anisa Shaumi Falila",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20061020",
+"percentage": 100,
+"email": "falilaunicorn@gmail.com"
+}
+]
+}

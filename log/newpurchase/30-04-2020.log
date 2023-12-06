@@ -1,0 +1,108 @@
+182.0.207.182 https://koreaversikamu.co.id/prepurchase?view=finish 23:53:55 2020-04-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Wina Adiwati",
+    "birthDate": "19660407", 
+"birthPlace": "Jakarta",
+"emailAddress": "winasoro@gmail.com",
+"mobilePhone": "08111905513",
+"homePhone": "8313127",
+"lineAddress1": "JL.KH Ramli Selatan 63 RT004 RW03. Kel. Menteng Dalam. Tebet.",
+"lineAddress2": "Jakarta Selatan. 12870.",
+"cityAddress": "Jakarta",
+"postalCode": 12870,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.KH Ramli Selatan 63 RT004 RW03. Kel. Menteng Dalam. Tebet.",
+"mailingLineAddress2": "Jakarta Selatan. 12870.",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12870,
+"gender": "F",
+"jobType": "Job15",
+"identityType": 1,
+"identityNumber": "3174014704660005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Wina Adiwati",
+    "birthDate": "19660407", 
+"birthPlace": "Jakarta",
+"emailAddress": "winasoro@gmail.com",
+"mobilePhone": "08111905513",
+"homePhone": "8313127",
+"lineAddress1": "JL.KH Ramli Selatan 63 RT004 RW03. Kel. Menteng Dalam. Tebet.",
+"lineAddress2": "Jakarta Selatan. 12870.",
+"cityAddress": "Jakarta",
+"postalCode": 12870,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.KH Ramli Selatan 63 RT004 RW03. Kel. Menteng Dalam. Tebet.",
+"mailingLineAddress2": "Jakarta Selatan. 12870.",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12870,
+"gender": "F",
+"jobType": "Job15",
+"identityType": 1,
+"identityNumber": "3174014704660005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200430235354",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0099916110",
+"bankAccountName": "Wina Adiwati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081387878979",
+"name": "Robert Ansunanum K",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19651130",
+"percentage": 85,
+"email": "robert.kawulusan@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "0816796492",
+"name": "Rini Susilowati",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19570606",
+"percentage": 15,
+"email": "rini_jktcity@yahoo.com"
+}
+]
+}

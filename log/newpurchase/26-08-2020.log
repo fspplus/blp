@@ -1,0 +1,198 @@
+36.79.30.228 https://www.bucketlistplan.co.id/prepurchase?view=finish 11:12:15 2020-08-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kartono Wijaya",
+    "birthDate": "19860421", 
+"birthPlace": "Jakarta",
+"emailAddress": "kartonow21@yahoo.com",
+"mobilePhone": "081260072121",
+"homePhone": "081260072121",
+"lineAddress1": "Jl.Mojopahit Dalam No:12",
+"lineAddress2": "Jl.Mojopahit Dalam No:12",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Mojopahit Dalam No:12",
+"mailingLineAddress2": "Jl.Mojopahit Dalam No:12",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271192104860001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pembangunan rumah",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Kartono Wijaya",
+    "birthDate": "19860421", 
+"birthPlace": "Jakarta",
+"emailAddress": "kartonow21@yahoo.com",
+"mobilePhone": "081260072121",
+"homePhone": "081260072121",
+"lineAddress1": "Jl.Mojopahit Dalam No:12",
+"lineAddress2": "Jl.Mojopahit Dalam No:12",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Mojopahit Dalam No:12",
+"mailingLineAddress2": "Jl.Mojopahit Dalam No:12",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271192104860001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pembangunan rumah",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200826111214",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250285117",
+"bankAccountName": "Kartono Wijaya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081260072121",
+"name": "Winnie",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19901027",
+"percentage": 100,
+"email": "kartonow21@yahoo.com"
+}
+]
+}
+202.67.36.60 https://koreaversikamu.co.id/prepurchase?view=finish 19:35:17 2020-08-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DICKSON",
+    "birthDate": "19930506", 
+"birthPlace": "TENGAN",
+"emailAddress": "dickson.samara@gmail.com",
+"mobilePhone": "082349926687",
+"homePhone": "082349926687",
+"lineAddress1": "Jl daeng ramang griya mulia asri blok 4c no 23",
+"lineAddress2": "Sudiang",
+"cityAddress": "Makassar",
+"postalCode": 90922,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl daeng ramang griya mulia asri blok 4c no 23",
+"mailingLineAddress2": "Sudiang",
+"mailingCityAddress": "Makassar",
+"mailingpostalCode": 90922,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7318120505940006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT ARTABOGA CEMERLANG",
+				"bidangUsaha": "RETAIL "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "DICKSON",
+    "birthDate": "19930506", 
+"birthPlace": "TENGAN",
+"emailAddress": "dickson.samara@gmail.com",
+"mobilePhone": "082349926687",
+"homePhone": "082349926687",
+"lineAddress1": "Jl daeng ramang griya mulia asri blok 4c no 23",
+"lineAddress2": "Sudiang",
+"cityAddress": "Makassar",
+"postalCode": 90922,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl daeng ramang griya mulia asri blok 4c no 23",
+"mailingLineAddress2": "Sudiang",
+"mailingCityAddress": "Makassar",
+"mailingpostalCode": 90922,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7318120505940006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT ARTABOGA CEMERLANG",
+				"bidangUsaha": "RETAIL "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92011358",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200826193516",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8735213128",
+"bankAccountName": "DICKSON",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "9201358"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085242111150",
+"name": "Sriyunita",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19880612",
+"percentage": 100,
+"email": "srimassora@yahoo.com"
+}
+]
+}

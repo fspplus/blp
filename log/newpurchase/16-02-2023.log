@@ -1,0 +1,99 @@
+182.23.25.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:06:02 2023-02-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "RISMA HANDAYANI, S.Sos.",
+    "birthDate": "19831011", 
+"birthPlace": "Bogor",
+"emailAddress": "risma_kirana@yahoo.com",
+"mobilePhone": "08179032525",
+"homePhone": "08179032525",
+"lineAddress1": "VILLA PASIR MAS BLOK C.10 RT.007, RW.002",
+"lineAddress2": "PASIR KUDA, KOTA BOGOR BARAT",
+"cityAddress": "",
+"postalCode": 16119,
+"sameMailing": "0",
+"mailingLineAddress1": "BANK NOBU LIPPO KEBOEN RAYA. JL.PAJAJARAN NO.39",
+"mailingLineAddress2": "KEL. BABAKAN, KEC. BOGOR TENGAH",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16128,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271045110830021",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "NATIONAL NOBU BANK",
+				"bidangUsaha": "KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "RISMA HANDAYANI, S.Sos.",
+    "birthDate": "19831011", 
+"birthPlace": "Bogor",
+"emailAddress": "risma_kirana@yahoo.com",
+"mobilePhone": "08179032525",
+"homePhone": "08179032525",
+"lineAddress1": "VILLA PASIR MAS BLOK C.10 RT.007, RW.002",
+"lineAddress2": "PASIR KUDA, KOTA BOGOR BARAT",
+"cityAddress": "",
+"postalCode": 16119,
+"sameMailing": "0",
+"mailingLineAddress1": "BANK NOBU LIPPO KEBOEN RAYA. JL.PAJAJARAN NO.39",
+"mailingLineAddress2": "KEL. BABAKAN, KEC. BOGOR TENGAH",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16128,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271045110830021",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "NATIONAL NOBU BANK",
+				"bidangUsaha": "KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210218",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230216130601",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0952664211",
+"bankAccountName": "RISMA HANDAYANI.S.Sos",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08179032525",
+"name": "KRESNA WANAYUDA MULYANA",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19830721",
+"percentage": 100,
+"email": "risma_kirana@yahoo.com"
+}
+]
+}

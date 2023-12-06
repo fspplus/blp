@@ -1,0 +1,495 @@
+182.1.122.27 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:19:55 2021-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "I KETUT PUJA ANTARA",
+    "birthDate": "19700101", 
+"birthPlace": "Kab. Gianyar",
+"emailAddress": "iputuantara123@gmail.com",
+"mobilePhone": "082146563901",
+"homePhone": "082146563901",
+"lineAddress1": "Banjar Tegalbingin",
+"lineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"cityAddress": "",
+"postalCode": 80571,
+"sameMailing": "1",
+"mailingLineAddress1": "Banjar Tegalbingin",
+"mailingLineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"mailingCityAddress": "",
+"mailingpostalCode": 80571,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5104053112590154",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UNIVERSITAS MAHENDRADATTA",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "I KETUT PUJA ANTARA",
+    "birthDate": "19700101", 
+"birthPlace": "Kab. Gianyar",
+"emailAddress": "iputuantara123@gmail.com",
+"mobilePhone": "082146563901",
+"homePhone": "082146563901",
+"lineAddress1": "Banjar Tegalbingin",
+"lineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"cityAddress": "",
+"postalCode": 80571,
+"sameMailing": "1",
+"mailingLineAddress1": "Banjar Tegalbingin",
+"mailingLineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"mailingCityAddress": "",
+"mailingpostalCode": 80571,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5104053112590154",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UNIVERSITAS MAHENDRADATTA",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92113162",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210330111954",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "1236457273",
+"bankAccountName": "I KETUT PUJA ANTARA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082146563901",
+"name": "NI PUTU PUNIASIH",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19700101",
+"percentage": 100,
+"email": "ipujaantara123@gmail.com"
+}
+]
+}
+182.23.35.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:30:24 2021-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "I KETUT PUJA ANTARA",
+    "birthDate": "19591231", 
+"birthPlace": "Kab. Gianyar",
+"emailAddress": "ipujaantara123@gmail.com",
+"mobilePhone": "082146563901",
+"homePhone": "082146563901",
+"lineAddress1": "Banjar Tegalbingin",
+"lineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"cityAddress": "",
+"postalCode": 80571,
+"sameMailing": "1",
+"mailingLineAddress1": "Banjar Tegalbingin",
+"mailingLineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"mailingCityAddress": "",
+"mailingpostalCode": 80571,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5104053112590154",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Universitas Mahendradatta",
+				"bidangUsaha": "Pendidikan Tinggi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "I KETUT PUJA ANTARA",
+    "birthDate": "19591231", 
+"birthPlace": "Kab. Gianyar",
+"emailAddress": "ipujaantara123@gmail.com",
+"mobilePhone": "082146563901",
+"homePhone": "082146563901",
+"lineAddress1": "Banjar Tegalbingin",
+"lineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"cityAddress": "",
+"postalCode": 80571,
+"sameMailing": "1",
+"mailingLineAddress1": "Banjar Tegalbingin",
+"mailingLineAddress2": "Desa Mas, Kec. Ubud, Kab. Gianyar",
+"mailingCityAddress": "",
+"mailingpostalCode": 80571,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5104053112590154",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Universitas Mahendradatta",
+				"bidangUsaha": "Pendidikan Tinggi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92113162",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210330113024",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "123764653",
+"bankAccountName": "I KETUT PUJA ANTARA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082146563901",
+"name": "NI PUTU PUNIASIH",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19861215",
+"percentage": 100,
+"email": "ipujaantara123@gmail.com"
+}
+]
+}
+182.1.74.53 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:07:39 2021-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Devi Adi mintyastuti SH",
+    "birthDate": "19770927", 
+"birthPlace": "Surabaya",
+"emailAddress": "deviadi602@gmail.com",
+"mobilePhone": "089505524719",
+"homePhone": "089505524719",
+"lineAddress1": "Klampis Ngasem 3/6",
+"lineAddress2": "Klampis Ngasem 3/6",
+"cityAddress": "Surabaya",
+"postalCode": 60117,
+"sameMailing": "1",
+"mailingLineAddress1": "Klampis Ngasem 3/6",
+"mailingLineAddress2": "Klampis Ngasem 3/6",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60117,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3578096709770001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pengusaha",
+"namaLembaga": "Toko cantika",
+				"bidangUsaha": "Retail "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Devi Adi mintyastuti SH",
+    "birthDate": "19770927", 
+"birthPlace": "Surabaya",
+"emailAddress": "deviadi602@gmail.com",
+"mobilePhone": "089505524719",
+"homePhone": "089505524719",
+"lineAddress1": "Klampis Ngasem 3/6",
+"lineAddress2": "Klampis Ngasem 3/6",
+"cityAddress": "Surabaya",
+"postalCode": 60117,
+"sameMailing": "1",
+"mailingLineAddress1": "Klampis Ngasem 3/6",
+"mailingLineAddress2": "Klampis Ngasem 3/6",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60117,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3578096709770001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pengusaha",
+"namaLembaga": "Toko cantika",
+				"bidangUsaha": "Retail "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011518",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210330120738",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0885321491",
+"bankAccountName": "Devi Adi mintyastuti SH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081331443344",
+"name": "Adiva arsyilla savina",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20170914",
+"percentage": 100,
+"email": "deviadi602@gmail.com"
+}
+]
+}
+36.76.169.127 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:51:08 2021-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Juliana",
+    "birthDate": "19890519", 
+"birthPlace": "Medan",
+"emailAddress": "julyyap89@yahoo.com",
+"mobilePhone": "085262110006",
+"homePhone": "0617348865",
+"lineAddress1": "Jl. Kapuas No.3J",
+"lineAddress2": "Jl. Starban Gang Setia No.301",
+"cityAddress": "Medan",
+"postalCode": 20213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kapuas No.3J",
+"mailingLineAddress2": "Jl. Starban Gang Setia No.301",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271025905890002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV. Buana Tetap Jaya",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Juliana",
+    "birthDate": "19890519", 
+"birthPlace": "Medan",
+"emailAddress": "julyyap89@yahoo.com",
+"mobilePhone": "085262110006",
+"homePhone": "0617348865",
+"lineAddress1": "Jl. Kapuas No.3J",
+"lineAddress2": "Jl. Starban Gang Setia No.301",
+"cityAddress": "Medan",
+"postalCode": 20213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kapuas No.3J",
+"mailingLineAddress2": "Jl. Starban Gang Setia No.301",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271025905890002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV. Buana Tetap Jaya",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92012071",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210330145106",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8375108034",
+"bankAccountName": "Juliana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085270005787",
+"name": "Aripin",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19871110",
+"percentage": 100,
+"email": "arfinzfinjul@yahoo.com"
+}
+]
+}
+36.76.169.127 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:27:24 2021-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Steven Lim",
+    "birthDate": "19740617", 
+"birthPlace": "Medan",
+"emailAddress": "steven.lim55@yahoo.com",
+"mobilePhone": "082162321000",
+"homePhone": "0617348865",
+"lineAddress1": "Jl. Kapuas No.3J",
+"lineAddress2": "Jl. Sei Deli Gang Mesjid No.2-A, Medan",
+"cityAddress": "Medan",
+"postalCode": 20213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kapuas No.3J",
+"mailingLineAddress2": "Jl. Sei Deli Gang Mesjid No.2-A, Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271051706740004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Bintang Rejeki Maju ",
+				"bidangUsaha": "Pabrik Seng  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Steven Lim",
+    "birthDate": "19740617", 
+"birthPlace": "Medan",
+"emailAddress": "steven.lim55@yahoo.com",
+"mobilePhone": "082162321000",
+"homePhone": "0617348865",
+"lineAddress1": "Jl. Kapuas No.3J",
+"lineAddress2": "Jl. Sei Deli Gang Mesjid No.2-A, Medan",
+"cityAddress": "Medan",
+"postalCode": 20213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kapuas No.3J",
+"mailingLineAddress2": "Jl. Sei Deli Gang Mesjid No.2-A, Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271051706740004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Bintang Rejeki Maju ",
+				"bidangUsaha": "Pabrik Seng  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92012071",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210330152724",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3831242068",
+"bankAccountName": "Steven Lim",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116401025",
+"name": "Cherry Olivia Berlyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20081026",
+"percentage": 100,
+"email": "steven.lim55@yahoo.com"
+}
+]
+}

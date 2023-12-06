@@ -1,0 +1,198 @@
+103.121.18.47 https://www.bucketlistplan.co.id/prepurchase?view=finish 14:49:04 2020-07-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Santi Juanda",
+    "birthDate": "19870304", 
+"birthPlace": "Lahewa",
+"emailAddress": "linory.jaya@gmail.com",
+"mobilePhone": "081269122100",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Dipanegoro No:143",
+"lineAddress2": "Jl.Dipanegoro No:143",
+"cityAddress": "",
+"postalCode": 22815,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok: B3",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271204403870003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Linory",
+				"bidangUsaha": "Elektronik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Santi Juanda",
+    "birthDate": "19870304", 
+"birthPlace": "Lahewa",
+"emailAddress": "linory.jaya@gmail.com",
+"mobilePhone": "081269122100",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Dipanegoro No:143",
+"lineAddress2": "Jl.Dipanegoro No:143",
+"cityAddress": "",
+"postalCode": 22815,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok: B3",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271204403870003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Linory",
+				"bidangUsaha": "Elektronik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200722144903",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "017601001069569",
+"bankAccountName": "Santi Juanda",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081269122100",
+"name": "Ferry Siuwandy",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19850219",
+"percentage": 100,
+"email": "ferry.siuwandy@yahoo.com"
+}
+]
+}
+103.121.18.47 https://www.bucketlistplan.co.id/prepurchase?view=finish 16:05:30 2020-07-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Willy",
+    "birthDate": "19931023", 
+"birthPlace": "Medan",
+"emailAddress": "willygoh12@gmail.com",
+"mobilePhone": "081234579877",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Asia Simpang Waja No:360 I",
+"lineAddress2": "Jl.Asia Simpang Waja No:360 I",
+"cityAddress": "",
+"postalCode": 20241,
+"sameMailing": "0",
+"mailingLineAddress1": "Komplek Cemara Hijau Blok:M16",
+"mailingLineAddress2": "Komplek Cemara Hijau Blok:M16",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20241,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271102310930007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank mega",
+				"bidangUsaha": "Teller "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Willy",
+    "birthDate": "19931023", 
+"birthPlace": "Medan",
+"emailAddress": "willygoh12@gmail.com",
+"mobilePhone": "081234579877",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Asia Simpang Waja No:360 I",
+"lineAddress2": "Jl.Asia Simpang Waja No:360 I",
+"cityAddress": "",
+"postalCode": 20241,
+"sameMailing": "0",
+"mailingLineAddress1": "Komplek Cemara Hijau Blok:M16",
+"mailingLineAddress2": "Komplek Cemara Hijau Blok:M16",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20241,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271102310930007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank mega",
+				"bidangUsaha": "Teller "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200722160528",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300101055",
+"bankAccountName": "Willy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081234579877",
+"name": "Meryana",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19910226",
+"percentage": 100,
+"email": "willygoh12@gmail.com"
+}
+]
+}

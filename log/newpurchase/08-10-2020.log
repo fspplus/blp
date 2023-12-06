@@ -1,0 +1,99 @@
+36.71.142.106 https://koreaversikamu.co.id/prepurchase?view=finish 10:04:07 2020-10-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "William Hartono",
+    "birthDate": "19840519", 
+"birthPlace": "Medan",
+"emailAddress": "wilhem88.wh@gmail.com",
+"mobilePhone": "082316998888",
+"homePhone": "082316998888",
+"lineAddress1": "Jl.Glugur No:7-G-18-H",
+"lineAddress2": "Jl.Glugur No:7-G-18-H",
+"cityAddress": "",
+"postalCode": 20238,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Danau Singkarak, Komplek Singkarak Boulevard No:B2",
+"mailingLineAddress2": "Jl.Danau Singkarak, Komplek Singkarak Boulevard No:B2",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271191905840002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV.Smart chemical",
+				"bidangUsaha": "Kimia "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "William Hartono",
+    "birthDate": "19840519", 
+"birthPlace": "Medan",
+"emailAddress": "wilhem88.wh@gmail.com",
+"mobilePhone": "082316998888",
+"homePhone": "082316998888",
+"lineAddress1": "Jl.Glugur No:7-G-18-H",
+"lineAddress2": "Jl.Glugur No:7-G-18-H",
+"cityAddress": "",
+"postalCode": 20238,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Danau Singkarak, Komplek Singkarak Boulevard No:B2",
+"mailingLineAddress2": "Jl.Danau Singkarak, Komplek Singkarak Boulevard No:B2",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271191905840002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV.Smart chemical",
+				"bidangUsaha": "Kimia "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20201008100403",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250024259",
+"bankAccountName": "William Hartono",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082316998888",
+"name": "Marvella Lysandra",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20121006",
+"percentage": 100,
+"email": "wilhem88.wh@gmail.com"
+}
+]
+}

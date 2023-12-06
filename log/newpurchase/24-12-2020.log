@@ -1,0 +1,108 @@
+223.255.230.51 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:31:04 2020-12-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Amena Antoniues",
+    "birthDate": "19900305", 
+"birthPlace": "Surabaya",
+"emailAddress": "amenakho@icloud.com",
+"mobilePhone": "087769256875",
+"homePhone": "087769286588",
+"lineAddress1": "Komp Sinar Duta Permai Blok B2",
+"lineAddress2": "Glugur Darat I",
+"cityAddress": "Medan",
+"postalCode": 20238,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Sinar Duta Permai Blok B2",
+"mailingLineAddress2": "Glugur Darat I",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20238,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271194503900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Amena Antoniues",
+    "birthDate": "19900305", 
+"birthPlace": "Surabaya",
+"emailAddress": "amenakho@icloud.com",
+"mobilePhone": "087769256875",
+"homePhone": "087769286588",
+"lineAddress1": "Komp Sinar Duta Permai Blok B2",
+"lineAddress2": "Glugur Darat I",
+"cityAddress": "Medan",
+"postalCode": 20238,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Sinar Duta Permai Blok B2",
+"mailingLineAddress2": "Glugur Darat I",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20238,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271194503900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92012534",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201224143103",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3831288530",
+"bankAccountName": "Amena Antoniues",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087769286588",
+"name": "Jiaw Tjin Hua",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19580717",
+"percentage": 50,
+"email": "amenakho@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "0819891503",
+"name": "Amelia Antoniues",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19890315",
+"percentage": 50,
+"email": "ameliakhi@gmail.com"
+}
+]
+}

@@ -1,0 +1,792 @@
+192.168.115.145 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 10:12:33 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SURIANA",
+    "birthDate": "19911024", 
+"birthPlace": "Medan",
+"emailAddress": "senny.zhu1991@gmail.com",
+"mobilePhone": "081224812115",
+"homePhone": "081224812115",
+"lineAddress1": "Jl. MARELAN RAYA PASAR IV KOMPLEK GRAND MARELAN RESIDENCE",
+"lineAddress2": "BLOK B NO.5 KEL. RENGAS PULAU KEC. MEDAN MARELAN ",
+"cityAddress": "Medan",
+"postalCode": 20255,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. MARELAN RAYA PASAR IV KOMPLEK GRAND MARELAN RESIDENCE",
+"mailingLineAddress2": "BLOK B NO.5 KEL. RENGAS PULAU KEC. MEDAN MARELAN ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20255,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271136410910007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Langkat Makmur Jaya Sawita",
+				"bidangUsaha": "CPO "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SURIANA",
+    "birthDate": "19911024", 
+"birthPlace": "Medan",
+"emailAddress": "senny.zhu1991@gmail.com",
+"mobilePhone": "081224812115",
+"homePhone": "081224812115",
+"lineAddress1": "Jl. MARELAN RAYA PASAR IV KOMPLEK GRAND MARELAN RESIDENCE",
+"lineAddress2": "BLOK B NO.5 KEL. RENGAS PULAU KEC. MEDAN MARELAN ",
+"cityAddress": "Medan",
+"postalCode": 20255,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. MARELAN RAYA PASAR IV KOMPLEK GRAND MARELAN RESIDENCE",
+"mailingLineAddress2": "BLOK B NO.5 KEL. RENGAS PULAU KEC. MEDAN MARELAN ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20255,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271136410910007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Langkat Makmur Jaya Sawita",
+				"bidangUsaha": "CPO "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91910472",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210331101233",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8195104669",
+"bankAccountName": "SURIANA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081265937629",
+"name": "ALBERT PAULUS SIANIPAR",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19840728",
+"percentage": 100,
+"email": "albert.paulus28@gmail.com"
+}
+]
+}
+192.168.1.245 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 14:48:41 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kevin",
+    "birthDate": "19900114", 
+"birthPlace": "Jakarta",
+"emailAddress": "kekevinn14@yahoo.com",
+"mobilePhone": "0818187077",
+"homePhone": "0818187077",
+"lineAddress1": "Sunter Mas Timur H Blok Q Utara No.2",
+"lineAddress2": "RT.010 RW.008",
+"cityAddress": "Jakarta",
+"postalCode": 14350,
+"sameMailing": "1",
+"mailingLineAddress1": "Sunter Mas Timur H Blok Q Utara No.2",
+"mailingLineAddress2": "RT.010 RW.008",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14350,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3172021401900016",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Kevin",
+    "birthDate": "19900114", 
+"birthPlace": "Jakarta",
+"emailAddress": "kekevinn14@yahoo.com",
+"mobilePhone": "0818187077",
+"homePhone": "0818187077",
+"lineAddress1": "Sunter Mas Timur H Blok Q Utara No.2",
+"lineAddress2": "RT.010 RW.008",
+"cityAddress": "Jakarta",
+"postalCode": 14350,
+"sameMailing": "1",
+"mailingLineAddress1": "Sunter Mas Timur H Blok Q Utara No.2",
+"mailingLineAddress2": "RT.010 RW.008",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14350,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3172021401900016",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91910174",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210331144840",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1200011329179",
+"bankAccountName": "Kevin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818187077",
+"name": "Antoinette Kayleen Vinn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20170606",
+"percentage": 100,
+"email": "kekevinn14@yahoo.com"
+}
+]
+}
+192.168.0.125 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 14:53:38 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Masroli",
+    "birthDate": "19820827", 
+"birthPlace": "Tangerang",
+"emailAddress": "rolly796@gmail.com",
+"mobilePhone": "087781269622",
+"homePhone": "087781269622",
+"lineAddress1": "Jl. H.Cari KP Ciledug RT.003 RW 005 No.59 ",
+"lineAddress2": "Kel.Pondok Kacang Barat Kec.Pondok Aren",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15226,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H.Cari KP Ciledug RT.003 RW 005 No.59 ",
+"mailingLineAddress2": "Kel.Pondok Kacang Barat Kec.Pondok Aren",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15226,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674032708820019",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.DGS ( Duta Griya Sarana )",
+				"bidangUsaha": "Jasa Tenaga Kerja "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Masroli",
+    "birthDate": "19820827", 
+"birthPlace": "Tangerang",
+"emailAddress": "rolly796@gmail.com",
+"mobilePhone": "087781269622",
+"homePhone": "087781269622",
+"lineAddress1": "Jl. H.Cari KP Ciledug RT.003 RW 005 No.59 ",
+"lineAddress2": "Kel.Pondok Kacang Barat Kec.Pondok Aren",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15226,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H.Cari KP Ciledug RT.003 RW 005 No.59 ",
+"mailingLineAddress2": "Kel.Pondok Kacang Barat Kec.Pondok Aren",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15226,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674032708820019",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.DGS ( Duta Griya Sarana )",
+				"bidangUsaha": "Jasa Tenaga Kerja "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91910182",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210331145337",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0354451553",
+"bankAccountName": "Masroli",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087871042023",
+"name": "Rizki Amelia",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19901213",
+"percentage": 50,
+"email": "lirizkiamel@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "087781269622",
+"name": "Attaya Anandayu",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20170510",
+"percentage": 50,
+"email": "rolly796@gmail.com"
+}
+]
+}
+192.168.115.145 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 15:49:20 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "WIDYA",
+    "birthDate": "19951215", 
+"birthPlace": "MEDAN",
+"emailAddress": "wid.tan95@gmail.com",
+"mobilePhone": "08116331995",
+"homePhone": "08116331995",
+"lineAddress1": "JL. PROF HM YAMIN SH NO.350 D ",
+"lineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN ",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PROF HM YAMIN SH NO.350 D ",
+"mailingLineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271185512950002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. LANGKAT MAKMUR JAYA SAWITA",
+				"bidangUsaha": "CPO "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "WIDYA",
+    "birthDate": "19951215", 
+"birthPlace": "MEDAN",
+"emailAddress": "wid.tan95@gmail.com",
+"mobilePhone": "08116331995",
+"homePhone": "08116331995",
+"lineAddress1": "JL. PROF HM YAMIN SH NO.350 D ",
+"lineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN ",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PROF HM YAMIN SH NO.350 D ",
+"mailingLineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271185512950002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. LANGKAT MAKMUR JAYA SAWITA",
+				"bidangUsaha": "CPO "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91910472",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210331154919",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8115316739",
+"bankAccountName": "WIDYA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116078828",
+"name": "TIFFANNY",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19981020",
+"percentage": 100,
+"email": "tifftan98@gmail.com"
+}
+]
+}
+192.168.115.145 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 16:10:40 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TIFFANNY",
+    "birthDate": "19981020", 
+"birthPlace": "Medan",
+"emailAddress": "tifftan98@gmail.com",
+"mobilePhone": "08116078828",
+"homePhone": "08116078828",
+"lineAddress1": "JL PROF HM YAMIN SH NO.350 D",
+"lineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PROF HM YAMIN SH NO.350 D",
+"mailingLineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271186010980003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. JALAHAN BATUBARA PRIMA",
+				"bidangUsaha": "BATUBARA "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "TIFFANNY",
+    "birthDate": "19981020", 
+"birthPlace": "Medan",
+"emailAddress": "tifftan98@gmail.com",
+"mobilePhone": "08116078828",
+"homePhone": "08116078828",
+"lineAddress1": "JL PROF HM YAMIN SH NO.350 D",
+"lineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PROF HM YAMIN SH NO.350 D",
+"mailingLineAddress2": "KEL. SEI KERA HULU KEC. MEDAN PERJUANGAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271186010980003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. JALAHAN BATUBARA PRIMA",
+				"bidangUsaha": "BATUBARA "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91910472",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210331161039",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8115239372",
+"bankAccountName": "TIFFANNY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116331995",
+"name": "WIDYA",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19951215",
+"percentage": 100,
+"email": "wid.tan95@gmail.com"
+}
+]
+}
+182.23.35.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:25:47 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NI KOMANG OKTA ARIANI",
+    "birthDate": "19971007", 
+"birthPlace": "Denpasar",
+"emailAddress": "nikomangoktaariani@gmail.com",
+"mobilePhone": "081339919082",
+"homePhone": "081339919082",
+"lineAddress1": "JL. CEKOMARIA GG. BEKISAR NO. 3, BR/LINK AMBENGAN,",
+"lineAddress2": "KEL. PEGUYANGAN KANGIN, KEC. DENPASAR UTARA, DENPASAR",
+"cityAddress": "Denpasar",
+"postalCode": 80115,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. CEKOMARIA GG. BEKISAR NO. 3, BR/LINK AMBENGAN,",
+"mailingLineAddress2": "KEL. PEGUYANGAN KANGIN, KEC. DENPASAR UTARA, DENPASAR",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80115,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "5171044710970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Marketing MLM",
+"namaLembaga": "PT Orbit Kharisma Elite",
+				"bidangUsaha": "Distributor Susu Yeobo "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "NI KOMANG OKTA ARIANI",
+    "birthDate": "19971007", 
+"birthPlace": "Denpasar",
+"emailAddress": "nikomangoktaariani@gmail.com",
+"mobilePhone": "081339919082",
+"homePhone": "081339919082",
+"lineAddress1": "JL. CEKOMARIA GG. BEKISAR NO. 3, BR/LINK AMBENGAN,",
+"lineAddress2": "KEL. PEGUYANGAN KANGIN, KEC. DENPASAR UTARA, DENPASAR",
+"cityAddress": "Denpasar",
+"postalCode": 80115,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. CEKOMARIA GG. BEKISAR NO. 3, BR/LINK AMBENGAN,",
+"mailingLineAddress2": "KEL. PEGUYANGAN KANGIN, KEC. DENPASAR UTARA, DENPASAR",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80115,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "5171044710970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Marketing MLM",
+"namaLembaga": "PT Orbit Kharisma Elite",
+				"bidangUsaha": "Distributor Susu Yeobo "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92113162",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210331162546",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6690595000",
+"bankAccountName": "NI KOMANG OKTA ARIANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081339528219",
+"name": "I GEDE YASA",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19700601",
+"percentage": 100,
+"email": "yasaigede9@yahoo.com"
+}
+]
+}
+192.168.0.125 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 16:55:09 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210331165508",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}
+192.168.0.125 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 17:06:12 2021-03-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SINTAHU JANG",
+    "birthDate": "19600508", 
+"birthPlace": "PONTIANAK",
+"emailAddress": "sintahujang00@gmail.com",
+"mobilePhone": "081211677955",
+"homePhone": "081211677955",
+"lineAddress1": "JL PADEMANGAN II GG 31 NO.11 RT.018 RW.002",
+"lineAddress2": "KEL.PADEMANGAN TIMUR KEC.PADEMANGAN JAKARTA UTARA",
+"cityAddress": "",
+"postalCode": 14410,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PADEMANGAN II GG 31 NO.11 RT.018 RW.002",
+"mailingLineAddress2": "KEL.PADEMANGAN TIMUR KEC.PADEMANGAN JAKARTA UTARA",
+"mailingCityAddress": "",
+"mailingpostalCode": 14410,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172054805600003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT KARYA DINAMIKA",
+				"bidangUsaha": "PROPERTI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SINTAHU JANG",
+    "birthDate": "19600508", 
+"birthPlace": "PONTIANAK",
+"emailAddress": "sintahujang00@gmail.com",
+"mobilePhone": "081211677955",
+"homePhone": "081211677955",
+"lineAddress1": "JL PADEMANGAN II GG 31 NO.11 RT.018 RW.002",
+"lineAddress2": "KEL.PADEMANGAN TIMUR KEC.PADEMANGAN JAKARTA UTARA",
+"cityAddress": "",
+"postalCode": 14410,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PADEMANGAN II GG 31 NO.11 RT.018 RW.002",
+"mailingLineAddress2": "KEL.PADEMANGAN TIMUR KEC.PADEMANGAN JAKARTA UTARA",
+"mailingCityAddress": "",
+"mailingpostalCode": 14410,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172054805600003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT KARYA DINAMIKA",
+				"bidangUsaha": "PROPERTI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91910182",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210331170610",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "9000036098722",
+"bankAccountName": "SINTAHU JANG",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087891619494",
+"name": "TEDDY TENDEAN ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19830706",
+"percentage": 100,
+"email": "teddy128@gmail.com"
+}
+]
+}

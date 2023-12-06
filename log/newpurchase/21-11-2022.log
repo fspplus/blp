@@ -1,0 +1,198 @@
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:28:41 2022-11-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fenny",
+    "birthDate": "19820129", 
+"birthPlace": "Medan",
+"emailAddress": "nienie8388@gmail.com",
+"mobilePhone": "08126398388",
+"homePhone": "08126398388",
+"lineAddress1": "Jl. Taman Kuswari Indah Blok MI 7",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Taman Kuswari Indah Blok MI 7",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20122,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271026901820002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Mitra Inti Mas",
+				"bidangUsaha": "Hasil Bumi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Fenny",
+    "birthDate": "19820129", 
+"birthPlace": "Medan",
+"emailAddress": "nienie8388@gmail.com",
+"mobilePhone": "08126398388",
+"homePhone": "08126398388",
+"lineAddress1": "Jl. Taman Kuswari Indah Blok MI 7",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Taman Kuswari Indah Blok MI 7",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20122,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271026901820002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Mitra Inti Mas",
+				"bidangUsaha": "Hasil Bumi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221121132838",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000666191",
+"bankAccountName": "Fenny",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081277711131",
+"name": "Calvin Kiong",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19720712",
+"percentage": 100,
+"email": "nienie8388@gmail.com"
+}
+]
+}
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:06:33 2022-11-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Indrawaty",
+    "birthDate": "19780216", 
+"birthPlace": "Medan",
+"emailAddress": "cui3lin.indrawaty@gmail.com",
+"mobilePhone": "081375122388",
+"homePhone": "081375122388",
+"lineAddress1": "Jl. KL Y Sudarso No. 209 C LKIII",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20116,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. KL Y Sudarso No. 209 C LKIII",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20116,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271055602780006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Apotik AA",
+				"bidangUsaha": "Obat obatan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Indrawaty",
+    "birthDate": "19780216", 
+"birthPlace": "Medan",
+"emailAddress": "cui3lin.indrawaty@gmail.com",
+"mobilePhone": "081375122388",
+"homePhone": "081375122388",
+"lineAddress1": "Jl. KL Y Sudarso No. 209 C LKIII",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20116,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. KL Y Sudarso No. 209 C LKIII",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20116,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271055602780006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Apotik AA",
+				"bidangUsaha": "Obat obatan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221121170632",
+"bankCode": "028",
+"ropBankCode": "028",
+"bankAccount": "184810075533",
+"bankAccountName": "Indrawaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081375122388",
+"name": "Freya Elvaretta Huang",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20070210",
+"percentage": 100,
+"email": "cui3lin.indrawaty@gmail.com"
+}
+]
+}

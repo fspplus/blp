@@ -1,0 +1,99 @@
+139.192.116.227 https://www.bucketlistplan.co.id/prepurchase?view=finish 10:57:21 2020-04-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yeomkyungseon ",
+    "birthDate": "19721205", 
+"birthPlace": "Korea selatan",
+"emailAddress": "4evervn1015@gmail.com",
+"mobilePhone": "085280673355",
+"homePhone": "085280673355",
+"lineAddress1": "15a senayancity residence  jkt",
+"lineAddress2": "Indonesia ",
+"cityAddress": "",
+"postalCode": 100,
+"sameMailing": "1",
+"mailingLineAddress1": "15a senayancity residence  jkt",
+"mailingLineAddress2": "Indonesia ",
+"mailingCityAddress": "",
+"mailingpostalCode": 100,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "78479352",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwhalife ",
+				"bidangUsaha": "Ceo "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yeomkyungseon ",
+    "birthDate": "19721205", 
+"birthPlace": "Korea selatan",
+"emailAddress": "4evervn1015@gmail.com",
+"mobilePhone": "085280673355",
+"homePhone": "085280673355",
+"lineAddress1": "15a senayancity residence  jkt",
+"lineAddress2": "Indonesia ",
+"cityAddress": "",
+"postalCode": 100,
+"sameMailing": "1",
+"mailingLineAddress1": "15a senayancity residence  jkt",
+"mailingLineAddress2": "Indonesia ",
+"mailingCityAddress": "",
+"mailingpostalCode": 100,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "78479352",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwhalife ",
+				"bidangUsaha": "Ceo "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "419",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200429105721",
+"bankCode": "484",
+"ropBankCode": "484",
+"bankAccount": "15242231850",
+"bankAccountName": "Yeomkyungseon ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085280673355",
+"name": "Yeomkyungseon ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19701016",
+"percentage": 100,
+"email": "4evervn1015@gmail.com"
+}
+]
+}

@@ -1,0 +1,297 @@
+45.126.185.208 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:30:35 2023-03-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Intan",
+    "birthDate": "19690516", 
+"birthPlace": "Medan",
+"emailAddress": "intangng.1969@gmail.com",
+"mobilePhone": "085362457058",
+"homePhone": "085362457058",
+"lineAddress1": "JL. AR Hakim no.183 C Medan",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. AR Hakim no.183 C Medan",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275015605690002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto crystal",
+				"bidangUsaha": "Foto copy "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Intan",
+    "birthDate": "19690516", 
+"birthPlace": "Medan",
+"emailAddress": "intangng.1969@gmail.com",
+"mobilePhone": "085362457058",
+"homePhone": "085362457058",
+"lineAddress1": "JL. AR Hakim no.183 C Medan",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. AR Hakim no.183 C Medan",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275015605690002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto crystal",
+				"bidangUsaha": "Foto copy "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230306133034",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305232285",
+"bankAccountName": "Intan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085297957138",
+"name": "Angie Angela",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19990930",
+"percentage": 100,
+"email": "angieangelawu@gmail.com"
+}
+]
+}
+175.158.36.178 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:48:04 2023-03-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Intan",
+    "birthDate": "19690516", 
+"birthPlace": "Medan",
+"emailAddress": "intanng.1969@gmail.com",
+"mobilePhone": "085362457058",
+"homePhone": "085362457058",
+"lineAddress1": "JL. AR Hakim 183C",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. AR Hakim 183C",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275015605690002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto crystal",
+				"bidangUsaha": "Foto copy "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Intan",
+    "birthDate": "19690516", 
+"birthPlace": "Medan",
+"emailAddress": "intanng.1969@gmail.com",
+"mobilePhone": "085362457058",
+"homePhone": "085362457058",
+"lineAddress1": "JL. AR Hakim 183C",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. AR Hakim 183C",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275015605690002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto crystal",
+				"bidangUsaha": "Foto copy "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230306184804",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305232285",
+"bankAccountName": "Intan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085297957138",
+"name": "Angie Angela",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19990930",
+"percentage": 100,
+"email": "angieangelawu@gmail.com"
+}
+]
+}
+175.158.36.178 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:51:59 2023-03-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Intan",
+    "birthDate": "19690516", 
+"birthPlace": "Medan",
+"emailAddress": "intanng.1969@gmail.com",
+"mobilePhone": "085362457058",
+"homePhone": "085362457058",
+"lineAddress1": "JL. AR Hakim 183C",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. AR Hakim 183C",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275015605690002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto Crystal",
+				"bidangUsaha": "Fotocopy "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Intan",
+    "birthDate": "19690516", 
+"birthPlace": "Medan",
+"emailAddress": "intanng.1969@gmail.com",
+"mobilePhone": "085362457058",
+"homePhone": "085362457058",
+"lineAddress1": "JL. AR Hakim 183C",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. AR Hakim 183C",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275015605690002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto Crystal",
+				"bidangUsaha": "Fotocopy "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230306185159",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305232285",
+"bankAccountName": "Intan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085297957138",
+"name": "Angie Angela",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19990930",
+"percentage": 100,
+"email": "angieangelawu@gmail.com"
+}
+]
+}

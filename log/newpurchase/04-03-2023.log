@@ -1,0 +1,198 @@
+175.158.36.206 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:19:48 2023-03-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "JULIANITA BR GINTING",
+    "birthDate": "19830913", 
+"birthPlace": "BATANG SERANGAN",
+"emailAddress": "julyginting22@gmail.com",
+"mobilePhone": "081375678497",
+"homePhone": "081375678497",
+"lineAddress1": "LINGK. PAJAK RW 005",
+"lineAddress2": "KEL. BATANG SERANGAN, KEC. BT. SERANGAN",
+"cityAddress": "",
+"postalCode": 20883,
+"sameMailing": "1",
+"mailingLineAddress1": "LINGK. PAJAK RW 005",
+"mailingLineAddress2": "KEL. BATANG SERANGAN, KEC. BT. SERANGAN",
+"mailingCityAddress": "",
+"mailingpostalCode": 20883,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1205195309830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "JG PONSEL",
+				"bidangUsaha": "TELEKOMUNIKASI "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "JULIANITA BR GINTING",
+    "birthDate": "19830913", 
+"birthPlace": "BATANG SERANGAN",
+"emailAddress": "julyginting22@gmail.com",
+"mobilePhone": "081375678497",
+"homePhone": "081375678497",
+"lineAddress1": "LINGK. PAJAK RW 005",
+"lineAddress2": "KEL. BATANG SERANGAN, KEC. BT. SERANGAN",
+"cityAddress": "",
+"postalCode": 20883,
+"sameMailing": "1",
+"mailingLineAddress1": "LINGK. PAJAK RW 005",
+"mailingLineAddress2": "KEL. BATANG SERANGAN, KEC. BT. SERANGAN",
+"mailingCityAddress": "",
+"mailingpostalCode": 20883,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1205195309830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "JG PONSEL",
+				"bidangUsaha": "TELEKOMUNIKASI "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311446",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230304101947",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1060001012346",
+"bankAccountName": "JULIANITA BR GINTING",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081375678497",
+"name": "MARIANI GINTING",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19810609",
+"percentage": 100,
+"email": "julyginting22@gmail.com"
+}
+]
+}
+175.158.36.206 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 10:37:34 2023-03-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ROBERT PANJAITAN. S KOM",
+    "birthDate": "19831112", 
+"birthPlace": "MEDAN",
+"emailAddress": "robertjait83@gmail.com",
+"mobilePhone": "082161072824",
+"homePhone": "082161072824",
+"lineAddress1": "PERUM ROMEBY LESTARI 2 BLOK AA",
+"lineAddress2": "NO. 8, DUSUN VIII, KEL. SEI MENCIRIM",
+"cityAddress": "",
+"postalCode": 20351,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM ROMEBY LESTARI 2 BLOK AA",
+"mailingLineAddress2": "NO. 8, DUSUN VIII, KEL. SEI MENCIRIM",
+"mailingCityAddress": "",
+"mailingpostalCode": 20351,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271211211830003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "RENTAL JAIT",
+				"bidangUsaha": "TRANSPORTASI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ROBERT PANJAITAN. S KOM",
+    "birthDate": "19831112", 
+"birthPlace": "MEDAN",
+"emailAddress": "robertjait83@gmail.com",
+"mobilePhone": "082161072824",
+"homePhone": "082161072824",
+"lineAddress1": "PERUM ROMEBY LESTARI 2 BLOK AA",
+"lineAddress2": "NO. 8, DUSUN VIII, KEL. SEI MENCIRIM",
+"cityAddress": "",
+"postalCode": 20351,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM ROMEBY LESTARI 2 BLOK AA",
+"mailingLineAddress2": "NO. 8, DUSUN VIII, KEL. SEI MENCIRIM",
+"mailingCityAddress": "",
+"mailingpostalCode": 20351,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271211211830003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "RENTAL JAIT",
+				"bidangUsaha": "TRANSPORTASI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311446",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230304103734",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1060014965241",
+"bankAccountName": "ROBERT PANJAITAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082161072824",
+"name": "HERAWATI NAINGGOLAN",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19560229",
+"percentage": 100,
+"email": "robertjait83@gmail.com"
+}
+]
+}

@@ -1,0 +1,198 @@
+114.124.247.133 https://koreaversikamu.co.id/prepurchase?view=finish 11:32:36 2019-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Anastasya Monica",
+    "birthDate": "20000729", 
+"birthPlace": "Jakarta",
+"emailAddress": "anastasyamonica29@gmail.com",
+"mobilePhone": "895357075874",
+"homePhone": "895357075874",
+"lineAddress1": "Teluk Gong jl 20 no 24",
+"lineAddress2": "Penjaringan",
+"cityAddress": "Jakarta",
+"postalCode": 14450,
+"sameMailing": "1",
+"mailingLineAddress1": "Teluk Gong jl 20 no 24",
+"mailingLineAddress2": "Penjaringan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14450,
+"gender": "F",
+"jobType": "job14",
+"identityType": 1,
+"identityNumber": "3173036907000004",
+"incomeSource": "incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191031113234",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "154301008830503",
+"bankAccountName": "Anastasya monica",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081299287466",
+"name": "Febianca Fakhira",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20000215",
+"percentage": 100,
+"email": "biancamayu32@gmail.com"
+}
+]
+}
+182.0.212.226 https://bucketlistplan.co.id/prepurchase?view=finish 12:49:12 2019-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Asca Putera",
+    "birthDate": "19890328", 
+"birthPlace": "Jakarta",
+"emailAddress": "asca.mild@gmail.com",
+"mobilePhone": "0811203809",
+"homePhone": "0811203809",
+"lineAddress1": "Pedurenan Masjid Karet Kuningan",
+"lineAddress2": "005/004",
+"cityAddress": "",
+"postalCode": 12940,
+"sameMailing": "0",
+"mailingLineAddress1": "Apartemen Season City Tower C 32 EHH Jalan Prof Dr Latumenten Kel Jembatan Besi Tambora",
+"mailingLineAddress2": "Jembatan Besi",
+"mailingCityAddress": "",
+"mailingpostalCode": 11320,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3271062803890007",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Blibli.com",
+"bidangUsaha": "E-retailer"
+}
+}
+},
+"purchase": {
+"productId": 4,
+"referenceCode": "TRAVELOKA",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20191031124910",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4581371629",
+"bankAccountName": "Asca Putra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081316574307",
+"name": "OKIRENZA",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20010128",
+"percentage": 100,
+"email": "renzaoki28@gmail.com"
+}
+]
+}
+180.244.232.122 https://www.koreaversikamu.co.id/prepurchase?view=finish 13:42:42 2019-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Najla Filza Syazwina",
+    "birthDate": "30 januari 2002", 
+"birthPlace": "Tangerang",
+"emailAddress": "najlafilza30@gmail.com",
+"mobilePhone": "081292127394",
+"homePhone": "(021)7305362",
+"lineAddress1": "Jl. Ciremai V no.20",
+"lineAddress2": "Komplek Keuangan Karang Tengah",
+"cityAddress": "Tangerang",
+"postalCode": 15157,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Ciremai V no.20",
+"mailingLineAddress2": "Komplek Keuangan Karang Tengah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15157,
+"gender": "F",
+"jobType": "job14",
+"identityType": 1,
+"identityNumber": "3671127001020002",
+"incomeSource": "incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "71909919",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191031134240",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3450404844",
+"bankAccountName": "Najla Filza Syazwina",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081218974868",
+"name": "Ardina Tulus Agustini",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19730815",
+"percentage": 100,
+"email": "ardinatulus15@gmail.com"
+}
+]
+}

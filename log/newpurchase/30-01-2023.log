@@ -1,0 +1,99 @@
+45.126.185.209 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:33:05 2023-01-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Bambang  Kie",
+    "birthDate": "19601010", 
+"birthPlace": "Tanjung Beringin",
+"emailAddress": "bambangkie@gmail.com",
+"mobilePhone": "0811609976",
+"homePhone": "0811609976",
+"lineAddress1": "Komp Millenium Square Lk II No. B 16",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Millenium Square Lk II No. B 16",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271030810600002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Mixue",
+				"bidangUsaha": "Makanan ringan ice cream "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Bambang  Kie",
+    "birthDate": "19601010", 
+"birthPlace": "Tanjung Beringin",
+"emailAddress": "bambangkie@gmail.com",
+"mobilePhone": "0811609976",
+"homePhone": "0811609976",
+"lineAddress1": "Komp Millenium Square Lk II No. B 16",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp Millenium Square Lk II No. B 16",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271030810600002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Mixue",
+				"bidangUsaha": "Makanan ringan ice cream "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230130153236",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8280112977",
+"bankAccountName": "Bambang kie",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811609976",
+"name": "Fanny Ang",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19651121",
+"percentage": 100,
+"email": "bambangkie@gmail.com"
+}
+]
+}

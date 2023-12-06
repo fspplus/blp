@@ -1,0 +1,99 @@
+125.209.63.196 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 23:43:46 2023-11-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Agus Sacawirya",
+    "birthDate": "19830801", 
+"birthPlace": "Bandung",
+"emailAddress": "salindri71@gmail.com",
+"mobilePhone": "082120550902",
+"homePhone": "082120550902",
+"lineAddress1": "Gang Saluyu RT 004/006 Sayati Margahayu Bandung",
+"lineAddress2": "Gang Saluyu RT.004/ 006 Sayati Margahayu Bandung",
+"cityAddress": "",
+"postalCode": 50278,
+"sameMailing": "0",
+"mailingLineAddress1": "Tembalang Pesona Asri R12 B Semarang ",
+"mailingLineAddress2": "Tembalang Pesona Asri Blok R 12 B Semarang 50278rang",
+"mailingCityAddress": "",
+"mailingpostalCode": 50278,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3204090108830005",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Segara Bimbel",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Agus Sacawirya",
+    "birthDate": "19830801", 
+"birthPlace": "Bandung",
+"emailAddress": "salindri71@gmail.com",
+"mobilePhone": "082120550902",
+"homePhone": "082120550902",
+"lineAddress1": "Gang Saluyu RT 004/006 Sayati Margahayu Bandung",
+"lineAddress2": "Gang Saluyu RT.004/ 006 Sayati Margahayu Bandung",
+"cityAddress": "",
+"postalCode": 50278,
+"sameMailing": "0",
+"mailingLineAddress1": "Tembalang Pesona Asri R12 B Semarang ",
+"mailingLineAddress2": "Tembalang Pesona Asri Blok R 12 B Semarang 50278rang",
+"mailingCityAddress": "",
+"mailingpostalCode": 50278,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3204090108830005",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Segara Bimbel",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20231107234344",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "4161467788",
+"bankAccountName": "Menik Dewi Salindri",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082120550902",
+"name": "Menik Dewi Salindri",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880420",
+"percentage": 100,
+"email": "salindrimenikdewi@gmail.com"
+}
+]
+}

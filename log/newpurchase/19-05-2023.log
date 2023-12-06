@@ -1,0 +1,315 @@
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:53:24 2023-05-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "RULI ANGGREINO",
+    "birthDate": "19890321", 
+"birthPlace": "Medan",
+"emailAddress": "ayanganggreino@yahoo.com",
+"mobilePhone": "082277567889",
+"homePhone": "082277567889",
+"lineAddress1": "KOMP ISTANA PRIMA - JL B KATAMSO NO A 3A",
+"lineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "Medan",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP ISTANA PRIMA - JL B KATAMSO NO A 3A",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207262103880007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT LAUT",
+				"bidangUsaha": "DISTRIBUTOR MAKANAN LAUT "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "RULI ANGGREINO",
+    "birthDate": "19890321", 
+"birthPlace": "Medan",
+"emailAddress": "ayanganggreino@yahoo.com",
+"mobilePhone": "082277567889",
+"homePhone": "082277567889",
+"lineAddress1": "KOMP ISTANA PRIMA - JL B KATAMSO NO A 3A",
+"lineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "Medan",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP ISTANA PRIMA - JL B KATAMSO NO A 3A",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207262103880007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT LAUT",
+				"bidangUsaha": "DISTRIBUTOR MAKANAN LAUT "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230519105322",
+"bankCode": "022",
+"ropBankCode": "022",
+"bankAccount": "707142895000",
+"bankAccountName": "RULI ANGGREINO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082277567889",
+"name": "PRISCILIA ANGREINY",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20080825",
+"percentage": 35,
+"email": "ayanganggreino@yahoo.com"
+},{
+"seqNo": "2",
+"mobileNo": "082277567889",
+"name": "DAKOTA ANGGREINY",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20140817",
+"percentage": 35,
+"email": "ayanganggreino@yahoo.com"
+},{
+"seqNo": "3",
+"mobileNo": "082277567889",
+"name": "VYNCENZIA ANGGREINY",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20170220",
+"percentage": 30,
+"email": "ayanganggreino@yahoo.com"
+}
+]
+}
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:04:53 2023-05-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TETY HUSMAN",
+    "birthDate": "19700627", 
+"birthPlace": "Medan",
+"emailAddress": "tetyhusman292@gmail.com",
+"mobilePhone": "08116350033",
+"homePhone": "08116350033",
+"lineAddress1": "JL PEMBANGUNAN II NO 63 A ",
+"lineAddress2": "KEL.GLUGUR DARAT II KEC.MEDAN TIMUR",
+"cityAddress": "",
+"postalCode": 20238,
+"sameMailing": "0",
+"mailingLineAddress1": "JL.B KATAMSO NO 441 D RT/RW 001/005",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271156706700001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV NIAGA MAKMUR PLASTIK",
+				"bidangUsaha": "DISTRIBUTOR BARANG PLASTIK "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "TETY HUSMAN",
+    "birthDate": "19700627", 
+"birthPlace": "Medan",
+"emailAddress": "tetyhusman292@gmail.com",
+"mobilePhone": "08116350033",
+"homePhone": "08116350033",
+"lineAddress1": "JL PEMBANGUNAN II NO 63 A ",
+"lineAddress2": "KEL.GLUGUR DARAT II KEC.MEDAN TIMUR",
+"cityAddress": "",
+"postalCode": 20238,
+"sameMailing": "0",
+"mailingLineAddress1": "JL.B KATAMSO NO 441 D RT/RW 001/005",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271156706700001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV NIAGA MAKMUR PLASTIK",
+				"bidangUsaha": "DISTRIBUTOR BARANG PLASTIK "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230519110452",
+"bankCode": "022",
+"ropBankCode": "022",
+"bankAccount": "706860130900",
+"bankAccountName": "TETY HUSMAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116350033",
+"name": "HANAFI HUSMAN",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19670611",
+"percentage": 100,
+"email": "tetyhusman292@gmail.com"
+}
+]
+}
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:25:40 2023-05-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HENDRA DHALIEKA",
+    "birthDate": "19751208", 
+"birthPlace": "Medan",
+"emailAddress": "hendralie0812@gmail.com",
+"mobilePhone": "081360871158",
+"homePhone": "081360871158",
+"lineAddress1": "JL BESAR N RAMBE NO 168 F LK 7 ",
+"lineAddress2": "KEL.DELI TUA KEC.DELI TUA ",
+"cityAddress": "",
+"postalCode": 20355,
+"sameMailing": "0",
+"mailingLineAddress1": "JL B KATAMSO NO 441 D RT/RW : 001/005 ",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207060812750002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV NIAGA MAKMUR PLASTIK",
+				"bidangUsaha": "DISTRIBUTOR BARANG PLASTIK "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "HENDRA DHALIEKA",
+    "birthDate": "19751208", 
+"birthPlace": "Medan",
+"emailAddress": "hendralie0812@gmail.com",
+"mobilePhone": "081360871158",
+"homePhone": "081360871158",
+"lineAddress1": "JL BESAR N RAMBE NO 168 F LK 7 ",
+"lineAddress2": "KEL.DELI TUA KEC.DELI TUA ",
+"cityAddress": "",
+"postalCode": 20355,
+"sameMailing": "0",
+"mailingLineAddress1": "JL B KATAMSO NO 441 D RT/RW : 001/005 ",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207060812750002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV NIAGA MAKMUR PLASTIK",
+				"bidangUsaha": "DISTRIBUTOR BARANG PLASTIK "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230519112539",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "108501003228531",
+"bankAccountName": "HENDRA DHALIEKA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081360871158",
+"name": "IVA HERAWATY",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19730517",
+"percentage": 100,
+"email": "hendralie0812@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+114.125.213.253 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 22:27:32 2021-07-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Denil susanto",
+    "birthDate": "19960915", 
+"birthPlace": "Pinrang",
+"emailAddress": "denilsusanto500@gmail.com",
+"mobilePhone": "085251605888",
+"homePhone": "00000",
+"lineAddress1": "0000",
+"lineAddress2": "0000",
+"cityAddress": "Makassar",
+"postalCode": 73150,
+"sameMailing": "1",
+"mailingLineAddress1": "0000",
+"mailingLineAddress2": "0000",
+"mailingCityAddress": "Makassar",
+"mailingpostalCode": 73150,
+"gender": "M",
+"jobType": "Job22",
+"identityType": 1,
+"identityNumber": "7315021509960001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Denil susanto",
+    "birthDate": "19960915", 
+"birthPlace": "Pinrang",
+"emailAddress": "denilsusanto500@gmail.com",
+"mobilePhone": "085251605888",
+"homePhone": "00000",
+"lineAddress1": "0000",
+"lineAddress2": "0000",
+"cityAddress": "Makassar",
+"postalCode": 73150,
+"sameMailing": "1",
+"mailingLineAddress1": "0000",
+"mailingLineAddress2": "0000",
+"mailingCityAddress": "Makassar",
+"mailingpostalCode": 73150,
+"gender": "M",
+"jobType": "Job22",
+"identityType": 1,
+"identityNumber": "7315021509960001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210724222731",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0480493790",
+"bankAccountName": "Denil susanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085251605888",
+"name": "Denil susanto",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19960915",
+"percentage": 100,
+"email": "denilsusanto500@gmail.com"
+}
+]
+}

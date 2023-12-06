@@ -1,0 +1,198 @@
+192.168.20.191 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 08:40:55 2022-05-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TRIYONO",
+    "birthDate": "19860412", 
+"birthPlace": "Jakarta",
+"emailAddress": "yonotrist@gmail.com",
+"mobilePhone": "081296223395",
+"homePhone": "081296223395",
+"lineAddress1": "KP. KALIBATA RT 11 RW 06 ",
+"lineAddress2": "SRENGSENG SAWAH JAGAKARSA",
+"cityAddress": "Jakarta",
+"postalCode": 12640,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. KALIBATA RT 11 RW 06 ",
+"mailingLineAddress2": "SRENGSENG SAWAH JAGAKARSA",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12640,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "327531204860014",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TRIYONO",
+    "birthDate": "19860412", 
+"birthPlace": "Jakarta",
+"emailAddress": "yonotrist@gmail.com",
+"mobilePhone": "081296223395",
+"homePhone": "081296223395",
+"lineAddress1": "KP. KALIBATA RT 11 RW 06 ",
+"lineAddress2": "SRENGSENG SAWAH JAGAKARSA",
+"cityAddress": "Jakarta",
+"postalCode": 12640,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. KALIBATA RT 11 RW 06 ",
+"mailingLineAddress2": "SRENGSENG SAWAH JAGAKARSA",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12640,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "327531204860014",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/html/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220519084054",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0663143694",
+"bankAccountName": "TRIYONO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081219877578",
+"name": "RATIH AYUNING PUSPITASARI",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19811203",
+"percentage": 100,
+"email": "r.ayuning@gmail.com"
+}
+]
+}
+111.94.212.79 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:10:52 2022-05-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rika Amanda",
+    "birthDate": "19980917", 
+"birthPlace": "Jakarta",
+"emailAddress": "rikaamanda172@gmail.com",
+"mobilePhone": "081284263920",
+"homePhone": "087778383220",
+"lineAddress1": "Bekasi puri harapan blok e 11 no 45",
+"lineAddress2": "Duta Bumi jl enau ",
+"cityAddress": "Jakarta",
+"postalCode": 07652,
+"sameMailing": "1",
+"mailingLineAddress1": "Bekasi puri harapan blok e 11 no 45",
+"mailingLineAddress2": "Duta Bumi jl enau ",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 07652,
+"gender": "F",
+"jobType": "Job20",
+"identityType": 1,
+"identityNumber": "3216011006620005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Jendral",
+"namaLembaga": "TNI Darat",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Rika Amanda",
+    "birthDate": "19980917", 
+"birthPlace": "Jakarta",
+"emailAddress": "rikaamanda172@gmail.com",
+"mobilePhone": "081284263920",
+"homePhone": "087778383220",
+"lineAddress1": "Bekasi puri harapan blok e 11 no 45",
+"lineAddress2": "Duta Bumi jl enau ",
+"cityAddress": "Jakarta",
+"postalCode": 07652,
+"sameMailing": "1",
+"mailingLineAddress1": "Bekasi puri harapan blok e 11 no 45",
+"mailingLineAddress2": "Duta Bumi jl enau ",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 07652,
+"gender": "F",
+"jobType": "Job20",
+"identityType": 1,
+"identityNumber": "3216011006620005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Jendral",
+"namaLembaga": "TNI Darat",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220519111051",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "745645434343",
+"bankAccountName": "Rika Amanda ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087778383220",
+"name": "Sinta ",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20000614",
+"percentage": 100,
+"email": "sigitsartono42@gmail.com"
+}
+]
+}

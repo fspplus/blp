@@ -1,0 +1,198 @@
+180.249.182.249 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:13:01 2022-12-09
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Herny",
+    "birthDate": "19761026", 
+"birthPlace": "Medan",
+"emailAddress": "chloeinju@yahoo.com",
+"mobilePhone": "08126021727",
+"homePhone": "08126021727",
+"lineAddress1": "Jl. Malaka No.174/90",
+"lineAddress2": "Kel. Pandau Hilir, Kec. Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20232,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Malaka No.174/90",
+"mailingLineAddress2": "Kel. Pandau Hilir, Kec. Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271186610760004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Global CCTV",
+				"bidangUsaha": "Security "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Herny",
+    "birthDate": "19761026", 
+"birthPlace": "Medan",
+"emailAddress": "chloeinju@yahoo.com",
+"mobilePhone": "08126021727",
+"homePhone": "08126021727",
+"lineAddress1": "Jl. Malaka No.174/90",
+"lineAddress2": "Kel. Pandau Hilir, Kec. Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20232,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Malaka No.174/90",
+"mailingLineAddress2": "Kel. Pandau Hilir, Kec. Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271186610760004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Global CCTV",
+				"bidangUsaha": "Security "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210241",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221209141300",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950727060",
+"bankAccountName": "Herny",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126021727",
+"name": "Warren Keagan Kencana",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20070429",
+"percentage": 100,
+"email": "chloeinju@yahoo.com"
+}
+]
+}
+180.249.182.249 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:36:27 2022-12-09
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Phelly Liana",
+    "birthDate": "19671201", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "gege_828@hotmail.com",
+"mobilePhone": "0811615280",
+"homePhone": "0811615280",
+"lineAddress1": "Jl. Hasanuddin No. 16 B ",
+"lineAddress2": "Kel. Petisah Hulu, Kec. Medan Baru",
+"cityAddress": "Medan",
+"postalCode": 20153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Hasanuddin No. 16 B ",
+"mailingLineAddress2": "Kel. Petisah Hulu, Kec. Medan Baru",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20153,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271174112670001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Prima Raya Sakti",
+				"bidangUsaha": "CCTV "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Phelly Liana",
+    "birthDate": "19671201", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "gege_828@hotmail.com",
+"mobilePhone": "0811615280",
+"homePhone": "0811615280",
+"lineAddress1": "Jl. Hasanuddin No. 16 B ",
+"lineAddress2": "Kel. Petisah Hulu, Kec. Medan Baru",
+"cityAddress": "Medan",
+"postalCode": 20153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Hasanuddin No. 16 B ",
+"mailingLineAddress2": "Kel. Petisah Hulu, Kec. Medan Baru",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20153,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271174112670001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Prima Raya Sakti",
+				"bidangUsaha": "CCTV "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210241",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221209143626",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300187065",
+"bankAccountName": "Phelly Liana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811615280",
+"name": "Ingrid Euginia Wijaya",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20010922",
+"percentage": 100,
+"email": "gege_828@hotmail.com"
+}
+]
+}

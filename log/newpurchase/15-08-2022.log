@@ -1,0 +1,99 @@
+114.5.109.79 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 03:12:57 2022-08-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Astuti",
+    "birthDate": "19950407", 
+"birthPlace": "Tanjung dewa",
+"emailAddress": "kuhhayankk@gmail.com",
+"mobilePhone": "082253501011",
+"homePhone": "085346298050",
+"lineAddress1": "Pelaihari",
+"lineAddress2": "Pelaihari",
+"cityAddress": "",
+"postalCode": 67051,
+"sameMailing": "1",
+"mailingLineAddress1": "Pelaihari",
+"mailingLineAddress2": "Pelaihari",
+"mailingCityAddress": "",
+"mailingpostalCode": 67051,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "6301014704950001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dagang",
+"namaLembaga": "Kios",
+				"bidangUsaha": "Berdagang "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Astuti",
+    "birthDate": "19950407", 
+"birthPlace": "Tanjung dewa",
+"emailAddress": "kuhhayankk@gmail.com",
+"mobilePhone": "082253501011",
+"homePhone": "085346298050",
+"lineAddress1": "Pelaihari",
+"lineAddress2": "Pelaihari",
+"cityAddress": "",
+"postalCode": 67051,
+"sameMailing": "1",
+"mailingLineAddress1": "Pelaihari",
+"mailingLineAddress2": "Pelaihari",
+"mailingCityAddress": "",
+"mailingpostalCode": 67051,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "6301014704950001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dagang",
+"namaLembaga": "Kios",
+				"bidangUsaha": "Berdagang "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220815031256",
+"bankCode": "911",
+"ropBankCode": "911",
+"bankAccount": "082253501011",
+"bankAccountName": "Rahmad",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085828079580",
+"name": "Shofiia Khairina",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20121204",
+"percentage": 100,
+"email": "shofiiasayang@gmail.com"
+}
+]
+}

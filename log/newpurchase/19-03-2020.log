@@ -1,0 +1,71 @@
+182.1.29.247 https://www.bucketlistplan.co.id/prepurchase?view=finish 17:12:15 2020-03-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Vivi Evelline",
+    "birthDate": "19880820", 
+"birthPlace": "Medan",
+"emailAddress": "vivievelline78@gmail.com",
+"mobilePhone": "08116155181",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Sunggal No:368 LK XII",
+"lineAddress2": "Perumahan Greenpark Blok Olive AA No:90",
+"cityAddress": "Medan",
+"postalCode": 20128,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Sunggal No:368 LK XII",
+"mailingLineAddress2": "Perumahan Greenpark Blok Olive AA No:90",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20128,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271026008880008",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Baking",
+"namaLembaga": "Vivelline",
+				"bidangUsaha": "Kue "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200319171214",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222407778",
+"bankAccountName": "Vivi Evelline",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085270597779",
+"name": "Jesica Evelline",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19910321",
+"percentage": 100,
+"email": "vivievelline78@gmail.com"
+}
+]
+}

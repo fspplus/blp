@@ -1,0 +1,198 @@
+182.23.25.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:04:11 2021-06-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TITIK WAHYUNI",
+    "birthDate": "19630206", 
+"birthPlace": "Malang",
+"emailAddress": "jagadhita.karani@gmail.com",
+"mobilePhone": "081805555057",
+"homePhone": "081805555057",
+"lineAddress1": "JL.BESAR IJEN 96 D BAWAH RT.006 RW. 005",
+"lineAddress2": "KEL. ORO - ORO DOWO, KEC. KLOJEN",
+"cityAddress": "",
+"postalCode": 65119,
+"sameMailing": "0",
+"mailingLineAddress1": "KEB HANA BANK JL. TEUKU UMAR NO. 169",
+"mailingLineAddress2": "DENPASAR BALI",
+"mailingCityAddress": "",
+"mailingpostalCode": 80239,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3573024602630003",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "IBU RUMAH TANGGA",
+"namaLembaga": "-",
+				"bidangUsaha": "MENGURUS RUMAH TANGGA "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TITIK WAHYUNI",
+    "birthDate": "19630206", 
+"birthPlace": "Malang",
+"emailAddress": "jagadhita.karani@gmail.com",
+"mobilePhone": "081805555057",
+"homePhone": "081805555057",
+"lineAddress1": "JL.BESAR IJEN 96 D BAWAH RT.006 RW. 005",
+"lineAddress2": "KEL. ORO - ORO DOWO, KEC. KLOJEN",
+"cityAddress": "",
+"postalCode": 65119,
+"sameMailing": "0",
+"mailingLineAddress1": "KEB HANA BANK JL. TEUKU UMAR NO. 169",
+"mailingLineAddress2": "DENPASAR BALI",
+"mailingCityAddress": "",
+"mailingpostalCode": 80239,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3573024602630003",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "IBU RUMAH TANGGA",
+"namaLembaga": "-",
+				"bidangUsaha": "MENGURUS RUMAH TANGGA "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011489",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210611110410",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1450005778291",
+"bankAccountName": "JAGADHITA KARANI YUNINGRAT",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081805555057",
+"name": "JAGADHITA KARANI YUNINGRAT",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19891226",
+"percentage": 100,
+"email": "jagadhita.karani@gmail.com"
+}
+]
+}
+182.0.212.254 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:47:08 2021-06-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "INDRYANI",
+    "birthDate": "19911103", 
+"birthPlace": "Jakarta",
+"emailAddress": "indryani34@gmail.com",
+"mobilePhone": "081293188068",
+"homePhone": "081398718736",
+"lineAddress1": "JL.Cendana IV blok E10 No. 05 RT.003/RW.017 ",
+"lineAddress2": "Kel. Benda Baru Kec. Pamulang",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15418,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.Cendana IV blok E10 No. 05 RT.003/RW.017 ",
+"mailingLineAddress2": "Kel. Benda Baru Kec. Pamulang",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15418,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674064311910010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "INDRYANI",
+    "birthDate": "19911103", 
+"birthPlace": "Jakarta",
+"emailAddress": "indryani34@gmail.com",
+"mobilePhone": "081293188068",
+"homePhone": "081398718736",
+"lineAddress1": "JL.Cendana IV blok E10 No. 05 RT.003/RW.017 ",
+"lineAddress2": "Kel. Benda Baru Kec. Pamulang",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15418,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.Cendana IV blok E10 No. 05 RT.003/RW.017 ",
+"mailingLineAddress2": "Kel. Benda Baru Kec. Pamulang",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15418,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674064311910010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "000358",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210611174708",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4750316811",
+"bankAccountName": "INDRYANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "JDID"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08128624988",
+"name": "Arsyad Alfarizqi Faturrahman",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20171015",
+"percentage": 100,
+"email": "indryani34@gmail.com"
+}
+]
+}

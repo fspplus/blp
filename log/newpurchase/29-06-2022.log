@@ -1,0 +1,99 @@
+203.78.116.202 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 20:51:34 2022-06-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sufia",
+    "birthDate": "19921101", 
+"birthPlace": "Medan",
+"emailAddress": "chingc131@gmail.com",
+"mobilePhone": "08111333735",
+"homePhone": "081113333735",
+"lineAddress1": "Jl Tirtosari GG Pendidikan No 23AA",
+"lineAddress2": "Rt000/000, Bantan, Medan Tembung",
+"cityAddress": "Medan",
+"postalCode": 20221,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Tirtosari GG Pendidikan No 23AA",
+"mailingLineAddress2": "Rt000/000, Bantan, Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20221,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271134111920002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Usaha penjualan",
+				"bidangUsaha": "Sparepart accesoris "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Sufia",
+    "birthDate": "19921101", 
+"birthPlace": "Medan",
+"emailAddress": "chingc131@gmail.com",
+"mobilePhone": "08111333735",
+"homePhone": "081113333735",
+"lineAddress1": "Jl Tirtosari GG Pendidikan No 23AA",
+"lineAddress2": "Rt000/000, Bantan, Medan Tembung",
+"cityAddress": "Medan",
+"postalCode": 20221,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Tirtosari GG Pendidikan No 23AA",
+"mailingLineAddress2": "Rt000/000, Bantan, Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20221,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271134111920002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Usaha penjualan",
+				"bidangUsaha": "Sparepart accesoris "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20220629205133",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3831160592",
+"bankAccountName": "Sufia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Brastagi Medan - Syafina"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08111333735",
+"name": "Calista Brilian Chen",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20140524",
+"percentage": 100,
+"email": "chingc131@gmail.com"
+}
+]
+}

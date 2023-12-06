@@ -1,0 +1,297 @@
+112.215.230.215 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:43:45 2021-03-09
+
+Content JSON:
+{
+"personalData": {
+"fullName": "WIlson Yaperlin",
+    "birthDate": "19990722", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "yaperlinwilson@gmail.com",
+"mobilePhone": "08116207533",
+"homePhone": "08116207533",
+"lineAddress1": "Dusun XIV Firdaus, Kelurahan Firdaus",
+"lineAddress2": "Kecamatan Sei Rampah",
+"cityAddress": "",
+"postalCode": 20995,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Amir Hamzah No. 3B-3C ",
+"mailingLineAddress2": "Kelurahan SUnggal KEcamatan Medan Sunggal",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1218042207990006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Dalus Segar Jaya",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "WIlson Yaperlin",
+    "birthDate": "19990722", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "yaperlinwilson@gmail.com",
+"mobilePhone": "08116207533",
+"homePhone": "08116207533",
+"lineAddress1": "Dusun XIV Firdaus, Kelurahan Firdaus",
+"lineAddress2": "Kecamatan Sei Rampah",
+"cityAddress": "",
+"postalCode": 20995,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Amir Hamzah No. 3B-3C ",
+"mailingLineAddress2": "Kelurahan SUnggal KEcamatan Medan Sunggal",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1218042207990006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Dalus Segar Jaya",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011180",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210309124341",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "1172116483",
+"bankAccountName": "Wilson Yaperlin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011180"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116225622",
+"name": "Lie LIe Afandy",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19691009",
+"percentage": 100,
+"email": "yaperlinwilson@gmail.com"
+}
+]
+}
+114.5.215.201 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 21:56:28 2021-03-09
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hermandi",
+    "birthDate": "19830914", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "fincherherman@gmail.com",
+"mobilePhone": "085364031606",
+"homePhone": "085364031606",
+"lineAddress1": "Perumahan villa bukit indah blok B no. 7 Rt 003/Rw007, kelurahan teluk tering, kecamatan batam kota, Kep - Riau, kode pos 29462",
+"lineAddress2": "Perumahan villa bukit indah blok B no. 7 Rt 003/Rw007, kelurahan teluk tering, kecamatan batam kota, Kep - Riau, kode pos 29462",
+"cityAddress": "",
+"postalCode": 29462,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingLineAddress2": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingCityAddress": "Batam",
+"mailingpostalCode": 29444,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "2171021409830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hermandi",
+    "birthDate": "19830914", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "fincherherman@gmail.com",
+"mobilePhone": "085364031606",
+"homePhone": "085364031606",
+"lineAddress1": "Perumahan villa bukit indah blok B no. 7 Rt 003/Rw007, kelurahan teluk tering, kecamatan batam kota, Kep - Riau, kode pos 29462",
+"lineAddress2": "Perumahan villa bukit indah blok B no. 7 Rt 003/Rw007, kelurahan teluk tering, kecamatan batam kota, Kep - Riau, kode pos 29462",
+"cityAddress": "",
+"postalCode": 29462,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingLineAddress2": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingCityAddress": "Batam",
+"mailingpostalCode": 29444,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "2171021409830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92112886 ",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210309215627",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8520231189",
+"bankAccountName": "Hermandi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": " "
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811701899",
+"name": "Darren hernando teo",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20130501",
+"percentage": 100,
+"email": "marlinahann@gmail.com"
+}
+]
+}
+114.5.215.201 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 22:20:43 2021-03-09
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hermandi",
+    "birthDate": "19830914", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "fincherherman@gmail.com",
+"mobilePhone": "085364031606",
+"homePhone": "085364031606",
+"lineAddress1": "Perum villa bukit indah blok B no. 7, Rt003/Rw007, kelurahan teluk tering, kecamatan batam kota, Batam - Kep. Riau, kode pos 29462",
+"lineAddress2": "Perum villa bukit indah blok B no. 7, Rt003/Rw007, kelurahan teluk tering, kecamatan batam kota, Batam - Kep. Riau, kode pos 29462",
+"cityAddress": "",
+"postalCode": 29462,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingLineAddress2": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingCityAddress": "Batam",
+"mailingpostalCode": 29444,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "2171021409830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dk",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hermandi",
+    "birthDate": "19830914", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "fincherherman@gmail.com",
+"mobilePhone": "085364031606",
+"homePhone": "085364031606",
+"lineAddress1": "Perum villa bukit indah blok B no. 7, Rt003/Rw007, kelurahan teluk tering, kecamatan batam kota, Batam - Kep. Riau, kode pos 29462",
+"lineAddress2": "Perum villa bukit indah blok B no. 7, Rt003/Rw007, kelurahan teluk tering, kecamatan batam kota, Batam - Kep. Riau, kode pos 29462",
+"cityAddress": "",
+"postalCode": 29462,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingLineAddress2": "Perumahan lucky estate blok A no. 60  kelurahan batu selicin, kecamatan lubuk baja, Batam - Kep. Riau, kode pos 29444 ",
+"mailingCityAddress": "Batam",
+"mailingpostalCode": 29444,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "2171021409830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dk",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92112886 ",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210309222042",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8520231189",
+"bankAccountName": "Hermandi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": " "
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811701899",
+"name": "Darren hernando teo",
+"famrel": 1,
+"gender": "M",
+"birthDate": "20130501",
+"percentage": 100,
+"email": "marlinahann@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+125.160.208.95 https://koreaversikamu.co.id/prepurchase?view=finish 09:45:52 2020-07-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jennifer Anandari Kariodimedjo",
+    "birthDate": "19920501", 
+"birthPlace": "Luar negri",
+"emailAddress": "j.anandary@gmail.com",
+"mobilePhone": "0818920501",
+"homePhone": "0818920501",
+"lineAddress1": "Jl. Cakra Kencana 1 blok B4 no. 17 sektor 12, Kencana Loka, BSD",
+"lineAddress2": "BSD",
+"cityAddress": "",
+"postalCode": 15318,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Cakra Kencana 1 blok B4 no. 17 sektor 12, Kencana Loka, BSD",
+"mailingLineAddress2": "BSD",
+"mailingCityAddress": "",
+"mailingpostalCode": 15318,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3674014105920003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Travel Blogger",
+"namaLembaga": "Travel Blogger",
+				"bidangUsaha": "Travel "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jennifer Anandari Kariodimedjo",
+    "birthDate": "19920501", 
+"birthPlace": "Luar negri",
+"emailAddress": "j.anandary@gmail.com",
+"mobilePhone": "0818920501",
+"homePhone": "0818920501",
+"lineAddress1": "Jl. Cakra Kencana 1 blok B4 no. 17 sektor 12, Kencana Loka, BSD",
+"lineAddress2": "BSD",
+"cityAddress": "",
+"postalCode": 15318,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Cakra Kencana 1 blok B4 no. 17 sektor 12, Kencana Loka, BSD",
+"mailingLineAddress2": "BSD",
+"mailingCityAddress": "",
+"mailingpostalCode": 15318,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3674014105920003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Travel Blogger",
+"namaLembaga": "Travel Blogger",
+				"bidangUsaha": "Travel "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200714094552",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8990390755",
+"bankAccountName": "Jennifer Anandari Kariodimedjo",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818191814",
+"name": "Christopher Andaru",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19970125",
+"percentage": 100,
+"email": "christopherandaru@gmail.com"
+}
+]
+}

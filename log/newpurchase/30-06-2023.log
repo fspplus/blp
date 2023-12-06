@@ -1,0 +1,99 @@
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:05:33 2023-06-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SURIANTO",
+    "birthDate": "19880512", 
+"birthPlace": "Medan",
+"emailAddress": "surianto_phat@yahoo.com",
+"mobilePhone": "085200007171",
+"homePhone": "085200007171",
+"lineAddress1": "KOMP BUMI SEROJA PERMAI THP II",
+"lineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20128,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP BUMI SEROJA PERMAI THP II",
+"mailingLineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20128,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271191205880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Berkah Utama",
+				"bidangUsaha": "Bahan Bangunan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SURIANTO",
+    "birthDate": "19880512", 
+"birthPlace": "Medan",
+"emailAddress": "surianto_phat@yahoo.com",
+"mobilePhone": "085200007171",
+"homePhone": "085200007171",
+"lineAddress1": "KOMP BUMI SEROJA PERMAI THP II",
+"lineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20128,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP BUMI SEROJA PERMAI THP II",
+"mailingLineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20128,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271191205880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Berkah Utama",
+				"bidangUsaha": "Bahan Bangunan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230630160532",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7865601000",
+"bankAccountName": "SURIANTO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085104471000",
+"name": "JESSICA",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19890115",
+"percentage": 100,
+"email": "jessberkah@gmail.com"
+}
+]
+}

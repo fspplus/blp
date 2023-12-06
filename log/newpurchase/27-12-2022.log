@@ -1,0 +1,297 @@
+140.213.34.205 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 11:10:29 2022-12-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SANTY",
+    "birthDate": "19820723", 
+"birthPlace": "Medan",
+"emailAddress": "santygunawan@gmail.com",
+"mobilePhone": "081264805840",
+"homePhone": "081264805840",
+"lineAddress1": "JL AIP II KSTUBUN NO.121",
+"lineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL AIP II KSTUBUN NO.121",
+"mailingLineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271016307820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ROMA",
+				"bidangUsaha": "JUAL ROTI "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "SANTY",
+    "birthDate": "19820723", 
+"birthPlace": "Medan",
+"emailAddress": "santygunawan@gmail.com",
+"mobilePhone": "081264805840",
+"homePhone": "081264805840",
+"lineAddress1": "JL AIP II KSTUBUN NO.121",
+"lineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL AIP II KSTUBUN NO.121",
+"mailingLineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271016307820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ROMA",
+				"bidangUsaha": "JUAL ROTI "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211441",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221227111028",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8370193224",
+"bankAccountName": "SANTY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081264805840",
+"name": "IEIE SANTOSO",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19850502",
+"percentage": 100,
+"email": "santygunawan@gmail.com"
+}
+]
+}
+140.213.34.205 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:24:57 2022-12-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ERSAN TIOTANADA",
+    "birthDate": "19820520", 
+"birthPlace": "Medan",
+"emailAddress": "ersantio@gmail.com",
+"mobilePhone": "082160605576",
+"homePhone": "082160605576",
+"lineAddress1": "JL. KALIMANTAN NO.16 AA MEDAN",
+"lineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. KALIMANTAN NO.16 AA MEDAN",
+"mailingLineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016005820007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "S3 Butik",
+				"bidangUsaha": "Boutique pakaian "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ERSAN TIOTANADA",
+    "birthDate": "19820520", 
+"birthPlace": "Medan",
+"emailAddress": "ersantio@gmail.com",
+"mobilePhone": "082160605576",
+"homePhone": "082160605576",
+"lineAddress1": "JL. KALIMANTAN NO.16 AA MEDAN",
+"lineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. KALIMANTAN NO.16 AA MEDAN",
+"mailingLineAddress2": "PANDAU HULU I, MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016005820007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "S3 Butik",
+				"bidangUsaha": "Boutique pakaian "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211441",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221227112454",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950905766",
+"bankAccountName": "ERSAN TIOTANADA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082262633398",
+"name": "RAYMOND MARCHO HARLIE",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20050330",
+"percentage": 100,
+"email": "raymondm.harlie@gmail.com"
+}
+]
+}
+140.213.36.48 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 11:55:30 2022-12-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lim Juli",
+    "birthDate": "19820724", 
+"birthPlace": "Binjai",
+"emailAddress": "fongthing9160@gmail.com",
+"mobilePhone": "082369779160",
+"homePhone": "082369779160",
+"lineAddress1": "Jl Deli Indah II No.3R",
+"lineAddress2": "Pulo Brayan Kota, Medan Barat",
+"cityAddress": "Medan",
+"postalCode": 20116,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Deli Indah II No.3R",
+"mailingLineAddress2": "Pulo Brayan Kota, Medan Barat",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20116,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271056407820004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Gokil",
+				"bidangUsaha": "Restoran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Lim Juli",
+    "birthDate": "19820724", 
+"birthPlace": "Binjai",
+"emailAddress": "fongthing9160@gmail.com",
+"mobilePhone": "082369779160",
+"homePhone": "082369779160",
+"lineAddress1": "Jl Deli Indah II No.3R",
+"lineAddress2": "Pulo Brayan Kota, Medan Barat",
+"cityAddress": "Medan",
+"postalCode": 20116,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Deli Indah II No.3R",
+"mailingLineAddress2": "Pulo Brayan Kota, Medan Barat",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20116,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271056407820004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Gokil",
+				"bidangUsaha": "Restoran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211441",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221227115529",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250089814",
+"bankAccountName": "Lim Juli",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081397021275",
+"name": "Gerry ",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20050413",
+"percentage": 100,
+"email": "gerryowen78@gmail.com"
+}
+]
+}

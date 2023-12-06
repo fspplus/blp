@@ -1,0 +1,99 @@
+182.253.242.68 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:08:34 2023-03-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Charine ",
+    "birthDate": "19881206", 
+"birthPlace": "Medan",
+"emailAddress": "halimah8864690@gmail.com",
+"mobilePhone": "0811611301",
+"homePhone": "0811611301",
+"lineAddress1": "Jl. Lamlo 16 / 20",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Lamlo 16 / 20",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271014612880001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Amindoway jaya",
+				"bidangUsaha": "MLM "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Charine ",
+    "birthDate": "19881206", 
+"birthPlace": "Medan",
+"emailAddress": "halimah8864690@gmail.com",
+"mobilePhone": "0811611301",
+"homePhone": "0811611301",
+"lineAddress1": "Jl. Lamlo 16 / 20",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Lamlo 16 / 20",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271014612880001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Amindoway jaya",
+				"bidangUsaha": "MLM "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230316130833",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222378042 ",
+"bankAccountName": "Charine",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811611301",
+"name": "Halimah",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19540620",
+"percentage": 100,
+"email": "halimah8864690@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+180.251.41.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 20:57:04 2023-08-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Agustini",
+    "birthDate": "19840822", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "agustini84@icloud.com",
+"mobilePhone": "081396786888",
+"homePhone": "081396786888",
+"lineAddress1": "Jl kasuari no 68 A Cemara asri ",
+"lineAddress2": "Idem ",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl kasuari no 68 A Cemara asri ",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207266208840001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kasuari accesoris",
+				"bidangUsaha": "Aksesoris  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Agustini",
+    "birthDate": "19840822", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "agustini84@icloud.com",
+"mobilePhone": "081396786888",
+"homePhone": "081396786888",
+"lineAddress1": "Jl kasuari no 68 A Cemara asri ",
+"lineAddress2": "Idem ",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl kasuari no 68 A Cemara asri ",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207266208840001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kasuari accesoris",
+				"bidangUsaha": "Aksesoris  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230824205703",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8645092062",
+"bankAccountName": "Agustini",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081362270888",
+"name": "Hariyanto kilsan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810715",
+"percentage": 100,
+"email": "agustini84@icloud.com"
+}
+]
+}

@@ -1,0 +1,297 @@
+120.188.76.228 https://www.bucketlistplan.co.id/prepurchase?view=finish 01:53:50 2020-07-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ASHA HAWA ISNAINI",
+    "birthDate": "19970618", 
+"birthPlace": "Surakarta",
+"emailAddress": "ashahawa76@gmail.com",
+"mobilePhone": "085600926966",
+"homePhone": "-",
+"lineAddress1": "JOYOSUDIRAN RT 01 RW 12 PASAR KLIWON",
+"lineAddress2": "SURAKARTA JAWA TENGAH",
+"cityAddress": "Surakarta",
+"postalCode": 57118,
+"sameMailing": "1",
+"mailingLineAddress1": "JOYOSUDIRAN RT 01 RW 12 PASAR KLIWON",
+"mailingLineAddress2": "SURAKARTA JAWA TENGAH",
+"mailingCityAddress": "Surakarta",
+"mailingpostalCode": 57118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3372035806970003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KLINIK PRATAMA MTA SURAKARTA",
+				"bidangUsaha": "KESEHATAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "ASHA HAWA ISNAINI",
+    "birthDate": "19970618", 
+"birthPlace": "Surakarta",
+"emailAddress": "ashahawa76@gmail.com",
+"mobilePhone": "085600926966",
+"homePhone": "-",
+"lineAddress1": "JOYOSUDIRAN RT 01 RW 12 PASAR KLIWON",
+"lineAddress2": "SURAKARTA JAWA TENGAH",
+"cityAddress": "Surakarta",
+"postalCode": 57118,
+"sameMailing": "1",
+"mailingLineAddress1": "JOYOSUDIRAN RT 01 RW 12 PASAR KLIWON",
+"mailingLineAddress2": "SURAKARTA JAWA TENGAH",
+"mailingCityAddress": "Surakarta",
+"mailingpostalCode": 57118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3372035806970003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KLINIK PRATAMA MTA SURAKARTA",
+				"bidangUsaha": "KESEHATAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200729015349",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0780234881",
+"bankAccountName": "SUNARSI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Copi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085801643845",
+"name": "SUNARSI",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19851231",
+"percentage": 100,
+"email": "ashahawa76@gamil.com"
+}
+]
+}
+192.168.115.112 https://www.koreaversikamu.co.id/prepurchase?view=finish 13:51:33 2020-07-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi",
+    "birthDate": "19740707", 
+"birthPlace": "Medan",
+"emailAddress": "dewi_cpu@yahoo.com",
+"mobilePhone": "081361579039",
+"homePhone": "0614524211",
+"lineAddress1": "Jalan Makmur komplek Makmur Indah J II",
+"lineAddress2": "Sumatera Utara",
+"cityAddress": "",
+"postalCode": 20117,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Sekip Baru No. 13-15-17",
+"mailingLineAddress2": "Sumatera Utara",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271054707740003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Capella Patria Utama",
+				"bidangUsaha": "Distributor Mobil "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dewi",
+    "birthDate": "19740707", 
+"birthPlace": "Medan",
+"emailAddress": "dewi_cpu@yahoo.com",
+"mobilePhone": "081361579039",
+"homePhone": "0614524211",
+"lineAddress1": "Jalan Makmur komplek Makmur Indah J II",
+"lineAddress2": "Sumatera Utara",
+"cityAddress": "",
+"postalCode": 20117,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Sekip Baru No. 13-15-17",
+"mailingLineAddress2": "Sumatera Utara",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271054707740003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Capella Patria Utama",
+				"bidangUsaha": "Distributor Mobil "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011164",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200729135133",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250068761",
+"bankAccountName": "Dewi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011164"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361579039",
+"name": "Malvin Thanniel",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19990803",
+"percentage": 100,
+"email": "dewi_cpu@yahoo.com"
+}
+]
+}
+192.168.115.112 https://www.koreaversikamu.co.id/prepurchase?view=finish 15:57:12 2020-07-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Christina Wati",
+    "birthDate": "19830205", 
+"birthPlace": "Medan",
+"emailAddress": "christinawati83@yahoo.co.id",
+"mobilePhone": "081361242616",
+"homePhone": "081361242616",
+"lineAddress1": "Jalan Pasar 3 Komplek Graha Krakatau No. C24",
+"lineAddress2": "Sumatera Utara",
+"cityAddress": "Medan",
+"postalCode": 20238,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Pasar 3 Komplek Graha Krakatau No. C24",
+"mailingLineAddress2": "Sumatera Utara",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20238,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271184502830007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Panin Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Christina Wati",
+    "birthDate": "19830205", 
+"birthPlace": "Medan",
+"emailAddress": "christinawati83@yahoo.co.id",
+"mobilePhone": "081361242616",
+"homePhone": "081361242616",
+"lineAddress1": "Jalan Pasar 3 Komplek Graha Krakatau No. C24",
+"lineAddress2": "Sumatera Utara",
+"cityAddress": "Medan",
+"postalCode": 20238,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Pasar 3 Komplek Graha Krakatau No. C24",
+"mailingLineAddress2": "Sumatera Utara",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20238,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271184502830007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Panin Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011164",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200729155711",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950684727",
+"bankAccountName": "Christina Wati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011164"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361242616",
+"name": "Feri Nilman",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810325",
+"percentage": 100,
+"email": "christinawati83@yahoo.co.id"
+}
+]
+}

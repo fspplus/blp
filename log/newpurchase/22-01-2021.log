@@ -1,0 +1,297 @@
+192.168.103.212 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 12:18:08 2021-01-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TINA",
+    "birthDate": "19710321", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "tinagozali.tg123@gmail.com",
+"mobilePhone": "081361687886",
+"homePhone": "081361687886",
+"lineAddress1": "JL. MOJOPAHIT NO.02 LKII",
+"lineAddress2": "KEC.SIANTAR UTARA , KEL.MELAYU",
+"cityAddress": "Pematang siantar",
+"postalCode": 21144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MOJOPAHIT NO.02 LKII",
+"mailingLineAddress2": "KEC.SIANTAR UTARA , KEL.MELAYU",
+"mailingCityAddress": "Pematang siantar",
+"mailingpostalCode": 21144,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1272036103710002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TINA",
+    "birthDate": "19710321", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "tinagozali.tg123@gmail.com",
+"mobilePhone": "081361687886",
+"homePhone": "081361687886",
+"lineAddress1": "JL. MOJOPAHIT NO.02 LKII",
+"lineAddress2": "KEC.SIANTAR UTARA , KEL.MELAYU",
+"cityAddress": "Pematang siantar",
+"postalCode": 21144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MOJOPAHIT NO.02 LKII",
+"mailingLineAddress2": "KEC.SIANTAR UTARA , KEL.MELAYU",
+"mailingCityAddress": "Pematang siantar",
+"mailingpostalCode": 21144,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1272036103710002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},"policyPayor":{"fullName":"","birthDate":"","birthPlace":"","emailAddress":"","mobilePhone":"","homePhone":"","lineAddress1":"","lineAddress2":"","cityAddress":"","postalCode":"","sameMailing":"0","mailingLineAddress1":"","mailingLineAddress2":"","mailingCityAddress":"","mailingpostalCode":,"gender":"","jobType":"","identityType":1,"identityNumber":"","incomeSource":"","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"","nationality":"","occupationid":"","occupationdesc":"","jobpos":"","incomesourcedesc":"","incomesrcoth":"","incomeoth":"","incomeothdesc":"","incomeothtype":"","npwp":"","relwinsured":"","relwholder":"","kitasNo":"","office_phone1":"","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91909634",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210122121807",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8200274734",
+"bankAccountName": "TINA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361687886",
+"name": "Herbert Gozali",
+"famrel": 1,
+"gender": "M",
+"birthDate": "20050321",
+"percentage": 100,
+"email": "tinagozali.tg123@gmail.com"
+}
+]
+}
+192.168.103.212 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 14:45:30 2021-01-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TINA",
+    "birthDate": "19710321", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "tinagozali.tg123@gmail.com",
+"mobilePhone": "081361687886",
+"homePhone": "081361687886",
+"lineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"lineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"cityAddress": "Pematang siantar",
+"postalCode": 21144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"mailingLineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"mailingCityAddress": "Pematang siantar",
+"mailingpostalCode": 21144,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1272036103710002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TINA",
+    "birthDate": "19710321", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "tinagozali.tg123@gmail.com",
+"mobilePhone": "081361687886",
+"homePhone": "081361687886",
+"lineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"lineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"cityAddress": "Pematang siantar",
+"postalCode": 21144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"mailingLineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"mailingCityAddress": "Pematang siantar",
+"mailingpostalCode": 21144,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1272036103710002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},"policyPayor":{"fullName":"","birthDate":"","birthPlace":"","emailAddress":"","mobilePhone":"","homePhone":"","lineAddress1":"","lineAddress2":"","cityAddress":"","postalCode":"","sameMailing":"0","mailingLineAddress1":"","mailingLineAddress2":"","mailingCityAddress":"","mailingpostalCode":,"gender":"","jobType":"","identityType":1,"identityNumber":"","incomeSource":"","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"","nationality":"","occupationid":"","occupationdesc":"","jobpos":"","incomesourcedesc":"","incomesrcoth":"","incomeoth":"","incomeothdesc":"","incomeothtype":"","npwp":"","relwinsured":"","relwholder":"","kitasNo":"","office_phone1":"","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91909634",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210122144529",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8200274734",
+"bankAccountName": "TINA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361687886",
+"name": "Herbert Gozali",
+"famrel": 1,
+"gender": "M",
+"birthDate": "20050321",
+"percentage": 100,
+"email": "tinagozali.tg123@gmail.com"
+}
+]
+}
+192.168.103.212 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 15:20:47 2021-01-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TINA",
+    "birthDate": "19710321", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "tinagozali.tg123@gmail.com",
+"mobilePhone": "081361687886",
+"homePhone": "081361687886",
+"lineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"lineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"cityAddress": "Pematang siantar",
+"postalCode": 21144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"mailingLineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"mailingCityAddress": "Pematang siantar",
+"mailingpostalCode": 21144,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1272036103710002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Jaya Utama Plastik",
+				"bidangUsaha": "pabrik plastik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TINA",
+    "birthDate": "19710321", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "tinagozali.tg123@gmail.com",
+"mobilePhone": "081361687886",
+"homePhone": "081361687886",
+"lineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"lineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"cityAddress": "Pematang siantar",
+"postalCode": 21144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MOJOPAHIT NO.02 LK-II",
+"mailingLineAddress2": "KEL. MELAYU, KEC. SIANTAR UTARA",
+"mailingCityAddress": "Pematang siantar",
+"mailingpostalCode": 21144,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1272036103710002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Jaya Utama Plastik",
+				"bidangUsaha": "pabrik plastik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91909634",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210122152046",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8200274734",
+"bankAccountName": "TINA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361687886",
+"name": "Herbert Gozali",
+"famrel": 1,
+"gender": "M",
+"birthDate": "20050321",
+"percentage": 100,
+"email": "tinagozali.tg123@gmail.com"
+}
+]
+}

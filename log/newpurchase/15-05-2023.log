@@ -1,0 +1,99 @@
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:53:21 2023-05-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "VERAWATY",
+    "birthDate": "19800526", 
+"birthPlace": "Medan",
+"emailAddress": "verawatytan1980@gmail.com",
+"mobilePhone": "087868186888",
+"homePhone": "087868186888",
+"lineAddress1": "Jl Puspa gading II Blok H-1/25 RT/RW 011/016",
+"lineAddress2": "KEL.PEGANGSAAN DUA KEC.KELAPA GADING - JAKARTA UTARA",
+"cityAddress": "",
+"postalCode": 14250,
+"sameMailing": "0",
+"mailingLineAddress1": "TOKO ASIA BARU ",
+"mailingLineAddress2": "JL BAMBU II NO 72 C",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206605800004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK SINARMAS",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "VERAWATY",
+    "birthDate": "19800526", 
+"birthPlace": "Medan",
+"emailAddress": "verawatytan1980@gmail.com",
+"mobilePhone": "087868186888",
+"homePhone": "087868186888",
+"lineAddress1": "Jl Puspa gading II Blok H-1/25 RT/RW 011/016",
+"lineAddress2": "KEL.PEGANGSAAN DUA KEC.KELAPA GADING - JAKARTA UTARA",
+"cityAddress": "",
+"postalCode": 14250,
+"sameMailing": "0",
+"mailingLineAddress1": "TOKO ASIA BARU ",
+"mailingLineAddress2": "JL BAMBU II NO 72 C",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206605800004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK SINARMAS",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230515135320",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950444696",
+"bankAccountName": "VERAWATY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087868186888",
+"name": "NG CHEN KUI",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19780911",
+"percentage": 100,
+"email": "verawatytan1980@gmail.com"
+}
+]
+}

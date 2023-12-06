@@ -1,0 +1,99 @@
+125.166.202.90 https://www.bucketlistplan.co.id/prepurchase?view=finish 22:34:22 2020-07-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Muliani Yoeko",
+    "birthDate": "19961111", 
+"birthPlace": "Jakarta",
+"emailAddress": "mulianiyoeko@gmail.com",
+"mobilePhone": "081398736820",
+"homePhone": "5884180",
+"lineAddress1": "Jln. Keadilan 1 no. 2 A",
+"lineAddress2": "Jakarta Barat",
+"cityAddress": "",
+"postalCode": 90616,
+"sameMailing": "0",
+"mailingLineAddress1": "Pantai Indah Kapuk",
+"mailingLineAddress2": "Walet Elok 4 no. 27",
+"mailingCityAddress": "",
+"mailingpostalCode": 14460,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173035111960002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Bellabell Indonesia Makmur",
+				"bidangUsaha": "Retail Baby Store "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Muliani Yoeko",
+    "birthDate": "19961111", 
+"birthPlace": "Jakarta",
+"emailAddress": "mulianiyoeko@gmail.com",
+"mobilePhone": "081398736820",
+"homePhone": "5884180",
+"lineAddress1": "Jln. Keadilan 1 no. 2 A",
+"lineAddress2": "Jakarta Barat",
+"cityAddress": "",
+"postalCode": 90616,
+"sameMailing": "0",
+"mailingLineAddress1": "Pantai Indah Kapuk",
+"mailingLineAddress2": "Walet Elok 4 no. 27",
+"mailingCityAddress": "",
+"mailingpostalCode": 14460,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173035111960002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Bellabell Indonesia Makmur",
+				"bidangUsaha": "Retail Baby Store "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200704223421",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8740315936",
+"bankAccountName": "Muliani Yoeko",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081398736820",
+"name": "Muliawan Yoeko",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19950217",
+"percentage": 100,
+"email": "mulianiyoeko@gmail.com"
+}
+]
+}

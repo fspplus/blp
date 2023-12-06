@@ -1,0 +1,99 @@
+180.251.41.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 23:19:30 2023-08-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lenny Kielsan",
+    "birthDate": "19881115", 
+"birthPlace": "Medan",
+"emailAddress": "kielsan_jr@yahoo.com",
+"mobilePhone": "081362186888",
+"homePhone": "081362186888",
+"lineAddress1": "Jl ok aliviah no 10 lk v",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20631,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl kasuari no 68 A Cemara asri ",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276055511880003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt sinar alam permai ",
+				"bidangUsaha": "Industri  "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Lenny Kielsan",
+    "birthDate": "19881115", 
+"birthPlace": "Medan",
+"emailAddress": "kielsan_jr@yahoo.com",
+"mobilePhone": "081362186888",
+"homePhone": "081362186888",
+"lineAddress1": "Jl ok aliviah no 10 lk v",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20631,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl kasuari no 68 A Cemara asri ",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276055511880003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt sinar alam permai ",
+				"bidangUsaha": "Industri  "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230822231928",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300051597",
+"bankAccountName": "Lenny Kielsan ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361001888",
+"name": "Mariati widjaja ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19590329",
+"percentage": 100,
+"email": "kielsan_jr@yahoo.com"
+}
+]
+}

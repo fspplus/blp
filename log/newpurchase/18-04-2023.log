@@ -1,0 +1,99 @@
+116.206.38.56 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 20:17:13 2023-04-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HENDRA AGUSTINUS PARDEDE",
+    "birthDate": "19910825", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "pardedeh@gmail.com",
+"mobilePhone": "082177071576",
+"homePhone": "0214355081",
+"lineAddress1": "JL KOTA BAMBU UTARA 1/14",
+"lineAddress2": "KELURAHAN KOTA BAMBU UTARA KECAMATAN PALMERAH",
+"cityAddress": "Jakarta",
+"postalCode": 11420,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KOTA BAMBU UTARA 1/14",
+"mailingLineAddress2": "KELURAHAN KOTA BAMBU UTARA KECAMATAN PALMERAH",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11420,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1272042508910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT SPIL LINES",
+				"bidangUsaha": "JASA KONTAINER "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HENDRA AGUSTINUS PARDEDE",
+    "birthDate": "19910825", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "pardedeh@gmail.com",
+"mobilePhone": "082177071576",
+"homePhone": "0214355081",
+"lineAddress1": "JL KOTA BAMBU UTARA 1/14",
+"lineAddress2": "KELURAHAN KOTA BAMBU UTARA KECAMATAN PALMERAH",
+"cityAddress": "Jakarta",
+"postalCode": 11420,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KOTA BAMBU UTARA 1/14",
+"mailingLineAddress2": "KELURAHAN KOTA BAMBU UTARA KECAMATAN PALMERAH",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11420,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1272042508910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT SPIL LINES",
+				"bidangUsaha": "JASA KONTAINER "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72311457",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230418201710",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1260007619819",
+"bankAccountName": "HENDRA PARDEDE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082167886526",
+"name": "MONIKA SELESTINA SIDAURUK",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920331",
+"percentage": 100,
+"email": "monikasidauruk310@gmail.com"
+}
+]
+}

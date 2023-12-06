@@ -1,0 +1,198 @@
+10.1.1.33 https://www.bucketlistplan.co.id/prepurchase?view=finish 08:59:41 2019-11-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "banjarnegara",
+"emailAddress": "sugarandstrawfashion@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Kali Wuluh RT 004/010, perumahan Gemuruh Grita Indah",
+"lineAddress2": "Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "1",
+"mailingLineAddress1": "Kali Wuluh RT 004/010, perumahan Gemuruh Grita Indah",
+"mailingLineAddress2": "Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "daihatsu",
+"bidangUsaha": "penjualan"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "9999990012375508",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191125085940",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4210056535",
+"bankAccountName": "Maya Permata Aisyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081327118659",
+"name": "Triyati Indah Sari",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19701225",
+"percentage": 100,
+"email": "sugarandstrawfashion@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/prepurchase?view=finish 09:18:45 2019-11-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "nonnifermani@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "KALI Wuluh RT004/010 Perumahan Gemuruh Griya Indah",
+"lineAddress2": "Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "1",
+"mailingLineAddress1": "KALI Wuluh RT004/010 Perumahan Gemuruh Griya Indah",
+"mailingLineAddress2": "Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Daihatsu",
+"bidangUsaha": "penjualan"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "9999990012375508",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191125091844",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4210056535",
+"bankAccountName": "Maya Permata Aisyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081327118659",
+"name": "Triyati Indah Sari",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19751225",
+"percentage": 100,
+"email": "nonnifermani@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/prepurchase?view=finish 09:22:02 2019-11-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "nonnifermani@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "KALI Wuluh RT004/010 Perumahan Gemuruh Griya Indah",
+"lineAddress2": "Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "1",
+"mailingLineAddress1": "KALI Wuluh RT004/010 Perumahan Gemuruh Griya Indah",
+"mailingLineAddress2": "Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Daihatsu",
+"bidangUsaha": "penjualan"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "9999990012375508",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191125092202",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4210056535",
+"bankAccountName": "Maya Permata Aisyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087888508859",
+"name": "Nonni Fermani Ayuliati",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19881130",
+"percentage": 100,
+"email": "nonnifermani@gmail.com"
+}
+]
+}

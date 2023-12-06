@@ -1,0 +1,99 @@
+101.128.119.152 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:54:18 2022-02-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ho Ying Pan Antony",
+    "birthDate": "19620702", 
+"birthPlace": "Hongkong",
+"emailAddress": "aedipilok66@gmail.com",
+"mobilePhone": "0811155072",
+"homePhone": "0811155072",
+"lineAddress1": "Bumi Satria Utara Kencana Jl Bima II Blok 7 no. 4",
+"lineAddress2": "Rt 001/021 Kayuringan Jaya",
+"cityAddress": "Bekasi",
+"postalCode": 17144,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi Satria Utara Kencana Jl Bima II Blok 7 no. 4",
+"mailingLineAddress2": "Rt 001/021 Kayuringan Jaya",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17144,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3275040207620011",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Trading",
+"namaLembaga": "Industri",
+				"bidangUsaha": "Trading "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ho Ying Pan Antony",
+    "birthDate": "19620702", 
+"birthPlace": "Hongkong",
+"emailAddress": "aedipilok66@gmail.com",
+"mobilePhone": "0811155072",
+"homePhone": "0811155072",
+"lineAddress1": "Bumi Satria Utara Kencana Jl Bima II Blok 7 no. 4",
+"lineAddress2": "Rt 001/021 Kayuringan Jaya",
+"cityAddress": "Bekasi",
+"postalCode": 17144,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi Satria Utara Kencana Jl Bima II Blok 7 no. 4",
+"mailingLineAddress2": "Rt 001/021 Kayuringan Jaya",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17144,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3275040207620011",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Trading",
+"namaLembaga": "Industri",
+				"bidangUsaha": "Trading "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92113991",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220216095417",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1670002535192",
+"bankAccountName": "Ho Ying Pan Antony",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811155072",
+"name": "Alice Esther Dyah",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19660409",
+"percentage": 100,
+"email": "aedipilok66@gmail.com"
+}
+]
+}

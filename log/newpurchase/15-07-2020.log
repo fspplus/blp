@@ -1,0 +1,297 @@
+182.0.201.97 https://www.bucketlistplan.co.id/prepurchase?view=finish 12:07:06 2020-07-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Endah widyastuti",
+    "birthDate": "19740308", 
+"birthPlace": "Jakarta",
+"emailAddress": "widyastutie36@gmail.com",
+"mobilePhone": "085711070988",
+"homePhone": "085711070988",
+"lineAddress1": "JL. JERUK NO.13A RT 003/06 WISMA SEROJA",
+"lineAddress2": "HARAPAN JAYA",
+"cityAddress": "",
+"postalCode": 17124,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Raya seroja no.121 harapan jaya",
+"mailingLineAddress2": "bekasi utara",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 17124,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275034803740016",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "SEMBAKO "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Endah widyastuti",
+    "birthDate": "19740308", 
+"birthPlace": "Jakarta",
+"emailAddress": "widyastutie36@gmail.com",
+"mobilePhone": "085711070988",
+"homePhone": "085711070988",
+"lineAddress1": "JL. JERUK NO.13A RT 003/06 WISMA SEROJA",
+"lineAddress2": "HARAPAN JAYA",
+"cityAddress": "",
+"postalCode": 17124,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Raya seroja no.121 harapan jaya",
+"mailingLineAddress2": "bekasi utara",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 17124,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275034803740016",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "SEMBAKO "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91909467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200715120706",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7635026669",
+"bankAccountName": "ENDAH WIDYASTUTI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081398517480",
+"name": "DONI FAHRIAL HUTASOIT",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010915",
+"percentage": 100,
+"email": "donifahrial4@gmail.com"
+}
+]
+}
+116.206.13.81 https://bucketlistplan.co.id/prepurchase?view=finish 13:37:32 2020-07-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Endah widyastuti",
+    "birthDate": "19740308", 
+"birthPlace": "Jakarta",
+"emailAddress": "widyastutie36@gmail.com",
+"mobilePhone": "085711070988",
+"homePhone": "085711070988",
+"lineAddress1": "Jl jeruk no.13a rt003/rw05 ",
+"lineAddress2": "Wisma seroja, harapan jaya, bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl jeruk no.13a rt003/rw05 ",
+"mailingLineAddress2": "Wisma seroja, harapan jaya, bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3275034803740016",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Endah widyastuti",
+    "birthDate": "19740308", 
+"birthPlace": "Jakarta",
+"emailAddress": "widyastutie36@gmail.com",
+"mobilePhone": "085711070988",
+"homePhone": "085711070988",
+"lineAddress1": "Jl jeruk no.13a rt003/rw05 ",
+"lineAddress2": "Wisma seroja, harapan jaya, bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl jeruk no.13a rt003/rw05 ",
+"mailingLineAddress2": "Wisma seroja, harapan jaya, bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3275034803740016",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91909467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200715133731",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7635026669",
+"bankAccountName": "Endah Widyastuti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085711070988",
+"name": "Doni fahrial",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010915",
+"percentage": 100,
+"email": "widyastutie36@gmail.com"
+}
+]
+}
+125.160.112.2 https://bucketlistplan.co.id/prepurchase?view=finish 19:35:34 2020-07-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Geraldo Valentino",
+    "birthDate": "19990115", 
+"birthPlace": "Palembang",
+"emailAddress": "gevalentino0@gmail.com",
+"mobilePhone": "0859215533218",
+"homePhone": "0859215533218",
+"lineAddress1": "Jalan Lagoa Trs Gg III C",
+"lineAddress2": "Lagoa, Koja",
+"cityAddress": "",
+"postalCode": 14260,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Padasuka 1 (Depan SMAN 4 Tangerang)",
+"mailingLineAddress2": "Pabuaran Tumpang, Tangerang Kota, Banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 14112,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172031501990001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Kopi Opa Korea",
+				"bidangUsaha": "Coffeeshop Franchising "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Geraldo Valentino",
+    "birthDate": "19990115", 
+"birthPlace": "Palembang",
+"emailAddress": "gevalentino0@gmail.com",
+"mobilePhone": "0859215533218",
+"homePhone": "0859215533218",
+"lineAddress1": "Jalan Lagoa Trs Gg III C",
+"lineAddress2": "Lagoa, Koja",
+"cityAddress": "",
+"postalCode": 14260,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Padasuka 1 (Depan SMAN 4 Tangerang)",
+"mailingLineAddress2": "Pabuaran Tumpang, Tangerang Kota, Banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 14112,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172031501990001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Kopi Opa Korea",
+				"bidangUsaha": "Coffeeshop Franchising "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200715193533",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1080114733",
+"bankAccountName": "Geraldo Valentino",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087771691725",
+"name": "Chaterine Marthalia Angreani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19741125",
+"percentage": 100,
+"email": "chaterineyap@yahoo.com"
+}
+]
+}

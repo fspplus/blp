@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:50:28 2022-06-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aisyah Ameyni",
+    "birthDate": "19980509", 
+"birthPlace": "Metro",
+"emailAddress": "aisyahameyn77@gmail.cm",
+"mobilePhone": "0895333433395",
+"homePhone": "0895333433395",
+"lineAddress1": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"lineAddress2": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"cityAddress": "Bekasi",
+"postalCode": 17510,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"mailingLineAddress2": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17510,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216054905980004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Aisyah Ameyni",
+    "birthDate": "19980509", 
+"birthPlace": "Metro",
+"emailAddress": "aisyahameyn77@gmail.cm",
+"mobilePhone": "0895333433395",
+"homePhone": "0895333433395",
+"lineAddress1": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"lineAddress2": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"cityAddress": "Bekasi",
+"postalCode": 17510,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"mailingLineAddress2": "Kp. Gabus Tengah RT 003 RW 004 kel Srijaya Kec Tambun Utara Bekasi Jawa Barat ",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17510,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216054905980004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "00000540",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220621115027",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7635051639",
+"bankAccountName": "Aisyah Ameyni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895333433395",
+"name": "Azzahra aulina",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20040502",
+"percentage": 100,
+"email": "aisyahameyn77@gmail.com"
+}
+]
+}

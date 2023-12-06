@@ -1,0 +1,99 @@
+125.166.53.226 https://bucketlistplan.co.id/prepurchase?view=finish 23:28:55 2020-09-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dwi Putri kurnia",
+    "birthDate": "19920512", 
+"birthPlace": "Jakarra",
+"emailAddress": "dwiputri.kurnia@ymail.com",
+"mobilePhone": "08119889620",
+"homePhone": "08119889620",
+"lineAddress1": "Jl Kober kecil no 104b RT 006/008",
+"lineAddress2": "Kel rawabungan kec jatinegara",
+"cityAddress": "",
+"postalCode": 13350,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Kober kecil no 104b RT 006/008",
+"mailingLineAddress2": "Kel rawabungan kec jatinegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 13350,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175035205920003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Bank capital Indonesia,tbk",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Dwi Putri kurnia",
+    "birthDate": "19920512", 
+"birthPlace": "Jakarra",
+"emailAddress": "dwiputri.kurnia@ymail.com",
+"mobilePhone": "08119889620",
+"homePhone": "08119889620",
+"lineAddress1": "Jl Kober kecil no 104b RT 006/008",
+"lineAddress2": "Kel rawabungan kec jatinegara",
+"cityAddress": "",
+"postalCode": 13350,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Kober kecil no 104b RT 006/008",
+"mailingLineAddress2": "Kel rawabungan kec jatinegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 13350,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175035205920003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Bank capital Indonesia,tbk",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "00480",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200927232854",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4960330183",
+"bankAccountName": "Dwi Putri kurnia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "00480"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081314590684",
+"name": "M Hidayat ",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19601019",
+"percentage": 100,
+"email": "dwiputri.kurnia@ymail.com"
+}
+]
+}

@@ -1,0 +1,603 @@
+45.126.185.236 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:55:10 2023-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Elisabet",
+    "birthDate": "19870626", 
+"birthPlace": "Medan",
+"emailAddress": "elisabetgc26@gmail.com",
+"mobilePhone": "085277122687",
+"homePhone": "085277122687",
+"lineAddress1": "Jl.karya dharma ",
+"lineAddress2": "Tanjung morawa ",
+"cityAddress": "",
+"postalCode": 2000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.karya dharma ",
+"mailingLineAddress2": "Tanjung morawa ",
+"mailingCityAddress": "",
+"mailingpostalCode": 2000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207026606870004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Elisabet",
+    "birthDate": "19870626", 
+"birthPlace": "Medan",
+"emailAddress": "elisabetgc26@gmail.com",
+"mobilePhone": "085277122687",
+"homePhone": "085277122687",
+"lineAddress1": "Jl.karya dharma ",
+"lineAddress2": "Tanjung morawa ",
+"cityAddress": "",
+"postalCode": 2000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.karya dharma ",
+"mailingLineAddress2": "Tanjung morawa ",
+"mailingCityAddress": "",
+"mailingpostalCode": 2000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207026606870004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311454",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231031095509",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1050016311387",
+"bankAccountName": "Elisabet",
+"ewalletNo": "085277122687",
+"ewalletType": "OVO",
+"ewalletName": "Elisabet",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085277122687",
+"name": "Gracia dybet",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20080620",
+"percentage": 100,
+"email": "elisabetgc26@gmail.com"
+}
+]
+}
+36.68.222.89 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:57:27 2023-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MIFTAKHUL FAUZI",
+    "birthDate": "19910527", 
+"birthPlace": "SURABAYA",
+"emailAddress": "fauzimiftakhul27@gmail.com",
+"mobilePhone": "085755888632",
+"homePhone": "085755888632",
+"lineAddress1": "DINOYO SEKOLAHAN 4/36",
+"lineAddress2": "KEPUTRAN, TEGALSARI",
+"cityAddress": "",
+"postalCode": 60265,
+"sameMailing": "1",
+"mailingLineAddress1": "DINOYO SEKOLAHAN 4/36",
+"mailingLineAddress2": "KEPUTRAN, TEGALSARI",
+"mailingCityAddress": "",
+"mailingpostalCode": 60265,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578052705910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PELAYARAN ANUGRAHMAKMUR SEJAHTERA",
+				"bidangUsaha": "PERGUDANGAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "MIFTAKHUL FAUZI",
+    "birthDate": "19910527", 
+"birthPlace": "SURABAYA",
+"emailAddress": "fauzimiftakhul27@gmail.com",
+"mobilePhone": "085755888632",
+"homePhone": "085755888632",
+"lineAddress1": "DINOYO SEKOLAHAN 4/36",
+"lineAddress2": "KEPUTRAN, TEGALSARI",
+"cityAddress": "",
+"postalCode": 60265,
+"sameMailing": "1",
+"mailingLineAddress1": "DINOYO SEKOLAHAN 4/36",
+"mailingLineAddress2": "KEPUTRAN, TEGALSARI",
+"mailingCityAddress": "",
+"mailingpostalCode": 60265,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578052705910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PELAYARAN ANUGRAHMAKMUR SEJAHTERA",
+				"bidangUsaha": "PERGUDANGAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72311467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231031125726",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1520452962",
+"bankAccountName": "MIFTAKHUL FAUZI",
+"ewalletNo": "085755888632",
+"ewalletType": "GOPAY",
+"ewalletName": "MIFTAKHUL FAUZI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081553365550",
+"name": "SUMIATI",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19590630",
+"percentage": 100,
+"email": "sumiati0759@gmail.com"
+}
+]
+}
+36.68.222.89 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:05:58 2023-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "FRENKIE",
+    "birthDate": "19730805", 
+"birthPlace": "CIREBON",
+"emailAddress": "frenkie_73@yahoo.co.id",
+"mobilePhone": "085158111689",
+"homePhone": "085158111689",
+"lineAddress1": "PERUMAHAN MEKAR INDAH",
+"lineAddress2": "JL. MEKAR HEGAR I/NO.4, CIJERAH",
+"cityAddress": "",
+"postalCode": 40213,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUMAHAN MEKAR INDAH",
+"mailingLineAddress2": "JL. MEKAR HEGAR I/NO.4, CIJERAH",
+"mailingCityAddress": "",
+"mailingpostalCode": 40213,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3273050508730004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "TUMBUH USAHA OPTIK",
+				"bidangUsaha": "OPTIK "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "FRENKIE",
+    "birthDate": "19730805", 
+"birthPlace": "CIREBON",
+"emailAddress": "frenkie_73@yahoo.co.id",
+"mobilePhone": "085158111689",
+"homePhone": "085158111689",
+"lineAddress1": "PERUMAHAN MEKAR INDAH",
+"lineAddress2": "JL. MEKAR HEGAR I/NO.4, CIJERAH",
+"cityAddress": "",
+"postalCode": 40213,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUMAHAN MEKAR INDAH",
+"mailingLineAddress2": "JL. MEKAR HEGAR I/NO.4, CIJERAH",
+"mailingCityAddress": "",
+"mailingpostalCode": 40213,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3273050508730004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "TUMBUH USAHA OPTIK",
+				"bidangUsaha": "OPTIK "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311467",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231031130557",
+"bankCode": "213",
+"ropBankCode": "213",
+"bankAccount": "90290071802",
+"bankAccountName": "FRENKIE",
+"ewalletNo": "085158111689",
+"ewalletType": "OVO",
+"ewalletName": "FRENKIE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081322180180",
+"name": "SETIA IRAWATI, SE",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19780519",
+"percentage": 100,
+"email": "setia_irawatie@yahoo.co.id"
+}
+]
+}
+36.68.222.89 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:26:50 2023-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DHUMA SARI ANGGRAINI",
+    "birthDate": "19860910", 
+"birthPlace": "MALANG",
+"emailAddress": "dhumasari@gmail.com",
+"mobilePhone": "08123352323",
+"homePhone": "08123352323",
+"lineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"lineAddress2": "JL.DAMAI 1/27, KEPUTIH,SUKOLILO",
+"cityAddress": "",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"mailingLineAddress2": "JL.DAMAI 1/27, KEPUTIH,SUKOLILO",
+"mailingCityAddress": "",
+"mailingpostalCode": 60111,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3573015009860004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KANO BUAH",
+				"bidangUsaha": "JUAL BUAH "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DHUMA SARI ANGGRAINI",
+    "birthDate": "19860910", 
+"birthPlace": "MALANG",
+"emailAddress": "dhumasari@gmail.com",
+"mobilePhone": "08123352323",
+"homePhone": "08123352323",
+"lineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"lineAddress2": "JL.DAMAI 1/27, KEPUTIH,SUKOLILO",
+"cityAddress": "",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"mailingLineAddress2": "JL.DAMAI 1/27, KEPUTIH,SUKOLILO",
+"mailingCityAddress": "",
+"mailingpostalCode": 60111,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3573015009860004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KANO BUAH",
+				"bidangUsaha": "JUAL BUAH "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311467",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231031152649",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7881017745",
+"bankAccountName": "DHUMA SARI ANGGRAINI",
+"ewalletNo": "08123352323",
+"ewalletType": "GOPAY",
+"ewalletName": "DHUMA SARI ANGGRAINI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08123018567",
+"name": "STEVEN KURNIAWAN PUTRA",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19820710",
+"percentage": 100,
+"email": "steve.putro@gmail.com"
+}
+]
+}
+140.213.36.221 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:04:20 2023-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Woen chin ",
+    "birthDate": "19611219", 
+"birthPlace": "Medan",
+"emailAddress": "woenchin1961@gmail.com",
+"mobilePhone": "08116215796",
+"homePhone": "08116215796",
+"lineAddress1": "Jl.mesjid Raya  no.14",
+"lineAddress2": "Medan",
+"cityAddress": "Medan",
+"postalCode": 2000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.mesjid Raya  no.14",
+"mailingLineAddress2": "Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 2000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271155912610001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Woen chin ",
+    "birthDate": "19611219", 
+"birthPlace": "Medan",
+"emailAddress": "woenchin1961@gmail.com",
+"mobilePhone": "08116215796",
+"homePhone": "08116215796",
+"lineAddress1": "Jl.mesjid Raya  no.14",
+"lineAddress2": "Medan",
+"cityAddress": "Medan",
+"postalCode": 2000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.mesjid Raya  no.14",
+"mailingLineAddress2": "Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 2000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271155912610001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311454",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231031160419",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221416227",
+"bankAccountName": "Woen chin ",
+"ewalletNo": "08116215796",
+"ewalletType": "OVO",
+"ewalletName": "Woenchin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116215796",
+"name": "Paidy lukman ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19610209",
+"percentage": 100,
+"email": "woenchin1961@gmail.com"
+}
+]
+}
+140.213.36.221 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:12:30 2023-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231031161230",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"ewalletNo": "",
+"ewalletType": "",
+"ewalletName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}

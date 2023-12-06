@@ -1,0 +1,204 @@
+125.164.5.113 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:24:00 2023-11-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HERMAWAN SUTANTO",
+    "birthDate": "19730820", 
+"birthPlace": "Mataram",
+"emailAddress": "tastynbites@gmail.com",
+"mobilePhone": "081263911199",
+"homePhone": "081263911199",
+"lineAddress1": "JL. JEMBT. GAMBANG II",
+"lineAddress2": "JL. JEMBT. GAMBANG II",
+"cityAddress": "Jakarta",
+"postalCode": 14450,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. JEMBT. GAMBANG II",
+"mailingLineAddress2": "JL. JEMBT. GAMBANG II",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14450,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3172012008730003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "TASTYNBITES",
+				"bidangUsaha": "TOKO ROTI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HERMAWAN SUTANTO",
+    "birthDate": "19730820", 
+"birthPlace": "Mataram",
+"emailAddress": "tastynbites@gmail.com",
+"mobilePhone": "081263911199",
+"homePhone": "081263911199",
+"lineAddress1": "JL. JEMBT. GAMBANG II",
+"lineAddress2": "JL. JEMBT. GAMBANG II",
+"cityAddress": "Jakarta",
+"postalCode": 14450,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. JEMBT. GAMBANG II",
+"mailingLineAddress2": "JL. JEMBT. GAMBANG II",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14450,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3172012008730003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "TASTYNBITES",
+				"bidangUsaha": "TOKO ROTI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72311467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231120102359",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0741210761",
+"bankAccountName": "HERMAWAN SUTANTO",
+"ewalletNo": "081263911199",
+"ewalletType": "GOPAY",
+"ewalletName": "HERMAWAN SUTANTO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081213443005",
+"name": "MERIANTI LOA",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19821231",
+"percentage": 100,
+"email": "tastynbites@gmail.com"
+}
+]
+}
+36.68.217.36 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:46:14 2023-11-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Chandra",
+    "birthDate": "19830418", 
+"birthPlace": "Lumajang",
+"emailAddress": "chandra_gs83@yahoo.com",
+"mobilePhone": "082140446361",
+"homePhone": "082140446361",
+"lineAddress1": "Jalan kapten kyai Ilyas No 23",
+"lineAddress2": "Lumajang",
+"cityAddress": "",
+"postalCode": 67316,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan kapten kyai Ilyas No 23",
+"mailingLineAddress2": "Lumajang",
+"mailingCityAddress": "",
+"mailingpostalCode": 67316,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3508101804830005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agen asuransi",
+"namaLembaga": "Manulife",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Chandra",
+    "birthDate": "19830418", 
+"birthPlace": "Lumajang",
+"emailAddress": "chandra_gs83@yahoo.com",
+"mobilePhone": "082140446361",
+"homePhone": "082140446361",
+"lineAddress1": "Jalan kapten kyai Ilyas No 23",
+"lineAddress2": "Lumajang",
+"cityAddress": "",
+"postalCode": 67316,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan kapten kyai Ilyas No 23",
+"mailingLineAddress2": "Lumajang",
+"mailingCityAddress": "",
+"mailingpostalCode": 67316,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3508101804830005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agen asuransi",
+"namaLembaga": "Manulife",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311467",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231120114613",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1250497683",
+"bankAccountName": "Chandra",
+"ewalletNo": "082140446361",
+"ewalletType": "GOPAY",
+"ewalletName": "Chandra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089697268289",
+"name": "Cicil ia tauresia",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19820517",
+"percentage": 100,
+"email": "c2l_t4u@yahoo.com"
+}
+]
+}

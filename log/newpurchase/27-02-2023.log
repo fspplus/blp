@@ -1,0 +1,207 @@
+45.126.185.233 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:16:25 2023-02-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Alexanderson Parmon",
+    "birthDate": "19881022", 
+"birthPlace": "Medan",
+"emailAddress": "schrien88@gmail.com",
+"mobilePhone": "08126082560",
+"homePhone": "08126082560",
+"lineAddress1": "Jl.Murai Raya Blok: M No:3",
+"lineAddress2": "Jl.Murai Raya Blok:M No:3",
+"cityAddress": "Medan",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Murai Raya Blok: M No:3",
+"mailingLineAddress2": "Jl.Murai Raya Blok:M No:3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20122,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271022210880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Serasi",
+				"bidangUsaha": "Distribusi kosmetik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Alexanderson Parmon",
+    "birthDate": "19881022", 
+"birthPlace": "Medan",
+"emailAddress": "schrien88@gmail.com",
+"mobilePhone": "08126082560",
+"homePhone": "08126082560",
+"lineAddress1": "Jl.Murai Raya Blok: M No:3",
+"lineAddress2": "Jl.Murai Raya Blok:M No:3",
+"cityAddress": "Medan",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Murai Raya Blok: M No:3",
+"mailingLineAddress2": "Jl.Murai Raya Blok:M No:3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20122,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271022210880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Serasi",
+				"bidangUsaha": "Distribusi kosmetik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311448",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230227091624",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7865011288",
+"bankAccountName": "Alexanderson Parmon",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126082560",
+"name": "Chelsea Alleria Parmon",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20140807",
+"percentage": 50,
+"email": "schrien88@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "08126082560",
+"name": "Allesia Alleria Parmon",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20171122",
+"percentage": 50,
+"email": "schrien88@gmail.com"
+}
+]
+}
+114.10.81.158 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 22:04:43 2023-02-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SONDANG RAHAYU MARBUN",
+    "birthDate": "19810307", 
+"birthPlace": "DOLOK SANGGUL",
+"emailAddress": "sondangmarbun81@gmail.com",
+"mobilePhone": "081533101115",
+"homePhone": "06188802999",
+"lineAddress1": "KOMP. DEBANG TAMANSARI BLOK C NO. 28",
+"lineAddress2": "KEL. TANJUNG SARI, KEC. MEDAN SELAYANG ",
+"cityAddress": "",
+"postalCode": 20132,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP. DEBANG TAMANSARI BLOK C NO. 28",
+"mailingLineAddress2": "KEL. TANJUNG SARI, KEC. MEDAN SELAYANG ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20132,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271044703810009",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DAPUR TAMANSARI",
+				"bidangUsaha": "KULINER "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SONDANG RAHAYU MARBUN",
+    "birthDate": "19810307", 
+"birthPlace": "DOLOK SANGGUL",
+"emailAddress": "sondangmarbun81@gmail.com",
+"mobilePhone": "081533101115",
+"homePhone": "06188802999",
+"lineAddress1": "KOMP. DEBANG TAMANSARI BLOK C NO. 28",
+"lineAddress2": "KEL. TANJUNG SARI, KEC. MEDAN SELAYANG ",
+"cityAddress": "",
+"postalCode": 20132,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP. DEBANG TAMANSARI BLOK C NO. 28",
+"mailingLineAddress2": "KEL. TANJUNG SARI, KEC. MEDAN SELAYANG ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20132,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271044703810009",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DAPUR TAMANSARI",
+				"bidangUsaha": "KULINER "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311446",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230227220442",
+"bankCode": "703",
+"ropBankCode": "703",
+"bankAccount": "081533101115",
+"bankAccountName": "SONDANG RAHAYU MARBUN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085765071119",
+"name": "TERESA EVANGELINE SERAPHINA",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20120518",
+"percentage": 100,
+"email": "solihin.mart@gmail.com"
+}
+]
+}

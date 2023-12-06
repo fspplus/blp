@@ -1,0 +1,213 @@
+114.122.14.75 http://koreaversikamu.co.id/prepurchase?view=finish 11:10:53 2020-03-05
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yulyati",
+    "birthDate": "19920715", 
+"birthPlace": "Lubuk pakam",
+"emailAddress": "yulyatihalim@yahoo.com",
+"mobilePhone": "082274379337",
+"homePhone": "082274379337",
+"lineAddress1": "Jl. LETKOL MARTINUS LBS NO. 8-H",
+"lineAddress2": "JL. SUTOMO NO. 103 LUBUK PAKAM",
+"cityAddress": "",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. LETKOL MARTINUS LBS NO. 8-H",
+"mailingLineAddress2": "JL. SUTOMO NO. 103 LUBUK PAKAM",
+"mailingCityAddress": "",
+"mailingpostalCode": 20212,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207285507920002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank hsbc",
+				"bidangUsaha": "Perbankan "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91910472",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200305111052",
+"bankCode": "011",
+"ropBankCode": "011",
+"bankAccount": "003602270146",
+"bankAccountName": "Yulyati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0617951682",
+"name": "Heriyanto",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19551207",
+"percentage": 100,
+"email": "yulyatihalim@yahoo.com"
+}
+]
+}
+10.1.1.33 https://www.bucketlistplan.co.id/prepurchase?view=finish 16:31:49 2020-03-05
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nada Fidarensa",
+    "birthDate": "19971203", 
+"birthPlace": "Surabaya",
+"emailAddress": "nadafidnadafid@gmail.com",
+"mobilePhone": "081284666557",
+"homePhone": "081284666557",
+"lineAddress1": "Jalan Primadana VII Blok C8/39 RT 006/010, kel. Jatisari, kec. Jatiasih, Kota Bekasi, Jawa Barat",
+"lineAddress2": "Kode pos 17426",
+"cityAddress": "",
+"postalCode": 17426,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Primadana VII Blok C8/39 RT 006/010, kel. Jatisari, kec. Jatiasih, Kota Bekasi, Jawa Barat",
+"mailingLineAddress2": "Kode pos 17426",
+"mailingCityAddress": "",
+"mailingpostalCode": 17426,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3275094312970013",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Singer",
+"namaLembaga": "Selebgram",
+				"bidangUsaha": "Entertainment "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200305163148",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7401316985",
+"bankAccountName": "Nada Fidarensa",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284666557",
+"name": "Winda Astriana",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19690803",
+"percentage": 100,
+"email": "nadafidnadafid@gmail.com"
+}
+]
+}
+10.1.1.33 https://www.bucketlistplan.co.id/prepurchase?view=finish 16:46:02 2020-03-05
+
+Content JSON:
+{
+"personalData": {
+"fullName": "REZA ALIF DARMAWANGSA",
+    "birthDate": "19980104", 
+"birthPlace": "Bandung",
+"emailAddress": "kaka.echa@gmail.com",
+"mobilePhone": "082120214194",
+"homePhone": "082120214194",
+"lineAddress1": "Pasanggrahan Indah Blok 19-2, RT 004/014, ",
+"lineAddress2": "kel. Pasanggrahan, kec. Ujungberung",
+"cityAddress": "Bandung",
+"postalCode": 40617,
+"sameMailing": "1",
+"mailingLineAddress1": "Pasanggrahan Indah Blok 19-2, RT 004/014, ",
+"mailingLineAddress2": "kel. Pasanggrahan, kec. Ujungberung",
+"mailingCityAddress": "Bandung",
+"mailingpostalCode": 40617,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3273260401980004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Singer",
+"namaLembaga": "Selebgram",
+				"bidangUsaha": "Entertainment "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200305164601",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0229197463",
+"bankAccountName": "REZA ALIF DARMAWANGSA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082120214194",
+"name": "Aang Darmawangsa",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19730130",
+"percentage": 100,
+"email": "kaka.echa@gmail.com"
+}
+]
+}

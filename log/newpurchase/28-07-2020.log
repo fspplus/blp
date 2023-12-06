@@ -1,0 +1,198 @@
+180.251.33.239 https://www.bucketlistplan.co.id/prepurchase?view=finish 19:25:29 2020-07-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Harlin Se",
+    "birthDate": "19800101", 
+"birthPlace": "Medan",
+"emailAddress": "tanharlin@yahoo.com",
+"mobilePhone": "08126082000",
+"homePhone": "08126082000",
+"lineAddress1": "Jl.Veteran No:94-I",
+"lineAddress2": "Jl.Veteran No:94-I",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Veteran No:94-I",
+"mailingLineAddress2": "Jl.Veteran No:94-I",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271200101800001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pupuk tanaman",
+				"bidangUsaha": "Pupuk "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Harlin Se",
+    "birthDate": "19800101", 
+"birthPlace": "Medan",
+"emailAddress": "tanharlin@yahoo.com",
+"mobilePhone": "08126082000",
+"homePhone": "08126082000",
+"lineAddress1": "Jl.Veteran No:94-I",
+"lineAddress2": "Jl.Veteran No:94-I",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Veteran No:94-I",
+"mailingLineAddress2": "Jl.Veteran No:94-I",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271200101800001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pupuk tanaman",
+				"bidangUsaha": "Pupuk "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200728192527",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221088688",
+"bankAccountName": "Harlin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126082000",
+"name": "Lina",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19730125",
+"percentage": 100,
+"email": "tanharlin@yahoo.com"
+}
+]
+}
+114.4.216.23 https://www.bucketlistplan.co.id/prepurchase?view=finish 22:37:41 2020-07-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Neni hana pertiwi",
+    "birthDate": "19970423", 
+"birthPlace": "Surakarta",
+"emailAddress": "nenihana7@gmail.com",
+"mobilePhone": "081547449470",
+"homePhone": "081547449470",
+"lineAddress1": "Kratonan rt 04/rw 01",
+"lineAddress2": "Serengan surakarta",
+"cityAddress": "Surakarta",
+"postalCode": 57153,
+"sameMailing": "1",
+"mailingLineAddress1": "Kratonan rt 04/rw 01",
+"mailingLineAddress2": "Serengan surakarta",
+"mailingCityAddress": "Surakarta",
+"mailingpostalCode": 57153,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3372026304970001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KLINIK PRATAMA MTA",
+				"bidangUsaha": "Kesehatan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Neni hana pertiwi",
+    "birthDate": "19970423", 
+"birthPlace": "Surakarta",
+"emailAddress": "nenihana7@gmail.com",
+"mobilePhone": "081547449470",
+"homePhone": "081547449470",
+"lineAddress1": "Kratonan rt 04/rw 01",
+"lineAddress2": "Serengan surakarta",
+"cityAddress": "Surakarta",
+"postalCode": 57153,
+"sameMailing": "1",
+"mailingLineAddress1": "Kratonan rt 04/rw 01",
+"mailingLineAddress2": "Serengan surakarta",
+"mailingCityAddress": "Surakarta",
+"mailingpostalCode": 57153,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3372026304970001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KLINIK PRATAMA MTA",
+				"bidangUsaha": "Kesehatan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200728223739",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "215301002565506",
+"bankAccountName": "Neni hana pertiwi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085842420010",
+"name": "Nataliana indriastuti",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19931212",
+"percentage": 100,
+"email": "nenihana7@gmail.com"
+}
+]
+}

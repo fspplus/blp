@@ -1,0 +1,102 @@
+103.119.140.53 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:03:30 2023-10-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Edwin satya",
+    "birthDate": "19830226", 
+"birthPlace": "Palembang",
+"emailAddress": "edwin.satya@yahoo.com",
+"mobilePhone": "081288833000",
+"homePhone": "081288833000",
+"lineAddress1": "Jl flamboyan jingga 1 blok c1 / 2f",
+"lineAddress2": "Duri kosambi, cengkareng",
+"cityAddress": "",
+"postalCode": 11750,
+"sameMailing": "0",
+"mailingLineAddress1": "Rukan city square Blok B no 53 - 55 ",
+"mailingLineAddress2": "Jl peta selatan kalideres ",
+"mailingCityAddress": "",
+"mailingpostalCode": 11840,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3173062602830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt lautan cipta kreasi",
+				"bidangUsaha": "Automation servive "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Edwin satya",
+    "birthDate": "19830226", 
+"birthPlace": "Palembang",
+"emailAddress": "edwin.satya@yahoo.com",
+"mobilePhone": "081288833000",
+"homePhone": "081288833000",
+"lineAddress1": "Jl flamboyan jingga 1 blok c1 / 2f",
+"lineAddress2": "Duri kosambi, cengkareng",
+"cityAddress": "",
+"postalCode": 11750,
+"sameMailing": "0",
+"mailingLineAddress1": "Rukan city square Blok B no 53 - 55 ",
+"mailingLineAddress2": "Jl peta selatan kalideres ",
+"mailingCityAddress": "",
+"mailingpostalCode": 11840,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3173062602830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt lautan cipta kreasi",
+				"bidangUsaha": "Automation servive "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311468",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231006150329",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5390166577",
+"bankAccountName": "Edwin satya",
+"ewalletNo": "081288833000",
+"ewalletType": "GOPAY",
+"ewalletName": "Edwin satya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081311352515",
+"name": "Dian anggraeni",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19830827",
+"percentage": 100,
+"email": "dian.anggraeni27@gmail.com"
+}
+]
+}

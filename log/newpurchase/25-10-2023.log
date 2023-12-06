@@ -1,0 +1,306 @@
+36.71.143.195 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:42:05 2023-10-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "IRWAN",
+    "birthDate": "19880829", 
+"birthPlace": "Medan",
+"emailAddress": "jamtanganmedan@yahoo.com",
+"mobilePhone": "08116049968",
+"homePhone": "08116049968",
+"lineAddress1": "Jl Asia no 119 E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia no 119 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "IRWAN",
+    "birthDate": "19880829", 
+"birthPlace": "Medan",
+"emailAddress": "jamtanganmedan@yahoo.com",
+"mobilePhone": "08116049968",
+"homePhone": "08116049968",
+"lineAddress1": "Jl Asia no 119 E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia no 119 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311470",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231025124204",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300139567",
+"bankAccountName": "Irwan",
+"ewalletNo": "08116049968",
+"ewalletType": "OVO",
+"ewalletName": "Irwan ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081233339968",
+"name": "Hoshi Iocho Anpo",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920308",
+"percentage": 100,
+"email": "jamtanganmedan@yahoo.com"
+}
+]
+}
+36.71.143.195 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:50:09 2023-10-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Irwan ",
+    "birthDate": "19880829", 
+"birthPlace": "Medan ",
+"emailAddress": "jamtanganmedan@yahoo.com",
+"mobilePhone": "08116049968",
+"homePhone": "08116049968",
+"lineAddress1": "Jl Asia no 119 E",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia no 119 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Irwan ",
+    "birthDate": "19880829", 
+"birthPlace": "Medan ",
+"emailAddress": "jamtanganmedan@yahoo.com",
+"mobilePhone": "08116049968",
+"homePhone": "08116049968",
+"lineAddress1": "Jl Asia no 119 E",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia no 119 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311470",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231025125009",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300139567",
+"bankAccountName": "Irwan",
+"ewalletNo": "08116049968",
+"ewalletType": "OVO",
+"ewalletName": "Irwan ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081233339968",
+"name": "Hoshi Iocho Anpo",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920308",
+"percentage": 100,
+"email": "jamtanganmedan@yahoo.com"
+}
+]
+}
+36.71.143.195 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:54:26 2023-10-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Irwan ",
+    "birthDate": "19880829", 
+"birthPlace": "Medan",
+"emailAddress": "jamtanganmedan@yahoo.com",
+"mobilePhone": "08116049968",
+"homePhone": "08116049968",
+"lineAddress1": "Jl Asia no 119 E",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia no 119 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Irwan ",
+    "birthDate": "19880829", 
+"birthPlace": "Medan",
+"emailAddress": "jamtanganmedan@yahoo.com",
+"mobilePhone": "08116049968",
+"homePhone": "08116049968",
+"lineAddress1": "Jl Asia no 119 E",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia no 119 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311470",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231025125426",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300139567",
+"bankAccountName": "Irwan",
+"ewalletNo": "08116049968",
+"ewalletType": "OVO",
+"ewalletName": "Irwan ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081233339968",
+"name": "Hoshi Iocho Anpo ",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920308",
+"percentage": 100,
+"email": "jamtanganmedan@yahoo.com"
+}
+]
+}

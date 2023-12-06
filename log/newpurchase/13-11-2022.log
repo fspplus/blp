@@ -1,0 +1,99 @@
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:18:28 2022-11-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Juvelin",
+    "birthDate": "19850224", 
+"birthPlace": "Medan",
+"emailAddress": "juvelinsiau@gmail.com",
+"mobilePhone": "082211119969",
+"homePhone": "082211119969",
+"lineAddress1": "JL. Pendidikan komp.sinar duta permai blk C9",
+"lineAddress2": "Jl. Asia 119E",
+"cityAddress": "",
+"postalCode": 20214,
+"sameMailing": "0",
+"mailingLineAddress1": "JL. Asia 119E",
+"mailingLineAddress2": "JL. Pendidikan komp.sinar duta permai blk C9",
+"mailingCityAddress": "",
+"mailingpostalCode": 20214,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271106402850002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Veco Optical",
+				"bidangUsaha": "Kacamata "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Juvelin",
+    "birthDate": "19850224", 
+"birthPlace": "Medan",
+"emailAddress": "juvelinsiau@gmail.com",
+"mobilePhone": "082211119969",
+"homePhone": "082211119969",
+"lineAddress1": "JL. Pendidikan komp.sinar duta permai blk C9",
+"lineAddress2": "Jl. Asia 119E",
+"cityAddress": "",
+"postalCode": 20214,
+"sameMailing": "0",
+"mailingLineAddress1": "JL. Asia 119E",
+"mailingLineAddress2": "JL. Pendidikan komp.sinar duta permai blk C9",
+"mailingCityAddress": "",
+"mailingpostalCode": 20214,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271106402850002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Veco Optical",
+				"bidangUsaha": "Kacamata "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221113161827",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950867635",
+"bankAccountName": "Juvelin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082211119969",
+"name": "Januar",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19850119",
+"percentage": 100,
+"email": "juvelinsiau@gmail.com"
+}
+]
+}

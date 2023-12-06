@@ -1,0 +1,198 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:25:12 2023-05-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HENNY WATI",
+    "birthDate": "19760620", 
+"birthPlace": "JAKARTA",
+"emailAddress": "henytiokim@gmail.com",
+"mobilePhone": "081310881078",
+"homePhone": "081310881078",
+"lineAddress1": "TAMAN PALEM LESTARI BLOK A. 28 NO. 5",
+"lineAddress2": "RT. 013/RW. 016  KEL. CENGKARENG BARAT , KEC. CENGKARENG,",
+"cityAddress": "Jakarta",
+"postalCode": 11730,
+"sameMailing": "1",
+"mailingLineAddress1": "TAMAN PALEM LESTARI BLOK A. 28 NO. 5",
+"mailingLineAddress2": "RT. 013/RW. 016  KEL. CENGKARENG BARAT , KEC. CENGKARENG,",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11730,
+"gender": "",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173016006760026",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. STAR LIFE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HENNY WATI",
+    "birthDate": "19760620", 
+"birthPlace": "JAKARTA",
+"emailAddress": "henytiokim@gmail.com",
+"mobilePhone": "081310881078",
+"homePhone": "081310881078",
+"lineAddress1": "TAMAN PALEM LESTARI BLOK A. 28 NO. 5",
+"lineAddress2": "RT. 013/RW. 016  KEL. CENGKARENG BARAT , KEC. CENGKARENG,",
+"cityAddress": "Jakarta",
+"postalCode": 11730,
+"sameMailing": "1",
+"mailingLineAddress1": "TAMAN PALEM LESTARI BLOK A. 28 NO. 5",
+"mailingLineAddress2": "RT. 013/RW. 016  KEL. CENGKARENG BARAT , KEC. CENGKARENG,",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11730,
+"gender": "",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173016006760026",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. STAR LIFE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "227M5NCI",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230502142511",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5524125522",
+"bankAccountName": "HENNY WATI ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081310881078",
+"name": "KIMBERLY NOVELIA",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20061126",
+"percentage": 100,
+"email": "henytiokim@gmail.com"
+}
+]
+}
+114.122.4.21 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:10:34 2023-05-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cek kun",
+    "birthDate": "19770811", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "kevin.cenata@gmail.com",
+"mobilePhone": "082162693688",
+"homePhone": "082162693688",
+"lineAddress1": "Dusun bukit medan",
+"lineAddress2": "Kelurahan janji, kecamatan bilah barat",
+"cityAddress": "",
+"postalCode": 21418,
+"sameMailing": "1",
+"mailingLineAddress1": "Dusun bukit medan",
+"mailingLineAddress2": "Kelurahan janji, kecamatan bilah barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 21418,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1471111108770021",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Timur jaya",
+				"bidangUsaha": "Vulkanisir Ban "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Cek kun",
+    "birthDate": "19770811", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "kevin.cenata@gmail.com",
+"mobilePhone": "082162693688",
+"homePhone": "082162693688",
+"lineAddress1": "Dusun bukit medan",
+"lineAddress2": "Kelurahan janji, kecamatan bilah barat",
+"cityAddress": "",
+"postalCode": 21418,
+"sameMailing": "1",
+"mailingLineAddress1": "Dusun bukit medan",
+"mailingLineAddress2": "Kelurahan janji, kecamatan bilah barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 21418,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1471111108770021",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Timur jaya",
+				"bidangUsaha": "Vulkanisir Ban "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230502171033",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8235146947",
+"bankAccountName": "Cek kun",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116197773",
+"name": "Selvie Anita",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19800510",
+"percentage": 100,
+"email": "selvieanita@yahoo.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:17:30 2022-08-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nonni Fermani Ayuliati",
+    "birthDate": "19881130", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "nonnifermani@gmail.com",
+"mobilePhone": "089693742060",
+"homePhone": "087888508859",
+"lineAddress1": "Kali wuluh, RT 00/00",
+"lineAddress2": "Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "1",
+"mailingLineAddress1": "Kali wuluh, RT 00/00",
+"mailingLineAddress2": "Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3304057011890003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Nonni Fermani Ayuliati",
+    "birthDate": "19881130", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "nonnifermani@gmail.com",
+"mobilePhone": "089693742060",
+"homePhone": "087888508859",
+"lineAddress1": "Kali wuluh, RT 00/00",
+"lineAddress2": "Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "1",
+"mailingLineAddress1": "Kali wuluh, RT 00/00",
+"mailingLineAddress2": "Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3304057011890003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220802091729",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3570335986",
+"bankAccountName": "Nonni Fermani Ayuliati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081327118659",
+"name": "Triyati Indah Sari",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19701225",
+"percentage": 100,
+"email": "aichi.pookiss@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+120.188.7.114 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:28:55 2021-04-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Edy Sutrisno",
+    "birthDate": "19880717", 
+"birthPlace": "Medan",
+"emailAddress": "sutrisnoedy668@gmail.com",
+"mobilePhone": "085238475636",
+"homePhone": "085238475638",
+"lineAddress1": "Jl negara no 65B / 78B",
+"lineAddress2": "Pahlawan, Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl negara no 65B / 78B",
+"mailingLineAddress2": "Pahlawan, Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271181707880005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Karyawan",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Edy Sutrisno",
+    "birthDate": "19880717", 
+"birthPlace": "Medan",
+"emailAddress": "sutrisnoedy668@gmail.com",
+"mobilePhone": "085238475636",
+"homePhone": "085238475638",
+"lineAddress1": "Jl negara no 65B / 78B",
+"lineAddress2": "Pahlawan, Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl negara no 65B / 78B",
+"mailingLineAddress2": "Pahlawan, Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271181707880005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Karyawan",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20210412112854",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8115158666",
+"bankAccountName": "Sutrisno Edy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085238475638",
+"name": "Suvina lim",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19900416",
+"percentage": 100,
+"email": "sutrisnoedy668@gmail.com"
+}
+]
+}

@@ -1,0 +1,396 @@
+182.1.59.249 https://koreaversikamu.co.id/prepurchase?view=finish 12:23:31 2020-09-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Luciana kosidin",
+    "birthDate": "19870122", 
+"birthPlace": "Medan",
+"emailAddress": "lucianakosidin87@gmail.com",
+"mobilePhone": "08116132805",
+"homePhone": "08116132805",
+"lineAddress1": "Jl.Pukat II No:67-A",
+"lineAddress2": "Jl.Pukat II No:67-A",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Prapat No:42",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271186201870004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Vip coffee",
+				"bidangUsaha": "Kopi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Luciana kosidin",
+    "birthDate": "19870122", 
+"birthPlace": "Medan",
+"emailAddress": "lucianakosidin87@gmail.com",
+"mobilePhone": "08116132805",
+"homePhone": "08116132805",
+"lineAddress1": "Jl.Pukat II No:67-A",
+"lineAddress2": "Jl.Pukat II No:67-A",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Prapat No:42",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271186201870004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Vip coffee",
+				"bidangUsaha": "Kopi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200923122327",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8370034207",
+"bankAccountName": "Luciana Kosidin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116132805",
+"name": "Tommy Chandra",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19841130",
+"percentage": 100,
+"email": "lucianakosidin87@gmail.com"
+}
+]
+}
+182.23.59.35 https://bucketlistplan.co.id/prepurchase?view=finish 13:25:56 2020-09-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi Sukmawati Rijanto",
+    "birthDate": "19810113", 
+"birthPlace": "Surabaya",
+"emailAddress": "fransiskasimanjuntak21@yahoo.com",
+"mobilePhone": "081910191938",
+"homePhone": "081910191938",
+"lineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"lineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60288,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"mailingLineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60288,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578205301810001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dewi Sukmawati Rijanto",
+    "birthDate": "19810113", 
+"birthPlace": "Surabaya",
+"emailAddress": "fransiskasimanjuntak21@yahoo.com",
+"mobilePhone": "081910191938",
+"homePhone": "081910191938",
+"lineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"lineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60288,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"mailingLineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60288,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578205301810001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92010738",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200923132556",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0080701659",
+"bankAccountName": "Dewi Sukmawati Rijanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "083856485304",
+"name": "Nathaniel Ferdian",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20020121",
+"percentage": 100,
+"email": "nathaniel.ferdian02@gmail.com"
+}
+]
+}
+182.23.59.35 https://bucketlistplan.co.id/prepurchase?view=finish 13:34:11 2020-09-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi Sukmawati Rijanto",
+    "birthDate": "19810113", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewi13jan@gmail.com",
+"mobilePhone": "081910191938",
+"homePhone": "081910191938",
+"lineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"lineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60288,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"mailingLineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60288,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578205301810001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dewi Sukmawati Rijanto",
+    "birthDate": "19810113", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewi13jan@gmail.com",
+"mobilePhone": "081910191938",
+"homePhone": "081910191938",
+"lineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"lineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60288,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman Pondok Indah Blok QX-7 RT 003 RW 009",
+"mailingLineAddress2": "Kel. Wiyung Kec. Wiyung - Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60288,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578205301810001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92010738",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200923133411",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0080701659",
+"bankAccountName": "Dewi Sukmawati Rijanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "083856485304",
+"name": "Nathaniel Ferdian",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20020121",
+"percentage": 100,
+"email": "nathaniel.ferdian02@gmail.com"
+}
+]
+}
+114.124.130.13 https://bucketlistplan.co.id/prepurchase?view=finish 18:12:37 2020-09-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Wilia Luna Rachma",
+    "birthDate": "19960113", 
+"birthPlace": "Kediri",
+"emailAddress": "wilialunarachma13@gmail.com",
+"mobilePhone": "081330818808",
+"homePhone": "081330818808",
+"lineAddress1": "Griya samudra asri blok A6 no 17",
+"lineAddress2": "Kramat jegu, Kec. Taman Sidoarjo",
+"cityAddress": "",
+"postalCode": 61257,
+"sameMailing": "1",
+"mailingLineAddress1": "Griya samudra asri blok A6 no 17",
+"mailingLineAddress2": "Kramat jegu, Kec. Taman Sidoarjo",
+"mailingCityAddress": "",
+"mailingpostalCode": 61257,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515065301960003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. IMPLORA SUKSES ABADI",
+				"bidangUsaha": "Kosmetik "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Wilia Luna Rachma",
+    "birthDate": "19960113", 
+"birthPlace": "Kediri",
+"emailAddress": "wilialunarachma13@gmail.com",
+"mobilePhone": "081330818808",
+"homePhone": "081330818808",
+"lineAddress1": "Griya samudra asri blok A6 no 17",
+"lineAddress2": "Kramat jegu, Kec. Taman Sidoarjo",
+"cityAddress": "",
+"postalCode": 61257,
+"sameMailing": "1",
+"mailingLineAddress1": "Griya samudra asri blok A6 no 17",
+"mailingLineAddress2": "Kramat jegu, Kec. Taman Sidoarjo",
+"mailingCityAddress": "",
+"mailingpostalCode": 61257,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515065301960003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. IMPLORA SUKSES ABADI",
+				"bidangUsaha": "Kosmetik "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 5,
+"referenceCode": "92011827",
+"productCode": "B.101",
+"parentProductId": 5,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 900000,
+"autoDebet": "Y",
+"purchaseDate": "20200923181237",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6670539910",
+"bankAccountName": "Wilia Luna Rachma",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0813831431263",
+"name": "Leli Khamaliana",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19750626",
+"percentage": 100,
+"email": "wilialuna991@gmail.com"
+}
+]
+}

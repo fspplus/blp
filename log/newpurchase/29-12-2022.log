@@ -1,0 +1,621 @@
+192.168.103.231 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 11:17:39 2022-12-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "RACHMI DEWI",
+    "birthDate": "19751212", 
+"birthPlace": "Medan",
+"emailAddress": "rachmidewi12@yahoo.com",
+"mobilePhone": "08126061475",
+"homePhone": "08126061475",
+"lineAddress1": "KOMP GRIYA KENANGA ASRI BLK C NO.3",
+"lineAddress2": "KEL. TANJUNG REJO, KEC MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP GRIYA KENANGA ASRI BLK C NO.3",
+"mailingLineAddress2": "KEL. TANJUNG REJO, KEC MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20122,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271025212750002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Everbright",
+				"bidangUsaha": "Manufacture dan distributor "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "RACHMI DEWI",
+    "birthDate": "19751212", 
+"birthPlace": "Medan",
+"emailAddress": "rachmidewi12@yahoo.com",
+"mobilePhone": "08126061475",
+"homePhone": "08126061475",
+"lineAddress1": "KOMP GRIYA KENANGA ASRI BLK C NO.3",
+"lineAddress2": "KEL. TANJUNG REJO, KEC MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP GRIYA KENANGA ASRI BLK C NO.3",
+"mailingLineAddress2": "KEL. TANJUNG REJO, KEC MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20122,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271025212750002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Everbright",
+				"bidangUsaha": "Manufacture dan distributor "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211440",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221229111737",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950434836",
+"bankAccountName": "RACHMI DEWI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126061475",
+"name": "MATTHEW SHAW ",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20070506",
+"percentage": 50,
+"email": "rachmidewi12@yahoo.com"
+},{
+"seqNo": "2",
+"mobileNo": "08126061475",
+"name": "CARINE SHAW",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20040111",
+"percentage": 50,
+"email": "rachmidewi12@yahoo.com"
+}
+]
+}
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:30:26 2022-12-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ERNI",
+    "birthDate": "19780815", 
+"birthPlace": "Medan",
+"emailAddress": "erni15081978@gmail.com",
+"mobilePhone": "085275898253",
+"homePhone": "085275898253",
+"lineAddress1": "JL P BARIS GG RESLETING NO.43 E LK XIII",
+"lineAddress2": "KEL. LALANG KEC. MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20127,
+"sameMailing": "1",
+"mailingLineAddress1": "JL P BARIS GG RESLETING NO.43 E LK XIII",
+"mailingLineAddress2": "KEL. LALANG KEC. MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20127,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271025508780004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. EVERBRIGHT",
+				"bidangUsaha": "MANUFACTURE DAN DISTRIBUTOR "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ERNI",
+    "birthDate": "19780815", 
+"birthPlace": "Medan",
+"emailAddress": "erni15081978@gmail.com",
+"mobilePhone": "085275898253",
+"homePhone": "085275898253",
+"lineAddress1": "JL P BARIS GG RESLETING NO.43 E LK XIII",
+"lineAddress2": "KEL. LALANG KEC. MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20127,
+"sameMailing": "1",
+"mailingLineAddress1": "JL P BARIS GG RESLETING NO.43 E LK XIII",
+"mailingLineAddress2": "KEL. LALANG KEC. MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20127,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271025508780004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. EVERBRIGHT",
+				"bidangUsaha": "MANUFACTURE DAN DISTRIBUTOR "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211440",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221229113025",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250057165",
+"bankAccountName": "ERNI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085275898253",
+"name": "KRISTIAN ONG",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20080124",
+"percentage": 50,
+"email": "erni15081978@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "085275898253",
+"name": "DWI BUDIARTO ONG",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20120301",
+"percentage": 50,
+"email": "erni15081978@gmail.com"
+}
+]
+}
+203.77.237.171 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:01:42 2022-12-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cristina Evalina",
+    "birthDate": "19930731", 
+"birthPlace": "Jakarta",
+"emailAddress": "cristinaevalina@gmail.com",
+"mobilePhone": "081317108641",
+"homePhone": "081317108641",
+"lineAddress1": "Perum Deptan Jl Padi V No 92",
+"lineAddress2": "RT 001 RW 029",
+"cityAddress": "",
+"postalCode": 17125,
+"sameMailing": "0",
+"mailingLineAddress1": "Perum Deptan Jl Kedelai 283",
+"mailingLineAddress2": "RT 003 RW 029",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17125,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275037107930010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Alun Indah",
+				"bidangUsaha": "Dealer & Service Truck "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Cristina Evalina",
+    "birthDate": "19930731", 
+"birthPlace": "Jakarta",
+"emailAddress": "cristinaevalina@gmail.com",
+"mobilePhone": "081317108641",
+"homePhone": "081317108641",
+"lineAddress1": "Perum Deptan Jl Padi V No 92",
+"lineAddress2": "RT 001 RW 029",
+"cityAddress": "",
+"postalCode": 17125,
+"sameMailing": "0",
+"mailingLineAddress1": "Perum Deptan Jl Kedelai 283",
+"mailingLineAddress2": "RT 003 RW 029",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17125,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275037107930010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Alun Indah",
+				"bidangUsaha": "Dealer & Service Truck "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91808463",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20221229130141",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4120036675",
+"bankAccountName": "CRISTINA EVALINA ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081386436522",
+"name": "LAMBAS SIMANJUNTAK",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19670823",
+"percentage": 100,
+"email": "evalinaeva2020@gmail.com"
+}
+]
+}
+192.168.103.231 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 14:16:23 2022-12-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "FENNI SE",
+    "birthDate": "19780815", 
+"birthPlace": "Medan",
+"emailAddress": "fenniglobal@gmail.com",
+"mobilePhone": "082166669556",
+"homePhone": "082166669556",
+"lineAddress1": "JL BINGKARUNG NO.2",
+"lineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL BINGKARUNG NO.2",
+"mailingLineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271105508780004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. ALFA SCORPII",
+				"bidangUsaha": "perdagangan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "FENNI SE",
+    "birthDate": "19780815", 
+"birthPlace": "Medan",
+"emailAddress": "fenniglobal@gmail.com",
+"mobilePhone": "082166669556",
+"homePhone": "082166669556",
+"lineAddress1": "JL BINGKARUNG NO.2",
+"lineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL BINGKARUNG NO.2",
+"mailingLineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271105508780004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. ALFA SCORPII",
+				"bidangUsaha": "perdagangan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211440",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221229141622",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221163400",
+"bankAccountName": "FENNI SE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082166669556",
+"name": "SUGIANTO",
+"famrel": ,
+"gender": "M",
+"birthDate": "19760816",
+"percentage": 100,
+"email": "fenniglobal@gmail.com"
+}
+]
+}
+192.168.103.231 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 14:19:56 2022-12-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "FENNI SE",
+    "birthDate": "19780815", 
+"birthPlace": "Medan",
+"emailAddress": "fenniglobal@gmail.com",
+"mobilePhone": "082166669556",
+"homePhone": "082166669556",
+"lineAddress1": "JL BINGKARUNG NO.2",
+"lineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL BINGKARUNG NO.2",
+"mailingLineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271105508780004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. ALFA SCORPII",
+				"bidangUsaha": "PERDAGANGAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "FENNI SE",
+    "birthDate": "19780815", 
+"birthPlace": "Medan",
+"emailAddress": "fenniglobal@gmail.com",
+"mobilePhone": "082166669556",
+"homePhone": "082166669556",
+"lineAddress1": "JL BINGKARUNG NO.2",
+"lineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL BINGKARUNG NO.2",
+"mailingLineAddress2": "KEL. PANDAU HULU II KEC. MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271105508780004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. ALFA SCORPII",
+				"bidangUsaha": "PERDAGANGAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211440",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221229141955",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221163400",
+"bankAccountName": "FENNI SE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082166669556",
+"name": "SUGIANTO",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19760816",
+"percentage": 100,
+"email": "fenniglobal@gmail.com"
+}
+]
+}
+192.168.103.231 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 16:05:06 2022-12-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ROSENI",
+    "birthDate": "19800624", 
+"birthPlace": "Medan",
+"emailAddress": "r1an98@yahoo.com",
+"mobilePhone": "0811651208",
+"homePhone": "0811651208",
+"lineAddress1": "JL. SOEKARNO HATTA/ ARENGKA I NO.1",
+"lineAddress2": "KEL. DELIMA KEC. TAMPAN",
+"cityAddress": "Pekanbaru",
+"postalCode": 28290,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SOEKARNO HATTA/ ARENGKA I NO.1",
+"mailingLineAddress2": "KEL. DELIMA KEC. TAMPAN",
+"mailingCityAddress": "Pekanbaru",
+"mailingpostalCode": 28290,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1471116406800002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD. RIAU ORBIT SEJAHTERA",
+				"bidangUsaha": "PERDAGANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ROSENI",
+    "birthDate": "19800624", 
+"birthPlace": "Medan",
+"emailAddress": "r1an98@yahoo.com",
+"mobilePhone": "0811651208",
+"homePhone": "0811651208",
+"lineAddress1": "JL. SOEKARNO HATTA/ ARENGKA I NO.1",
+"lineAddress2": "KEL. DELIMA KEC. TAMPAN",
+"cityAddress": "Pekanbaru",
+"postalCode": 28290,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SOEKARNO HATTA/ ARENGKA I NO.1",
+"mailingLineAddress2": "KEL. DELIMA KEC. TAMPAN",
+"mailingCityAddress": "Pekanbaru",
+"mailingpostalCode": 28290,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1471116406800002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD. RIAU ORBIT SEJAHTERA",
+				"bidangUsaha": "PERDAGANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211440",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221229160503",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221350820",
+"bankAccountName": "ROSENI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811651208",
+"name": "STANLEY HERO SANTIO",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20110209",
+"percentage": 50,
+"email": "r1an98@yahoo.com"
+},{
+"seqNo": "2",
+"mobileNo": "0811651208",
+"name": "SHANIA HERO SANTIO",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20180613",
+"percentage": 50,
+"email": "r1an98@yahoo.com"
+}
+]
+}

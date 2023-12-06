@@ -1,0 +1,297 @@
+45.126.185.235 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:21:11 2023-07-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kendrick",
+    "birthDate": "19911122", 
+"birthPlace": "Medan",
+"emailAddress": "kendrick_than@yahoo.com",
+"mobilePhone": "08122011600",
+"homePhone": "08122011600",
+"lineAddress1": "Komp. Cemara Residen No.BB 1",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp. Cemara Residen No.BB 1",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271062211910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Kendrick",
+    "birthDate": "19911122", 
+"birthPlace": "Medan",
+"emailAddress": "kendrick_than@yahoo.com",
+"mobilePhone": "08122011600",
+"homePhone": "08122011600",
+"lineAddress1": "Komp. Cemara Residen No.BB 1",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp. Cemara Residen No.BB 1",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271062211910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230728142110",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "9818989609",
+"bankAccountName": "Kendrick",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081357224732",
+"name": "Afrida",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19930923",
+"percentage": 100,
+"email": "kendrick_than@yahoo.com"
+}
+]
+}
+45.126.185.235 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:35:16 2023-07-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hasian",
+    "birthDate": "19670718", 
+"birthPlace": "Medan",
+"emailAddress": "Central_foto_digital@yahoo.com",
+"mobilePhone": "08126030704",
+"homePhone": "08126030704",
+"lineAddress1": "Jl. Kijang No.25",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20219,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kijang No.25",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20219,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271141807670003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Central Foto",
+				"bidangUsaha": "Grosir kamera dan alat2 kantor "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hasian",
+    "birthDate": "19670718", 
+"birthPlace": "Medan",
+"emailAddress": "Central_foto_digital@yahoo.com",
+"mobilePhone": "08126030704",
+"homePhone": "08126030704",
+"lineAddress1": "Jl. Kijang No.25",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20219,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kijang No.25",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20219,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271141807670003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Central Foto",
+				"bidangUsaha": "Grosir kamera dan alat2 kantor "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230728143513",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950075691",
+"bankAccountName": "Hasian",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126030704",
+"name": "Meng Guek Suwarni",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19721012",
+"percentage": 100,
+"email": "Central_foto_digital@yahoo.com"
+}
+]
+}
+45.126.185.235 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:51:42 2023-07-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DJOHAN ZUSLIANTO",
+    "birthDate": "19750108", 
+"birthPlace": "Medan",
+"emailAddress": "chendhandj@yahoo.com",
+"mobilePhone": "081380629588",
+"homePhone": "081380629588",
+"lineAddress1": "KP TANGSI RT/RW 003/006",
+"lineAddress2": "KEL.SUKADANAU KEC.CIKARANG BARAT",
+"cityAddress": "",
+"postalCode": 17530,
+"sameMailing": "0",
+"mailingLineAddress1": "JL PERJUANGAN NO 8 KEL.SUKADANAU",
+"mailingLineAddress2": "KEC.CIKARANG BARAT ",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216080801750003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT GUNUNG RAJA PAKSI",
+				"bidangUsaha": "BAJA "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DJOHAN ZUSLIANTO",
+    "birthDate": "19750108", 
+"birthPlace": "Medan",
+"emailAddress": "chendhandj@yahoo.com",
+"mobilePhone": "081380629588",
+"homePhone": "081380629588",
+"lineAddress1": "KP TANGSI RT/RW 003/006",
+"lineAddress2": "KEL.SUKADANAU KEC.CIKARANG BARAT",
+"cityAddress": "",
+"postalCode": 17530,
+"sameMailing": "0",
+"mailingLineAddress1": "JL PERJUANGAN NO 8 KEL.SUKADANAU",
+"mailingLineAddress2": "KEC.CIKARANG BARAT ",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216080801750003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT GUNUNG RAJA PAKSI",
+				"bidangUsaha": "BAJA "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311454",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230728145137",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1560006459442",
+"bankAccountName": "DJOHAN ZUSLIANTO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081380629588",
+"name": "NELSON CHANDRA",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20180404",
+"percentage": 100,
+"email": "chenhandj@yahoo.com"
+}
+]
+}

@@ -1,0 +1,495 @@
+36.71.143.42 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:14:19 2023-05-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hendri",
+    "birthDate": "19840104", 
+"birthPlace": "Lhokseumawe",
+"emailAddress": "mikehen_gonzales@yahoo.co.id",
+"mobilePhone": "081387700055",
+"homePhone": "081387700055",
+"lineAddress1": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"lineAddress2": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"mailingLineAddress2": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207260401840015",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "GC clip",
+				"bidangUsaha": "Stationery "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hendri",
+    "birthDate": "19840104", 
+"birthPlace": "Lhokseumawe",
+"emailAddress": "mikehen_gonzales@yahoo.co.id",
+"mobilePhone": "081387700055",
+"homePhone": "081387700055",
+"lineAddress1": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"lineAddress2": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"mailingLineAddress2": "Jl.Pancing Komp.Mutiara Residence Blok: G33",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207260401840015",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "GC clip",
+				"bidangUsaha": "Stationery "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311453",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230531091418",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1302093398",
+"bankAccountName": "Hendri",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081376624008",
+"name": "Mimy",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880322",
+"percentage": 100,
+"email": "mikehen_gonzales@yahoo.co.id"
+}
+]
+}
+114.122.11.162 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:53:03 2023-05-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MARIANCE DAMANIK",
+    "birthDate": "19820412", 
+"birthPlace": "Medan",
+"emailAddress": "andance21@gmail.com",
+"mobilePhone": "081361411367",
+"homePhone": "081361411367",
+"lineAddress1": "JL BAJAK II GANG JAYA NO 4C KELURAHAN HARJOSARI II KECAMATAN MEDAN AMPLAS KOTA MEDAN",
+"lineAddress2": "KOTA MEDAN",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "0",
+"mailingLineAddress1": "JL KONGSI GANG GENTENG DUSUN IIIA MARINDAL I DELI SERDANG",
+"mailingLineAddress2": "KOTA MEDAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20361,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1211015204820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "GURU",
+"namaLembaga": "SMP N 1 PATUMBAK DELI SERDANG",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MARIANCE DAMANIK",
+    "birthDate": "19820412", 
+"birthPlace": "Medan",
+"emailAddress": "andance21@gmail.com",
+"mobilePhone": "081361411367",
+"homePhone": "081361411367",
+"lineAddress1": "JL BAJAK II GANG JAYA NO 4C KELURAHAN HARJOSARI II KECAMATAN MEDAN AMPLAS KOTA MEDAN",
+"lineAddress2": "KOTA MEDAN",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "0",
+"mailingLineAddress1": "JL KONGSI GANG GENTENG DUSUN IIIA MARINDAL I DELI SERDANG",
+"mailingLineAddress2": "KOTA MEDAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20361,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1211015204820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "GURU",
+"namaLembaga": "SMP N 1 PATUMBAK DELI SERDANG",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72311457",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230531135302",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "019401017527537",
+"bankAccountName": "MARIANCE DAMANIK",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085362280909",
+"name": "HANDAYANI JONSON PARDEDE",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19821021",
+"percentage": 100,
+"email": "anda.dede@gmail.com"
+}
+]
+}
+114.122.6.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:55:16 2023-05-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ng I Sin",
+    "birthDate": "19711008", 
+"birthPlace": "Medan",
+"emailAddress": "asinmotor@yahoo.com",
+"mobilePhone": "082176486626",
+"homePhone": "082176486626",
+"lineAddress1": "Jl. PWS gg. Sriwijaya No. 19",
+"lineAddress2": "Kel sei putih timur II, kec medan petisah",
+"cityAddress": "",
+"postalCode": 20118,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. PWS gg. Sriwijaya No. 19",
+"mailingLineAddress2": "Kel sei putih timur II, kec medan petisah",
+"mailingCityAddress": "",
+"mailingpostalCode": 20118,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271190810710003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Indo Global Sumatera",
+				"bidangUsaha": "Sparepart "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ng I Sin",
+    "birthDate": "19711008", 
+"birthPlace": "Medan",
+"emailAddress": "asinmotor@yahoo.com",
+"mobilePhone": "082176486626",
+"homePhone": "082176486626",
+"lineAddress1": "Jl. PWS gg. Sriwijaya No. 19",
+"lineAddress2": "Kel sei putih timur II, kec medan petisah",
+"cityAddress": "",
+"postalCode": 20118,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. PWS gg. Sriwijaya No. 19",
+"mailingLineAddress2": "Kel sei putih timur II, kec medan petisah",
+"mailingCityAddress": "",
+"mailingpostalCode": 20118,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271190810710003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Indo Global Sumatera",
+				"bidangUsaha": "Sparepart "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230531135515",
+"bankCode": "028",
+"ropBankCode": "028",
+"bankAccount": "567810011351",
+"bankAccountName": "Ng I Sin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085262849788",
+"name": "Cindy Anggelina",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20001103",
+"percentage": 100,
+"email": "cindyanggelina10@gmail.com"
+}
+]
+}
+114.5.146.245 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:13:47 2023-05-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NINA SWASTY",
+    "birthDate": "19870823", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "ninaswasty.chin@gmail.com",
+"mobilePhone": "085297941555",
+"homePhone": "085297941555",
+"lineAddress1": "JL KUTILANG BAJENIS INDAH 24B, KEL. BULIAN, KEC. BAJENIS",
+"lineAddress2": "KOTA TEBING TINGGI",
+"cityAddress": "Tebing tinggi",
+"postalCode": 20612,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KUTILANG BAJENIS INDAH 24B, KEL. BULIAN, KEC. BAJENIS",
+"mailingLineAddress2": "KOTA TEBING TINGGI",
+"mailingCityAddress": "Tebing tinggi",
+"mailingpostalCode": 20612,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276046308870001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT BANK MESTIKA DHARMA",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NINA SWASTY",
+    "birthDate": "19870823", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "ninaswasty.chin@gmail.com",
+"mobilePhone": "085297941555",
+"homePhone": "085297941555",
+"lineAddress1": "JL KUTILANG BAJENIS INDAH 24B, KEL. BULIAN, KEC. BAJENIS",
+"lineAddress2": "KOTA TEBING TINGGI",
+"cityAddress": "Tebing tinggi",
+"postalCode": 20612,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KUTILANG BAJENIS INDAH 24B, KEL. BULIAN, KEC. BAJENIS",
+"mailingLineAddress2": "KOTA TEBING TINGGI",
+"mailingCityAddress": "Tebing tinggi",
+"mailingpostalCode": 20612,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276046308870001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT BANK MESTIKA DHARMA",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230531141347",
+"bankCode": "151",
+"ropBankCode": "151",
+"bankAccount": "20132004282",
+"bankAccountName": "NINA SWASTY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082277399333",
+"name": "JONI",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19800121",
+"percentage": 100,
+"email": "cjoni9798@gmail.com"
+}
+]
+}
+114.5.146.245 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:34:29 2023-05-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "JOHAN",
+    "birthDate": "19911201", 
+"birthPlace": "Medan",
+"emailAddress": "johanlim7788@gmail.com",
+"mobilePhone": "085370398208",
+"homePhone": "085370398208",
+"lineAddress1": "JL PUKAT II GG SENIMAN NO 8-A ",
+"lineAddress2": "KEL. BANTAN TIMUR, KEC. MEDAN TEMBUNG",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PUKAT II GG SENIMAN NO 8-A ",
+"mailingLineAddress2": "KEL. BANTAN TIMUR, KEC. MEDAN TEMBUNG",
+"mailingCityAddress": "",
+"mailingpostalCode": 20224,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271100112910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PERINTIS PERKASA",
+				"bidangUsaha": "OTOMOTIF "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "JOHAN",
+    "birthDate": "19911201", 
+"birthPlace": "Medan",
+"emailAddress": "johanlim7788@gmail.com",
+"mobilePhone": "085370398208",
+"homePhone": "085370398208",
+"lineAddress1": "JL PUKAT II GG SENIMAN NO 8-A ",
+"lineAddress2": "KEL. BANTAN TIMUR, KEC. MEDAN TEMBUNG",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PUKAT II GG SENIMAN NO 8-A ",
+"mailingLineAddress2": "KEL. BANTAN TIMUR, KEC. MEDAN TEMBUNG",
+"mailingCityAddress": "",
+"mailingpostalCode": 20224,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271100112910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PERINTIS PERKASA",
+				"bidangUsaha": "OTOMOTIF "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230531143428",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305175362",
+"bankAccountName": "JOHAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085370398208",
+"name": "TIFFANY PRISCILLIA LEUNGNATA",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20210601",
+"percentage": 100,
+"email": "johanlim7788@gmail.com"
+}
+]
+}

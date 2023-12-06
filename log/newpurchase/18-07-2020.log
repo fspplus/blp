@@ -1,0 +1,495 @@
+202.67.37.255 https://koreaversikamu.co.id/prepurchase?view=finish 13:21:38 2020-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "LUSIANA TUNGGANI",
+    "birthDate": "19770822", 
+"birthPlace": "UJUNG PQNDANG",
+"emailAddress": "lusi.depowerhanwha@gmail.com",
+"mobilePhone": "082197165248",
+"homePhone": "082197165248",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7371116208770017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "LUSIANA TUNGGANI",
+    "birthDate": "19770822", 
+"birthPlace": "UJUNG PQNDANG",
+"emailAddress": "lusi.depowerhanwha@gmail.com",
+"mobilePhone": "082197165248",
+"homePhone": "082197165248",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7371116208770017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011426",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200718132138",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7685068818",
+"bankAccountName": "LUSIANA TUNGGANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082197165248",
+"name": "YOHANES BEBY MARVIYANTO",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20001115",
+"percentage": 100,
+"email": "lusi.depowerhanwha@gmail.com"
+}
+]
+}
+202.67.37.255 https://www.koreaversikamu.co.id/prepurchase?view=finish 13:49:22 2020-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YOHANES BEBY M",
+    "birthDate": "20001115", 
+"birthPlace": "GOWA",
+"emailAddress": "lusi.depowerhanwha@gmail.com",
+"mobilePhone": "082197165248",
+"homePhone": "082197165248",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7306081511000002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "YOHANES BEBY M",
+    "birthDate": "20001115", 
+"birthPlace": "GOWA",
+"emailAddress": "lusi.depowerhanwha@gmail.com",
+"mobilePhone": "082197165248",
+"homePhone": "082197165248",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7306081511000002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011426",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200718134921",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7685068818",
+"bankAccountName": "LUSIANA TUNGGANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082197165248",
+"name": "Lusiana tunggani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19770822",
+"percentage": 100,
+"email": "lusi.depowerhanwha@gmail.com"
+}
+]
+}
+202.67.37.255 https://www.koreaversikamu.co.id/prepurchase?view=finish 14:39:28 2020-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YOHANES BEBY M",
+    "birthDate": "20001115", 
+"birthPlace": "Gowa",
+"emailAddress": "lusi.depowerhanwha@gmail.com",
+"mobilePhone": "085340007453",
+"homePhone": "085340007453",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7306081511000002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Beby",
+				"bidangUsaha": "Perdagangan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "YOHANES BEBY M",
+    "birthDate": "20001115", 
+"birthPlace": "Gowa",
+"emailAddress": "lusi.depowerhanwha@gmail.com",
+"mobilePhone": "085340007453",
+"homePhone": "085340007453",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7306081511000002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Beby",
+				"bidangUsaha": "Perdagangan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011426",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200718143928",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7685068818",
+"bankAccountName": "LUSIANA TUNGGANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082197165248",
+"name": "Lusiana tunggani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19770822",
+"percentage": 100,
+"email": "lusi.depowerhanwha@gmail.com"
+}
+]
+}
+202.67.37.255 https://www.koreaversikamu.co.id/prepurchase?view=finish 14:43:39 2020-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YOHANES BEBY M",
+    "birthDate": "20001115", 
+"birthPlace": "Gowa",
+"emailAddress": "yohannesneron@gmail.com",
+"mobilePhone": "085340007453",
+"homePhone": "085340007453",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7306081511000002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "YOHANES BEBY M",
+    "birthDate": "20001115", 
+"birthPlace": "Gowa",
+"emailAddress": "yohannesneron@gmail.com",
+"mobilePhone": "085340007453",
+"homePhone": "085340007453",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7306081511000002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011426",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200718144338",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7685068818",
+"bankAccountName": "LUSIANA TUNGGANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082197165248",
+"name": "Lusiana tunggani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19271229",
+"percentage": 100,
+"email": "lusi.depowerhanwha@gmail.com"
+}
+]
+}
+103.108.28.19 https://www.koreaversikamu.co.id/prepurchase?view=finish 14:54:59 2020-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HENDRIK OTTAY",
+    "birthDate": "19270719", 
+"birthPlace": "Gowa",
+"emailAddress": "hendrikottaylusi@gmail.com",
+"mobilePhone": "082393663367",
+"homePhone": "082393663367",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7306082203670002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HENDRIK OTTAY",
+    "birthDate": "19270719", 
+"birthPlace": "Gowa",
+"emailAddress": "hendrikottaylusi@gmail.com",
+"mobilePhone": "082393663367",
+"homePhone": "082393663367",
+"lineAddress1": "JLN MANGKA DG BOMBONG",
+"lineAddress2": "SOMBAOPU",
+"cityAddress": "",
+"postalCode": 92117,
+"sameMailing": "1",
+"mailingLineAddress1": "JLN MANGKA DG BOMBONG",
+"mailingLineAddress2": "SOMBAOPU",
+"mailingCityAddress": "",
+"mailingpostalCode": 92117,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7306082203670002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011426",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200718145458",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7685068818",
+"bankAccountName": "LUSIANA TUNGGANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082197165248",
+"name": "Lusiana tunggani",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19271229",
+"percentage": 100,
+"email": "lusi.depowerhanwha@gmail.com"
+}
+]
+}

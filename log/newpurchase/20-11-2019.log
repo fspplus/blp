@@ -1,0 +1,66 @@
+36.71.225.67 https://koreaversikamu.co.id/prepurchase?view=finish 22:22:33 2019-11-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tria Puspita Sari",
+    "birthDate": "19950131", 
+"birthPlace": "Jakarta",
+"emailAddress": "triasoewidjojo@gmail.com",
+"mobilePhone": "083872528854",
+"homePhone": "6283872528854",
+"lineAddress1": "Jl. Kebagusan Wates (Sagu) No.28 RT.10/RW.05 ",
+"lineAddress2": "Jagakarsa",
+"cityAddress": "",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kebagusan Wates (Sagu) No.28 RT.10/RW.05 ",
+"mailingLineAddress2": "Jagakarsa",
+"mailingCityAddress": "",
+"mailingpostalCode": 12620,
+"gender": "F",
+"jobType": "job21",
+"identityType": 1,
+"identityNumber": "3174097101950005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191120222232",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8691310833",
+"bankAccountName": "Tria Puspita Sari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085777691439",
+"name": "Desi Purnawati",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19920127",
+"percentage": 100,
+"email": "desipurn@gmail.com"
+}
+]
+}

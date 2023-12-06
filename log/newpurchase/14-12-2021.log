@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:49:47 2021-12-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Brusi Devison Sibarani",
+    "birthDate": "19801128", 
+"birthPlace": "Medan",
+"emailAddress": "brusivison10@gmail.com",
+"mobilePhone": "081283759977",
+"homePhone": "081283759977",
+"lineAddress1": "Taman Cileungsi AA 8/9 ",
+"lineAddress2": "Cileungsi-Jawa Barat",
+"cityAddress": "",
+"postalCode": 16820,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Bumi Cimanggis Indah Blok G6 No 1, Depok 16461",
+"mailingLineAddress2": "Jawa Barat",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16461,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201072811800009",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Freeeport Indonesia",
+				"bidangUsaha": "Pertambangan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Brusi Devison Sibarani",
+    "birthDate": "19801128", 
+"birthPlace": "Medan",
+"emailAddress": "brusivison10@gmail.com",
+"mobilePhone": "081283759977",
+"homePhone": "081283759977",
+"lineAddress1": "Taman Cileungsi AA 8/9 ",
+"lineAddress2": "Cileungsi-Jawa Barat",
+"cityAddress": "",
+"postalCode": 16820,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Bumi Cimanggis Indah Blok G6 No 1, Depok 16461",
+"mailingLineAddress2": "Jawa Barat",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16461,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201072811800009",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Freeeport Indonesia",
+				"bidangUsaha": "Pertambangan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909987",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20211214164946",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1662603478",
+"bankAccountName": "Tomuria Rumapea",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082113150020",
+"name": "Tomuria Rumapea",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19900518",
+"percentage": 100,
+"email": "mundatomuria@gmail.com"
+}
+]
+}

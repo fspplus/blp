@@ -1,0 +1,99 @@
+180.247.249.254 https://www.bucketlistplan.co.id/prepurchase?view=finish 14:51:16 2020-07-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nirlan hosea",
+    "birthDate": "19640703", 
+"birthPlace": "Padang",
+"emailAddress": "alluanda2017@gmail.com",
+"mobilePhone": "0811234525",
+"homePhone": "0811234525",
+"lineAddress1": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"lineAddress2": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"cityAddress": "Tangerang",
+"postalCode": 15560,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"mailingLineAddress2": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15560,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3603124307640005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Nirlan hosea",
+    "birthDate": "19640703", 
+"birthPlace": "Padang",
+"emailAddress": "alluanda2017@gmail.com",
+"mobilePhone": "0811234525",
+"homePhone": "0811234525",
+"lineAddress1": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"lineAddress2": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"cityAddress": "Tangerang",
+"postalCode": 15560,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"mailingLineAddress2": "Jl.Pesut B10 No:35A kutabumi tangerang banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15560,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3603124307640005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200731145115",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5875192695",
+"bankAccountName": "Nirlan Hosea",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811234525",
+"name": "Alluanda",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19850602",
+"percentage": 100,
+"email": "alluanda2017@gmail.com"
+}
+]
+}

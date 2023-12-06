@@ -1,0 +1,99 @@
+114.122.21.27 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:03:05 2023-07-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Billy",
+    "birthDate": "19911021", 
+"birthPlace": "Medan",
+"emailAddress": "bieliey@yahoo.com",
+"mobilePhone": "0819820082",
+"homePhone": "0819820082",
+"lineAddress1": "Jl. Mangaan I no 180 LK VI",
+"lineAddress2": "Kel mabar kec medan deli",
+"cityAddress": "Medan",
+"postalCode": 20241,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Mangaan I no 180 LK VI",
+"mailingLineAddress2": "Kel mabar kec medan deli",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20241,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271062110910001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sinar mulia",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Billy",
+    "birthDate": "19911021", 
+"birthPlace": "Medan",
+"emailAddress": "bieliey@yahoo.com",
+"mobilePhone": "0819820082",
+"homePhone": "0819820082",
+"lineAddress1": "Jl. Mangaan I no 180 LK VI",
+"lineAddress2": "Kel mabar kec medan deli",
+"cityAddress": "Medan",
+"postalCode": 20241,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Mangaan I no 180 LK VI",
+"mailingLineAddress2": "Kel mabar kec medan deli",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20241,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271062110910001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sinar mulia",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311462",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230704160302",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222529555",
+"bankAccountName": "Billy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087774013896",
+"name": "Monica winata",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19931007",
+"percentage": 100,
+"email": "monicawi0792@gmail.com"
+}
+]
+}

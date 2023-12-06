@@ -1,0 +1,198 @@
+180.241.25.113 https://www.bucketlistplan.co.id/prepurchase?view=finish 17:06:12 2020-08-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Robin Jovitan",
+    "birthDate": "19830929", 
+"birthPlace": "Medan",
+"emailAddress": "jovitan.robin@gmail.com",
+"mobilePhone": "08116507872",
+"homePhone": "08116507872",
+"lineAddress1": "Jl.NNibung II No:108",
+"lineAddress2": "Jl.NNibung II No:108",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.NNibung II No:108",
+"mailingLineAddress2": "Jl.NNibung II No:108",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271192909830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Robin com",
+				"bidangUsaha": "Handphone "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Robin Jovitan",
+    "birthDate": "19830929", 
+"birthPlace": "Medan",
+"emailAddress": "jovitan.robin@gmail.com",
+"mobilePhone": "08116507872",
+"homePhone": "08116507872",
+"lineAddress1": "Jl.NNibung II No:108",
+"lineAddress2": "Jl.NNibung II No:108",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.NNibung II No:108",
+"mailingLineAddress2": "Jl.NNibung II No:108",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271192909830001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Robin com",
+				"bidangUsaha": "Handphone "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200829170611",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250099411",
+"bankAccountName": "Robin Jovitan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116507872",
+"name": "Sally Efendy",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920406",
+"percentage": 100,
+"email": "jovitan.robin@gmail.com"
+}
+]
+}
+114.122.15.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 18:36:24 2020-08-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Arman Chandra",
+    "birthDate": "19800812", 
+"birthPlace": "Tanjung pura",
+"emailAddress": "arman.chandra@gmail.com",
+"mobilePhone": "0811600966",
+"homePhone": "0811600966",
+"lineAddress1": "Kimsa Baru No: 11 LK XII",
+"lineAddress2": "Kimsa Baru No: 11 LK XII",
+"cityAddress": "",
+"postalCode": 20111,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Tembakau Deli 1 No:2 i",
+"mailingLineAddress2": "Jl.Tembakau Deli 1 No:2 i",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20111,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271111208800004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pabrik plastik",
+				"bidangUsaha": "Plastik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Arman Chandra",
+    "birthDate": "19800812", 
+"birthPlace": "Tanjung pura",
+"emailAddress": "arman.chandra@gmail.com",
+"mobilePhone": "0811600966",
+"homePhone": "0811600966",
+"lineAddress1": "Kimsa Baru No: 11 LK XII",
+"lineAddress2": "Kimsa Baru No: 11 LK XII",
+"cityAddress": "",
+"postalCode": 20111,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Tembakau Deli 1 No:2 i",
+"mailingLineAddress2": "Jl.Tembakau Deli 1 No:2 i",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20111,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271111208800004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pabrik plastik",
+				"bidangUsaha": "Plastik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200829183624",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0229722222",
+"bankAccountName": "Arman Chandra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811600966",
+"name": "Meilynda",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19830519",
+"percentage": 100,
+"email": "arman.chandra@gmail.com"
+}
+]
+}

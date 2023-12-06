@@ -1,0 +1,396 @@
+140.213.19.45 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:00:18 2023-09-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Albert Kusuma Lim",
+    "birthDate": "19600530", 
+"birthPlace": "Medan",
+"emailAddress": "antarajaya83@gmail.com",
+"mobilePhone": "0811609252",
+"homePhone": "0811609252",
+"lineAddress1": "Jl. Modong Lubis No.20AA",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Modong Lubis No.20AA",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job15",
+"identityType": 1,
+"identityNumber": "1271183005600001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Albert Kusuma Lim",
+    "birthDate": "19600530", 
+"birthPlace": "Medan",
+"emailAddress": "antarajaya83@gmail.com",
+"mobilePhone": "0811609252",
+"homePhone": "0811609252",
+"lineAddress1": "Jl. Modong Lubis No.20AA",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Modong Lubis No.20AA",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job15",
+"identityType": 1,
+"identityNumber": "1271183005600001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230903110017",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950968890",
+"bankAccountName": "Albert Kusuma Lim",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811609252",
+"name": "Tju Suan Sukanto",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19600805",
+"percentage": 100,
+"email": "antarajaya83@gmail.com"
+}
+]
+}
+140.213.19.45 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:13:35 2023-09-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Go Rusli",
+    "birthDate": "19750622", 
+"birthPlace": "Pematangsiantar",
+"emailAddress": "go.rusli@yahoo.co.id",
+"mobilePhone": "082210333383",
+"homePhone": "082210333383",
+"lineAddress1": "Jl. Pukat Banting II no.17B",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Pukat Banting II no.17B",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271142204750002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Go Rusli",
+    "birthDate": "19750622", 
+"birthPlace": "Pematangsiantar",
+"emailAddress": "go.rusli@yahoo.co.id",
+"mobilePhone": "082210333383",
+"homePhone": "082210333383",
+"lineAddress1": "Jl. Pukat Banting II no.17B",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Pukat Banting II no.17B",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271142204750002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230903111334",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950530916",
+"bankAccountName": "Go Rusli",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087868642888",
+"name": "Hebert Gozali",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20040514",
+"percentage": 100,
+"email": "go.rusli@gmail.com"
+}
+]
+}
+140.213.19.45 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:33:01 2023-09-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Risnawaty",
+    "birthDate": "19860603", 
+"birthPlace": "Kisaran",
+"emailAddress": "Risnawaty.tjhoe@gmail.com",
+"mobilePhone": "08196009899",
+"homePhone": "08196009899",
+"lineAddress1": "Jl. Dewi Sartika No.42",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Dewi Sartika No.42",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1209194306860004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Risnawaty",
+    "birthDate": "19860603", 
+"birthPlace": "Kisaran",
+"emailAddress": "Risnawaty.tjhoe@gmail.com",
+"mobilePhone": "08196009899",
+"homePhone": "08196009899",
+"lineAddress1": "Jl. Dewi Sartika No.42",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Dewi Sartika No.42",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1209194306860004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230903133301",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1951209291",
+"bankAccountName": "Risnawaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08196009899",
+"name": "Cherry Joanne Tanaka",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20141123",
+"percentage": 100,
+"email": "Risnawaty.tjhoe@gmail.com"
+}
+]
+}
+140.213.19.45 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:15:12 2023-09-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Soenarjo Widjaja",
+    "birthDate": "19660718", 
+"birthPlace": "Nedan",
+"emailAddress": "soenarjowidjaja@gmail.com",
+"mobilePhone": "0811617373",
+"homePhone": "0811617373",
+"lineAddress1": "Jl. Brighend Katamso Dalam 64 J",
+"lineAddress2": "Udem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Brighend Katamso Dalam 64 J",
+"mailingLineAddress2": "Udem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271151807660001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Soenarjo Widjaja",
+    "birthDate": "19660718", 
+"birthPlace": "Nedan",
+"emailAddress": "soenarjowidjaja@gmail.com",
+"mobilePhone": "0811617373",
+"homePhone": "0811617373",
+"lineAddress1": "Jl. Brighend Katamso Dalam 64 J",
+"lineAddress2": "Udem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Brighend Katamso Dalam 64 J",
+"mailingLineAddress2": "Udem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271151807660001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230903141511",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000784134",
+"bankAccountName": "Sonarjo Widjaja",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811617373",
+"name": "Rulati",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19710423",
+"percentage": 100,
+"email": "soenarjowidjaja@gmail.com"
+}
+]
+}

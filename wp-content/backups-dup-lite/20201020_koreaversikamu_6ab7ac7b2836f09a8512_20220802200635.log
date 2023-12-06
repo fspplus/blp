@@ -1,0 +1,90 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 2, 2022 8:06 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.7
+WORDPRESS:	6.0.1
+PHP INFO:	7.3.12 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 19MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20201020_koreaversikamu_6ab7ac7b2836f09a8512_20220802200635_database.sql
+SQL FILE SIZE: 18.34MB (19227839)
+SQL FILE TIME: 2022-08-02 20:06:47
+SQL RUNTIME: 0.93 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/bucketlistplan.co.id/web
+ARCHIVE FILE: 20201020_koreaversikamu_6ab7ac7b2836f09a8512_20220802200635_archive.zip
+FILTERS: *OFF*
+DIRS:
+	/var/www/bucketlistplan.co.id/web/assets
+	/var/www/bucketlistplan.co.id/web/controller
+	/var/www/bucketlistplan.co.id/web/css
+	/var/www/bucketlistplan.co.id/web/js
+	/var/www/bucketlistplan.co.id/web/purchase
+	/var/www/bucketlistplan.co.id/web/views
+	/var/www/bucketlistplan.co.id/web/ws
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0
+SQL ADDED: 20201020_koreaversikamu_6ab7ac7b2836f09a8512_20220802200635_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /var/www/bucketlistplan.co.id/web/wp-content/backups-dup-lite/tmp/20201020_koreaversikamu_6ab7ac7b2836f09a8512_20220802200635_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 0
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 2.95MB
+ARCHIVE RUNTIME: 1.20 sec.
+MEMORY STACK: 19MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip /var/www/bucketlistplan.co.id/web/wp-content/backups-dup-lite/tmp/20201020_koreaversikamu_6ab7ac7b2836f09a8512_20220802200635_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 18.34MB
+INSTALLER FILE: 64.6KB
+ARCHIVE FILE: 3.94MB 
+EXPECTED FILE/DIRECTORY COUNT: 0
+ACTUAL FILE/DIRECTORY COUNT: 0
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[4]
+TOTAL PROCESS RUNTIME: 2.82 sec.
+PEAK PHP MEMORY USED: 23MB
+DONE PROCESSING => 20201020_koreaversikamu August 2, 2022 8:06 pm
+

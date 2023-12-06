@@ -1,0 +1,198 @@
+203.78.121.66 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:52:29 2021-02-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yulin tirsani sipi",
+    "birthDate": "19680720", 
+"birthPlace": "Palopo",
+"emailAddress": "tirsaniy@gmsil.com",
+"mobilePhone": "082336331230",
+"homePhone": "-",
+"lineAddress1": "Perum bumirejo permai H/10 rt 004/rw001",
+"lineAddress2": "Sumerejo lumajang jatim",
+"cityAddress": "",
+"postalCode": 65318,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum bumirejo permai H/10 rt 004/rw001",
+"mailingLineAddress2": "Sumerejo lumajang jatim",
+"mailingCityAddress": "",
+"mailingpostalCode": 65318,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3508156007680001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko violita",
+				"bidangUsaha": "Perdagangan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yulin tirsani sipi",
+    "birthDate": "19680720", 
+"birthPlace": "Palopo",
+"emailAddress": "tirsaniy@gmsil.com",
+"mobilePhone": "082336331230",
+"homePhone": "-",
+"lineAddress1": "Perum bumirejo permai H/10 rt 004/rw001",
+"lineAddress2": "Sumerejo lumajang jatim",
+"cityAddress": "",
+"postalCode": 65318,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum bumirejo permai H/10 rt 004/rw001",
+"mailingLineAddress2": "Sumerejo lumajang jatim",
+"mailingCityAddress": "",
+"mailingpostalCode": 65318,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3508156007680001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko violita",
+				"bidangUsaha": "Perdagangan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92012321",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210217165228",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "632801008980539",
+"bankAccountName": "Yulin tirsani siphi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081217963457",
+"name": "Violita yulpha eka putri",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19960128",
+"percentage": 100,
+"email": "violitayulpha@gmail.com"
+}
+]
+}
+114.122.137.63 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 21:43:59 2021-02-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MISWANDI",
+    "birthDate": "19790612", 
+"birthPlace": "PACITAN",
+"emailAddress": "miswandiiwan12@gmail.com",
+"mobilePhone": "085756501191",
+"homePhone": "085756501191",
+"lineAddress1": "Jalan Bandulan Simpang 1-F / 56",
+"lineAddress2": "RT. 013/RW. 004, Kel. Bandulan, Kec. Sukun,",
+"cityAddress": "Malang",
+"postalCode": 65146,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Bandulan Simpang 1-F / 56",
+"mailingLineAddress2": "RT. 013/RW. 004, Kel. Bandulan, Kec. Sukun,",
+"mailingCityAddress": "Malang",
+"mailingpostalCode": 65146,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3509031206790004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "MARTABAK TOP ONE",
+				"bidangUsaha": "KULINER "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MISWANDI",
+    "birthDate": "19790612", 
+"birthPlace": "PACITAN",
+"emailAddress": "miswandiiwan12@gmail.com",
+"mobilePhone": "085756501191",
+"homePhone": "085756501191",
+"lineAddress1": "Jalan Bandulan Simpang 1-F / 56",
+"lineAddress2": "RT. 013/RW. 004, Kel. Bandulan, Kec. Sukun,",
+"cityAddress": "Malang",
+"postalCode": 65146,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Bandulan Simpang 1-F / 56",
+"mailingLineAddress2": "RT. 013/RW. 004, Kel. Bandulan, Kec. Sukun,",
+"mailingCityAddress": "Malang",
+"mailingpostalCode": 65146,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3509031206790004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "MARTABAK TOP ONE",
+				"bidangUsaha": "KULINER "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92112989",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210217214359",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0112650405",
+"bankAccountName": "MISWANDI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085756501191",
+"name": "FAIS NAUFAL ISWANDIKA",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20080724",
+"percentage": 100,
+"email": "miswandiiwan12@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+115.178.208.130 https://koreaversikamu.co.id/prepurchase?view=finish 14:58:40 2020-09-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Guan Hui",
+    "birthDate": "19870108", 
+"birthPlace": "Medan",
+"emailAddress": "guanhui77888@gmail.com",
+"mobilePhone": "081265507407",
+"homePhone": "081265507407",
+"lineAddress1": "Jl.Pukat Banting IV komplek Mustika Graha No:16",
+"lineAddress2": "Jl.Selamat Ketaren komp.Mutiara Palace Blok:B3",
+"cityAddress": "Medan",
+"postalCode": 20223,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pukat Banting IV komplek Mustika Graha No:16",
+"mailingLineAddress2": "Jl.Selamat Ketaren komp.Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271140801870005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Asia Textile",
+				"bidangUsaha": "Kain "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Guan Hui",
+    "birthDate": "19870108", 
+"birthPlace": "Medan",
+"emailAddress": "guanhui77888@gmail.com",
+"mobilePhone": "081265507407",
+"homePhone": "081265507407",
+"lineAddress1": "Jl.Pukat Banting IV komplek Mustika Graha No:16",
+"lineAddress2": "Jl.Selamat Ketaren komp.Mutiara Palace Blok:B3",
+"cityAddress": "Medan",
+"postalCode": 20223,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pukat Banting IV komplek Mustika Graha No:16",
+"mailingLineAddress2": "Jl.Selamat Ketaren komp.Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271140801870005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Asia Textile",
+				"bidangUsaha": "Kain "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200925145840",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305135221",
+"bankAccountName": "Guan Hui",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081265507407",
+"name": "Limyati",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880510",
+"percentage": 100,
+"email": "guanhui77888@gmail.com"
+}
+]
+}

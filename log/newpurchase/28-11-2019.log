@@ -1,0 +1,2339 @@
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:28:42 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Jl Kampung bali 21 no 8",
+"lineAddress2": "Tanah Abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128102840",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:33:02 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Kampung bali XXI No 8",
+"lineAddress2": "Tanah abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128103301",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:37:42 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans ",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Kampung bali XXI no 8",
+"lineAddress2": "Tanah abang ",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier, pacific century place lt 16",
+"mailingLineAddress2": "Scbd lot 10, Jl Jend sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128103741",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita susilowaty ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:40:49 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans ",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Kampung bali 21 no 8",
+"lineAddress2": "Tanah abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier, pacific century place lt 16",
+"mailingLineAddress2": "Scbd lot 10, Jl Jend sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128104048",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita susilowaty ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:44:10 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Jl Kampung Bali XXI No 8",
+"lineAddress2": "Tanah Abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128104408",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:50:21 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "kampung bali 21 no 8",
+"lineAddress2": "tanah abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128105020",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:54:22 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Jl Kampung Bali 21 no 8",
+"lineAddress2": "Tanah Abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128105422",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 10:58:34 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Jl Kampung bali 21 no 8",
+"lineAddress2": "Tanah Abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128105834",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 99,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 11:01:28 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans ",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "JL Kampung Bali 21 no 8",
+"lineAddress2": "Tanah abang ",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier, pacific century place lt 16",
+"mailingLineAddress2": "Scbd lot 10, Jl Jend sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128110128",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita susilowaty ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 11:09:12 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans ",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Kampung Bali 21 no 8",
+"lineAddress2": "Tanah abang ",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier, pacific century place lt 16",
+"mailingLineAddress2": "Scbd lot 10, Jl Jend sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128110911",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita susilowaty ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 11:13:08 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "kampung bali 21 no 8",
+"lineAddress2": "tanah abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128111306",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@ipc.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 11:43:32 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Kampung bali 21 no 8",
+"lineAddress2": "Tanah Abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier sekuritas, Pacific Century Place lt 16",
+"mailingLineAddress2": "SCBD lot 10, Jl Jend Sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128114331",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita Susilowaty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+202.72.223.202 https://koreaversikamu.co.id/prepurchase?view=finish 13:45:30 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Samantha Evans ",
+    "birthDate": "19971114", 
+"birthPlace": "Jakarta",
+"emailAddress": "samantha.evans45@yahoo.co.id",
+"mobilePhone": "081294052633",
+"homePhone": "02158904015",
+"lineAddress1": "Kampung bali 21 no 8",
+"lineAddress2": "Tanah abang",
+"cityAddress": "",
+"postalCode": 10250,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Indo Premier, pacific century place lt 16",
+"mailingLineAddress2": "Scbd lot 10, Jl Jend sudirman kav 52-53",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12190,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3171075411970004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128134528",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580037866",
+"bankAccountName": "Rita susilowaty ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818841971",
+"name": "Rita susilowaty ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710418",
+"percentage": 100,
+"email": "rita.susilowaty@yahoo.co.id"
+}
+]
+}
+180.252.252.100 https://koreaversikamu.co.id/prepurchase?view=finish 16:20:19 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Leni Apriliasari",
+    "birthDate": "19950401", 
+"birthPlace": "Lumajang",
+"emailAddress": "leniaprelia19@gmail.com",
+"mobilePhone": "082297233750",
+"homePhone": "082297233750",
+"lineAddress1": "KOMP. STP Jl. AUP 001/009 ",
+"lineAddress2": "Pasar Minggu Jakarta Selatan",
+"cityAddress": "",
+"postalCode": 12520,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl Raya Karang Bolong KM 140 Karang Suraga Cinangka Serang Banten (Syaqua Hatchery)",
+"mailingLineAddress2": "PT SYAQUA INDONESIA",
+"mailingCityAddress": "Serang",
+"mailingpostalCode": 42167,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3504014104950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128162019",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0481310104",
+"bankAccountName": "Leni Apriliasari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085806572272",
+"name": "RACHMAD MASRUM",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580616",
+"percentage": 100,
+"email": "leni.aprilia@syaqua.com"
+}
+]
+}
+}
+180.252.252.100 https://koreaversikamu.co.id/prepurchase?view=finish 16:32:02 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Leni Apriliasari",
+    "birthDate": "19950401", 
+"birthPlace": "lumajang",
+"emailAddress": "leniaprelia19@gmail.com",
+"mobilePhone": "082297233750",
+"homePhone": "082297233750",
+"lineAddress1": "STP Jakarta",
+"lineAddress2": "KOMP. STP Jl. AUP 001/009 Pasar Minggu",
+"cityAddress": "",
+"postalCode": 12520,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl Raya Karang Bolong KM 140 Karang Suraga Cinangka Serang Banten (Syaqua Hatchery)",
+"mailingLineAddress2": "PT SYAQUA INDONESIA",
+"mailingCityAddress": "Serang",
+"mailingpostalCode": 42167,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3504014104950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128163201",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0481310104",
+"bankAccountName": "Leni Apriliasari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085806572272",
+"name": "Rachmad Masrum",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580616",
+"percentage": 100,
+"email": "leniaprelia19@gmail.com"
+}
+]
+}
+}
+180.252.252.100 https://koreaversikamu.co.id/prepurchase?view=finish 16:51:49 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Leni Apriliasari",
+    "birthDate": "19950401", 
+"birthPlace": "lumajang",
+"emailAddress": "leniaprelia19@gmail.com",
+"mobilePhone": "082297233750",
+"homePhone": "082297233750",
+"lineAddress1": "KOMP. STP JL.AUP PASAR MINGGU",
+"lineAddress2": "PASAR MINGGU",
+"cityAddress": "",
+"postalCode": 12520,
+"sameMailing": "0",
+"mailingLineAddress1": "PT Syaqua Indonesia",
+"mailingLineAddress2": "Jl Raya Karang Bolong KM 140 Karang Suraga Cinangka Serang Banten (Syaqua Hatchery)",
+"mailingCityAddress": "Serang",
+"mailingpostalCode": 42167,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3504014104950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128165148",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0481310104",
+"bankAccountName": "Leni Apriliasari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085806572272",
+"name": "RACHMAD MASRUM",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580616",
+"percentage": 100,
+"email": "leniaprelia19@gmail.com"
+}
+]
+}
+}
+140.213.47.203 https://koreaversikamu.co.id/prepurchase?view=finish 17:14:02 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Leni Apriliasari",
+    "birthDate": "19950401", 
+"birthPlace": "Lumajang",
+"emailAddress": "leniaprelia19@gmail.com",
+"mobilePhone": "082297233750",
+"homePhone": "082297233750",
+"lineAddress1": "Komp. STP Jl.AUP",
+"lineAddress2": "Pasar Minggu",
+"cityAddress": "",
+"postalCode": 12520,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Raya karang bolong km 140, Kosambi 2 karang suraga",
+"mailingLineAddress2": "Cinangka, Serang Banten",
+"mailingCityAddress": "Serang",
+"mailingpostalCode": 42167,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "354014104950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128171401",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0481310104",
+"bankAccountName": "Leni Apriliasari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085806572272",
+"name": "Rachmad Masrum",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580616",
+"percentage": 100,
+"email": "leniaprelia19@gmail.com"
+}
+]
+}
+}
+140.213.47.203 https://koreaversikamu.co.id/prepurchase?view=finish 17:29:13 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Leni Apriliasari",
+    "birthDate": "19950401", 
+"birthPlace": "Lumajang",
+"emailAddress": "leniaprelia19@gmail.com",
+"mobilePhone": "082297233750",
+"homePhone": "082297233750",
+"lineAddress1": "Komp. STP Jl. AUP",
+"lineAddress2": "Pasar Minggu",
+"cityAddress": "",
+"postalCode": 12520,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Raya karang bolong km 140, Kosambi 2 karang suraga",
+"mailingLineAddress2": "Cinangka, Serang Banten",
+"mailingCityAddress": "Serang",
+"mailingpostalCode": 42167,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "354014104950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Syaqua Indonesia",
+				"bidangUsaha": "Pembenihan udang "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128172912",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0481310104",
+"bankAccountName": "Leni Apriliasari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085806572272",
+"name": "Rachmad Masrum",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580616",
+"percentage": 100,
+"email": "leniaprelia19@gmail.com"
+}
+]
+}
+}
+140.213.47.203 https://koreaversikamu.co.id/prepurchase?view=finish 17:41:04 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Leni Apriliasari",
+    "birthDate": "19950401", 
+"birthPlace": "Lumajang",
+"emailAddress": "leniaprelia19@gmail.com",
+"mobilePhone": "082297233750",
+"homePhone": "082297233750",
+"lineAddress1": "Komp. STP Jl.AUP",
+"lineAddress2": "RT.001/RW.009, Pasar Minggu",
+"cityAddress": "",
+"postalCode": 12520,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Raya Karang Bolong km 140, Kosambi 2 suraga Cinangka",
+"mailingLineAddress2": "Serang, Banten",
+"mailingCityAddress": "Serang",
+"mailingpostalCode": 42167,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3504014104950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT SYAQUA INDONESIA",
+				"bidangUsaha": "Pembenihan udang "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128174103",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0481310104",
+"bankAccountName": "Leni Apriliasari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085806572272",
+"name": "Rachmad Masrum",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580616",
+"percentage": 100,
+"email": "leniaprelia19@gmail.com"
+}
+]
+}
+}
+103.229.203.198 https://koreaversikamu.co.id/prepurchase?view=finish 17:51:40 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aulia Zahrani",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "Vila Inti Persada C3/12A",
+"lineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Vila Inti Persada C3/12A",
+"mailingLineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128175138",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "Aulia Zahrani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "Raihanah Faadiyah Putri",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+103.229.203.198 https://koreaversikamu.co.id/prepurchase?view=finish 17:56:42 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aulia Zahrani",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "Vila Inti Persada C3/12A",
+"lineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Vila Inti Persada C3/12A",
+"mailingLineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128175640",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "Aulia Zahrani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "Raihanah Faadiyah Putri",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+103.229.203.198 https://koreaversikamu.co.id/prepurchase?view=finish 17:56:57 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aulia Zahrani",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "Vila Inti Persada C3/12A",
+"lineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Vila Inti Persada C3/12A",
+"mailingLineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128175656",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "Aulia Zahrani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "Raihanah Faadiyah Putri",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+103.229.203.198 https://koreaversikamu.co.id/prepurchase?view=finish 18:01:41 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "AULIA ZAHRANI",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "Vila Inti Persada C3/12A",
+"lineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Vila Inti Persada C3/12A",
+"mailingLineAddress2": "Jalan Alam Asri, Pamulang Timur",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128180140",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "Aulia Zahrani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "RAIHANAH FAADIYAH PUTRI",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+139.193.132.69 https://koreaversikamu.co.id/prepurchase?view=finish 19:31:01 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "AULIA ZAHRANI",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "08260886281",
+"homePhone": "02174717839",
+"lineAddress1": "VILA INTI PERSADA C3/12A",
+"lineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "VILA INTI PERSADA C3/12A",
+"mailingLineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128193059",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "AULIA ZAHRANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081385999413",
+"name": "RAIHANAH FAADIYAH PUTRI",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+139.193.132.69 https://koreaversikamu.co.id/prepurchase?view=finish 19:53:30 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "AULIA ZAHRANI",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "VILA INTI PERSADA C3/12A",
+"lineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "VILA INTI PERSADA C3/12A",
+"mailingLineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128195329",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "AULIA ZAHRANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "MURDIYAH HAYATI",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19741003",
+"percentage": 50,
+"email": "murdiyah.hayati@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "081385999413",
+"name": "CHAIRUL BONE TAVIQ",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19640817",
+"percentage": 50,
+"email": "chairul_bt@yahoo.co.id"
+}
+]
+}
+}
+139.193.132.69 https://koreaversikamu.co.id/prepurchase?view=finish 20:08:35 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "AULIA ZAHRANI",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "VILA INTI PERSADA C3/12A",
+"lineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "VILA INTI PERSADA C3/12A",
+"mailingLineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128200833",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "AULIA ZAHRANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "RAIHANAH FAADIYAH PUTRI",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+139.193.132.69 https://koreaversikamu.co.id/prepurchase?view=finish 20:24:26 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "AULIA ZAHRANI",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "VILA INTI PERSADA C3/12A",
+"lineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "VILA INTI PERSADA C3/12A",
+"mailingLineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128202425",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "AULIA ZAHRANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "RAIHANAH FAADIYAH PUTRI",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+139.193.132.69 https://koreaversikamu.co.id/prepurchase?view=finish 20:59:59 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "AULIA ZAHRANI",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "VILA INTI PERSADA C3/12A",
+"lineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "VILA INTI PERSADA C3/12A",
+"mailingLineAddress2": "JALAN ALAM ASRI, PAMULANG TIMUR",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "MAHASISWI",
+"namaLembaga": "UIN JAKARTA",
+				"bidangUsaha": "AKUNTANSI "
+			},
+			"dealsCode": "LYD",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128205958",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "AULIA ZAHRANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "LYD"
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "RAIHANAH FAADIYAH PUTRI",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+}
+119.56.101.8 https://koreaversikamu.co.id/prepurchase?view=finish 23:00:22 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fery",
+    "birthDate": "19631113", 
+"birthPlace": "Jakarta",
+"emailAddress": "fery@dorado.id",
+"mobilePhone": "0129831293812",
+"homePhone": "1239120381923",
+"lineAddress1": "Jakarta",
+"lineAddress2": "Jakarta",
+"cityAddress": "Jakarta",
+"postalCode": 13213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jakarta",
+"mailingLineAddress2": "Jakarta",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13213,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "9012831293819038",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dorado",
+				"bidangUsaha": "Branding "
+			},
+			"dealsCode": "1231321312",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 2,
+"referenceCode": "21312312312312313123123",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191128230021",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "01923812381903812931",
+"bankAccountName": "Fery",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "1231321312"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "1239183901283",
+"name": "Fery",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20191105",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+119.56.101.8 https://koreaversikamu.co.id/prepurchase?view=finish 23:03:14 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fery",
+    "birthDate": "19631113", 
+"birthPlace": "Jakarta",
+"emailAddress": "fery@dorado.id",
+"mobilePhone": "0129831293812",
+"homePhone": "1239120381923",
+"lineAddress1": "Jakarta",
+"lineAddress2": "Jakarta",
+"cityAddress": "Jakarta",
+"postalCode": 13213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jakarta",
+"mailingLineAddress2": "Jakarta",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13213,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "9012831293819038",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dorado",
+				"bidangUsaha": "Branding "
+			},
+			"dealsCode": "1231321312",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 2,
+"referenceCode": "21312312312312313123123",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191128230312",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "01923812381903812931",
+"bankAccountName": "Fery",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "1231321312"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "1239183901283",
+"name": "Fery",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20191105",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+140.213.1.65 https://koreaversikamu.co.id/prepurchase?view=finish 23:14:30 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aulia Zahra i",
+    "birthDate": "20000605", 
+"birthPlace": "Tangerang",
+"emailAddress": "aulia.zahrani5.az@gmail.com",
+"mobilePhone": "082260886281",
+"homePhone": "02174717839",
+"lineAddress1": "Villa Inti Persada C-3/12 A",
+"lineAddress2": "Pamulang Timur, Pamulang",
+"cityAddress": "Tangerang",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa Inti Persada C-3/12 A",
+"mailingLineAddress2": "Pamulang Timur, Pamulang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3674064506000007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191128231429",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0731399897",
+"bankAccountName": "Aulia Zahrani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081284199108",
+"name": "Raihanah Faadiyah Putri",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20111225",
+"percentage": 100,
+"email": "auliaskye19@gmail.com"
+}
+]
+}
+111.95.134.13 https://koreaversikamu.co.id/prepurchase?view=finish 23:21:33 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kevin Filemon",
+    "birthDate": "20191120", 
+"birthPlace": "Jakarta",
+"emailAddress": "yuroko_kurenai@yahoo.com",
+"mobilePhone": "081291689164",
+"homePhone": "0",
+"lineAddress1": "Kartini 13 dalam no 47a",
+"lineAddress2": "Kartini 13 dalam no 47a",
+"cityAddress": "Jakarta",
+"postalCode": 10750,
+"sameMailing": "1",
+"mailingLineAddress1": "Kartini 13 dalam no 47a",
+"mailingLineAddress2": "Kartini 13 dalam no 47a",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10750,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171022011910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT London Sumatra Indonesia",
+				"bidangUsaha": "Perkebunan "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128232133",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4820319287",
+"bankAccountName": "Kevin Filemon",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08161148875",
+"name": "Winda Oktania Hartono",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19661028",
+"percentage": 100,
+"email": "yuroko_kurenai@yahoo.com"
+}
+]
+}
+111.95.134.13 https://koreaversikamu.co.id/prepurchase?view=finish 23:24:23 2019-11-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kevin Filemon",
+    "birthDate": "20191120", 
+"birthPlace": "Jakarta",
+"emailAddress": "yuroko_kurenai@yahoo.com",
+"mobilePhone": "081291689164",
+"homePhone": "0",
+"lineAddress1": "Kartini 13 dalam no 47a",
+"lineAddress2": "Kartini 13 dalam no 47a",
+"cityAddress": "Jakarta",
+"postalCode": 10750,
+"sameMailing": "1",
+"mailingLineAddress1": "Kartini 13 dalam no 47a",
+"mailingLineAddress2": "Kartini 13 dalam no 47a",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10750,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171022011910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT London Sumatra Indonesia",
+				"bidangUsaha": "Perkebunan Kelapa Sawit "
+			},
+			"dealsCode": "",
+			"maritalStatus": ""
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191128232422",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4820319287",
+"bankAccountName": "Kevin Filemon",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08161148875",
+"name": "Winda Oktania Hartono",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19661028",
+"percentage": 100,
+"email": "yuroko_kurenai@yahoo.com"
+}
+]
+}

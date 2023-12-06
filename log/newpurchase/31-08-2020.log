@@ -1,0 +1,1089 @@
+114.125.56.228 https://koreaversikamu.co.id/prepurchase?view=finish 11:46:07 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jalan rahmadsyah gg dalam no 14/14G",
+"lineAddress2": "Medan kota",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan danau limboto no 7F",
+"mailingLineAddress2": "Medan barat ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jalan rahmadsyah gg dalam no 14/14G",
+"lineAddress2": "Medan kota",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan danau limboto no 7F",
+"mailingLineAddress2": "Medan barat ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "91603532",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200831114607",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222119225",
+"bankAccountName": "Iwan Wangsa",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263106227",
+"name": "Linda",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19821112",
+"percentage": 100,
+"email": "ace_lin82@yahoo.com"
+}
+]
+}
+114.125.56.228 https://koreaversikamu.co.id/prepurchase?view=finish 11:52:36 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jalan Rahmadsyah gg dalam no 14/14g",
+"lineAddress2": "Medan kota",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan danau limboto no 7F",
+"mailingLineAddress2": "Medan barat ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jalan Rahmadsyah gg dalam no 14/14g",
+"lineAddress2": "Medan kota",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan danau limboto no 7F",
+"mailingLineAddress2": "Medan barat ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "91603532",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200831115236",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222119225",
+"bankAccountName": "Iwan Wangsa",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263106277",
+"name": "Linda",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19821112",
+"percentage": 100,
+"email": "ace_lin82@yahoo.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/prepurchase?view=finish 12:18:58 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "GITA DESFAJARMUTIARANIA",
+    "birthDate": "19771226", 
+"birthPlace": "Bogor",
+"emailAddress": "gitadesfajar@gmail.com",
+"mobilePhone": "085810546942",
+"homePhone": "085810546942",
+"lineAddress1": "VILLA BOGOR INDAH III BLOK BA 4 NO.7",
+"lineAddress2": "RT.003 RW 15 KEL.KEDUNGHALANG KEC. KOTA BOGOR UTARA",
+"cityAddress": "Bogor",
+"postalCode": 16158,
+"sameMailing": "1",
+"mailingLineAddress1": "VILLA BOGOR INDAH III BLOK BA 4 NO.7",
+"mailingLineAddress2": "RT.003 RW 15 KEL.KEDUNGHALANG KEC. KOTA BOGOR UTARA",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16158,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271046612770006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "GITA DESFAJARMUTIARANIA",
+    "birthDate": "19771226", 
+"birthPlace": "Bogor",
+"emailAddress": "gitadesfajar@gmail.com",
+"mobilePhone": "085810546942",
+"homePhone": "085810546942",
+"lineAddress1": "VILLA BOGOR INDAH III BLOK BA 4 NO.7",
+"lineAddress2": "RT.003 RW 15 KEL.KEDUNGHALANG KEC. KOTA BOGOR UTARA",
+"cityAddress": "Bogor",
+"postalCode": 16158,
+"sameMailing": "1",
+"mailingLineAddress1": "VILLA BOGOR INDAH III BLOK BA 4 NO.7",
+"mailingLineAddress2": "RT.003 RW 15 KEL.KEDUNGHALANG KEC. KOTA BOGOR UTARA",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16158,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271046612770006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91910460",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200831121857",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "6040833127",
+"bankAccountName": "GITA DESFAJARMUTIARANIA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085810546942",
+"name": "FARREL FAUZAN RIZALDI",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20040128",
+"percentage": 100,
+"email": "gitadesfajar@gmail.com"
+}
+]
+}
+114.124.183.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 12:53:33 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91909467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200831125332",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7635026669",
+"bankAccountName": "ENDAH WIDYASTUTI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081398517480",
+"name": "Doni fahrial",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010915",
+"percentage": 100,
+"email": "donifahrial4@gmail.com"
+}
+]
+}
+114.124.183.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 12:55:16 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91909467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200831125516",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7635026669",
+"bankAccountName": "ENDAH WIDYASTUTI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081398517480",
+"name": "Doni fahrial",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010915",
+"percentage": 100,
+"email": "donifahrial4@gmail.com"
+}
+]
+}
+114.124.183.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 12:55:31 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91909467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200831125531",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7635026669",
+"bankAccountName": "ENDAH WIDYASTUTI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081398517480",
+"name": "Doni fahrial",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010915",
+"percentage": 100,
+"email": "donifahrial4@gmail.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/prepurchase?view=finish 12:56:36 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MELKY KATILY",
+    "birthDate": "19830101", 
+"birthPlace": "BANGGAI",
+"emailAddress": "melkykatily@gmail.com",
+"mobilePhone": "08118681183",
+"homePhone": "08118681183",
+"lineAddress1": "JL.LURUS IV NO.1 RT.014 RW.06",
+"lineAddress2": "KEL.KEBON BAWANG KEC.TJ.PRIOK",
+"cityAddress": "Jakarta",
+"postalCode": 14320,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.LURUS IV NO.1 RT.014 RW.06",
+"mailingLineAddress2": "KEL.KEBON BAWANG KEC.TJ.PRIOK",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14320,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172020101830028",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MELKY KATILY",
+    "birthDate": "19830101", 
+"birthPlace": "BANGGAI",
+"emailAddress": "melkykatily@gmail.com",
+"mobilePhone": "08118681183",
+"homePhone": "08118681183",
+"lineAddress1": "JL.LURUS IV NO.1 RT.014 RW.06",
+"lineAddress2": "KEL.KEBON BAWANG KEC.TJ.PRIOK",
+"cityAddress": "Jakarta",
+"postalCode": 14320,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.LURUS IV NO.1 RT.014 RW.06",
+"mailingLineAddress2": "KEL.KEBON BAWANG KEC.TJ.PRIOK",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14320,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172020101830028",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91707735",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200831125635",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0072846417",
+"bankAccountName": "MELKY KATILY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08118681183",
+"name": "LAURA ANGELA KATILI",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20160828",
+"percentage": 100,
+"email": "melkykatily@gmail.com"
+}
+]
+}
+114.124.183.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 12:58:41 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ramli hutasoit",
+    "birthDate": "19671128", 
+"birthPlace": "Medan",
+"emailAddress": "ramlihutasoit279@gmail.com",
+"mobilePhone": "081384931700",
+"homePhone": "085711070988",
+"lineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"lineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.jeruk no13A.Rt003 Rw 05 wisma seroja kel.harapan jaya.kec.bekasi utara",
+"mailingLineAddress2": "jln raya seroja no 121.kel.harapan jaya kec.bekasi utara",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3275032811670017",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ADI JAYA",
+				"bidangUsaha": "Suplier "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91909467",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200831125840",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7635026669",
+"bankAccountName": "ENDAH WIDYASTUTI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081398517480",
+"name": "Doni fahrial",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010915",
+"percentage": 100,
+"email": "donifahrial4@gmail.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/prepurchase?view=finish 13:10:11 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NATALIA MARDJAMAN",
+    "birthDate": "19721215", 
+"birthPlace": "Bandung",
+"emailAddress": "natalia.jaman88@gmail.com",
+"mobilePhone": "08111955199",
+"homePhone": "08111955199",
+"lineAddress1": "JL.BEKASI BARAT V NO.5",
+"lineAddress2": "KEL. RAWA BUNGA KEC.JATINEGARA",
+"cityAddress": "Jakarta",
+"postalCode": 13350,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.BEKASI BARAT V NO.5",
+"mailingLineAddress2": "KEL. RAWA BUNGA KEC.JATINEGARA",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13350,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175035512720002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "AIA ",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NATALIA MARDJAMAN",
+    "birthDate": "19721215", 
+"birthPlace": "Bandung",
+"emailAddress": "natalia.jaman88@gmail.com",
+"mobilePhone": "08111955199",
+"homePhone": "08111955199",
+"lineAddress1": "JL.BEKASI BARAT V NO.5",
+"lineAddress2": "KEL. RAWA BUNGA KEC.JATINEGARA",
+"cityAddress": "Jakarta",
+"postalCode": 13350,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.BEKASI BARAT V NO.5",
+"mailingLineAddress2": "KEL. RAWA BUNGA KEC.JATINEGARA",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13350,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175035512720002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "AIA ",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603936",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200831131011",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3360077739",
+"bankAccountName": "NATALIA MARDJAMAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08111955199",
+"name": "BERNADUS ALVIAN DAUD",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19981220",
+"percentage": 100,
+"email": "natalia.jaman88@gmail.com"
+}
+]
+}
+114.125.40.52 https://koreaversikamu.co.id/prepurchase?view=finish 13:21:59 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jalan rahmadsyah gg dalam no 7F",
+"lineAddress2": "Medan kota",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan danau limboto no 7F",
+"mailingLineAddress2": "Medan barat ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jalan rahmadsyah gg dalam no 7F",
+"lineAddress2": "Medan kota",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan danau limboto no 7F",
+"mailingLineAddress2": "Medan barat ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "91603532",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200831132159",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222119225",
+"bankAccountName": "Iwan Wangsa",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263106227",
+"name": "Linda",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19821112",
+"percentage": 100,
+"email": "ace_lin82@yahoo.com"
+}
+]
+}
+182.1.27.213 https://www.koreaversikamu.co.id/prepurchase?view=finish 16:42:06 2020-08-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jl. Rahmadsyah Gg. Dalam No. 14/14G",
+"lineAddress2": "Medan",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Danau Limboto no7F",
+"mailingLineAddress2": "Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Iwan Wangsa",
+    "birthDate": "19810511", 
+"birthPlace": "Jakarta",
+"emailAddress": "v1wangsa@gmail.com",
+"mobilePhone": "082360136779",
+"homePhone": "082360136779",
+"lineAddress1": "Jl. Rahmadsyah Gg. Dalam No. 14/14G",
+"lineAddress2": "Medan",
+"cityAddress": "",
+"postalCode": 20215,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Danau Limboto no7F",
+"mailingLineAddress2": "Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3173031105810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "91603532",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200831164206",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222119225",
+"bankAccountName": "Iwan Wangsa",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263106227",
+"name": "Linda",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19821112",
+"percentage": 100,
+"email": "ace_lin82@yahoo.com"
+}
+]
+}

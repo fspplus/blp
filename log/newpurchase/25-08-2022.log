@@ -1,0 +1,198 @@
+182.3.37.96 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:02:12 2022-08-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rully Syahrial",
+    "birthDate": "19810114", 
+"birthPlace": "Jakarta",
+"emailAddress": "rully.syahrial@gmail.com",
+"mobilePhone": "081806040003",
+"homePhone": "081806040003",
+"lineAddress1": "Jl Raya setu Gg hJ Siah  no 59 ",
+"lineAddress2": "Rt 06/03 setu cipayung jaktim",
+"cityAddress": "",
+"postalCode": 13880,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Raya setu Gg hJ Siah  no 59 ",
+"mailingLineAddress2": "Rt 06/03 setu cipayung jaktim",
+"mailingCityAddress": "",
+"mailingpostalCode": 13880,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175041401810007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Rully Syahrial",
+    "birthDate": "19810114", 
+"birthPlace": "Jakarta",
+"emailAddress": "rully.syahrial@gmail.com",
+"mobilePhone": "081806040003",
+"homePhone": "081806040003",
+"lineAddress1": "Jl Raya setu Gg hJ Siah  no 59 ",
+"lineAddress2": "Rt 06/03 setu cipayung jaktim",
+"cityAddress": "",
+"postalCode": 13880,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Raya setu Gg hJ Siah  no 59 ",
+"mailingLineAddress2": "Rt 06/03 setu cipayung jaktim",
+"mailingCityAddress": "",
+"mailingpostalCode": 13880,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175041401810007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210191",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220825120212",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5910009101",
+"bankAccountName": "Rully Syahrial",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08159200003",
+"name": "Yeni",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19780614",
+"percentage": 100,
+"email": "pinky_yeni@yahoo.com"
+}
+]
+}
+182.3.37.96 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:29:29 2022-08-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yeni Damayanthi",
+    "birthDate": "19780614", 
+"birthPlace": "Jakarta",
+"emailAddress": "pinky_productions@yahoo.com",
+"mobilePhone": "08159200003",
+"homePhone": "08159200003",
+"lineAddress1": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"lineAddress2": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"cityAddress": "Jakarta",
+"postalCode": 13880,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"mailingLineAddress2": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13880,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3175105406780002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pemilik Usaha",
+"namaLembaga": "NISSA WEDDING",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yeni Damayanthi",
+    "birthDate": "19780614", 
+"birthPlace": "Jakarta",
+"emailAddress": "pinky_productions@yahoo.com",
+"mobilePhone": "08159200003",
+"homePhone": "08159200003",
+"lineAddress1": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"lineAddress2": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"cityAddress": "Jakarta",
+"postalCode": 13880,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"mailingLineAddress2": "Jl. Raya Setu, GG. Hj. SIAH No.59 Rt 006/003 Setu,Cipayung Jakarta timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13880,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3175105406780002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pemilik Usaha",
+"namaLembaga": "NISSA WEDDING",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210191",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220825122928",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3051387731",
+"bankAccountName": "Yeni Damayanthi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081806040003",
+"name": "Rully Syahrial",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810114",
+"percentage": 100,
+"email": "rully.syahrial@gmail.com"
+}
+]
+}

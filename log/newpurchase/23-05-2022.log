@@ -1,0 +1,198 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:05:20 2022-05-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TRIYONO",
+    "birthDate": "19860412", 
+"birthPlace": "Jakarta",
+"emailAddress": "yonotrist@gmail.com",
+"mobilePhone": "081296223395",
+"homePhone": "081296223395",
+"lineAddress1": "KP. KALIBATA RT.11 RW.06",
+"lineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"cityAddress": "",
+"postalCode": 12640,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. KALIBATA RT.11 RW.06",
+"mailingLineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"mailingCityAddress": "",
+"mailingpostalCode": 12640,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275031204860014",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TRIYONO",
+    "birthDate": "19860412", 
+"birthPlace": "Jakarta",
+"emailAddress": "yonotrist@gmail.com",
+"mobilePhone": "081296223395",
+"homePhone": "081296223395",
+"lineAddress1": "KP. KALIBATA RT.11 RW.06",
+"lineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"cityAddress": "",
+"postalCode": 12640,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. KALIBATA RT.11 RW.06",
+"mailingLineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"mailingCityAddress": "",
+"mailingpostalCode": 12640,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275031204860014",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000371",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220523110519",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0663143694",
+"bankAccountName": "TRIYONO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081219877578",
+"name": "RATIH AYUNING PUSPITASARI",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19811203",
+"percentage": 100,
+"email": "r.ayuning@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:41:20 2022-05-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Risky Widy Satria",
+    "birthDate": "19910214", 
+"birthPlace": "Surabaya",
+"emailAddress": "riskywidysatria@gmail.com",
+"mobilePhone": "082280001316",
+"homePhone": "082280001316",
+"lineAddress1": "Apart Green Pramuka City, FA/11/QF, Jl. Jend. A. Yani Kav. 49",
+"lineAddress2": "Rawasari, Cempaka Putih, Jakarta Pusat",
+"cityAddress": "",
+"postalCode": 10570,
+"sameMailing": "0",
+"mailingLineAddress1": "Hazama Residence Kav. A6, Jl. Bhineka 3",
+"mailingLineAddress2": "Pasir Gunung Selatan, Cimanggis, Depok",
+"mailingCityAddress": "",
+"mailingpostalCode": 16451,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578211402910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwhalife Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Risky Widy Satria",
+    "birthDate": "19910214", 
+"birthPlace": "Surabaya",
+"emailAddress": "riskywidysatria@gmail.com",
+"mobilePhone": "082280001316",
+"homePhone": "082280001316",
+"lineAddress1": "Apart Green Pramuka City, FA/11/QF, Jl. Jend. A. Yani Kav. 49",
+"lineAddress2": "Rawasari, Cempaka Putih, Jakarta Pusat",
+"cityAddress": "",
+"postalCode": 10570,
+"sameMailing": "0",
+"mailingLineAddress1": "Hazama Residence Kav. A6, Jl. Bhineka 3",
+"mailingLineAddress2": "Pasir Gunung Selatan, Cimanggis, Depok",
+"mailingCityAddress": "",
+"mailingpostalCode": 16451,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578211402910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwhalife Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000371",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220523164119",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5790298855",
+"bankAccountName": "Risky Widy Satria",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081224787816",
+"name": "Wa Ode Maharani",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19900316",
+"percentage": 100,
+"email": "waodemaharani@gmail.com"
+}
+]
+}

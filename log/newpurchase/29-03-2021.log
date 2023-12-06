@@ -1,0 +1,198 @@
+182.1.31.84 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:19:52 2021-03-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yuvina",
+    "birthDate": "19860722", 
+"birthPlace": "Medan",
+"emailAddress": "juju_yuvinalie@ymail.com",
+"mobilePhone": "081262935085",
+"homePhone": "061-7348865",
+"lineAddress1": "Jl. Kapuas No. 3J",
+"lineAddress2": "Jl. Sei Kera gang Rahim No. 117G",
+"cityAddress": "Medan",
+"postalCode": 20213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kapuas No. 3J",
+"mailingLineAddress2": "Jl. Sei Kera gang Rahim No. 117G",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206207860001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV.  Buana Tetap Jaya",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yuvina",
+    "birthDate": "19860722", 
+"birthPlace": "Medan",
+"emailAddress": "juju_yuvinalie@ymail.com",
+"mobilePhone": "081262935085",
+"homePhone": "061-7348865",
+"lineAddress1": "Jl. Kapuas No. 3J",
+"lineAddress2": "Jl. Sei Kera gang Rahim No. 117G",
+"cityAddress": "Medan",
+"postalCode": 20213,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kapuas No. 3J",
+"mailingLineAddress2": "Jl. Sei Kera gang Rahim No. 117G",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206207860001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV.  Buana Tetap Jaya",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92012071",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210329161951",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8375050931",
+"bankAccountName": "Yuvina",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085103013618",
+"name": "Christina Lie",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19841212",
+"percentage": 100,
+"email": "christina_lie_yin@yahoo.com"
+}
+]
+}
+180.241.46.132 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:52:40 2021-03-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Melisa Wirawan",
+    "birthDate": "19781229", 
+"birthPlace": "Medan",
+"emailAddress": "melisawirawan@yahoo.com",
+"mobilePhone": "0811610250",
+"homePhone": "0811610250",
+"lineAddress1": "Jl. Dahlia No.15, Kompleks Cemara Asri ",
+"lineAddress2": "Jl. Kapuas No.3J",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Dahlia No.15, Kompleks Cemara Asri ",
+"mailingLineAddress2": "Jl. Kapuas No.3J",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207266912780007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Melisa Wirawan",
+    "birthDate": "19781229", 
+"birthPlace": "Medan",
+"emailAddress": "melisawirawan@yahoo.com",
+"mobilePhone": "0811610250",
+"homePhone": "0811610250",
+"lineAddress1": "Jl. Dahlia No.15, Kompleks Cemara Asri ",
+"lineAddress2": "Jl. Kapuas No.3J",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Dahlia No.15, Kompleks Cemara Asri ",
+"mailingLineAddress2": "Jl. Kapuas No.3J",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207266912780007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "92012071",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20210329165239",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8370004049",
+"bankAccountName": "Melisa Wirawan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085102757938",
+"name": "Donald Zhuo",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20070727",
+"percentage": 100,
+"email": "melisawirawan@yahoo.com"
+}
+]
+}

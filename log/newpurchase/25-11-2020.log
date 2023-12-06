@@ -1,0 +1,198 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:36:02 2020-11-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dhimas Aji Priambodho",
+    "birthDate": "19861008", 
+"birthPlace": "Jakarta",
+"emailAddress": "dhimas.priambodho@gmail.com",
+"mobilePhone": "081285963454",
+"homePhone": "081285963454",
+"lineAddress1": "jalan intan 6 nomor b.36, perumahan bulak macan permai",
+"lineAddress2": "harapan jaya",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan intan 6 nomor b.36, perumahan bulak macan permai",
+"mailingLineAddress2": "harapan jaya",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275030810860015",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Keuangan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dhimas Aji Priambodho",
+    "birthDate": "19861008", 
+"birthPlace": "Jakarta",
+"emailAddress": "dhimas.priambodho@gmail.com",
+"mobilePhone": "081285963454",
+"homePhone": "081285963454",
+"lineAddress1": "jalan intan 6 nomor b.36, perumahan bulak macan permai",
+"lineAddress2": "harapan jaya",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan intan 6 nomor b.36, perumahan bulak macan permai",
+"mailingLineAddress2": "harapan jaya",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275030810860015",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Keuangan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "000310",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201125163601",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5270997092",
+"bankAccountName": "Dhimas Aji Priambodho",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "CB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081285963454",
+"name": "Rakabumi Arya Narendra",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20180429",
+"percentage": 100,
+"email": "dhimas.priambodho@gmail.com"
+}
+]
+}
+114.124.146.29 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:58:01 2020-11-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Eka okta viana",
+    "birthDate": "19881010", 
+"birthPlace": "CIMAHI",
+"emailAddress": "ekaviana88@yahoo.co.id",
+"mobilePhone": "082216932343",
+"homePhone": "082216932313",
+"lineAddress1": "Jl pasirkumeli no 54B, rt/rw, 3/1",
+"lineAddress2": "Baros, cimahi tengah, cimahi",
+"cityAddress": "Cimahi",
+"postalCode": 40521,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pasirkumeli no 54B, rt/rw, 3/1",
+"mailingLineAddress2": "Baros, cimahi tengah, cimahi",
+"mailingCityAddress": "Cimahi",
+"mailingpostalCode": 40521,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3277025010880014",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Eka okta viana",
+    "birthDate": "19881010", 
+"birthPlace": "CIMAHI",
+"emailAddress": "ekaviana88@yahoo.co.id",
+"mobilePhone": "082216932343",
+"homePhone": "082216932313",
+"lineAddress1": "Jl pasirkumeli no 54B, rt/rw, 3/1",
+"lineAddress2": "Baros, cimahi tengah, cimahi",
+"cityAddress": "Cimahi",
+"postalCode": 40521,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pasirkumeli no 54B, rt/rw, 3/1",
+"mailingLineAddress2": "Baros, cimahi tengah, cimahi",
+"mailingCityAddress": "Cimahi",
+"mailingpostalCode": 40521,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3277025010880014",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "000310",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201125165758",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5140474039",
+"bankAccountName": "Eka okta viana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "CB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082216932313",
+"name": "Dwi nur akbar wijaksono",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19950515",
+"percentage": 100,
+"email": "ekaviana88@yahoo.co.id"
+}
+]
+}

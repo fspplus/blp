@@ -1,0 +1,792 @@
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:54:08 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MANSJUR WIDJAJA",
+    "birthDate": "19811012", 
+"birthPlace": "Medan",
+"emailAddress": "minkzwidjaja@gmail.com",
+"mobilePhone": "08192025599",
+"homePhone": "08192025599",
+"lineAddress1": "JL. DAHLIA 35 KOMP. CEMARA ASRI",
+"lineAddress2": "KEL. SAMPALI KEC. PERCUT SEI TUAN ",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. DAHLIA 35 KOMP. CEMARA ASRI",
+"mailingLineAddress2": "KEL. SAMPALI KEC. PERCUT SEI TUAN ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207261210810018",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. ASURANSI ALLIANZ UTAMA INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MANSJUR WIDJAJA",
+    "birthDate": "19811012", 
+"birthPlace": "Medan",
+"emailAddress": "minkzwidjaja@gmail.com",
+"mobilePhone": "08192025599",
+"homePhone": "08192025599",
+"lineAddress1": "JL. DAHLIA 35 KOMP. CEMARA ASRI",
+"lineAddress2": "KEL. SAMPALI KEC. PERCUT SEI TUAN ",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. DAHLIA 35 KOMP. CEMARA ASRI",
+"mailingLineAddress2": "KEL. SAMPALI KEC. PERCUT SEI TUAN ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207261210810018",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. ASURANSI ALLIANZ UTAMA INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311456",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419145407",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8005028236",
+"bankAccountName": "MANSJUR WIDJAJA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126402199",
+"name": "SONYA INTAN",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19831002",
+"percentage": 100,
+"email": "sonyaintan@gmail.com"
+}
+]
+}
+114.5.144.103 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:26:16 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "FITRAH SANTIKA",
+    "birthDate": "19930328", 
+"birthPlace": "MEDAN",
+"emailAddress": "fitrahsantika.8088@gmail.com",
+"mobilePhone": "081973064514",
+"homePhone": "081973064514",
+"lineAddress1": "JL PUNAK NO 50 MEDAN",
+"lineAddress2": "KEL. SEI PUTIH TIMUR I, KEC. MEDAN PETISAH",
+"cityAddress": "",
+"postalCode": 20118,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PUNAK NO 50 MEDAN",
+"mailingLineAddress2": "KEL. SEI PUTIH TIMUR I, KEC. MEDAN PETISAH",
+"mailingCityAddress": "",
+"mailingpostalCode": 20118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271196803930001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "J TRUST BANK",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "FITRAH SANTIKA",
+    "birthDate": "19930328", 
+"birthPlace": "MEDAN",
+"emailAddress": "fitrahsantika.8088@gmail.com",
+"mobilePhone": "081973064514",
+"homePhone": "081973064514",
+"lineAddress1": "JL PUNAK NO 50 MEDAN",
+"lineAddress2": "KEL. SEI PUTIH TIMUR I, KEC. MEDAN PETISAH",
+"cityAddress": "",
+"postalCode": 20118,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PUNAK NO 50 MEDAN",
+"mailingLineAddress2": "KEL. SEI PUTIH TIMUR I, KEC. MEDAN PETISAH",
+"mailingCityAddress": "",
+"mailingpostalCode": 20118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271196803930001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "J TRUST BANK",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419162615",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250129221",
+"bankAccountName": "FITRAH SANTIKA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087868155588",
+"name": "CITRA CENDANA TJIN",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19930328",
+"percentage": 100,
+"email": "fit_zant@yahoo.com"
+}
+]
+}
+140.213.36.34 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:56:39 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HENDRIK",
+    "birthDate": "19941015", 
+"birthPlace": "Medan",
+"emailAddress": "hendriktjj@gmail.com",
+"mobilePhone": "0818891699",
+"homePhone": "0818891699",
+"lineAddress1": "JL. PORSEA NO.10 MEDAN",
+"lineAddress2": "KEL. PASAR BARU KEC. MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PORSEA NO.10 MEDAN",
+"mailingLineAddress2": "KEL. PASAR BARU KEC. MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271011510940003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "veloce oil service",
+				"bidangUsaha": "otomotif "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "HENDRIK",
+    "birthDate": "19941015", 
+"birthPlace": "Medan",
+"emailAddress": "hendriktjj@gmail.com",
+"mobilePhone": "0818891699",
+"homePhone": "0818891699",
+"lineAddress1": "JL. PORSEA NO.10 MEDAN",
+"lineAddress2": "KEL. PASAR BARU KEC. MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PORSEA NO.10 MEDAN",
+"mailingLineAddress2": "KEL. PASAR BARU KEC. MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271011510940003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "veloce oil service",
+				"bidangUsaha": "otomotif "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419165638",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7860599699",
+"bankAccountName": "HENDRIK",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818891699",
+"name": "LINA SUMALI",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19580823",
+"percentage": 100,
+"email": "hendriktjj@gmail.com"
+}
+]
+}
+114.5.144.103 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:09:01 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SHENDY",
+    "birthDate": "19821115", 
+"birthPlace": "Medan",
+"emailAddress": "skyb3l@yahoo.com",
+"mobilePhone": "081260677700",
+"homePhone": "081260677700",
+"lineAddress1": "JL GALANG NO 32-2",
+"lineAddress2": "KEL. PANDAU HILIR, KEC. MEDAN PERJUANGAN",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "1",
+"mailingLineAddress1": "JL GALANG NO 32-2",
+"mailingLineAddress2": "KEL. PANDAU HILIR, KEC. MEDAN PERJUANGAN",
+"mailingCityAddress": "",
+"mailingpostalCode": 20232,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271181511820003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CIPTA PRIMA INDAH",
+				"bidangUsaha": "KONTRAKTOR "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SHENDY",
+    "birthDate": "19821115", 
+"birthPlace": "Medan",
+"emailAddress": "skyb3l@yahoo.com",
+"mobilePhone": "081260677700",
+"homePhone": "081260677700",
+"lineAddress1": "JL GALANG NO 32-2",
+"lineAddress2": "KEL. PANDAU HILIR, KEC. MEDAN PERJUANGAN",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "1",
+"mailingLineAddress1": "JL GALANG NO 32-2",
+"mailingLineAddress2": "KEL. PANDAU HILIR, KEC. MEDAN PERJUANGAN",
+"mailingCityAddress": "",
+"mailingpostalCode": 20232,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271181511820003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CIPTA PRIMA INDAH",
+				"bidangUsaha": "KONTRAKTOR "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419170900",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221185314",
+"bankAccountName": "KOPJOH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081370086666",
+"name": "HERLIANA",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19800129",
+"percentage": 100,
+"email": "linkvckho@gmail.com"
+}
+]
+}
+140.213.36.34 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:12:00 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TANG WAI PAN",
+    "birthDate": "19700702", 
+"birthPlace": "Medan",
+"emailAddress": "twpan8@yahoo.com",
+"mobilePhone": "0811610882",
+"homePhone": "0811610882",
+"lineAddress1": "JL. KATALIA BLOK K LK XII NO.140",
+"lineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"cityAddress": "Medan",
+"postalCode": 20124,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. KATALIA BLOK K LK XII NO.140",
+"mailingLineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271030207700002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BENGKEL UNITY AUTOMOBILE",
+				"bidangUsaha": "BENGKEL BODY REPAIR "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TANG WAI PAN",
+    "birthDate": "19700702", 
+"birthPlace": "Medan",
+"emailAddress": "twpan8@yahoo.com",
+"mobilePhone": "0811610882",
+"homePhone": "0811610882",
+"lineAddress1": "JL. KATALIA BLOK K LK XII NO.140",
+"lineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"cityAddress": "Medan",
+"postalCode": 20124,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. KATALIA BLOK K LK XII NO.140",
+"mailingLineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271030207700002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BENGKEL UNITY AUTOMOBILE",
+				"bidangUsaha": "BENGKEL BODY REPAIR "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419171159",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221969889",
+"bankAccountName": "TANG WAI PAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126506277",
+"name": "EMELY",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19740404",
+"percentage": 100,
+"email": "em3ly_wu@yahoo.com"
+}
+]
+}
+114.5.144.103 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:21:39 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "STEPHEN",
+    "birthDate": "19740119", 
+"birthPlace": "Medan",
+"emailAddress": "stephenlewy@yahoo.com",
+"mobilePhone": "081533700795",
+"homePhone": "081533700795",
+"lineAddress1": "JL GLADIOL BLOK L LK XII NO 187 GRIYA RIATUR INDAH",
+"lineAddress2": "KEL. HELVETIA TIMUR, KEC. MEDAN HELVETIA",
+"cityAddress": "Medan",
+"postalCode": 20123,
+"sameMailing": "1",
+"mailingLineAddress1": "JL GLADIOL BLOK L LK XII NO 187 GRIYA RIATUR INDAH",
+"mailingLineAddress2": "KEL. HELVETIA TIMUR, KEC. MEDAN HELVETIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271031901740002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "J TRUST BANK",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "STEPHEN",
+    "birthDate": "19740119", 
+"birthPlace": "Medan",
+"emailAddress": "stephenlewy@yahoo.com",
+"mobilePhone": "081533700795",
+"homePhone": "081533700795",
+"lineAddress1": "JL GLADIOL BLOK L LK XII NO 187 GRIYA RIATUR INDAH",
+"lineAddress2": "KEL. HELVETIA TIMUR, KEC. MEDAN HELVETIA",
+"cityAddress": "Medan",
+"postalCode": 20123,
+"sameMailing": "1",
+"mailingLineAddress1": "JL GLADIOL BLOK L LK XII NO 187 GRIYA RIATUR INDAH",
+"mailingLineAddress2": "KEL. HELVETIA TIMUR, KEC. MEDAN HELVETIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271031901740002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "J TRUST BANK",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419172138",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221915631",
+"bankAccountName": "STEPHEN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08197217816",
+"name": "ROSMAWATY COKROMULIO",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19840901",
+"percentage": 100,
+"email": "rosemery0109@gmail.com"
+}
+]
+}
+140.213.36.34 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:23:44 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MULIADY",
+    "birthDate": "19770628", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "muliadykwan@gmail.com",
+"mobilePhone": "081218751087",
+"homePhone": "081218751087",
+"lineAddress1": "CITRA 2 EXT BLOK BI -9/23-24",
+"lineAddress2": "KEL. PEGADUNGAN KEC. KALIDERES",
+"cityAddress": "Jakarta",
+"postalCode": 11830,
+"sameMailing": "1",
+"mailingLineAddress1": "CITRA 2 EXT BLOK BI -9/23-24",
+"mailingLineAddress2": "KEL. PEGADUNGAN KEC. KALIDERES",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11830,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3173062806770011",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. UNIVERSAL EKSPRES",
+				"bidangUsaha": "FORWADING "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MULIADY",
+    "birthDate": "19770628", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "muliadykwan@gmail.com",
+"mobilePhone": "081218751087",
+"homePhone": "081218751087",
+"lineAddress1": "CITRA 2 EXT BLOK BI -9/23-24",
+"lineAddress2": "KEL. PEGADUNGAN KEC. KALIDERES",
+"cityAddress": "Jakarta",
+"postalCode": 11830,
+"sameMailing": "1",
+"mailingLineAddress1": "CITRA 2 EXT BLOK BI -9/23-24",
+"mailingLineAddress2": "KEL. PEGADUNGAN KEC. KALIDERES",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11830,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3173062806770011",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. UNIVERSAL EKSPRES",
+				"bidangUsaha": "FORWADING "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419172343",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1680010664",
+"bankAccountName": "MULIADY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081382652009",
+"name": "FEDRICK ALLEN KWAN",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20090803",
+"percentage": 100,
+"email": "kwancc@gmail.com"
+}
+]
+}
+182.23.32.10 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 17:46:11 2023-04-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YUTONO POA",
+    "birthDate": "19820818", 
+"birthPlace": "Medan",
+"emailAddress": "yutonopoa.yp@gmail.com",
+"mobilePhone": "082211119169",
+"homePhone": "082211119169",
+"lineAddress1": "JL. SAMANHUDI NO.5E MEDAN",
+"lineAddress2": "KEC. MEDAN MAIMUN KEL. HAMDAN",
+"cityAddress": "Medan",
+"postalCode": 20151,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAMANHUDI NO.5E MEDAN",
+"mailingLineAddress2": "KEC. MEDAN MAIMUN KEL. HAMDAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20151,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271151808820002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. SINERGI USAHA JAYA",
+				"bidangUsaha": "FREIGHT FORWARDING "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "YUTONO POA",
+    "birthDate": "19820818", 
+"birthPlace": "Medan",
+"emailAddress": "yutonopoa.yp@gmail.com",
+"mobilePhone": "082211119169",
+"homePhone": "082211119169",
+"lineAddress1": "JL. SAMANHUDI NO.5E MEDAN",
+"lineAddress2": "KEC. MEDAN MAIMUN KEL. HAMDAN",
+"cityAddress": "Medan",
+"postalCode": 20151,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAMANHUDI NO.5E MEDAN",
+"mailingLineAddress2": "KEC. MEDAN MAIMUN KEL. HAMDAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20151,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271151808820002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. SINERGI USAHA JAYA",
+				"bidangUsaha": "FREIGHT FORWARDING "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230419174611",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8075619169",
+"bankAccountName": "YUTONO POA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082211119169",
+"name": "POA GWEK BIE",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19740609",
+"percentage": 100,
+"email": "yutonopoa.yp@gmail.com"
+}
+]
+}

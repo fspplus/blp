@@ -1,0 +1,71 @@
+139.194.129.111 https://koreaversikamu.co.id/prepurchase?view=finish 16:15:49 2020-04-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maya Nilamsari",
+    "birthDate": "19761126", 
+"birthPlace": "Jakarta",
+"emailAddress": "maya_nilamsari@yahoo.com",
+"mobilePhone": "081314405026",
+"homePhone": "0218295226",
+"lineAddress1": "Jl Tebet Timur Dalam III C no 11",
+"lineAddress2": "RT 05/03, TEBET TIMUR",
+"cityAddress": "Jakarta",
+"postalCode": 12820,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Tebet Timur Dalam III C no 11",
+"mailingLineAddress2": "RT 05/03, TEBET TIMUR",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12820,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "317401661176004",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 9,
+"referenceCode": "91910632",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200407161549",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0350931686",
+"bankAccountName": "Maya Nilamsari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081-383-79312",
+"name": "Malik Kayandra Putera",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20070109",
+"percentage": 100,
+"email": "malikkayandra@gmail.com"
+}
+]
+}

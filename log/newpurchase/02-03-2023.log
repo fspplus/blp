@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:48:14 2023-03-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NIKE TRISNI",
+    "birthDate": "19820328", 
+"birthPlace": "Payakumbuh",
+"emailAddress": "nike.trisni82@gmail.com",
+"mobilePhone": "082121282609",
+"homePhone": "0",
+"lineAddress1": "Jalan Habib Mohsyarif",
+"lineAddress2": "Hilir, Tapaktuan",
+"cityAddress": "",
+"postalCode": 23717,
+"sameMailing": "0",
+"mailingLineAddress1": "Serpong Park cluster emerald E6 no 10",
+"mailingLineAddress2": " Jelupang, Serpong Utara",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15323,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1376016803820005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dokter",
+"namaLembaga": "RS Hermina Bitung",
+				"bidangUsaha": "Kesehatan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NIKE TRISNI",
+    "birthDate": "19820328", 
+"birthPlace": "Payakumbuh",
+"emailAddress": "nike.trisni82@gmail.com",
+"mobilePhone": "082121282609",
+"homePhone": "0",
+"lineAddress1": "Jalan Habib Mohsyarif",
+"lineAddress2": "Hilir, Tapaktuan",
+"cityAddress": "",
+"postalCode": 23717,
+"sameMailing": "0",
+"mailingLineAddress1": "Serpong Park cluster emerald E6 no 10",
+"mailingLineAddress2": " Jelupang, Serpong Utara",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15323,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1376016803820005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dokter",
+"namaLembaga": "RS Hermina Bitung",
+				"bidangUsaha": "Kesehatan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "19252478",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230302184813",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8330307022",
+"bankAccountName": "NIKE TRISNI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082121282609",
+"name": "Hamizan Ahza Sitepu",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20120720",
+"percentage": 100,
+"email": "nike.trisni82@gmail.com"
+}
+]
+}

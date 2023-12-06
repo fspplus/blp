@@ -1,0 +1,189 @@
+/* LOGIN CSS */
+.errorNotif{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    transition: all .3s;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.spacer-35px{
+    height: 5vh;
+}
+
+.divUser, .batchEdit{
+    margin-bottom: 10px;
+}
+
+.selectObject{
+    margin-right: 10px;
+}
+
+/* END LOGIN CSS */
+
+.btnHanwha{
+    cursor: pointer;
+    padding: 5px 10px;
+    transition: all .3s;
+    display: block;
+    text-align: center;
+    background-color: transparent;
+    color: #ff7101;
+    border: 1px solid #ff7101;
+}
+.btnpage{
+    cursor: pointer;
+    transition: all .3s;
+    width: 30px;
+    text-align: center;
+    margin-left: 5px;
+    background-color: transparent;
+    color: #ff7101;
+    border: 1px solid #ff7101;
+}
+.btnpage:first-child{
+    margin-left: 0;
+}
+.btnpage.active{
+    margin-left: 0;
+    margin-right: -5px;
+}
+.pagedot{
+    text-align: center;
+    margin-left: 5px;
+}
+.col-lg-1half{
+    flex: 0 0 13.5%;
+    max-width: 13.5%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media screen and (max-width: 1430px){
+    .col-ict{flex: 0 0 15%; max-width: 15%;}
+    .col-lg-7{max-width: 57%}
+}
+@media screen and (max-width: 1358px){
+    .col-ict, .col-act{flex: 0 0 15%; max-width: 16%;}
+    .col-lg-7{max-width: 50%}
+}
+.btnHanwha:hover, .btnHanwha.active{
+    background-color: #ff7101;
+    color: white;
+}
+.btnpage:hover, .btnpage.active{
+    background-color: #ff7101;
+    color: white;
+    display: inline-block;
+}
+.animsition{
+    background-color: #e5e5e5;
+}
+.activeLink{
+    color: #ff7101 !important;
+    transition: all .3s !important;
+}
+.marginbottom20px{
+    margin-bottom: 20px;
+}
+.divCmsContent{
+    display: inline-block;
+}
+.btnDiv{
+    margin: 0px 25px;
+}
+.btnAddNew{
+    padding: 3px 10px;
+    background-color: #ff7101;
+    color: white;
+    transition: all .3s;
+    border: 1px solid #ff7101;
+}
+.btnAddNew:hover{
+    background-color: white;
+    color: #ff7101;
+}
+tinymce iframe{
+    height: 250px !important;
+}
+.row{
+    margin-bottom: 20px;
+}
+.clicker{
+    color: #ff7101;
+    border-bottom: 1px solid #ff7101;
+    margin-bottom: 10px;
+    transition: all .3s;
+    display: inline-block;
+    cursor: pointer;
+}
+.clicker:hover{
+    opacity: 0.7;
+}
+@media screen and (min-width: 1105px){
+    .pagedesktop{display: block;}
+    .pagemobile{display: none;}
+}
+@media screen and (max-width: 1105px){
+    .pagedesktop{display: none;}
+    .pagemobile{display: block;}
+    .col-lg-1half{max-width: 20% !important; flex: 0 0 20% !important}
+}
+@media screen and (max-width: 650px){
+    .col-lg-1half{max-width: 25% !important; flex: 0 0 25% !important}
+}
+@media screen and (max-width: 460px){
+    .col-lg-1half{max-width: 30% !important; flex: 0 0 30% !important; padding-right: 0 !important; padding-left: 15px !important}
+    .addnew .btnDiv{margin-left: 0; margin-top: 10px}
+    #pagecontainer{margin-bottom: 15% !important}
+}
+@media screen and (min-width: 460px){
+    .addnew hr{display: none;}
+}
+
+@media screen and (max-width: 991px){
+    .header-desktop{
+        display: none;
+    }
+    .header-mobile{
+        background-color: black;
+        z-index: 100;
+    }
+    .navbar-mobiles{
+        z-index: 100 !important;
+        /*height: auto !important;*/
+    }
+    .logo img{max-width: 70% !important}
+    #pagecontainer{margin-bottom: 10%}
+    .copyright p{padding: 0 5%}
+}
+.navbar-mobiles li{
+    color: #ff7101 !important;
+    margin: 10px 0px;
+    border-bottom: 1px solid gray;
+    padding: 5px 0px;
+}
+.navbar-mobiles li a{
+    color: #ff7101 !important;  
+}
+.navbar-mobiles li a i{
+    margin-right: 10px !important;
+}
+.hide{
+    top: -400px;
+    opacity: 0;
+    display: none;
+}
+.active{
+    top: auto;
+    opacity: 1;
+    display: block;
+    cursor: default;
+}
+.hamburger{background: none !important}
+.hamburger-inner, .hamburger-inner:before, .hamburger-inner:after{background: white}
+.sidebar-mobile{right: 0; left: unset; top: 60px;}
+.pagemobile{margin: auto;}

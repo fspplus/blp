@@ -1,0 +1,297 @@
+180.252.165.208 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 00:47:14 2021-08-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "susanto",
+    "birthDate": "19750829", 
+"birthPlace": "Jakarta",
+"emailAddress": "cgcloyalty@gmail.com",
+"mobilePhone": "08118112611",
+"homePhone": "08118112611",
+"lineAddress1": "Jl. H. yusuf No.53",
+"lineAddress2": "paninggilan",
+"cityAddress": "",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H. yusuf No.53",
+"mailingLineAddress2": "paninggilan",
+"mailingCityAddress": "",
+"mailingpostalCode": 15153,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671062908750007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT tugu mandiri",
+				"bidangUsaha": "dana pensiun "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "susanto",
+    "birthDate": "19750829", 
+"birthPlace": "Jakarta",
+"emailAddress": "cgcloyalty@gmail.com",
+"mobilePhone": "08118112611",
+"homePhone": "08118112611",
+"lineAddress1": "Jl. H. yusuf No.53",
+"lineAddress2": "paninggilan",
+"cityAddress": "",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H. yusuf No.53",
+"mailingLineAddress2": "paninggilan",
+"mailingCityAddress": "",
+"mailingpostalCode": 15153,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671062908750007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT tugu mandiri",
+				"bidangUsaha": "dana pensiun "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/html/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210827004712",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0350971851",
+"bankAccountName": "susanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08111145284",
+"name": "nurfaizah",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19750829",
+"percentage": 100,
+"email": "suzantozo@gmail.com"
+}
+]
+}
+180.252.165.208 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 00:51:24 2021-08-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "susanto",
+    "birthDate": "19750829", 
+"birthPlace": "jakarta",
+"emailAddress": "cgcloyalty@gmail.com",
+"mobilePhone": "08118112611",
+"homePhone": "08118112611",
+"lineAddress1": "Jl. H. yusuf No.53",
+"lineAddress2": "paninggilan",
+"cityAddress": "Tangerang",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H. yusuf No.53",
+"mailingLineAddress2": "paninggilan",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15153,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3671062908750007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pedagang Pasar",
+				"bidangUsaha": "Niaga "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "susanto",
+    "birthDate": "19750829", 
+"birthPlace": "jakarta",
+"emailAddress": "cgcloyalty@gmail.com",
+"mobilePhone": "08118112611",
+"homePhone": "08118112611",
+"lineAddress1": "Jl. H. yusuf No.53",
+"lineAddress2": "paninggilan",
+"cityAddress": "Tangerang",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H. yusuf No.53",
+"mailingLineAddress2": "paninggilan",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15153,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3671062908750007",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pedagang Pasar",
+				"bidangUsaha": "Niaga "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/html/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210827005122",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0350971851",
+"bankAccountName": "susanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08111145242",
+"name": "nurfaizah",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19760826",
+"percentage": 100,
+"email": "suzantozo@gmail.com"
+}
+]
+}
+180.252.165.208 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 00:54:59 2021-08-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "susanto",
+    "birthDate": "19750829", 
+"birthPlace": "Jakarta",
+"emailAddress": "cgcloyalty@gmail.com",
+"mobilePhone": "08118112611",
+"homePhone": "08118112611",
+"lineAddress1": "Jl. H. yusuf No.53",
+"lineAddress2": "paninggilan",
+"cityAddress": "Tangerang",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H. yusuf No.53",
+"mailingLineAddress2": "paninggilan",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15153,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3671062908750007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "pedagang pasar",
+				"bidangUsaha": "wiraniaga "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "susanto",
+    "birthDate": "19750829", 
+"birthPlace": "Jakarta",
+"emailAddress": "cgcloyalty@gmail.com",
+"mobilePhone": "08118112611",
+"homePhone": "08118112611",
+"lineAddress1": "Jl. H. yusuf No.53",
+"lineAddress2": "paninggilan",
+"cityAddress": "Tangerang",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H. yusuf No.53",
+"mailingLineAddress2": "paninggilan",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15153,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3671062908750007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "pedagang pasar",
+				"bidangUsaha": "wiraniaga "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/html/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210827005456",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0350971851",
+"bankAccountName": "susanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08111145242",
+"name": "nurfaizah",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19751026",
+"percentage": 100,
+"email": "suzantozo@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+103.10.66.5 https://bucketlistplan.co.id/prepurchase?view=finish 14:11:00 2020-11-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Irwan",
+    "birthDate": "19850412", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "irwan.tanujaya@yahoo.com",
+"mobilePhone": "085361765000",
+"homePhone": "085361765000",
+"lineAddress1": "Jln ir H Juanda blok C no.7 LK III",
+"lineAddress2": "Tanjung balai kota I",
+"cityAddress": "Tanjung balai",
+"postalCode": 21311,
+"sameMailing": "1",
+"mailingLineAddress1": "Jln ir H Juanda blok C no.7 LK III",
+"mailingLineAddress2": "Tanjung balai kota I",
+"mailingCityAddress": "Tanjung balai",
+"mailingpostalCode": 21311,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1274011204850003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Irwan",
+    "birthDate": "19850412", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "irwan.tanujaya@yahoo.com",
+"mobilePhone": "085361765000",
+"homePhone": "085361765000",
+"lineAddress1": "Jln ir H Juanda blok C no.7 LK III",
+"lineAddress2": "Tanjung balai kota I",
+"cityAddress": "Tanjung balai",
+"postalCode": 21311,
+"sameMailing": "1",
+"mailingLineAddress1": "Jln ir H Juanda blok C no.7 LK III",
+"mailingLineAddress2": "Tanjung balai kota I",
+"mailingCityAddress": "Tanjung balai",
+"mailingpostalCode": 21311,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1274011204850003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011996",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201104141059",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0520267859",
+"bankAccountName": "Irwan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085270937452",
+"name": "Mina",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19791227",
+"percentage": 100,
+"email": "irwan.tanujaya@yahoo.com"
+}
+]
+}

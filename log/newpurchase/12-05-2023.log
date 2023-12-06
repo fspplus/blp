@@ -1,0 +1,99 @@
+114.10.81.110 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 19:29:26 2023-05-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hendy",
+    "birthDate": "19790715", 
+"birthPlace": "Medan",
+"emailAddress": "hendymdn@gmail.com",
+"mobilePhone": "081918196668",
+"homePhone": "081918196668",
+"lineAddress1": "Dusun VIII JL MELATI NO 94",
+"lineAddress2": "Kel.purwodadi ,kec. Sunggal",
+"cityAddress": "",
+"postalCode": 20351,
+"sameMailing": "1",
+"mailingLineAddress1": "Dusun VIII JL MELATI NO 94",
+"mailingLineAddress2": "Kel.purwodadi ,kec. Sunggal",
+"mailingCityAddress": "",
+"mailingpostalCode": 20351,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1207231507790006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "BUSINESS PARTNER",
+"namaLembaga": "Sinarmas Msig",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hendy",
+    "birthDate": "19790715", 
+"birthPlace": "Medan",
+"emailAddress": "hendymdn@gmail.com",
+"mobilePhone": "081918196668",
+"homePhone": "081918196668",
+"lineAddress1": "Dusun VIII JL MELATI NO 94",
+"lineAddress2": "Kel.purwodadi ,kec. Sunggal",
+"cityAddress": "",
+"postalCode": 20351,
+"sameMailing": "1",
+"mailingLineAddress1": "Dusun VIII JL MELATI NO 94",
+"mailingLineAddress2": "Kel.purwodadi ,kec. Sunggal",
+"mailingCityAddress": "",
+"mailingpostalCode": 20351,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1207231507790006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "BUSINESS PARTNER",
+"namaLembaga": "Sinarmas Msig",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230512192925",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000477665",
+"bankAccountName": "Hendy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085370988887",
+"name": "Rini Andhika Alamsyah",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19850411",
+"percentage": 100,
+"email": "riniandhika@gmail.com"
+}
+]
+}

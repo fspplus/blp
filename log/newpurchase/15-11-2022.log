@@ -1,0 +1,198 @@
+45.126.185.211 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:26:30 2022-11-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jumini",
+    "birthDate": "19730613", 
+"birthPlace": "Medan",
+"emailAddress": "jumini.chin@yahoo.com",
+"mobilePhone": "08126005168",
+"homePhone": "08126005168.",
+"lineAddress1": "Jl. Dr. FL. Tobing No. 16 B - 22C",
+"lineAddress2": "Kel. Pusat Pasar Kec. Medan Kota",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Dr. FL. Tobing No. 16 B - 22C",
+"mailingLineAddress2": "Kel. Pusat Pasar Kec. Medan Kota",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271015306730002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Santani Plastik",
+				"bidangUsaha": "Distributor Plastik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Jumini",
+    "birthDate": "19730613", 
+"birthPlace": "Medan",
+"emailAddress": "jumini.chin@yahoo.com",
+"mobilePhone": "08126005168",
+"homePhone": "08126005168.",
+"lineAddress1": "Jl. Dr. FL. Tobing No. 16 B - 22C",
+"lineAddress2": "Kel. Pusat Pasar Kec. Medan Kota",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Dr. FL. Tobing No. 16 B - 22C",
+"mailingLineAddress2": "Kel. Pusat Pasar Kec. Medan Kota",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271015306730002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Santani Plastik",
+				"bidangUsaha": "Distributor Plastik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210241",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221115142629",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "9819005939",
+"bankAccountName": "Jumini",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126005168",
+"name": "Jane Geraldine",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20050426",
+"percentage": 100,
+"email": "jumini.chin@yahoo.com"
+}
+]
+}
+45.126.185.211 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:03:04 2022-11-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Floren",
+    "birthDate": "19760608", 
+"birthPlace": "Medan",
+"emailAddress": "florenhuang@yahoo.com",
+"mobilePhone": "08126535688",
+"homePhone": "08126535688",
+"lineAddress1": "Jl. Thamrin no. 158",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Mangga no.52 Cemara Asri",
+"mailingLineAddress2": "Jl. Thamrin 158 Medan",
+"mailingCityAddress": "",
+"mailingpostalCode": 20371,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271014806760005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sunrise Education",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Floren",
+    "birthDate": "19760608", 
+"birthPlace": "Medan",
+"emailAddress": "florenhuang@yahoo.com",
+"mobilePhone": "08126535688",
+"homePhone": "08126535688",
+"lineAddress1": "Jl. Thamrin no. 158",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Mangga no.52 Cemara Asri",
+"mailingLineAddress2": "Jl. Thamrin 158 Medan",
+"mailingCityAddress": "",
+"mailingpostalCode": 20371,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271014806760005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sunrise Education",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221115170303",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8645081397",
+"bankAccountName": "Floren",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081370130000",
+"name": "Herman Setiawan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19740618",
+"percentage": 100,
+"email": "florenhuang@yahoo.com"
+}
+]
+}

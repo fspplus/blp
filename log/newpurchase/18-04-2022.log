@@ -1,0 +1,297 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:05:36 2022-04-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "A WULAN LESTARI A",
+    "birthDate": "19940228", 
+"birthPlace": "Pare pare",
+"emailAddress": "andiwulan28@gmail.com",
+"mobilePhone": "085772145595",
+"homePhone": "085772145595",
+"lineAddress1": "JL. NUSA JAYA NO. 207A",
+"lineAddress2": "Pd. Karya, Kec. Ciputat Timur ",
+"cityAddress": "",
+"postalCode": 15412,
+"sameMailing": "0",
+"mailingLineAddress1": "KOMP. PUSREHABCAT",
+"mailingLineAddress2": "RT 009/003",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12330,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174106802940003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "A WULAN LESTARI A",
+    "birthDate": "19940228", 
+"birthPlace": "Pare pare",
+"emailAddress": "andiwulan28@gmail.com",
+"mobilePhone": "085772145595",
+"homePhone": "085772145595",
+"lineAddress1": "JL. NUSA JAYA NO. 207A",
+"lineAddress2": "Pd. Karya, Kec. Ciputat Timur ",
+"cityAddress": "",
+"postalCode": 15412,
+"sameMailing": "0",
+"mailingLineAddress1": "KOMP. PUSREHABCAT",
+"mailingLineAddress2": "RT 009/003",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12330,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174106802940003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE INSURANCE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000537",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220418100535",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1450098724",
+"bankAccountName": "A WULAN LESTARI A",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085711183948",
+"name": "WAHYU INDRA SAPUTRA",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19940716",
+"percentage": 100,
+"email": "wahyuindra.wis@gmial.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:55:52 2022-04-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Amalia Ramdani",
+    "birthDate": "19941013", 
+"birthPlace": "Jakarta",
+"emailAddress": "amaliaramdani@gmail.com",
+"mobilePhone": "087776654722",
+"homePhone": "087776654722",
+"lineAddress1": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"lineAddress2": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"mailingLineAddress2": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15153,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671065311910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Amalia Ramdani",
+    "birthDate": "19941013", 
+"birthPlace": "Jakarta",
+"emailAddress": "amaliaramdani@gmail.com",
+"mobilePhone": "087776654722",
+"homePhone": "087776654722",
+"lineAddress1": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"lineAddress2": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15153,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"mailingLineAddress2": "Jl Swadaya VII No. 49 RT/RW 003/005 Ciledug, Kota Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15153,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671065311910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000539",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220418145550",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5455103620",
+"bankAccountName": "Amalia Ramdani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087788033830",
+"name": "Siti Hajar",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19640816",
+"percentage": 100,
+"email": "ramdaniamalia@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:02:11 2022-04-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aditya Putra Pratama",
+    "birthDate": "19871129", 
+"birthPlace": "Jakarta",
+"emailAddress": "adit6664@gmail.com",
+"mobilePhone": "081212308691",
+"homePhone": "081212308691",
+"lineAddress1": "Jalan Garuda 5 B106",
+"lineAddress2": "Jakasampurna , kota Bekasi, Bekasi Barat",
+"cityAddress": "Bekasi",
+"postalCode": 17145,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Garuda 5 B106",
+"mailingLineAddress2": "Jakasampurna , kota Bekasi, Bekasi Barat",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17145,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275022911870022",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Aditya Putra Pratama",
+    "birthDate": "19871129", 
+"birthPlace": "Jakarta",
+"emailAddress": "adit6664@gmail.com",
+"mobilePhone": "081212308691",
+"homePhone": "081212308691",
+"lineAddress1": "Jalan Garuda 5 B106",
+"lineAddress2": "Jakasampurna , kota Bekasi, Bekasi Barat",
+"cityAddress": "Bekasi",
+"postalCode": 17145,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Garuda 5 B106",
+"mailingLineAddress2": "Jakasampurna , kota Bekasi, Bekasi Barat",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17145,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275022911870022",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000551",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220418160210",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5770812498",
+"bankAccountName": "Aditya Putra Pratama",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085885617384",
+"name": "Alfiyati Syafriana",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19870228",
+"percentage": 100,
+"email": "adit6664@gmail.com"
+}
+]
+}

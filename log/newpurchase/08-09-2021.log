@@ -1,0 +1,99 @@
+223.255.230.34 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:52:51 2021-09-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maulidya Chasanah",
+    "birthDate": "20000703", 
+"birthPlace": "Jakarta",
+"emailAddress": "maulidyachasanah123@gmail.com",
+"mobilePhone": "085714792730",
+"homePhone": "0215836497",
+"lineAddress1": "Kebon jeruk",
+"lineAddress2": "Jalan raya gang samudra",
+"cityAddress": "Jakarta",
+"postalCode": 11530,
+"sameMailing": "1",
+"mailingLineAddress1": "Kebon jeruk",
+"mailingLineAddress2": "Jalan raya gang samudra",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11530,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173054307000002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Maulidya Chasanah",
+    "birthDate": "20000703", 
+"birthPlace": "Jakarta",
+"emailAddress": "maulidyachasanah123@gmail.com",
+"mobilePhone": "085714792730",
+"homePhone": "0215836497",
+"lineAddress1": "Kebon jeruk",
+"lineAddress2": "Jalan raya gang samudra",
+"cityAddress": "Jakarta",
+"postalCode": 11530,
+"sameMailing": "1",
+"mailingLineAddress1": "Kebon jeruk",
+"mailingLineAddress2": "Jalan raya gang samudra",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11530,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173054307000002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "7777444",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210908115248",
+"bankCode": "536",
+"ropBankCode": "536",
+"bankAccount": "710094864",
+"bankAccountName": "Maulidya Chasanah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089523700945",
+"name": "Nurhayati",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19650205",
+"percentage": 100,
+"email": "nurhayati02@gmail.com"
+}
+]
+}

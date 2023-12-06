@@ -1,0 +1,198 @@
+182.2.41.56 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:16:07 2021-12-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Agus Thomas Daniarto",
+    "birthDate": "19650411", 
+"birthPlace": "Jepara",
+"emailAddress": "impact_tgm@yahoo.com",
+"mobilePhone": "08122919629",
+"homePhone": "02407629580",
+"lineAddress1": "Jl.Taman Bukit Hijau Raya No.7A - 7B, Kel Sadeng, Kec Gunung Pati",
+"lineAddress2": "Kelurahan Sadeng, Kecamatan Gunung Pati",
+"cityAddress": "",
+"postalCode": 50222,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Mawar VI / 5 Taman Bukit Hijau, RT.001 / RW.007, Kel Sadeng, Kec Gunung Pati",
+"mailingLineAddress2": "Kelurahan Sadeng, Kecamatan Gunung Pati",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50222,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374011104650001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pelayanan keagamaan dan jual snack",
+"namaLembaga": "Love donat",
+				"bidangUsaha": "Sosial dan makanan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Agus Thomas Daniarto",
+    "birthDate": "19650411", 
+"birthPlace": "Jepara",
+"emailAddress": "impact_tgm@yahoo.com",
+"mobilePhone": "08122919629",
+"homePhone": "02407629580",
+"lineAddress1": "Jl.Taman Bukit Hijau Raya No.7A - 7B, Kel Sadeng, Kec Gunung Pati",
+"lineAddress2": "Kelurahan Sadeng, Kecamatan Gunung Pati",
+"cityAddress": "",
+"postalCode": 50222,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Mawar VI / 5 Taman Bukit Hijau, RT.001 / RW.007, Kel Sadeng, Kec Gunung Pati",
+"mailingLineAddress2": "Kelurahan Sadeng, Kecamatan Gunung Pati",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50222,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374011104650001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pelayanan keagamaan dan jual snack",
+"namaLembaga": "Love donat",
+				"bidangUsaha": "Sosial dan makanan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20211231101604",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8985049137",
+"bankAccountName": "Agus Thomas Daniarto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "71909946"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081914450033",
+"name": "Ribkah Ningrum",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19700101",
+"percentage": 100,
+"email": "impact_tgm@yahoo.com"
+}
+]
+}
+182.2.41.56 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:29:39 2021-12-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Marcus Leonardo Hamara",
+    "birthDate": "19730330", 
+"birthPlace": "Jepara",
+"emailAddress": "tuju77@yahoo.com",
+"mobilePhone": "081901190118",
+"homePhone": "081901190118",
+"lineAddress1": "Jl.Srondol Bumi Indah  V - 4",
+"lineAddress2": "RT.008 RW.005, Kel Sumurboto, Kec Banyuwangi",
+"cityAddress": "",
+"postalCode": 50269,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Srondol Bumi Indah  V - 4",
+"mailingLineAddress2": "RT.008 RW.005, Kel Sumurboto, Kec Banyuwangi",
+"mailingCityAddress": "",
+"mailingpostalCode": 50269,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374033003730002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.DML",
+				"bidangUsaha": "Advertising "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Marcus Leonardo Hamara",
+    "birthDate": "19730330", 
+"birthPlace": "Jepara",
+"emailAddress": "tuju77@yahoo.com",
+"mobilePhone": "081901190118",
+"homePhone": "081901190118",
+"lineAddress1": "Jl.Srondol Bumi Indah  V - 4",
+"lineAddress2": "RT.008 RW.005, Kel Sumurboto, Kec Banyuwangi",
+"cityAddress": "",
+"postalCode": 50269,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Srondol Bumi Indah  V - 4",
+"mailingLineAddress2": "RT.008 RW.005, Kel Sumurboto, Kec Banyuwangi",
+"mailingCityAddress": "",
+"mailingpostalCode": 50269,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374033003730002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.DML",
+				"bidangUsaha": "Advertising "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20211231142934",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0094052854",
+"bankAccountName": "Marcus Leonardo Hamara",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "71909946"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0819011901181",
+"name": "ERVINA",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19700101",
+"percentage": 100,
+"email": "tuju77@yahoo.con"
+}
+]
+}

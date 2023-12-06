@@ -1,0 +1,207 @@
+180.244.234.237 https://uat.koreaversikamu.co.id/purchase/prepurchase?view=finish 08:34:33 2020-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hypebeast",
+    "birthDate": "19901001", 
+"birthPlace": "Balaraja",
+"emailAddress": "jointhehype708@gmail.com",
+"mobilePhone": "0823202999999",
+"homePhone": "0831031919118",
+"lineAddress1": "Jalan ",
+"lineAddress2": "Raya",
+"cityAddress": "",
+"postalCode": 12455,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan ",
+"mailingLineAddress2": "Raya",
+"mailingCityAddress": "",
+"mailingpostalCode": 12455,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1284020829200000",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Eselon",
+"namaLembaga": "Kementrian pariwisata",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Hypebeast",
+    "birthDate": "19901001", 
+"birthPlace": "Balaraja",
+"emailAddress": "jointhehype708@gmail.com",
+"mobilePhone": "0823202999999",
+"homePhone": "0831031919118",
+"lineAddress1": "Jalan ",
+"lineAddress2": "Raya",
+"cityAddress": "",
+"postalCode": 12455,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan ",
+"mailingLineAddress2": "Raya",
+"mailingCityAddress": "",
+"mailingpostalCode": 12455,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1284020829200000",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Eselon",
+"namaLembaga": "Kementrian pariwisata",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "403",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20201026083432",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "2392130131321232111",
+"bankAccountName": "cinta",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0293292020220",
+"name": "Hye",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19911002",
+"percentage": 50,
+"email": "hye@mail.com"
+},{
+"seqNo": "2",
+"mobileNo": "9389012803188",
+"name": "Sayang",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20011011",
+"percentage": 50,
+"email": "anak@mail.com"
+}
+]
+}
+223.255.230.65 https://bucketlistplan.co.id/prepurchase?view=finish 17:26:59 2020-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Doly Indra Permana",
+    "birthDate": "19890510", 
+"birthPlace": "Bekasi",
+"emailAddress": "dolyombing@gmail.com",
+"mobilePhone": "081281619115",
+"homePhone": "081281619115",
+"lineAddress1": "jl kerinci III no.27 SBS rt 002/007",
+"lineAddress2": "harapan jaya, bekasi utara",
+"cityAddress": "",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "jl kerinci III no.27 SBS rt 002/007",
+"mailingLineAddress2": "harapan jaya, bekasi utara",
+"mailingCityAddress": "",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275031005890037",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Doly Indra Permana",
+    "birthDate": "19890510", 
+"birthPlace": "Bekasi",
+"emailAddress": "dolyombing@gmail.com",
+"mobilePhone": "081281619115",
+"homePhone": "081281619115",
+"lineAddress1": "jl kerinci III no.27 SBS rt 002/007",
+"lineAddress2": "harapan jaya, bekasi utara",
+"cityAddress": "",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "jl kerinci III no.27 SBS rt 002/007",
+"mailingLineAddress2": "harapan jaya, bekasi utara",
+"mailingCityAddress": "",
+"mailingpostalCode": 17124,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275031005890037",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91808828",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201026172659",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7410998178",
+"bankAccountName": "Doly Indra Permana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081281619115",
+"name": "Murni Wanti Situmorang",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19950219",
+"percentage": 100,
+"email": "murnyolasitumorang@gmail.com"
+}
+]
+}

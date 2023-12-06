@@ -1,0 +1,198 @@
+45.126.185.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:35:29 2021-11-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ferdinand Joseph",
+    "birthDate": "19980531", 
+"birthPlace": "Medan",
+"emailAddress": "ysuhuang@gmail.com",
+"mobilePhone": "089603163875",
+"homePhone": "089603163875",
+"lineAddress1": "Jalan SIkambing No. 55B, kelurahan Sekip ",
+"lineAddress2": "Kecamatan Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20113,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan SIkambing No. 55B, kelurahan Sekip ",
+"mailingLineAddress2": "Kecamatan Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20113,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271193105980002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Angkasa Architects",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Ferdinand Joseph",
+    "birthDate": "19980531", 
+"birthPlace": "Medan",
+"emailAddress": "ysuhuang@gmail.com",
+"mobilePhone": "089603163875",
+"homePhone": "089603163875",
+"lineAddress1": "Jalan SIkambing No. 55B, kelurahan Sekip ",
+"lineAddress2": "Kecamatan Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20113,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan SIkambing No. 55B, kelurahan Sekip ",
+"mailingLineAddress2": "Kecamatan Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20113,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271193105980002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Angkasa Architects",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92010786",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20211130153527",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8370200379",
+"bankAccountName": "Ferdinand Joseph",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92010786"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811634808",
+"name": "Vilolin",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19720215",
+"percentage": 100,
+"email": "ysuhuang@gmail.com"
+}
+]
+}
+114.124.174.215 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:36:36 2021-11-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Muhamad Irfa Farhan",
+    "birthDate": "19900809", 
+"birthPlace": "Tangerang",
+"emailAddress": "muhamad.irfafarhan@gmail.com",
+"mobilePhone": "085210611116",
+"homePhone": "085210611116",
+"lineAddress1": "Kp. Kunir Kel. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Kel. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "M",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "3603020908900002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Kepala Dusun",
+"namaLembaga": "Desa Sumur Bandung",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Muhamad Irfa Farhan",
+    "birthDate": "19900809", 
+"birthPlace": "Tangerang",
+"emailAddress": "muhamad.irfafarhan@gmail.com",
+"mobilePhone": "085210611116",
+"homePhone": "085210611116",
+"lineAddress1": "Kp. Kunir Kel. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Kel. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "M",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "3603020908900002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Kepala Dusun",
+"namaLembaga": "Desa Sumur Bandung",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "71910017",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20211130163635",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7110263311",
+"bankAccountName": "Muhamad Irfa Farhan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "JDID"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286500129",
+"name": "Siti Sakinah",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920911",
+"percentage": 100,
+"email": "saqinah10@gmail.com"
+}
+]
+}

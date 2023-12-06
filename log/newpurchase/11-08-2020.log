@@ -1,0 +1,396 @@
+36.82.99.185 https://www.bucketlistplan.co.id/prepurchase?view=finish 09:53:49 2020-08-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Prima agyl pasa dewa",
+    "birthDate": "19921007", 
+"birthPlace": "Surabaya",
+"emailAddress": "primaagyl9@gmail.com",
+"mobilePhone": "085784691390",
+"homePhone": "081339880631",
+"lineAddress1": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"lineAddress2": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"cityAddress": "",
+"postalCode": 61262,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"mailingLineAddress2": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"mailingCityAddress": "",
+"mailingpostalCode": 61262,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515110710920003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt Anugrah pratama metropolis",
+				"bidangUsaha": "Retail kendaraan bermotor "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Prima agyl pasa dewa",
+    "birthDate": "19921007", 
+"birthPlace": "Surabaya",
+"emailAddress": "primaagyl9@gmail.com",
+"mobilePhone": "085784691390",
+"homePhone": "081339880631",
+"lineAddress1": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"lineAddress2": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"cityAddress": "",
+"postalCode": 61262,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"mailingLineAddress2": "Jl sidogolong rt 13 rw 06 watugolong krian sidoarjo",
+"mailingCityAddress": "",
+"mailingpostalCode": 61262,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515110710920003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt Anugrah pratama metropolis",
+				"bidangUsaha": "Retail kendaraan bermotor "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011827",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200811095348",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7680532529",
+"bankAccountName": "Kristalin andayu",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081252661152",
+"name": "Kristalin andayu",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19910714",
+"percentage": 100,
+"email": "kristalin.ptbig@gmail.com"
+}
+]
+}
+180.242.234.170 https://koreaversikamu.co.id/prepurchase?view=finish 13:32:18 2020-08-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "PENNY FATIKASARI",
+    "birthDate": "19950411", 
+"birthPlace": "Singkawang",
+"emailAddress": "pennyfatikasari@gmail.com",
+"mobilePhone": "085752909209",
+"homePhone": "08987169220",
+"lineAddress1": "JL.VETERAN RT 037 / RW 0005, KELURAHAN ROBAN, SINGKAWANG TENGAH",
+"lineAddress2": "JL.MANGGIS, GG. MANGGIS 1, ROBAN, SINGKAWANG TENGAH",
+"cityAddress": "Singkawang",
+"postalCode": 79112,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.VETERAN RT 037 / RW 0005, KELURAHAN ROBAN, SINGKAWANG TENGAH",
+"mailingLineAddress2": "JL.MANGGIS, GG. MANGGIS 1, ROBAN, SINGKAWANG TENGAH",
+"mailingCityAddress": "Singkawang",
+"mailingpostalCode": 79112,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "617201510003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.BANK RAKYAT INONESIA (Persero) Tbk",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "PENNY FATIKASARI",
+    "birthDate": "19950411", 
+"birthPlace": "Singkawang",
+"emailAddress": "pennyfatikasari@gmail.com",
+"mobilePhone": "085752909209",
+"homePhone": "08987169220",
+"lineAddress1": "JL.VETERAN RT 037 / RW 0005, KELURAHAN ROBAN, SINGKAWANG TENGAH",
+"lineAddress2": "JL.MANGGIS, GG. MANGGIS 1, ROBAN, SINGKAWANG TENGAH",
+"cityAddress": "Singkawang",
+"postalCode": 79112,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.VETERAN RT 037 / RW 0005, KELURAHAN ROBAN, SINGKAWANG TENGAH",
+"mailingLineAddress2": "JL.MANGGIS, GG. MANGGIS 1, ROBAN, SINGKAWANG TENGAH",
+"mailingCityAddress": "Singkawang",
+"mailingpostalCode": 79112,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "617201510003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.BANK RAKYAT INONESIA (Persero) Tbk",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "000349",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200811133218",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8171113709",
+"bankAccountName": "PENNY FATIKASARI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085752083839",
+"name": "RAYSA PRAMAN",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20020308",
+"percentage": 100,
+"email": "raysapraman08@gmail.com"
+}
+]
+}
+120.188.86.10 https://bucketlistplan.co.id/prepurchase?view=finish 19:17:49 2020-08-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi oktaviana subyanto",
+    "birthDate": "19911024", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewie_oktav91@yahoo.com",
+"mobilePhone": "082231021412",
+"homePhone": "082231021412",
+"lineAddress1": "Jl tambak segaran wetan",
+"lineAddress2": "Nomer 61",
+"cityAddress": "",
+"postalCode": 60135,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl lebak jaya utara ",
+"mailingLineAddress2": " 5C blok D25",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578106410910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt bank central asia",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Dewi oktaviana subyanto",
+    "birthDate": "19911024", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewie_oktav91@yahoo.com",
+"mobilePhone": "082231021412",
+"homePhone": "082231021412",
+"lineAddress1": "Jl tambak segaran wetan",
+"lineAddress2": "Nomer 61",
+"cityAddress": "",
+"postalCode": 60135,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl lebak jaya utara ",
+"mailingLineAddress2": " 5C blok D25",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578106410910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt bank central asia",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011721",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200811191749",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1020363742",
+"bankAccountName": "Dewi oktaviana subyanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011721"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087884828897",
+"name": "Oei ay fang",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19591009",
+"percentage": 100,
+"email": "viona_it@yahoo.co.id"
+}
+]
+}
+120.188.86.10 https://bucketlistplan.co.id/prepurchase?view=finish 19:19:03 2020-08-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi oktaviana subyanto",
+    "birthDate": "19911024", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewie_oktav91@yahoo.com",
+"mobilePhone": "082231021412",
+"homePhone": "082231021412",
+"lineAddress1": "Jl tambak segaran wetan",
+"lineAddress2": "Nomer 61",
+"cityAddress": "",
+"postalCode": 60135,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl lebak jaya utara ",
+"mailingLineAddress2": " 5C blok D25",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578106410910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt bank central asia",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Dewi oktaviana subyanto",
+    "birthDate": "19911024", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewie_oktav91@yahoo.com",
+"mobilePhone": "082231021412",
+"homePhone": "082231021412",
+"lineAddress1": "Jl tambak segaran wetan",
+"lineAddress2": "Nomer 61",
+"cityAddress": "",
+"postalCode": 60135,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl lebak jaya utara ",
+"mailingLineAddress2": " 5C blok D25",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578106410910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt bank central asia",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011721",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200811191903",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1020363742",
+"bankAccountName": "Dewi oktaviana subyanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011721"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087884828897",
+"name": "Oei ay fang",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19591009",
+"percentage": 100,
+"email": "viona_it@yahoo.co.id"
+}
+]
+}

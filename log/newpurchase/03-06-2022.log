@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:15:12 2022-06-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dodi Kurniawan",
+    "birthDate": "19661024", 
+"birthPlace": "Cianjur",
+"emailAddress": "doys2410@gmail.com",
+"mobilePhone": "081321170699",
+"homePhone": "081321170699",
+"lineAddress1": "jl Awiligar Ria No.9 RT. 02/ 009",
+"lineAddress2": "Cibeunying, Cimenyan",
+"cityAddress": "Bandung",
+"postalCode": 40191,
+"sameMailing": "1",
+"mailingLineAddress1": "jl Awiligar Ria No.9 RT. 02/ 009",
+"mailingLineAddress2": "Cibeunying, Cimenyan",
+"mailingCityAddress": "Bandung",
+"mailingpostalCode": 40191,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3204062410660001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wiraswasta",
+				"bidangUsaha": "Wiraswasta "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dodi Kurniawan",
+    "birthDate": "19661024", 
+"birthPlace": "Cianjur",
+"emailAddress": "doys2410@gmail.com",
+"mobilePhone": "081321170699",
+"homePhone": "081321170699",
+"lineAddress1": "jl Awiligar Ria No.9 RT. 02/ 009",
+"lineAddress2": "Cibeunying, Cimenyan",
+"cityAddress": "Bandung",
+"postalCode": 40191,
+"sameMailing": "1",
+"mailingLineAddress1": "jl Awiligar Ria No.9 RT. 02/ 009",
+"mailingLineAddress2": "Cibeunying, Cimenyan",
+"mailingCityAddress": "Bandung",
+"mailingpostalCode": 40191,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3204062410660001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wiraswasta",
+				"bidangUsaha": "Wiraswasta "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "71909949",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220603101510",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1310024106660",
+"bankAccountName": "Dodi Kurniawan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081906774909",
+"name": "Jacinta M Kopalit",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19690204",
+"percentage": 100,
+"email": "doys2410@gmail.com"
+}
+]
+}

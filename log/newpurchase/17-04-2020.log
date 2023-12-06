@@ -1,0 +1,710 @@
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 14:48:56 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Tangerang",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DRD",
+				"bidangUsaha": "DGT "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Fery","birthDate":"","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018239123819","homePhone":"9018239123819","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Jakarta","postalCode":"12391","sameMailing":"","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Jakarta","mailingpostalCode":12391,"gender":"M","jobType":"Job8","identityType":1,"identityNumber":"9018239183290831","incomeSource":"Incoth","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"Duit","occupationid":"Job8","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"adaR","incomeoth":"1","incomeothdesc":"YTB","incomeothtype":"YTB","npwp":"1902389103819","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9018239183290831","office_phone1":"0912381290381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200417144856",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0912391823981",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20200401",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 15:37:02 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Tangerang",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DRD",
+				"bidangUsaha": "DGT "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Fery","birthDate":"1968-04-03","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018239123819","homePhone":"9018239123819","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Jakarta","postalCode":"12391","sameMailing":"","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Jakarta","mailingpostalCode":12391,"gender":"M","jobType":"Job8","identityType":1,"identityNumber":"9018239183290831","incomeSource":"Incoth","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"Duit","occupationid":"Job8","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"adaR","incomeoth":"1","incomeothdesc":"YTB","incomeothtype":"YTB","npwp":"1902389103819","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9018239183290831","office_phone1":"0912381290381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200417153700",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0912391823981",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20200401",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 15:37:51 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Tangerang",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DRD",
+				"bidangUsaha": "DGT "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Fery","birthDate":"19680403","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018239123819","homePhone":"9018239123819","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Jakarta","postalCode":"12391","sameMailing":"","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Jakarta","mailingpostalCode":12391,"gender":"M","jobType":"Job8","identityType":1,"identityNumber":"9018239183290831","incomeSource":"Incoth","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"Duit","occupationid":"Job8","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"adaR","incomeoth":"1","incomeothdesc":"YTB","incomeothtype":"YTB","npwp":"1902389103819","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9018239183290831","office_phone1":"0912381290381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200417153750",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0912391823981",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20200401",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 16:06:44 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Tangerang",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DRD",
+				"bidangUsaha": "DGT "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Fery","birthDate":"19680403","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018239123819","homePhone":"9018239123819","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Jakarta","postalCode":"12391","sameMailing":"","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Jakarta","mailingpostalCode":12391,"gender":"M","jobType":"Job8","identityType":1,"identityNumber":"9018239183290831","incomeSource":"Incoth","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"Duit","occupationid":"Job8","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"adaR","incomeoth":"1","incomeothdesc":"YTB","incomeothtype":"YTB","npwp":"1902389103819","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9018239183290831","office_phone1":"0912381290381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200417160643",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0912391823981",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20200401",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 16:10:38 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Tangerang",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DRD",
+				"bidangUsaha": "DGT "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Fery","birthDate":"19680403","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018239123819","homePhone":"9018239123819","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Jakarta","postalCode":"12391","sameMailing":"","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Jakarta","mailingpostalCode":12391,"gender":"M","jobType":"Job8","identityType":1,"identityNumber":"9018239183290831","incomeSource":"Incoth","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"Duit","occupationid":"Job8","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"adaR","incomeoth":"1","incomeothdesc":"YTB","incomeothtype":"YTB","npwp":"1902389103819","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9018239183290831","office_phone1":"0912381290381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200417161038",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0912391823981",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20200401",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 16:11:15 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Tangerang",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DRD",
+				"bidangUsaha": "DGT "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Fery","birthDate":"19680403","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018239123819","homePhone":"9018239123819","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Jakarta","postalCode":"12391","sameMailing":"0","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Jakarta","mailingpostalCode":12391,"gender":"M","jobType":"Job8","identityType":1,"identityNumber":"9018239183290831","incomeSource":"Incoth","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"Duit","occupationid":"Job8","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"adaR","incomeoth":"1","incomeothdesc":"YTB","incomeothtype":"YTB","npwp":"1902389103819","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9018239183290831","office_phone1":"0912381290381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200417161115",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0912391823981",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20200401",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 18:30:06 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Tangerang",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "DRD",
+				"bidangUsaha": "DGT "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Fery","birthDate":"19680403","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018239123819","homePhone":"9018239123819","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Jakarta","postalCode":"12391","sameMailing":"0","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Jakarta","mailingpostalCode":12391,"gender":"M","jobType":"Job8","identityType":1,"identityNumber":"9018239183290831","incomeSource":"Incoth","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"Duit","occupationid":"Job8","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"1","incomeoth":"adaR","incomeothdesc":"YTB","incomeothtype":"1","npwp":"1902389103819","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9018239183290831","office_phone1":"0912381290381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200417183004",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0912391823981",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20200401",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 18:39:21 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Jakarta",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Sukardi","birthDate":"19620417","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018293812938","homePhone":"9018293812938","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Tangerang","postalCode":"12319","sameMailing":"0","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Tangerang","mailingpostalCode":12319,"gender":"M","jobType":"1","identityType":1,"identityNumber":"9281903812938190","incomeSource":"6","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"66","occupationid":"1","occupationdesc":"","jobpos":"","incomesourcedesc":"2","incomesrcoth":"2","incomeoth":"1","incomeothdesc":"5","incomeothtype":"1","npwp":"8129381298932","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9281903812938190","office_phone1":"1092938129381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200417183920",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "8912283189238",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20130410",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 18:41:05 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Jakarta",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Sukardi","birthDate":"19620417","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018293812938","homePhone":"9018293812938","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Tangerang","postalCode":"12319","sameMailing":"0","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Tangerang","mailingpostalCode":12319,"gender":"M","jobType":"1","identityType":1,"identityNumber":"9281903812938190","incomeSource":"6","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"Y","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"66","occupationid":"1","occupationdesc":"","jobpos":"","incomesourcedesc":"2","incomesrcoth":"2","incomeoth":"1","incomeothdesc":"5","incomeothtype":"1","npwp":"8129381298932","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9281903812938190","office_phone1":"1092938129381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200417184104",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "8912283189238",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20130410",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+139.255.191.17 http://uat.koreaversikamu.co.id/prepurchase?view=finish 18:43:32 2020-04-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Feryan EA",
+    "birthDate": "19650412", 
+"birthPlace": "Jakarta",
+"emailAddress": "feryss@dorado.id",
+"mobilePhone": "0918329012839",
+"homePhone": "1092381290381",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah",
+"cityAddress": "Jakarta",
+"postalCode": 19238,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 19238,
+"gender": "M",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "9108391028391023",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "97989898908908990",
+			"maritalStatus": "N"
+		}
+    },"policyPayor":{"fullName":"Sukardi","birthDate":"19620417","birthPlace":"","emailAddress":"fery@dorado.id","mobilePhone":"9018293812938","homePhone":"9018293812938","lineAddress1":"Rumah","lineAddress2":"Rumah","cityAddress":"Tangerang","postalCode":"12319","sameMailing":"0","mailingLineAddress1":"Rumah","mailingLineAddress2":"Rumah","mailingCityAddress":"Tangerang","mailingpostalCode":12319,"gender":"M","jobType":"1","identityType":1,"identityNumber":"9281903812938190","incomeSource":"6","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"Y","boType":"2","indivPayor":{"marital":"","citizenship":"WNA","nationality":"66","occupationid":"1","occupationdesc":"","jobpos":"","incomesourcedesc":"2","incomesrcoth":"2","incomeoth":"1","incomeothdesc":"5","incomeothtype":"1","npwp":"8129381298932","relwinsured":"fery@dorado.id","relwholder":"1","kitasNo":"9281903812938190","office_phone1":"1092938129381","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "907809890899898908989809809",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200417184331",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "78789798789789798",
+"bankAccountName": "hjhgj",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "97989898908908990"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "8912283189238",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20130410",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}

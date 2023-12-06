@@ -1,0 +1,198 @@
+139.192.66.131 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 12:00:08 2021-12-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dito Nur Prasetyo",
+    "birthDate": "19861109", 
+"birthPlace": "Jakarta",
+"emailAddress": "dito.dnp@gmail.com",
+"mobilePhone": "081284844597",
+"homePhone": "081284844597",
+"lineAddress1": "Jl. Rulita gg mawar rt/rw 003/003",
+"lineAddress2": "Kel. Harjasari kec. Bogor selatan ",
+"cityAddress": "",
+"postalCode": 16138,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan kebun raya residence ",
+"mailingLineAddress2": "cluster citra park extension No.42",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16119,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173080911860011",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Web Marketing Indonesia",
+				"bidangUsaha": "Online Property Marketplace "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dito Nur Prasetyo",
+    "birthDate": "19861109", 
+"birthPlace": "Jakarta",
+"emailAddress": "dito.dnp@gmail.com",
+"mobilePhone": "081284844597",
+"homePhone": "081284844597",
+"lineAddress1": "Jl. Rulita gg mawar rt/rw 003/003",
+"lineAddress2": "Kel. Harjasari kec. Bogor selatan ",
+"cityAddress": "",
+"postalCode": 16138,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan kebun raya residence ",
+"mailingLineAddress2": "cluster citra park extension No.42",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16119,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173080911860011",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Web Marketing Indonesia",
+				"bidangUsaha": "Online Property Marketplace "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/html/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20211216120007",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6930307317",
+"bankAccountName": "Dito Nur Prasetyo",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "71910030"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085161898927",
+"name": "Aprilliany Rahmawati Poetri",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880424",
+"percentage": 100,
+"email": "april.poetri@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:33:48 2021-12-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dito Nur Prasetyo",
+    "birthDate": "19861109", 
+"birthPlace": "Jakarta",
+"emailAddress": "dito.drp@gmail.com",
+"mobilePhone": "081284844597",
+"homePhone": "081284844597",
+"lineAddress1": "Jl Rulita GG Mawar",
+"lineAddress2": "RT 03/03 Harjasari",
+"cityAddress": "",
+"postalCode": 16138,
+"sameMailing": "0",
+"mailingLineAddress1": "Kebun Raya Residence",
+"mailingLineAddress2": "Cluster Citrapark ext No 42",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16119,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173080911860011",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Web Marketing Indonesia",
+				"bidangUsaha": "Online Property Marketplace "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dito Nur Prasetyo",
+    "birthDate": "19861109", 
+"birthPlace": "Jakarta",
+"emailAddress": "dito.drp@gmail.com",
+"mobilePhone": "081284844597",
+"homePhone": "081284844597",
+"lineAddress1": "Jl Rulita GG Mawar",
+"lineAddress2": "RT 03/03 Harjasari",
+"cityAddress": "",
+"postalCode": 16138,
+"sameMailing": "0",
+"mailingLineAddress1": "Kebun Raya Residence",
+"mailingLineAddress2": "Cluster Citrapark ext No 42",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16119,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173080911860011",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Web Marketing Indonesia",
+				"bidangUsaha": "Online Property Marketplace "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "71910030",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20211216133347",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6930307317",
+"bankAccountName": "Dito Nur Prasetyo",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085161898927",
+"name": "Aprilliany Rahmawati Poetri",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880424",
+"percentage": 100,
+"email": "april.poetri@gmail.com"
+}
+]
+}

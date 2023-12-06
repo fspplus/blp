@@ -1,0 +1,198 @@
+114.122.10.75 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:24:41 2020-11-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Raty",
+    "birthDate": "19750125", 
+"birthPlace": "Perbaungan",
+"emailAddress": "ratyse@yahoo.com",
+"mobilePhone": "08126072119",
+"homePhone": "061-7348865",
+"lineAddress1": "Jl. Kalimantan No. 16B",
+"lineAddress2": "Jl. Kalimantan No. 16B",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Kapuas No. 3J",
+"mailingLineAddress2": "Jl. Kapuas No. 3J",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271016501750003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Multi Agro Sentosa",
+				"bidangUsaha": "Pabrik Kelapa Sawit "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Raty",
+    "birthDate": "19750125", 
+"birthPlace": "Perbaungan",
+"emailAddress": "ratyse@yahoo.com",
+"mobilePhone": "08126072119",
+"homePhone": "061-7348865",
+"lineAddress1": "Jl. Kalimantan No. 16B",
+"lineAddress2": "Jl. Kalimantan No. 16B",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Kapuas No. 3J",
+"mailingLineAddress2": "Jl. Kapuas No. 3J",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271016501750003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Multi Agro Sentosa",
+				"bidangUsaha": "Pabrik Kelapa Sawit "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92012071",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201117102440",
+"bankCode": "011",
+"ropBankCode": "011",
+"bankAccount": "3608942003",
+"bankAccountName": "Raty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082294587812",
+"name": "Selline Herty Lauren",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20040924",
+"percentage": 100,
+"email": "ratyse@yahoo.com"
+}
+]
+}
+114.124.234.89 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 10:49:59 2020-11-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Wahyu Nur Rahman",
+    "birthDate": "19980408", 
+"birthPlace": "Jakarta",
+"emailAddress": "wahyu.rahman004@gmail.com",
+"mobilePhone": "081574173527",
+"homePhone": "081574173527",
+"lineAddress1": "Jl Nusa Indah V/2/No.55 RT002/RW005",
+"lineAddress2": "Kel. Malaka Jaya Kec. Duren Sawit Kota Jakarta Timur ",
+"cityAddress": "",
+"postalCode": 13460,
+"sameMailing": "0",
+"mailingLineAddress1": "Perum Bojong Depok Baru 1 (gaperi1) Blok NJ 15 RT003/RW009 ",
+"mailingLineAddress2": "Kel. Kedungwaringin Kec. Bojonggede Kab. Bogor ",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16923,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175070804980006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Oriental Jaya Mandiri Indah ",
+				"bidangUsaha": "Logistik  "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Wahyu Nur Rahman",
+    "birthDate": "19980408", 
+"birthPlace": "Jakarta",
+"emailAddress": "wahyu.rahman004@gmail.com",
+"mobilePhone": "081574173527",
+"homePhone": "081574173527",
+"lineAddress1": "Jl Nusa Indah V/2/No.55 RT002/RW005",
+"lineAddress2": "Kel. Malaka Jaya Kec. Duren Sawit Kota Jakarta Timur ",
+"cityAddress": "",
+"postalCode": 13460,
+"sameMailing": "0",
+"mailingLineAddress1": "Perum Bojong Depok Baru 1 (gaperi1) Blok NJ 15 RT003/RW009 ",
+"mailingLineAddress2": "Kel. Kedungwaringin Kec. Bojonggede Kab. Bogor ",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16923,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175070804980006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Oriental Jaya Mandiri Indah ",
+				"bidangUsaha": "Logistik  "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011983",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201117104958",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0715216215",
+"bankAccountName": "Wahyu Nur Rahman ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895338112150",
+"name": "Heryana Eka Nugraha ",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19730709",
+"percentage": 100,
+"email": "wahyu.rahman004@gmail.com"
+}
+]
+}

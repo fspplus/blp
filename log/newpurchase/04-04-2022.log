@@ -1,0 +1,297 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:53:18 2022-04-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Midah Maslim",
+    "birthDate": "19631129", 
+"birthPlace": "Medan",
+"emailAddress": "midahmaslim@gmail.com",
+"mobilePhone": "08126025958",
+"homePhone": "08126025958",
+"lineAddress1": "Villa Gading Mas Blok K No.1",
+"lineAddress2": "Harjosari II, Medan Amplas",
+"cityAddress": "Medan",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa Gading Mas Blok K No.1",
+"mailingLineAddress2": "Harjosari II, Medan Amplas",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20147,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271096911630002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Midah Maslim",
+    "birthDate": "19631129", 
+"birthPlace": "Medan",
+"emailAddress": "midahmaslim@gmail.com",
+"mobilePhone": "08126025958",
+"homePhone": "08126025958",
+"lineAddress1": "Villa Gading Mas Blok K No.1",
+"lineAddress2": "Harjosari II, Medan Amplas",
+"cityAddress": "Medan",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa Gading Mas Blok K No.1",
+"mailingLineAddress2": "Harjosari II, Medan Amplas",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20147,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271096911630002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "92012391",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220404115317",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221881728",
+"bankAccountName": "Midah Maslim",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811631629",
+"name": "Atlas Tata Surya",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19870127",
+"percentage": 100,
+"email": "atlastatasurya@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:54:20 2022-04-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "kay jacinta zareka asmara dewi ",
+    "birthDate": "20000614", 
+"birthPlace": "Jakarta",
+"emailAddress": "zarekaasmara@gmail.com",
+"mobilePhone": "087778383220",
+"homePhone": "0877655421",
+"lineAddress1": "puri harapan blok e 11 no 45 rt 02 rw 016",
+"lineAddress2": "jalan enau blok d no 8 rt 005",
+"cityAddress": "Bekasi",
+"postalCode": 17215,
+"sameMailing": "1",
+"mailingLineAddress1": "puri harapan blok e 11 no 45 rt 02 rw 016",
+"mailingLineAddress2": "jalan enau blok d no 8 rt 005",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17215,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216015406000005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "hanwha",
+				"bidangUsaha": "marketing "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "kay jacinta zareka asmara dewi ",
+    "birthDate": "20000614", 
+"birthPlace": "Jakarta",
+"emailAddress": "zarekaasmara@gmail.com",
+"mobilePhone": "087778383220",
+"homePhone": "0877655421",
+"lineAddress1": "puri harapan blok e 11 no 45 rt 02 rw 016",
+"lineAddress2": "jalan enau blok d no 8 rt 005",
+"cityAddress": "Bekasi",
+"postalCode": 17215,
+"sameMailing": "1",
+"mailingLineAddress1": "puri harapan blok e 11 no 45 rt 02 rw 016",
+"mailingLineAddress2": "jalan enau blok d no 8 rt 005",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17215,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3216015406000005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "hanwha",
+				"bidangUsaha": "marketing "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20220404165418",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "16576472476427624",
+"bankAccountName": "kay jacinta ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08128550147",
+"name": "sigit sartono",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19900610",
+"percentage": 100,
+"email": "siigitsartono20@gmail.com"
+}
+]
+}
+120.188.85.145 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:11:50 2022-04-04
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lila Wati",
+    "birthDate": "19730215", 
+"birthPlace": "Jombang",
+"emailAddress": "lilawati240@gmail.com",
+"mobilePhone": "082335724918",
+"homePhone": "0317419471",
+"lineAddress1": "Alam hijau F2 no 65",
+"lineAddress2": "Citraland surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60219,
+"sameMailing": "1",
+"mailingLineAddress1": "Alam hijau F2 no 65",
+"mailingLineAddress2": "Citraland surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60219,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3578315502730002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Lila jaya",
+				"bidangUsaha": "Catering  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Lila Wati",
+    "birthDate": "19730215", 
+"birthPlace": "Jombang",
+"emailAddress": "lilawati240@gmail.com",
+"mobilePhone": "082335724918",
+"homePhone": "0317419471",
+"lineAddress1": "Alam hijau F2 no 65",
+"lineAddress2": "Citraland surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60219,
+"sameMailing": "1",
+"mailingLineAddress1": "Alam hijau F2 no 65",
+"mailingLineAddress2": "Citraland surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60219,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3578315502730002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Lila jaya",
+				"bidangUsaha": "Catering  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011518",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220404181149",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8620005810",
+"bankAccountName": "Lila wati ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011518"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082143265339",
+"name": "Daniel Alexander",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20050418",
+"percentage": 100,
+"email": "lilawati240@gmail.com"
+}
+]
+}

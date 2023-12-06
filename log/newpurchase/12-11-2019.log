@@ -1,0 +1,66 @@
+10.1.1.33 https://koreaversikamu.co.id/prepurchase?view=finish 21:34:48 2019-11-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Bellaetrix Manuputty",
+    "birthDate": "19881011", 
+"birthPlace": "Jakarta",
+"emailAddress": "manuputtyb7@gmail.com",
+"mobilePhone": "0817111088",
+"homePhone": "0817111088",
+"lineAddress1": "Jl. Krakatau Raya Blok AC 2/4 Komp SBS",
+"lineAddress2": "Harapan Jaya ",
+"cityAddress": "Bekasi",
+"postalCode": 17124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Krakatau Raya Blok AC 2/4 Komp SBS",
+"mailingLineAddress2": "Harapan Jaya ",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17124,
+"gender": "F",
+"jobType": "job23",
+"identityType": 1,
+"identityNumber": "3275035110880012",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Atlit olahraga",
+"namaLembaga": "PBSI",
+"bidangUsaha": "Olahraga"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "448",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191112213447",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0660812491",
+"bankAccountName": "Bellaetrix Manuputty",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08170720008",
+"name": "Janne Thomas Manuputty",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19610124",
+"percentage": 100,
+"email": "manuputtyb7@gmail.com"
+}
+]
+}

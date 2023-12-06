@@ -1,0 +1,99 @@
+66.96.225.72 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:01:38 2021-11-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hasbi hilman",
+    "birthDate": "20030520", 
+"birthPlace": "Bogor",
+"emailAddress": "hasbihilman11@gmail.com",
+"mobilePhone": "085773515493",
+"homePhone": "085773515493",
+"lineAddress1": "Puri nirwana 2 blok bf 21 rt04 rw 13",
+"lineAddress2": "Puri nirwana 2 blok bf 21 rt04 rw13",
+"cityAddress": "Bogor",
+"postalCode": 16914,
+"sameMailing": "1",
+"mailingLineAddress1": "Puri nirwana 2 blok bf 21 rt04 rw 13",
+"mailingLineAddress2": "Puri nirwana 2 blok bf 21 rt04 rw13",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16914,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201012005030011",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Mahasiswa",
+"namaLembaga": "Hanwha buckwt list plan",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Hasbi hilman",
+    "birthDate": "20030520", 
+"birthPlace": "Bogor",
+"emailAddress": "hasbihilman11@gmail.com",
+"mobilePhone": "085773515493",
+"homePhone": "085773515493",
+"lineAddress1": "Puri nirwana 2 blok bf 21 rt04 rw 13",
+"lineAddress2": "Puri nirwana 2 blok bf 21 rt04 rw13",
+"cityAddress": "Bogor",
+"postalCode": 16914,
+"sameMailing": "1",
+"mailingLineAddress1": "Puri nirwana 2 blok bf 21 rt04 rw 13",
+"mailingLineAddress2": "Puri nirwana 2 blok bf 21 rt04 rw13",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16914,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201012005030011",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Mahasiswa",
+"namaLembaga": "Hanwha buckwt list plan",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20211127120137",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "720001019956532",
+"bankAccountName": "Hasbi hilman",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085773515493",
+"name": "Hasbi hilman",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20030520",
+"percentage": 100,
+"email": "hasbihilman11@gmail.com"
+}
+]
+}

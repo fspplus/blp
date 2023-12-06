@@ -1,0 +1,297 @@
+182.253.242.76 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:07:55 2023-07-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Joven Andis Hamdani, SH MH",
+    "birthDate": "19880810", 
+"birthPlace": "Binjai",
+"emailAddress": "jovenandishamdani@gmail.com",
+"mobilePhone": "0812 6008 881",
+"homePhone": "0812 6008 881",
+"lineAddress1": "JL. Kalimantan No.16A",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20152,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. Kalimantan No.16A",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20152,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271011008880001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Sumber Tani Agung Resources Tbk",
+				"bidangUsaha": "Perkebunan Kelapa Sawit "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Joven Andis Hamdani, SH MH",
+    "birthDate": "19880810", 
+"birthPlace": "Binjai",
+"emailAddress": "jovenandishamdani@gmail.com",
+"mobilePhone": "0812 6008 881",
+"homePhone": "0812 6008 881",
+"lineAddress1": "JL. Kalimantan No.16A",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20152,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. Kalimantan No.16A",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20152,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271011008880001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Sumber Tani Agung Resources Tbk",
+				"bidangUsaha": "Perkebunan Kelapa Sawit "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230721110754",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "83700 54798",
+"bankAccountName": "Joven Andis Hamdani, SH MH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811 6108 811",
+"name": "Rivina Candra Lia",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19930323",
+"percentage": 100,
+"email": "rivinacandralia@gmail.com"
+}
+]
+}
+182.253.242.76 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:18:13 2023-07-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Herman Setiawan",
+    "birthDate": "19740618", 
+"birthPlace": "Medan",
+"emailAddress": "hermanse713@yahoo.com",
+"mobilePhone": "081370130000",
+"homePhone": "081370130000",
+"lineAddress1": "Jl. Thamrin No.158",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin No.158",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271011180674000",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Pratama Solid Mandiri",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Herman Setiawan",
+    "birthDate": "19740618", 
+"birthPlace": "Medan",
+"emailAddress": "hermanse713@yahoo.com",
+"mobilePhone": "081370130000",
+"homePhone": "081370130000",
+"lineAddress1": "Jl. Thamrin No.158",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin No.158",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271011180674000",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Pratama Solid Mandiri",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230721111812",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000233332",
+"bankAccountName": "Herman Setiawan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126535688",
+"name": "Floren",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19760608",
+"percentage": 100,
+"email": "Florenhuang@yahoo.com"
+}
+]
+}
+182.253.242.76 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:18:08 2023-07-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Freddy",
+    "birthDate": "19900902", 
+"birthPlace": "Medan",
+"emailAddress": "fredbasstian@gmail.com",
+"mobilePhone": "0811636678",
+"homePhone": "0811636678",
+"lineAddress1": "Green Lake City Cluster Weat Europe 3 No.25",
+"lineAddress2": "Idem",
+"cityAddress": "Tangerang",
+"postalCode": 15122,
+"sameMailing": "1",
+"mailingLineAddress1": "Green Lake City Cluster Weat Europe 3 No.25",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15122,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "127119090290002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "http://Pintumas.id",
+				"bidangUsaha": "Canopy, tangga besi, pintu besi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Freddy",
+    "birthDate": "19900902", 
+"birthPlace": "Medan",
+"emailAddress": "fredbasstian@gmail.com",
+"mobilePhone": "0811636678",
+"homePhone": "0811636678",
+"lineAddress1": "Green Lake City Cluster Weat Europe 3 No.25",
+"lineAddress2": "Idem",
+"cityAddress": "Tangerang",
+"postalCode": 15122,
+"sameMailing": "1",
+"mailingLineAddress1": "Green Lake City Cluster Weat Europe 3 No.25",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15122,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "127119090290002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "http://Pintumas.id",
+				"bidangUsaha": "Canopy, tangga besi, pintu besi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230721131807",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4830264588",
+"bankAccountName": "Freddy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082213699897",
+"name": "Whuina",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880801",
+"percentage": 100,
+"email": "fredbasstian@gmail.com"
+}
+]
+}

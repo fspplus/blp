@@ -1,0 +1,198 @@
+223.255.229.26 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:12:47 2021-02-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cindy",
+    "birthDate": "19880920", 
+"birthPlace": "Medan",
+"emailAddress": "cindylusari@gmail.com",
+"mobilePhone": "0819896667",
+"homePhone": "0819896667",
+"lineAddress1": "jl putri hijau no 209-E LK III",
+"lineAddress2": "pulo brayan kota",
+"cityAddress": "Medan",
+"postalCode": 20116,
+"sameMailing": "1",
+"mailingLineAddress1": "jl putri hijau no 209-E LK III",
+"mailingLineAddress2": "pulo brayan kota",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20116,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271056009880001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Vision Point Optical",
+				"bidangUsaha": "Optik "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Cindy",
+    "birthDate": "19880920", 
+"birthPlace": "Medan",
+"emailAddress": "cindylusari@gmail.com",
+"mobilePhone": "0819896667",
+"homePhone": "0819896667",
+"lineAddress1": "jl putri hijau no 209-E LK III",
+"lineAddress2": "pulo brayan kota",
+"cityAddress": "Medan",
+"postalCode": 20116,
+"sameMailing": "1",
+"mailingLineAddress1": "jl putri hijau no 209-E LK III",
+"mailingLineAddress2": "pulo brayan kota",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20116,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271056009880001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Vision Point Optical",
+				"bidangUsaha": "Optik "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210224101244",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8076035205",
+"bankAccountName": "Cindy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0819896667",
+"name": "chrisyento ",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19950509",
+"percentage": 100,
+"email": "cindylusari@gmail.com"
+}
+]
+}
+139.255.95.18 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:00:58 2021-02-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Deling",
+    "birthDate": "19720811", 
+"birthPlace": "Tanjung Pura",
+"emailAddress": "deling_dd@yahoo.com",
+"mobilePhone": "08126428900",
+"homePhone": "08126428900",
+"lineAddress1": "Jl. B. KATAMSO KOMPLEK ISTANA PRIMA 2 NO. C2",
+"lineAddress2": "KEL. SUKA RAJA KEC. MEDAN MAIMUN",
+"cityAddress": "",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. B. KATAMSO KOMPLEK ISTANA PRIMA 2 NO. C2",
+"mailingLineAddress2": "KEL. SUKA RAJA KEC. MEDAN MAIMUN",
+"mailingCityAddress": "",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207265108720003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Duta Aluminium",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Deling",
+    "birthDate": "19720811", 
+"birthPlace": "Tanjung Pura",
+"emailAddress": "deling_dd@yahoo.com",
+"mobilePhone": "08126428900",
+"homePhone": "08126428900",
+"lineAddress1": "Jl. B. KATAMSO KOMPLEK ISTANA PRIMA 2 NO. C2",
+"lineAddress2": "KEL. SUKA RAJA KEC. MEDAN MAIMUN",
+"cityAddress": "",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. B. KATAMSO KOMPLEK ISTANA PRIMA 2 NO. C2",
+"mailingLineAddress2": "KEL. SUKA RAJA KEC. MEDAN MAIMUN",
+"mailingCityAddress": "",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207265108720003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Duta Aluminium",
+				"bidangUsaha": "Kontraktor "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011180",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210224120055",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1951031793",
+"bankAccountName": "DELING",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011180"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126428900",
+"name": "VALENCIA ENRICHA",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20041209",
+"percentage": 100,
+"email": "deling_dd@yahoo.com"
+}
+]
+}

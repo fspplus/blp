@@ -1,0 +1,189 @@
+203.89.29.113 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:33:01 2023-01-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Marchelina Herlin Setiawan",
+    "birthDate": "19970321", 
+"birthPlace": "Semarang",
+"emailAddress": "marchelinaherlin21@gmail.com",
+"mobilePhone": "082133902349",
+"homePhone": "0247606321",
+"lineAddress1": "Jl. Puri Anjasmoro P8 no 9",
+"lineAddress2": "RT 001 /RW 004 Kelurahan Tawangsari",
+"cityAddress": "Semarang",
+"postalCode": 50144,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Puri Anjasmoro P8 no 9",
+"mailingLineAddress2": "RT 001 /RW 004 Kelurahan Tawangsari",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50144,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374136103970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Aspha Motora Collabor (BRP Semarang)",
+				"bidangUsaha": "Dealer Jetski "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Marchelina Herlin Setiawan",
+    "birthDate": "19970321", 
+"birthPlace": "Semarang",
+"emailAddress": "marchelinaherlin21@gmail.com",
+"mobilePhone": "082133902349",
+"homePhone": "0247606321",
+"lineAddress1": "Jl. Puri Anjasmoro P8 no 9",
+"lineAddress2": "RT 001 /RW 004 Kelurahan Tawangsari",
+"cityAddress": "Semarang",
+"postalCode": 50144,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Puri Anjasmoro P8 no 9",
+"mailingLineAddress2": "RT 001 /RW 004 Kelurahan Tawangsari",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50144,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374136103970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Aspha Motora Collabor (BRP Semarang)",
+				"bidangUsaha": "Dealer Jetski "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230114173300",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8985184433",
+"bankAccountName": "Marchelina Herlin Setiawan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085385379993",
+"name": "Nathanael Lianingsih",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19660315",
+"percentage": 100,
+"email": "kelinci568@gmail.com"
+}
+]
+}
+114.10.4.191 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:47:41 2023-01-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230114184741",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}

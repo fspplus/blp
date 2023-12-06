@@ -1,0 +1,99 @@
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 16:30:39 2021-04-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ZULKARNAIN",
+    "birthDate": "19750703", 
+"birthPlace": "Jakarta",
+"emailAddress": "zulkarnain080890@gmail.com",
+"mobilePhone": "089665510301",
+"homePhone": "089665510301",
+"lineAddress1": "KP. SAWAH. SRENGSENG SAWAH RT. 010 RW. 03",
+"lineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"cityAddress": "Jakarta",
+"postalCode": 12640,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. SAWAH. SRENGSENG SAWAH RT. 010 RW. 03",
+"mailingLineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12640,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174090307750006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT CAHAYA GRAFIKA",
+				"bidangUsaha": "PERCETAKAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ZULKARNAIN",
+    "birthDate": "19750703", 
+"birthPlace": "Jakarta",
+"emailAddress": "zulkarnain080890@gmail.com",
+"mobilePhone": "089665510301",
+"homePhone": "089665510301",
+"lineAddress1": "KP. SAWAH. SRENGSENG SAWAH RT. 010 RW. 03",
+"lineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"cityAddress": "Jakarta",
+"postalCode": 12640,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. SAWAH. SRENGSENG SAWAH RT. 010 RW. 03",
+"mailingLineAddress2": "SRENGSENG SAWAH, JAGAKARSA",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12640,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174090307750006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT CAHAYA GRAFIKA",
+				"bidangUsaha": "PERCETAKAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210429163038",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7620862643",
+"bankAccountName": "ZULKARNAIN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089516886884",
+"name": "Y. HERAWATI",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19540312",
+"percentage": 100,
+"email": "zulkarnain080890@gmail.com"
+}
+]
+}

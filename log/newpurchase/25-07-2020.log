@@ -1,0 +1,1089 @@
+112.215.242.7 https://koreaversikamu.co.id/prepurchase?view=finish 13:35:35 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Mohammad arifin",
+    "birthDate": "19860909", 
+"birthPlace": "Surabaya",
+"emailAddress": "celvincute3@gmail.com",
+"mobilePhone": "083856563210",
+"homePhone": "083856563210",
+"lineAddress1": "Gadukan timur134-B",
+"lineAddress2": "Rt 005/rw 004",
+"cityAddress": "Surabaya",
+"postalCode": 60178,
+"sameMailing": "1",
+"mailingLineAddress1": "Gadukan timur134-B",
+"mailingLineAddress2": "Rt 005/rw 004",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60178,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578150909860002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt pelindo daya sejahtera",
+				"bidangUsaha": "Ekspedisi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Mohammad arifin",
+    "birthDate": "19860909", 
+"birthPlace": "Surabaya",
+"emailAddress": "celvincute3@gmail.com",
+"mobilePhone": "083856563210",
+"homePhone": "083856563210",
+"lineAddress1": "Gadukan timur134-B",
+"lineAddress2": "Rt 005/rw 004",
+"cityAddress": "Surabaya",
+"postalCode": 60178,
+"sameMailing": "1",
+"mailingLineAddress1": "Gadukan timur134-B",
+"mailingLineAddress2": "Rt 005/rw 004",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60178,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578150909860002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt pelindo daya sejahtera",
+				"bidangUsaha": "Ekspedisi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011600",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200725133535",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2582107719",
+"bankAccountName": "Mohammad arifin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011600"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "083856563210",
+"name": "Meinar",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19860517",
+"percentage": 100,
+"email": "celvincute3@gmail.com"
+}
+]
+}
+112.215.242.7 https://koreaversikamu.co.id/prepurchase?view=finish 14:44:13 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Silvia mega safitri",
+    "birthDate": "19960129", 
+"birthPlace": "Surabaya",
+"emailAddress": "silviabaguza@gmail.com",
+"mobilePhone": "085853552901",
+"homePhone": "085853552901",
+"lineAddress1": "Tambak wedi baru 16 no 69",
+"lineAddress2": "Rt 004 rw 004",
+"cityAddress": "Surabaya",
+"postalCode": 60126,
+"sameMailing": "1",
+"mailingLineAddress1": "Tambak wedi baru 16 no 69",
+"mailingLineAddress2": "Rt 004 rw 004",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60126,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3578176901960005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Byones clothes",
+				"bidangUsaha": "Toko baji "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Silvia mega safitri",
+    "birthDate": "19960129", 
+"birthPlace": "Surabaya",
+"emailAddress": "silviabaguza@gmail.com",
+"mobilePhone": "085853552901",
+"homePhone": "085853552901",
+"lineAddress1": "Tambak wedi baru 16 no 69",
+"lineAddress2": "Rt 004 rw 004",
+"cityAddress": "Surabaya",
+"postalCode": 60126,
+"sameMailing": "1",
+"mailingLineAddress1": "Tambak wedi baru 16 no 69",
+"mailingLineAddress2": "Rt 004 rw 004",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60126,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3578176901960005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Byones clothes",
+				"bidangUsaha": "Toko baji "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011600",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200725144413",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1400029999696",
+"bankAccountName": "Silvia mega safitri",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011600"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087753552901",
+"name": "Nursanti utami",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19741014",
+"percentage": 100,
+"email": "silviabaguza@gmail.com"
+}
+]
+}
+114.122.102.24 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:18:40 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Jln taman Vanda VI blok A7 no 17 taman harapan baru .medan satria .pejuang",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 17131,
+"sameMailing": "1",
+"mailingLineAddress1": "Jln taman Vanda VI blok A7 no 17 taman harapan baru .medan satria .pejuang",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 17131,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Fb",
+"namaLembaga": "hanwalife",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Jln taman Vanda VI blok A7 no 17 taman harapan baru .medan satria .pejuang",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 17131,
+"sameMailing": "1",
+"mailingLineAddress1": "Jln taman Vanda VI blok A7 no 17 taman harapan baru .medan satria .pejuang",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 17131,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Fb",
+"namaLembaga": "hanwalife",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725211839",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:26:15 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725212615",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:26:31 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725212631",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:26:52 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725212652",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:26:52 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725212652",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:26:53 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725212653",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:26:53 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725212653",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 21:26:56 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Novi anggraeni",
+    "birthDate": "27_06_1995", 
+"birthPlace": "Indramayu",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "Taman pulo gebang blok b10 no 9A",
+"lineAddress2": "taman pulo gebang blok B10 no 9A ",
+"cityAddress": "",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "Taman pulo gebang blok b10 no 9A",
+"mailingLineAddress2": "taman pulo gebang blok B10 no 9A ",
+"mailingCityAddress": "",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwalife ",
+				"bidangUsaha": "asuransi  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725212655",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "Novi anggraeni ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16_11_2012",
+"percentage": 100,
+"email": "zabrina16@gmail.com"
+}
+]
+}
+140.213.5.77 https://www.bucketlistplan.co.id/prepurchase?view=finish 23:53:00 2020-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NOVI ANGGRAENI",
+    "birthDate": "27 JUNI 1995", 
+"birthPlace": "INDRAMAYU",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"lineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"cityAddress": "Jakarta",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"mailingLineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HANWALIFE .KEUANGAN ",
+				"bidangUsaha": "ASURANSI  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NOVI ANGGRAENI",
+    "birthDate": "27 JUNI 1995", 
+"birthPlace": "INDRAMAYU",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"lineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"cityAddress": "Jakarta",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"mailingLineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HANWALIFE .KEUANGAN ",
+				"bidangUsaha": "ASURANSI  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "Novi95",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200725235259",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "NOVI ANGGRAENI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Novi95"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081398603066",
+"name": "ZABRINA LACRASHA JACELYN",
+"famrel": 3,
+"gender": "F",
+"birthDate": "16 NOVEMBER 2012",
+"percentage": 100,
+"email": "jacelynzabrina@gmail.com"
+}
+]
+}

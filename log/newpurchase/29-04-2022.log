@@ -1,0 +1,99 @@
+140.213.160.149 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:01:29 2022-04-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Timoteus Terrance",
+    "birthDate": "19961018", 
+"birthPlace": "Jakarta",
+"emailAddress": "timoteus.terrance@gmail.com",
+"mobilePhone": "081546092980",
+"homePhone": "081546092980",
+"lineAddress1": "Jl Surabaya Timur no. 70",
+"lineAddress2": "RT 10/ 02, Menteng",
+"cityAddress": "Jakarta",
+"postalCode": 10310,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Surabaya Timur no. 70",
+"mailingLineAddress2": "RT 10/ 02, Menteng",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10310,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171061810960003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Karyawan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Timoteus Terrance",
+    "birthDate": "19961018", 
+"birthPlace": "Jakarta",
+"emailAddress": "timoteus.terrance@gmail.com",
+"mobilePhone": "081546092980",
+"homePhone": "081546092980",
+"lineAddress1": "Jl Surabaya Timur no. 70",
+"lineAddress2": "RT 10/ 02, Menteng",
+"cityAddress": "Jakarta",
+"postalCode": 10310,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Surabaya Timur no. 70",
+"mailingLineAddress2": "RT 10/ 02, Menteng",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10310,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171061810960003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Karyawan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92114356",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220429130127",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8780194465",
+"bankAccountName": "Timoteus Terrance",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081546092980",
+"name": "Ida Halim",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19660121",
+"percentage": 100,
+"email": "timoteus.terrance@gmail.com"
+}
+]
+}

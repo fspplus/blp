@@ -1,0 +1,594 @@
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 09:17:21 2020-11-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "GABRIELLE EIRENE NATASHA DJAYA",
+    "birthDate": "19950328", 
+"birthPlace": "Banjarmasin",
+"emailAddress": "gabrielle.djaya46@gmail.com",
+"mobilePhone": "08115030395",
+"homePhone": "0",
+"lineAddress1": "KOMP. BUMI RAYA PERMAI II RAY I NO.14 ",
+"lineAddress2": "RT.12 RW.01 KEL.PEMURUS BARU KEC.BANJARMASIN SELATAN ",
+"cityAddress": "Banjarmasin",
+"postalCode": 70249,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP. BUMI RAYA PERMAI II RAY I NO.14 ",
+"mailingLineAddress2": "RT.12 RW.01 KEL.PEMURUS BARU KEC.BANJARMASIN SELATAN ",
+"mailingCityAddress": "Banjarmasin",
+"mailingpostalCode": 70249,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6371016803950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK MAYORA",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "GABRIELLE EIRENE NATASHA DJAYA",
+    "birthDate": "19950328", 
+"birthPlace": "Banjarmasin",
+"emailAddress": "gabrielle.djaya46@gmail.com",
+"mobilePhone": "08115030395",
+"homePhone": "0",
+"lineAddress1": "KOMP. BUMI RAYA PERMAI II RAY I NO.14 ",
+"lineAddress2": "RT.12 RW.01 KEL.PEMURUS BARU KEC.BANJARMASIN SELATAN ",
+"cityAddress": "Banjarmasin",
+"postalCode": 70249,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP. BUMI RAYA PERMAI II RAY I NO.14 ",
+"mailingLineAddress2": "RT.12 RW.01 KEL.PEMURUS BARU KEC.BANJARMASIN SELATAN ",
+"mailingCityAddress": "Banjarmasin",
+"mailingpostalCode": 70249,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6371016803950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK MAYORA",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91603936",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201126091716",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0511646595",
+"bankAccountName": "GABRIELLE EIRENE NATASHA DJAYA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08115030395",
+"name": "Leonora Olfa Takaendengan",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19661014",
+"percentage": 100,
+"email": "gabrielle.djaya46@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:58:48 2020-11-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Budi Ramdani",
+    "birthDate": "19721025", 
+"birthPlace": "Jakarta",
+"emailAddress": "budi.ramdanibr@gmail.com",
+"mobilePhone": "0816799963",
+"homePhone": "02184979438",
+"lineAddress1": "Jl. Teratai No.9 BERMIS Kelapa Gading",
+"lineAddress2": "Jakarta 14412",
+"cityAddress": "",
+"postalCode": 14412,
+"sameMailing": "0",
+"mailingLineAddress1": "Mediterania Regency Cikunir Jl. Adenium No.189",
+"mailingLineAddress2": "Jatibening Bekasi 17146",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17146,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172062510720002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Budi Ramdani",
+    "birthDate": "19721025", 
+"birthPlace": "Jakarta",
+"emailAddress": "budi.ramdanibr@gmail.com",
+"mobilePhone": "0816799963",
+"homePhone": "02184979438",
+"lineAddress1": "Jl. Teratai No.9 BERMIS Kelapa Gading",
+"lineAddress2": "Jakarta 14412",
+"cityAddress": "",
+"postalCode": 14412,
+"sameMailing": "0",
+"mailingLineAddress1": "Mediterania Regency Cikunir Jl. Adenium No.189",
+"mailingLineAddress2": "Jatibening Bekasi 17146",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17146,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172062510720002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "00000310",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20201126105847",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4580081571",
+"bankAccountName": "Budi Ramdani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081807798598",
+"name": "Rachmawati Yustikasari Rusihan",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19770409",
+"percentage": 100,
+"email": "budi.ramdanibr@gmail.com"
+}
+]
+}
+192.168.112.166 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 13:38:39 2020-11-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rita",
+    "birthDate": "19881213", 
+"birthPlace": "Wonogiri",
+"emailAddress": "rita_rita81@yahoo.com",
+"mobilePhone": "081380026184",
+"homePhone": "02184971988",
+"lineAddress1": "Jl. Caman raya 02/03 jatibening. Pondok gede",
+"lineAddress2": "Jatibening bekasi barat",
+"cityAddress": "",
+"postalCode": 17412,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Wijaya kusuma blok B/189. Perum jatibening permai",
+"mailingLineAddress2": "Perum jatibening permai",
+"mailingCityAddress": "",
+"mailingpostalCode": 17412,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275085312880007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Supra chemie",
+				"bidangUsaha": "Trading "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Rita",
+    "birthDate": "19881213", 
+"birthPlace": "Wonogiri",
+"emailAddress": "rita_rita81@yahoo.com",
+"mobilePhone": "081380026184",
+"homePhone": "02184971988",
+"lineAddress1": "Jl. Caman raya 02/03 jatibening. Pondok gede",
+"lineAddress2": "Jatibening bekasi barat",
+"cityAddress": "",
+"postalCode": 17412,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Wijaya kusuma blok B/189. Perum jatibening permai",
+"mailingLineAddress2": "Perum jatibening permai",
+"mailingCityAddress": "",
+"mailingpostalCode": 17412,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275085312880007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Supra chemie",
+				"bidangUsaha": "Trading "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011654",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201126133839",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7510766932",
+"bankAccountName": "Rita",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08119404044",
+"name": "Nurgianto",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19840617",
+"percentage": 100,
+"email": "ginahartono.gh@gmail.com"
+}
+]
+}
+180.244.233.17 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:59:57 2020-11-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Harke Busnia",
+    "birthDate": "19840601", 
+"birthPlace": "Tangerang",
+"emailAddress": "busnia@gmail.com",
+"mobilePhone": "087888091334",
+"homePhone": "087888091334",
+"lineAddress1": "Jalan Cabe III",
+"lineAddress2": "Gang Lobak 3",
+"cityAddress": "Jakarta",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Cabe III",
+"mailingLineAddress2": "Gang Lobak 3",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674064106840006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Harke Busnia",
+    "birthDate": "19840601", 
+"birthPlace": "Tangerang",
+"emailAddress": "busnia@gmail.com",
+"mobilePhone": "087888091334",
+"homePhone": "087888091334",
+"lineAddress1": "Jalan Cabe III",
+"lineAddress2": "Gang Lobak 3",
+"cityAddress": "Jakarta",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Cabe III",
+"mailingLineAddress2": "Gang Lobak 3",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674064106840006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "000310",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201126165957",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5455079907",
+"bankAccountName": "Harke Busnia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "cb100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087888091334",
+"name": "Muhammad Azri Alhaya",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20100315",
+"percentage": 100,
+"email": "busnia@gmail.com"
+}
+]
+}
+180.244.233.17 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:59:58 2020-11-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Harke Busnia",
+    "birthDate": "19840601", 
+"birthPlace": "Tangerang",
+"emailAddress": "busnia@gmail.com",
+"mobilePhone": "087888091334",
+"homePhone": "087888091334",
+"lineAddress1": "Jalan Cabe III",
+"lineAddress2": "Gang Lobak 3",
+"cityAddress": "Jakarta",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Cabe III",
+"mailingLineAddress2": "Gang Lobak 3",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674064106840006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Harke Busnia",
+    "birthDate": "19840601", 
+"birthPlace": "Tangerang",
+"emailAddress": "busnia@gmail.com",
+"mobilePhone": "087888091334",
+"homePhone": "087888091334",
+"lineAddress1": "Jalan Cabe III",
+"lineAddress2": "Gang Lobak 3",
+"cityAddress": "Jakarta",
+"postalCode": 15417,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Cabe III",
+"mailingLineAddress2": "Gang Lobak 3",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 15417,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3674064106840006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "000310",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201126165957",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5455079907",
+"bankAccountName": "Harke Busnia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "cb100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087888091334",
+"name": "Muhammad Azri Alhaya",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20100315",
+"percentage": 100,
+"email": "busnia@gmail.com"
+}
+]
+}
+180.244.233.17 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 17:03:07 2020-11-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Farisya Fadhila",
+    "birthDate": "19941017", 
+"birthPlace": "Jakarta",
+"emailAddress": "farisyaf1994@gmail.com",
+"mobilePhone": "081908240957",
+"homePhone": "081908240957",
+"lineAddress1": "Komplek BPBB",
+"lineAddress2": "Jl Berijang A12",
+"cityAddress": "Bogor",
+"postalCode": 16118,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek BPBB",
+"mailingLineAddress2": "Jl Berijang A12",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271045710940010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life ",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Farisya Fadhila",
+    "birthDate": "19941017", 
+"birthPlace": "Jakarta",
+"emailAddress": "farisyaf1994@gmail.com",
+"mobilePhone": "081908240957",
+"homePhone": "081908240957",
+"lineAddress1": "Komplek BPBB",
+"lineAddress2": "Jl Berijang A12",
+"cityAddress": "Bogor",
+"postalCode": 16118,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek BPBB",
+"mailingLineAddress2": "Jl Berijang A12",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271045710940010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life ",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "031",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201126170303",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6820590943",
+"bankAccountName": "Farisya Fadhila",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "blpcb100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081908240957",
+"name": "Yulizar Diana Sari",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19650721",
+"percentage": 100,
+"email": "farisya@gmail.com"
+}
+]
+}

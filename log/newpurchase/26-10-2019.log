@@ -1,0 +1,2421 @@
+114.124.138.37 https://koreaversikamu.co.id/prepurchase?view=finish 13:38:33 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jenis oktavia",
+    "birthDate": "19981024", 
+"birthPlace": "Cilacap",
+"emailAddress": "jenisoktavia1998@gmail.com",
+"mobilePhone": "083826599578",
+"homePhone": "02175917888",
+"lineAddress1": "Dsn kedungsalam rt 006 rw 006 kel sidamukti ",
+"lineAddress2": "Kec patimulan",
+"cityAddress": "",
+"postalCode": 12430,
+"sameMailing": "1",
+"mailingLineAddress1": "Dsn kedungsalam rt 006 rw 006 kel sidamukti ",
+"mailingLineAddress2": "Kec patimulan",
+"mailingCityAddress": "",
+"mailingpostalCode": 12430,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3301196410980001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Shigroove",
+"bidangUsaha": "Akademi"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026133832",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "044301013190503",
+"bankAccountName": "Jenis oktavia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085793327084",
+"name": "Puji umriyah",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19940217",
+"percentage": 100,
+"email": "pujiumriyah12@gmail.com"
+}
+]
+}
+120.188.75.242 https://koreaversikamu.co.id/prepurchase?view=finish 14:10:57 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fairlya Novita",
+    "birthDate": "19751126", 
+"birthPlace": "Jakarta",
+"emailAddress": "novitafairlya@gmail.com",
+"mobilePhone": "081287943765",
+"homePhone": "081287943765",
+"lineAddress1": "Jl. Wadas 4 no 1F. Jatiwaringin",
+"lineAddress2": "Bekasi",
+"cityAddress": "Bekasi",
+"postalCode": 17411,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Wadas 4 no 1F. Jatiwaringin",
+"mailingLineAddress2": "Bekasi",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17411,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3275086611750013",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Sanofi",
+"bidangUsaha": "Medicine"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026141057",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6330833716",
+"bankAccountName": "Fairlya Novita",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085883116691",
+"name": "Fairica rizkia",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19880129",
+"percentage": 100,
+"email": "fairicharizkia@gmail.com"
+}
+]
+}
+112.215.171.62 https://koreaversikamu.co.id/prepurchase?view=finish 14:51:34 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fairlya Novita",
+    "birthDate": "19751126", 
+"birthPlace": "Jakarta",
+"emailAddress": "novitafairlya@gmail.com",
+"mobilePhone": "081287943765",
+"homePhone": "085883116691",
+"lineAddress1": "Jl. Wadas 4, no.1f",
+"lineAddress2": "Bekasi",
+"cityAddress": "Bekasi",
+"postalCode": 17411,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Wadas 4, no.1f",
+"mailingLineAddress2": "Bekasi",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17411,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3275086611750013",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Sanofi",
+"bidangUsaha": "Medicine"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "389",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026145134",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6330833716",
+"bankAccountName": "Fairlya Novita",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085883116691",
+"name": "Fairicha Rizkia",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19880129",
+"percentage": 100,
+"email": "fairicharizkia@gmail.com"
+}
+]
+}
+120.188.81.143 https://koreaversikamu.co.id/prepurchase?view=finish 15:25:32 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ho inge Christiani",
+    "birthDate": "19680704", 
+"birthPlace": "Surabaya",
+"emailAddress": "ingeho2002@gmail.com",
+"mobilePhone": "285101699930",
+"homePhone": "285101699930",
+"lineAddress1": "Plemahan Besar 67-G",
+"lineAddress2": "Surabaya",
+"cityAddress": "",
+"postalCode": 60261,
+"sameMailing": "0",
+"mailingLineAddress1": "Darmo Permai Utara XI/44",
+"mailingLineAddress2": "Surabaya",
+"mailingCityAddress": "",
+"mailingpostalCode": 60226,
+"gender": "F",
+"jobType": "job17",
+"identityType": 1,
+"identityNumber": "3578054407680004",
+"incomeSource": "shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91910175",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026152532",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5550138176",
+"bankAccountName": "Ho inge Christiani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "285104919993",
+"name": "Andy Limantara",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19661212",
+"percentage": 100,
+"email": "andyliman12@gmail.com"
+}
+]
+}
+182.0.176.118 https://koreaversikamu.co.id/prepurchase?view=finish 15:51:41 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Qori Syahriana Akbari",
+    "birthDate": "19920411", 
+"birthPlace": "Jakarta",
+"emailAddress": "qorisyahri@gmail.com",
+"mobilePhone": "08978228391",
+"homePhone": "08978228391",
+"lineAddress1": "Kp. Babakan Panjang Cibadak Sukabumi, Jawa Barat",
+"lineAddress2": "Kp. Babakan Panjang Cibadak Sukabumi, Jawa Barat",
+"cityAddress": "",
+"postalCode": 42251,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Kayu Manis Timur No. 60, Utan Kayu Utara, Matraman Jakarta Timur",
+"mailingLineAddress2": "Jalan Kayu Manis Timur No. 60, Utan Kayu Utara, Matraman",
+"mailingCityAddress": "",
+"mailingpostalCode": 13130,
+"gender": "F",
+"jobType": "job23",
+"identityType": 1,
+"identityNumber": "3202115104920007",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staf",
+"namaLembaga": "Kementerian Pendidikan dan kebudayaan",
+"bidangUsaha": "Pendidikan"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026155141",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0948542041",
+"bankAccountName": "Qori Syahriana Akbari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "+62812837284",
+"name": "Wulan Kusuma Wardani",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19930825",
+"percentage": 100,
+"email": "wulankusuma@gmail.com"
+}
+]
+}
+182.0.214.109 https://www.koreaversikamu.co.id/prepurchase?view=finish 16:41:34 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ignatius Ivan Lumen",
+    "birthDate": "19891025", 
+"birthPlace": "Jakarta",
+"emailAddress": "lumenignatius@gmail.com",
+"mobilePhone": "081326597974",
+"homePhone": "087878050652",
+"lineAddress1": "Jl. Kelapa Hijau Blok G. 19/20 RT 003 RW 003",
+"lineAddress2": "Pondok Kelapa, Duren Sawit, Jakarta Timur",
+"cityAddress": "Jakarta",
+"postalCode": 13450,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kelapa Hijau Blok G. 19/20 RT 003 RW 003",
+"mailingLineAddress2": "Pondok Kelapa, Duren Sawit, Jakarta Timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13450,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "1271022510890003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+"bidangUsaha": "Asuransi Jiwa"
+}
+}
+},
+"purchase": {
+"productId": 6,
+"referenceCode": "000470",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191026164133",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0370802599",
+"bankAccountName": "Ignatius Ivan Lumen",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081376506051",
+"name": "Caecilia Marie Avelyn",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19891025",
+"percentage": 100,
+"email": "caeciliamarie@yahoo.com"
+}
+]
+}
+182.0.247.75 https://bucketlistplan.co.id/prepurchase?view=finish 17:01:44 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Retta Christine Siregar",
+    "birthDate": "19710113", 
+"birthPlace": "Jakarta",
+"emailAddress": "retta1301@yahoo.com",
+"mobilePhone": "081212398313",
+"homePhone": "081212398313",
+"lineAddress1": "Bumi Sarinah Estate L 19",
+"lineAddress2": "Cikoko, Pancoran",
+"cityAddress": "Jakarta",
+"postalCode": 12770,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi Sarinah Estate L 19",
+"mailingLineAddress2": "Cikoko, Pancoran",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12770,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174085301710005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Jawa Power",
+"bidangUsaha": "Listrik Swasta"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91910287",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026170143",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1020002050554",
+"bankAccountName": "Retta Christine Siregar",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087870002202",
+"name": "Samantha Yohana Blessya Simanjuntak",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20000222",
+"percentage": 100,
+"email": "samanthasimanjuntak@gmail.com"
+}
+]
+}
+114.124.180.64 https://koreaversikamu.co.id/prepurchase?view=finish 17:06:13 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Melur trisnawati meli",
+    "birthDate": "19740213", 
+"birthPlace": "Jakarta",
+"emailAddress": "b132mli@gmail.com",
+"mobilePhone": "08118005871",
+"homePhone": "08118005871",
+"lineAddress1": "Jl gereja no 34e ",
+"lineAddress2": "Cilandak barat",
+"cityAddress": "",
+"postalCode": 12430,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl gereja no 34e ",
+"mailingLineAddress2": "Cilandak barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 12430,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3175065302740010",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Antavaya",
+"bidangUsaha": "Tour and travel"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91910287",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026170612",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5350146891",
+"bankAccountName": "Melur trisnawati meli syafei",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08118005870",
+"name": "Dwi budiarly rifky",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19731230",
+"percentage": 100,
+"email": "dwirifky@gmail.com"
+}
+]
+}
+114.124.234.160 https://koreaversikamu.co.id/prepurchase?view=finish 17:17:58 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maria hamika",
+    "birthDate": "19820915", 
+"birthPlace": "Jakarta",
+"emailAddress": "maria.hamika@gmail.com",
+"mobilePhone": "081298766208",
+"homePhone": "081298766208",
+"lineAddress1": "Jl cakra buana 3 k 20/7 rt 08 rw 01",
+"lineAddress2": "Kunciran indah pinang",
+"cityAddress": "Tangerang",
+"postalCode": 15143,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl cakra buana 3 k 20/7 rt 08 rw 01",
+"mailingLineAddress2": "Kunciran indah pinang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15143,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3671115509820006",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt sinar abadi",
+"bidangUsaha": "Perdagangan"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026171758",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3191934898",
+"bankAccountName": "Maria hamika",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081298766208",
+"name": "M qindi iim firdaus",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20000427",
+"percentage": 100,
+"email": "maria.hamika@gmail.com"
+}
+]
+}
+182.0.247.179 https://bucketlistplan.co.id/prepurchase?view=finish 17:27:31 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Retta Christine Siregar",
+    "birthDate": "19710113", 
+"birthPlace": "Jakarta",
+"emailAddress": "retta1301@yahoo.com",
+"mobilePhone": "081212398313",
+"homePhone": "081212398313",
+"lineAddress1": "Bumi Sarinah Estate L 19",
+"lineAddress2": "Cikoko, Pancoran",
+"cityAddress": "Jakarta",
+"postalCode": 12770,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi Sarinah Estate L 19",
+"mailingLineAddress2": "Cikoko, Pancoran",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12770,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174085301710005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Jawa Power",
+"bidangUsaha": "Listrik Swasta"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191026172731",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087870002202",
+"name": "Samantha Yohana Blessya Simanjuntak",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20000222",
+"percentage": 100,
+"email": "samanthasimanjuntak@gmail.com"
+}
+]
+}
+182.0.213.27 https://bucketlistplan.co.id/prepurchase?view=finish 17:27:34 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Retta Christine Siregar",
+    "birthDate": "19710113", 
+"birthPlace": "Jakarta",
+"emailAddress": "retta1301@yahoo.com",
+"mobilePhone": "081212398313",
+"homePhone": "081212398313",
+"lineAddress1": "Bumi Sarinah Estate L 19",
+"lineAddress2": "Cikoko, Pancoran",
+"cityAddress": "Jakarta",
+"postalCode": 12770,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi Sarinah Estate L 19",
+"mailingLineAddress2": "Cikoko, Pancoran",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12770,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174085301710005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Jawa Power",
+"bidangUsaha": "Listrik Swasta"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191026172733",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087870002202",
+"name": "Samantha Yohana Blessya Simanjuntak",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20000222",
+"percentage": 100,
+"email": "samanthasimanjuntak@gmail.com"
+}
+]
+}
+182.0.212.15 https://koreaversikamu.co.id/prepurchase?view=finish 17:36:30 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yusram Rantesalu",
+    "birthDate": "19670612", 
+"birthPlace": "Makassar",
+"emailAddress": "yus_1206@yahoo.com",
+"mobilePhone": "0811420703",
+"homePhone": "0811420703",
+"lineAddress1": "Jl. Anggrek No 27",
+"lineAddress2": "Salonsa, Soroako, Kab. Luwu Timur",
+"cityAddress": "",
+"postalCode": 92984,
+"sameMailing": "0",
+"mailingLineAddress1": "Bumi Sarinah Estate L 19",
+"mailingLineAddress2": "Cikoko, Pancoran",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12770,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "7324021206670002",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Vale Indonesia Tbk",
+"bidangUsaha": "Pertambangan"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "91910287",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191026173630",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1240097031919",
+"bankAccountName": "Evi Joice Siregar",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081342705850",
+"name": "Evi Joice Siregar",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19720102",
+"percentage": 100,
+"email": "siregarevi@gmail.com"
+}
+]
+}
+114.124.180.224 https://koreaversikamu.co.id/prepurchase?view=finish 17:40:10 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dwi budiarly rifky",
+    "birthDate": "19731230", 
+"birthPlace": "Bandar lampung",
+"emailAddress": "dwirifky@gmail.com",
+"mobilePhone": "08118005870",
+"homePhone": "08118005870",
+"lineAddress1": "Jl gereja no 34 e",
+"lineAddress2": "Cilandak barat",
+"cityAddress": "Jakarta",
+"postalCode": 12430,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl gereja no 34 e",
+"mailingLineAddress2": "Cilandak barat",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12430,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174063012730004",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha life",
+"bidangUsaha": "Insurance"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91910287",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026174009",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5350146891",
+"bankAccountName": "Melur trisnawati meli syafei",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08118005871",
+"name": "Melur trisnawati meli syafei",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19740213",
+"percentage": 100,
+"email": "b132mli@gmail.com"
+}
+]
+}
+182.0.147.41 https://koreaversikamu.co.id/prepurchase?view=finish 18:03:41 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "POPI",
+    "birthDate": "19710907", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "02131935628",
+"lineAddress1": "kebun kacang 32 nomor 10",
+"lineAddress2": "kebun kacang 32 nomor 10",
+"cityAddress": "",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "kebun kacang 32 nomor 10",
+"mailingLineAddress2": "kebun kacang 32 nomor 10",
+"mailingCityAddress": "",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "job18",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026180340",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081298484674",
+"name": "jason christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20011003",
+"percentage": 50,
+"email": "djarmadjaja@gmail.com"
+}{
+"seqNo": "2",
+"mobileNo": "081298484674",
+"name": "Fransiscus jordan",
+"famrel": 3,
+"gender": "M",
+"birthDate": "13/02/2003",
+"percentage": 50,
+"email": "djarmadjaja@gmail.com"
+}
+]
+}
+182.0.147.41 https://koreaversikamu.co.id/prepurchase?view=finish 18:15:26 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "POPI",
+    "birthDate": "19710907", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "02131935628",
+"lineAddress1": "kebun kacang 32 nomor 10",
+"lineAddress2": "kebun kacang 32 nomor 10",
+"cityAddress": "",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "kebun kacang 32 nomor 10",
+"mailingLineAddress2": "kebun kacang 32 nomor 10",
+"mailingCityAddress": "",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "job18",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026181526",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081298484674",
+"name": "jason christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20011003",
+"percentage": 50,
+"email": "djarmadjaja@gmail.com"
+}{
+"seqNo": "2",
+"mobileNo": "081298484674",
+"name": "Fransiscus jordan",
+"famrel": 3,
+"gender": "M",
+"birthDate": "13/02/2003",
+"percentage": 50,
+"email": "djarmadjaja@gmail.com"
+}
+]
+}
+182.0.143.124 https://koreaversikamu.co.id/prepurchase?view=finish 18:25:03 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Iim pevianti",
+    "birthDate": "19800217", 
+"birthPlace": "Nganjuk",
+"emailAddress": "pevianti@gmail.com",
+"mobilePhone": "081218651365",
+"homePhone": "081218651365",
+"lineAddress1": "Jl.al mubarok rt 002/010  kebayoran lama",
+"lineAddress2": "Cipulir jakarta selatan",
+"cityAddress": "",
+"postalCode": 12230,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.al mubarok rt 002/010  kebayoran lama",
+"mailingLineAddress2": "Cipulir jakarta selatan",
+"mailingCityAddress": "",
+"mailingpostalCode": 12230,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174055702800001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt asah imas chemical",
+"bidangUsaha": "Perdagangan"
+}
+}
+},
+"purchase": {
+"productId": 6,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191026182503",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1020000049079",
+"bankAccountName": "Iim pevianti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081218651365",
+"name": "Nadaa viska iim aulia",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20001104",
+"percentage": 100,
+"email": "pevianti@gmail.com"
+}
+]
+}
+114.4.214.248 https://koreaversikamu.co.id/prepurchase?view=finish 18:30:47 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "popi",
+    "birthDate": "19710709", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "0818773210",
+"lineAddress1": "kebon kacang",
+"lineAddress2": "32 no.10",
+"cityAddress": "Jakarta",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "kebon kacang",
+"mailingLineAddress2": "32 no.10",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "job10",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026183047",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818773210",
+"name": "jason christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010310",
+"percentage": 50,
+"email": "poppy.generali@gmail.com"
+}{
+"seqNo": "2",
+"mobileNo": "0818773210",
+"name": "fransiscus jordan",
+"famrel": ,
+"gender": "M",
+"birthDate": "20010213",
+"percentage": 50,
+"email": "poppy.generali@gmail.com"
+}
+]
+}
+140.213.131.43 https://koreaversikamu.co.id/prepurchase?view=finish 18:34:02 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "evi fransisca tjeng",
+    "birthDate": "19770417", 
+"birthPlace": "Pontianak",
+"emailAddress": "evifransiscatjeng@yahoo.com",
+"mobilePhone": "081218506015",
+"homePhone": "0218318736",
+"lineAddress1": "Apt Puri Imperium Jl Kuningan Raya Kav 5-6",
+"lineAddress2": "Apt Imperium Jl Kuningan Raya Kav 5-6 ",
+"cityAddress": "",
+"postalCode": 12980,
+"sameMailing": "0",
+"mailingLineAddress1": "Apt Puri Imperium 1054 Jl Kuningan Raya Kav 5-6",
+"mailingLineAddress2": "Apt Puri Imperium 1054 Jl Kuningan Raya Kav 5-6",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12980,
+"gender": "F",
+"jobType": "job10",
+"identityType": 1,
+"identityNumber": "3174025704770006",
+"incomeSource": "inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91910287",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026183402",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2211269199",
+"bankAccountName": "djati sutanto or evi fransisca tjeng",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081218506015",
+"name": "Djati Sutanto",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19660808",
+"percentage": 100,
+"email": "evifransiscatjeng@yahoo.com"
+}
+]
+}
+114.4.214.248 https://koreaversikamu.co.id/prepurchase?view=finish 18:35:14 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "popi",
+    "birthDate": "19710709", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "0818773210",
+"lineAddress1": "kebon kacang",
+"lineAddress2": "32 no.10",
+"cityAddress": "Jakarta",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "kebon kacang",
+"mailingLineAddress2": "32 no.10",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "job10",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026183514",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818773210",
+"name": "jason christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010310",
+"percentage": 50,
+"email": "poppy.generali@gmail.com"
+}{
+"seqNo": "2",
+"mobileNo": "0818773210",
+"name": "fransiscus jordan",
+"famrel": ,
+"gender": "M",
+"birthDate": "20010213",
+"percentage": 50,
+"email": "poppy.generali@gmail.com"
+}
+]
+}
+140.213.143.129 https://koreaversikamu.co.id/prepurchase?view=finish 18:37:09 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Evi Joice Siregar",
+    "birthDate": "19720102", 
+"birthPlace": "Jakarta",
+"emailAddress": "siregarevi@gmail.com",
+"mobilePhone": "081342705850",
+"homePhone": "081342705850",
+"lineAddress1": "Bumi Sarinah Estate L 19",
+"lineAddress2": "Cikoko, Pancoran",
+"cityAddress": "Jakarta",
+"postalCode": 12770,
+"sameMailing": "1",
+"mailingLineAddress1": "Bumi Sarinah Estate L 19",
+"mailingLineAddress2": "Cikoko, Pancoran",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12770,
+"gender": "F",
+"jobType": "job10",
+"identityType": 1,
+"identityNumber": "7324024201720002",
+"incomeSource": "incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "91910287",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191026183709",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1240097031919",
+"bankAccountName": "Evi Joice Siregar",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811420703",
+"name": "Yusram Rantesalu",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19670612",
+"percentage": 100,
+"email": "sorowako_sydney@yahoo.com"
+}
+]
+}
+114.4.214.248 https://koreaversikamu.co.id/prepurchase?view=finish 18:39:16 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "popi",
+    "birthDate": "19710709", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "0818773210",
+"lineAddress1": "kebon kacang",
+"lineAddress2": "32 no.10",
+"cityAddress": "Jakarta",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "kebon kacang",
+"mailingLineAddress2": "32 no.10",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "job10",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026183915",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818773210",
+"name": "jason christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010310",
+"percentage": 50,
+"email": "poppy.generali@gmail.com"
+}{
+"seqNo": "2",
+"mobileNo": "0818773210",
+"name": "fransiscus jordan",
+"famrel": ,
+"gender": "M",
+"birthDate": "20010213",
+"percentage": 50,
+"email": "poppy.generali@gmail.com"
+}
+]
+}
+182.0.147.41 https://bucketlistplan.co.id/prepurchase?view=finish 19:03:27 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lina Sanfarina",
+    "birthDate": "19720308", 
+"birthPlace": "jaka",
+"emailAddress": "andreacleita@gmail.com",
+"mobilePhone": "081314858921",
+"homePhone": "081314858921",
+"lineAddress1": "jl. bukit duri selatan no.27",
+"lineAddress2": "rt.001 rw. 007 kel.bukit duri kec.tebet",
+"cityAddress": "",
+"postalCode": 12840,
+"sameMailing": "0",
+"mailingLineAddress1": "Legenda Wisata Zona Mozart G7/5",
+"mailingLineAddress2": "Kel.Wanaherang, kec. Gunung Putri. Bogor . 16965",
+"mailingCityAddress": "",
+"mailingpostalCode": 16965,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174014803720005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Indonesia",
+"bidangUsaha": "asuransi"
+}
+}
+},
+"purchase": {
+"productId": 4,
+"referenceCode": "91603945",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20191026190325",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0920012868",
+"bankAccountName": "Lina Sanfarina",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081314858921",
+"name": "Andrew Clementiu",
+"famrel": 3,
+"gender": "M",
+"birthDate": "05/10/2000",
+"percentage": 100,
+"email": "andreacleita@gmail.com"
+}
+]
+}
+182.0.147.41 https://bucketlistplan.co.id/prepurchase?view=finish 19:06:01 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lina Sanfarina",
+    "birthDate": "19720308", 
+"birthPlace": "jaka",
+"emailAddress": "andreacleita@gmail.com",
+"mobilePhone": "081314858921",
+"homePhone": "081314858921",
+"lineAddress1": "jl. bukit duri selatan no.27",
+"lineAddress2": "rt.001 rw. 007 kel.bukit duri kec.tebet",
+"cityAddress": "",
+"postalCode": 12840,
+"sameMailing": "0",
+"mailingLineAddress1": "Legenda Wisata Zona Mozart G7/5",
+"mailingLineAddress2": "Kel.Wanaherang, kec. Gunung Putri. Bogor . 16965",
+"mailingCityAddress": "",
+"mailingpostalCode": 16965,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174014803720005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Indonesia",
+"bidangUsaha": "asuransi"
+}
+}
+},
+"purchase": {
+"productId": 4,
+"referenceCode": "91603945",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20191026190600",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0920012868",
+"bankAccountName": "Lina Sanfarina",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081314858921",
+"name": "Andrew Clementiu",
+"famrel": 3,
+"gender": "M",
+"birthDate": "05/10/2000",
+"percentage": 100,
+"email": "andreacleita@gmail.com"
+}
+]
+}
+182.0.147.41 https://bucketlistplan.co.id/prepurchase?view=finish 19:07:22 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lina Sanfarina",
+    "birthDate": "19720308", 
+"birthPlace": "jaka",
+"emailAddress": "andreacleita@gmail.com",
+"mobilePhone": "081314858921",
+"homePhone": "081314858921",
+"lineAddress1": "jl. bukit duri selatan no.27",
+"lineAddress2": "rt.001 rw. 007 kel.bukit duri kec.tebet",
+"cityAddress": "",
+"postalCode": 12840,
+"sameMailing": "0",
+"mailingLineAddress1": "Legenda Wisata Zona Mozart G7/5",
+"mailingLineAddress2": "Kel.Wanaherang, kec. Gunung Putri. Bogor . 16965",
+"mailingCityAddress": "",
+"mailingpostalCode": 16965,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174014803720005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Indonesia",
+"bidangUsaha": "asuransi"
+}
+}
+},
+"purchase": {
+"productId": 4,
+"referenceCode": "91603945",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20191026190721",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0920012868",
+"bankAccountName": "Lina Sanfarina",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081314858921",
+"name": "Andrew Clementiu",
+"famrel": 3,
+"gender": "M",
+"birthDate": "05/10/2000",
+"percentage": 100,
+"email": "andreacleita@gmail.com"
+}
+]
+}
+114.4.214.248 https://bucketlistplan.co.id/prepurchase?view=finish 19:07:38 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "popi",
+    "birthDate": "19710709", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "0818773210",
+"lineAddress1": "kebon kacang",
+"lineAddress2": "32 no.10",
+"cityAddress": "",
+"postalCode": 12000,
+"sameMailing": "1",
+"mailingLineAddress1": "kebon kacang",
+"mailingLineAddress2": "32 no.10",
+"mailingCityAddress": "",
+"mailingpostalCode": 12000,
+"gender": "F",
+"jobType": "job10",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026190738",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818773210",
+"name": "jason christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010310",
+"percentage": 100,
+"email": "poppi.generali@gmail.com"
+}
+]
+}
+114.4.214.248 https://bucketlistplan.co.id/prepurchase?view=finish 19:40:41 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "popi",
+    "birthDate": "19710709", 
+"birthPlace": "Tanjung pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "0818773210",
+"lineAddress1": "kebon kacang",
+"lineAddress2": "32 no.10",
+"cityAddress": "",
+"postalCode": 12000,
+"sameMailing": "1",
+"mailingLineAddress1": "kebon kacang",
+"mailingLineAddress2": "32 no.10",
+"mailingCityAddress": "",
+"mailingpostalCode": 12000,
+"gender": "F",
+"jobType": "job10",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026194041",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818773210",
+"name": "jason christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010310",
+"percentage": 100,
+"email": "poppi.generali@gmail.com"
+}
+]
+}
+115.178.222.57 https://koreaversikamu.co.id/prepurchase?view=finish 19:44:54 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jong Je Jen",
+    "birthDate": "19730911", 
+"birthPlace": "Sukabumi",
+"emailAddress": "yeyejong@gmail.com",
+"mobilePhone": "08129891812",
+"homePhone": "08129891812",
+"lineAddress1": "Jl. Gaudi no 11 Taman Spain ",
+"lineAddress2": "Lippo Karawaci",
+"cityAddress": "Tangerang",
+"postalCode": 15811,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gaudi no 11 Taman Spain ",
+"mailingLineAddress2": "Lippo Karawaci",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15811,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3671095109730004",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Pandega Citraniaga",
+"bidangUsaha": "Properti"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026194454",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4940013505",
+"bankAccountName": "Jong Je Jen",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08811315141",
+"name": "Hendra Alianto",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19760616",
+"percentage": 100,
+"email": "hendraalianto@yahoo.com"
+}
+]
+}
+140.213.143.129 https://koreaversikamu.co.id/prepurchase?view=finish 19:49:34 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "euvine tri winarni",
+    "birthDate": "19720106", 
+"birthPlace": "jakarta",
+"emailAddress": "euvine@yahoo.com",
+"mobilePhone": "08159287260",
+"homePhone": "08159287260",
+"lineAddress1": "jl lontar no 6 rt 017 rw 07",
+"lineAddress2": "menteng atas Setiabudi",
+"cityAddress": "Jakarta",
+"postalCode": 12960,
+"sameMailing": "1",
+"mailingLineAddress1": "jl lontar no 6 rt 017 rw 07",
+"mailingLineAddress2": "menteng atas Setiabudi",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12960,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174024601720005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "hakuhodo indonesia",
+"bidangUsaha": "advertising"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026194933",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0921078209",
+"bankAccountName": "euvine tri winarni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085771581868",
+"name": "karina sih nityani",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20010316",
+"percentage": 100,
+"email": "karinasihnityani@gmail.com"
+}
+]
+}
+114.124.234.160 https://koreaversikamu.co.id/prepurchase?view=finish 19:57:08 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Emilia novianti",
+    "birthDate": "19911120", 
+"birthPlace": "Tangerang",
+"emailAddress": "emilianovianti458@gmail.com",
+"mobilePhone": "085692130585",
+"homePhone": "085692130585",
+"lineAddress1": "Jl kesadaran rt 002/03",
+"lineAddress2": "Pondok benda pamulang",
+"cityAddress": "Tangerang",
+"postalCode": 15416,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl kesadaran rt 002/03",
+"mailingLineAddress2": "Pondok benda pamulang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15416,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3674066011910002",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PLN",
+"bidangUsaha": "Perusahaan listrik negara"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026195707",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0505937201",
+"bankAccountName": "Emilia novianti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085692130585",
+"name": "Inayah azmi ufairah",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20000522",
+"percentage": 100,
+"email": "emilianovianti458@gmail.com"
+}
+]
+}
+140.213.143.129 https://koreaversikamu.co.id/prepurchase?view=finish 20:16:34 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "karina sih nityani",
+    "birthDate": "20010316", 
+"birthPlace": "jakarta",
+"emailAddress": "karinasihnityani@gmail.com",
+"mobilePhone": "085771581868",
+"homePhone": "085771581868",
+"lineAddress1": "jl lontar no 6 rt 017 rw 07",
+"lineAddress2": "menteng atas setiabudi",
+"cityAddress": "Jakarta",
+"postalCode": 12960,
+"sameMailing": "1",
+"mailingLineAddress1": "jl lontar no 6 rt 017 rw 07",
+"mailingLineAddress2": "menteng atas setiabudi",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12960,
+"gender": "F",
+"jobType": "job14",
+"identityType": 1,
+"identityNumber": "3174025603011001",
+"incomeSource": "incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026201634",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0805196963",
+"bankAccountName": "karina sih nityani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08159287260",
+"name": "euvine tri winarni",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19720106",
+"percentage": 100,
+"email": "euvine@yahoo.com"
+}
+]
+}
+114.124.234.160 https://koreaversikamu.co.id/prepurchase?view=finish 20:26:18 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cecep dedi putra",
+    "birthDate": "19960119", 
+"birthPlace": "Sumedang",
+"emailAddress": "cecepdedi00@gmail.com",
+"mobilePhone": "081226828651",
+"homePhone": "081226828651",
+"lineAddress1": "Pamulang permai II E72/4",
+"lineAddress2": "Rt 002/16 benda baru pamulang",
+"cityAddress": "Tangerang",
+"postalCode": 15415,
+"sameMailing": "1",
+"mailingLineAddress1": "Pamulang permai II E72/4",
+"mailingLineAddress2": "Rt 002/16 benda baru pamulang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15415,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3211101901960002",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PLN",
+"bidangUsaha": "Perusahaan listrik"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026202618",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "112701025566507",
+"bankAccountName": "Cecep dedi putra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081226828651",
+"name": "Dedeh",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19600401",
+"percentage": 100,
+"email": "cecepdedi00@gmail.com"
+}
+]
+}
+114.124.147.186 https://koreaversikamu.co.id/prepurchase?view=finish 20:27:34 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Popi",
+    "birthDate": "19710709", 
+"birthPlace": "Tg pinang",
+"emailAddress": "poppy.generali@gmail.com",
+"mobilePhone": "0818773210",
+"homePhone": "0818773210",
+"lineAddress1": "Kebon kacang 32 no.10 Rt007/004",
+"lineAddress2": "Kebon kacang tanah abang",
+"cityAddress": "",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "Kebon kacang 32 no.10 Rt007/004",
+"mailingLineAddress2": "Kebon kacang tanah abang",
+"mailingCityAddress": "",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "job18",
+"identityType": 1,
+"identityNumber": "3171074907710004",
+"incomeSource": "shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026202734",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0281616080",
+"bankAccountName": "Popi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081298484674",
+"name": "Jason Christopher",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20010310",
+"percentage": 100,
+"email": "jdarmadjaja@gmail.com"
+}
+]
+}
+114.124.234.160 https://koreaversikamu.co.id/prepurchase?view=finish 21:05:56 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Irma susanti",
+    "birthDate": "19850911", 
+"birthPlace": "Jakarta",
+"emailAddress": "susantirma@hotmail.com",
+"mobilePhone": "083876811568",
+"homePhone": "083876811568",
+"lineAddress1": "Komp taman asri blok a5 no.7 cipadu jaya",
+"lineAddress2": "Ciledug tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15154,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp taman asri blok a5 no.7 cipadu jaya",
+"mailingLineAddress2": "Ciledug tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15154,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174065109850003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt depriwangga engineering",
+"bidangUsaha": "Kontraktor"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026210555",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2910618752",
+"bankAccountName": "Irma susanti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "083876811568",
+"name": "Rashya syathir irfan hutama",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20000519",
+"percentage": 100,
+"email": "susantirma@hotmail.com"
+}
+]
+}
+114.124.234.160 https://koreaversikamu.co.id/prepurchase?view=finish 21:23:58 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rizki taufik maulana",
+    "birthDate": "19890907", 
+"birthPlace": "Jakarta",
+"emailAddress": "tmaulana254@gmail.com",
+"mobilePhone": "088212059627",
+"homePhone": "088212059627",
+"lineAddress1": "Jl pisangan baru 2 rt 008 rw 007",
+"lineAddress2": "Pisangan baru matraman",
+"cityAddress": "Jakarta",
+"postalCode": 13260,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pisangan baru 2 rt 008 rw 007",
+"mailingLineAddress2": "Pisangan baru matraman",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13260,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3175010709890002",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PLN",
+"bidangUsaha": "Listrik negara"
+}
+}
+},
+"purchase": {
+"productId": 4,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20191026212357",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0696079308",
+"bankAccountName": "Rizki taufik maulana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "088212059627",
+"name": "Budi antin setiadi",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19550626",
+"percentage": 100,
+"email": "tmaulana254@gmail.com"
+}
+]
+}
+114.124.234.160 https://koreaversikamu.co.id/prepurchase?view=finish 21:33:20 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Herlina",
+    "birthDate": "19910206", 
+"birthPlace": "Bogor",
+"emailAddress": "geboylina153@gmail.com",
+"mobilePhone": "089563520136",
+"homePhone": "089563520136",
+"lineAddress1": "Kp pakis rt 2 rw 4 rawa kalong",
+"lineAddress2": "Gunung sindur",
+"cityAddress": "Bogor",
+"postalCode": 12569,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp pakis rt 2 rw 4 rawa kalong",
+"mailingLineAddress2": "Gunung sindur",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 12569,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3211146022910001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pln",
+"bidangUsaha": "Listrik negara"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "71910046",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191026213319",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "760675901400",
+"bankAccountName": "Angga kusuma",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089563520136",
+"name": "Alika zhilzhia aninda",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20000903",
+"percentage": 100,
+"email": "geboylina153@gmail.com"
+}
+]
+}
+114.124.234.160 https://koreaversikamu.co.id/prepurchase?view=finish 21:46:06 2019-10-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Herlina",
+    "birthDate": "19910206", 
+"birthPlace": "Bogor",
+"emailAddress": "geboylina153@gmail.com",
+"mobilePhone": "089563520136",
+"homePhone": "089563520136",
+"lineAddress1": "Kp pakis rt 2 rw 4 rawa kalong",
+"lineAddress2": "Gunung sindur",
+"cityAddress": "Bogor",
+"postalCode": 12569,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp pakis rt 2 rw 4 rawa kalong",
+"mailingLineAddress2": "Gunung sindur",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 12569,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3211146022910001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pln",
+"bidangUsaha": "Listrik negara"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191026214605",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089563520136",
+"name": "Alika zhilzhia aninda",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20000903",
+"percentage": 100,
+"email": "geboylina153@gmail.com"
+}
+]
+}

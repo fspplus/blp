@@ -1,0 +1,1140 @@
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:56:28 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "LURITHA MAYARANI",
+    "birthDate": "20001025", 
+"birthPlace": "MAGELANG",
+"emailAddress": "lurithamaya25@gmail.com",
+"mobilePhone": "08816979170",
+"homePhone": "08816979170",
+"lineAddress1": "JL. IKAN CAKALANG 17",
+"lineAddress2": "RT005/RW004",
+"cityAddress": "",
+"postalCode": 61256,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. IKAN CAKALANG 17",
+"mailingLineAddress2": "RT005/RW004",
+"mailingCityAddress": "",
+"mailingpostalCode": 61256,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515186510000003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ABS",
+				"bidangUsaha": "COATING "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "LURITHA MAYARANI",
+    "birthDate": "20001025", 
+"birthPlace": "MAGELANG",
+"emailAddress": "lurithamaya25@gmail.com",
+"mobilePhone": "08816979170",
+"homePhone": "08816979170",
+"lineAddress1": "JL. IKAN CAKALANG 17",
+"lineAddress2": "RT005/RW004",
+"cityAddress": "",
+"postalCode": 61256,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. IKAN CAKALANG 17",
+"mailingLineAddress2": "RT005/RW004",
+"mailingCityAddress": "",
+"mailingpostalCode": 61256,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515186510000003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ABS",
+				"bidangUsaha": "COATING "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92316917",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231029135627",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3251428784",
+"bankAccountName": "LURITHA MAYARANI",
+"ewalletNo": "08816979170",
+"ewalletType": "GOPAY",
+"ewalletName": "LURITHA MAYARANI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08816941031",
+"name": "LUCIA SRI RAHAYU",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19720511",
+"percentage": 100,
+"email": "rifanobastyan55@gmail.com"
+}
+]
+}
+114.5.220.232 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:38:30 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Reffy Florensa Paago",
+    "birthDate": "19790227", 
+"birthPlace": "Surabaya",
+"emailAddress": "reffypaago@gmail.com",
+"mobilePhone": "087863291625",
+"homePhone": "087863291625",
+"lineAddress1": "Jl Jojoran I / 11 Surabaya",
+"lineAddress2": "Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60285,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Jojoran I / 11 Surabaya",
+"mailingLineAddress2": "Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60285,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578086702790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Colliers Indonesia",
+				"bidangUsaha": "Managemen Gedung "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Reffy Florensa Paago",
+    "birthDate": "19790227", 
+"birthPlace": "Surabaya",
+"emailAddress": "reffypaago@gmail.com",
+"mobilePhone": "087863291625",
+"homePhone": "087863291625",
+"lineAddress1": "Jl Jojoran I / 11 Surabaya",
+"lineAddress2": "Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60285,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Jojoran I / 11 Surabaya",
+"mailingLineAddress2": "Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60285,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578086702790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Colliers Indonesia",
+				"bidangUsaha": "Managemen Gedung "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "92316812",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231029143829",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3880408835",
+"bankAccountName": "Reffy Florensa Paago",
+"ewalletNo": "087863291625",
+"ewalletType": "GOPAY",
+"ewalletName": "Reffy Florensa Paago",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811337370",
+"name": "Renny Florensa Paago",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19860611",
+"percentage": 100,
+"email": "rennyflorensa@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:59:08 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "APRIYANTI MAGDALENA",
+    "birthDate": "19970425", 
+"birthPlace": "KOTA CIREBON",
+"emailAddress": "apriyanti.magdalenaa@gmail.com",
+"mobilePhone": "087829729000",
+"homePhone": "087829729000",
+"lineAddress1": "KP. KARANG DAWA BARAT",
+"lineAddress2": "RT007/RW003",
+"cityAddress": "",
+"postalCode": 45111,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. KARANG DAWA BARAT",
+"mailingLineAddress2": "RT007/RW003",
+"mailingCityAddress": "",
+"mailingpostalCode": 45111,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3274026504970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HYUNDAI",
+				"bidangUsaha": "PROJECT ENERGY "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "APRIYANTI MAGDALENA",
+    "birthDate": "19970425", 
+"birthPlace": "KOTA CIREBON",
+"emailAddress": "apriyanti.magdalenaa@gmail.com",
+"mobilePhone": "087829729000",
+"homePhone": "087829729000",
+"lineAddress1": "KP. KARANG DAWA BARAT",
+"lineAddress2": "RT007/RW003",
+"cityAddress": "",
+"postalCode": 45111,
+"sameMailing": "1",
+"mailingLineAddress1": "KP. KARANG DAWA BARAT",
+"mailingLineAddress2": "RT007/RW003",
+"mailingCityAddress": "",
+"mailingpostalCode": 45111,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3274026504970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "HYUNDAI",
+				"bidangUsaha": "PROJECT ENERGY "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92216286",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231029145908",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1345555252",
+"bankAccountName": "APRIYANTI MAGDALENA",
+"ewalletNo": "087829729000",
+"ewalletType": "GOPAY",
+"ewalletName": "APRIYANTI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082320999543",
+"name": "PIETA",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19730929",
+"percentage": 100,
+"email": "pietaclarissa@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:44:13 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "FELICIA HANISENTANA",
+    "birthDate": "19990519", 
+"birthPlace": "JAKARTA",
+"emailAddress": "fhanisentana@gmail.com",
+"mobilePhone": "085780560710",
+"homePhone": "085780560710",
+"lineAddress1": "JL. PECAH KULIT DALAM NO.8 RT004/RW001",
+"lineAddress2": "PINANGSIA, TAMAN SARI",
+"cityAddress": "",
+"postalCode": 11110,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PECAH KULIT DALAM NO.8 RT004/RW001",
+"mailingLineAddress2": "PINANGSIA, TAMAN SARI",
+"mailingCityAddress": "",
+"mailingpostalCode": 11110,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173035905990005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK PERMATA",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "FELICIA HANISENTANA",
+    "birthDate": "19990519", 
+"birthPlace": "JAKARTA",
+"emailAddress": "fhanisentana@gmail.com",
+"mobilePhone": "085780560710",
+"homePhone": "085780560710",
+"lineAddress1": "JL. PECAH KULIT DALAM NO.8 RT004/RW001",
+"lineAddress2": "PINANGSIA, TAMAN SARI",
+"cityAddress": "",
+"postalCode": 11110,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PECAH KULIT DALAM NO.8 RT004/RW001",
+"mailingLineAddress2": "PINANGSIA, TAMAN SARI",
+"mailingCityAddress": "",
+"mailingpostalCode": 11110,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173035905990005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK PERMATA",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "92216286",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231029154412",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6371568899",
+"bankAccountName": "FELICIA HANISENTANA",
+"ewalletNo": "085780560710",
+"ewalletType": "GOPAY",
+"ewalletName": "FELICIA HANISENTANA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085884628608",
+"name": "GRACIA HANISENTANA",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20040608",
+"percentage": 100,
+"email": "gracehanisentanaaa@gmail.com"
+}
+]
+}
+114.5.220.232 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:04:20 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Steven Kurniawan Putro",
+    "birthDate": "19700101", 
+"birthPlace": "Surabaya",
+"emailAddress": "steve.putro@gmail.com",
+"mobilePhone": "08123018567",
+"homePhone": "08123018567",
+"lineAddress1": "Perum sukolilo Dian Regency jl damai 1 / 27 Surabaya",
+"lineAddress2": "Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum sukolilo Dian Regency jl damai 1 / 27 Surabaya",
+"mailingLineAddress2": "Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60111,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578261007820002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank OCBC NISP",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Steven Kurniawan Putro",
+    "birthDate": "19700101", 
+"birthPlace": "Surabaya",
+"emailAddress": "steve.putro@gmail.com",
+"mobilePhone": "08123018567",
+"homePhone": "08123018567",
+"lineAddress1": "Perum sukolilo Dian Regency jl damai 1 / 27 Surabaya",
+"lineAddress2": "Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum sukolilo Dian Regency jl damai 1 / 27 Surabaya",
+"mailingLineAddress2": "Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60111,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578261007820002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank OCBC NISP",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92316812",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231029160419",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8290564388",
+"bankAccountName": "Steven Kurniawan Putro",
+"ewalletNo": "08123018567",
+"ewalletType": "GOPAY",
+"ewalletName": "Steven Kurniawan Putro",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08123352323",
+"name": "Dhuma Sari Anggraini",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19860910",
+"percentage": 100,
+"email": "dhumasari@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:23:04 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "STEVEN KURNIAWAN PUTRO",
+    "birthDate": "19820710", 
+"birthPlace": "SURABAYA",
+"emailAddress": "steve.putro@gmail.com",
+"mobilePhone": "08123018567",
+"homePhone": "08123018567",
+"lineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"lineAddress2": "JL. DAMAI 1/27",
+"cityAddress": "",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"mailingLineAddress2": "JL. DAMAI 1/27",
+"mailingCityAddress": "",
+"mailingpostalCode": 60111,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578261007820002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK OCBC NISP",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "STEVEN KURNIAWAN PUTRO",
+    "birthDate": "19820710", 
+"birthPlace": "SURABAYA",
+"emailAddress": "steve.putro@gmail.com",
+"mobilePhone": "08123018567",
+"homePhone": "08123018567",
+"lineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"lineAddress2": "JL. DAMAI 1/27",
+"cityAddress": "",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"mailingLineAddress2": "JL. DAMAI 1/27",
+"mailingCityAddress": "",
+"mailingpostalCode": 60111,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578261007820002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK OCBC NISP",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92317186",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231029162304",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8290564388",
+"bankAccountName": "STEVEN KURNIAWAN PUTRO",
+"ewalletNo": "08123018567",
+"ewalletType": "GOPAY",
+"ewalletName": "STEVEN KURNIAWAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08123352323",
+"name": "DHUMA SARI ANGGRAINI",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19860910",
+"percentage": 100,
+"email": "steve.putro@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:31:07 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "STEVEN KURNIAWAN PUTRO",
+    "birthDate": "19820710", 
+"birthPlace": "SURABAYA",
+"emailAddress": "steve.putro@gmail.com",
+"mobilePhone": "08123018567",
+"homePhone": "08123018567",
+"lineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"lineAddress2": "JL. DAMAI 1/27",
+"cityAddress": "",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"mailingLineAddress2": "JL. DAMAI 1/27",
+"mailingCityAddress": "",
+"mailingpostalCode": 60111,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578261007820002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK OCBC NISP",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "STEVEN KURNIAWAN PUTRO",
+    "birthDate": "19820710", 
+"birthPlace": "SURABAYA",
+"emailAddress": "steve.putro@gmail.com",
+"mobilePhone": "08123018567",
+"homePhone": "08123018567",
+"lineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"lineAddress2": "JL. DAMAI 1/27",
+"cityAddress": "",
+"postalCode": 60111,
+"sameMailing": "1",
+"mailingLineAddress1": "PERUM SUKOLILO DIAN REGENCY",
+"mailingLineAddress2": "JL. DAMAI 1/27",
+"mailingCityAddress": "",
+"mailingpostalCode": 60111,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578261007820002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK OCBC NISP",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92317186",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231029163107",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8290564388",
+"bankAccountName": "STEVEN KURNIAWAN PUTRO",
+"ewalletNo": "08123018567",
+"ewalletType": "GOPAY",
+"ewalletName": "STEVEN KURNIAWAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08123352323",
+"name": "DHUMA SARI ANGGRAINI",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19860910",
+"percentage": 100,
+"email": "dhumasari86@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:01:52 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "GIOVANNY FEBRIANNE WIBISONO",
+    "birthDate": "19970217", 
+"birthPlace": "CIREBON",
+"emailAddress": "giovannyfbrnne17@gmail.com",
+"mobilePhone": "083824390066",
+"homePhone": "083824390066",
+"lineAddress1": "PERUM TAMAN BIMA PERMAI F 08",
+"lineAddress2": "TUK , KEDAWUNG",
+"cityAddress": "",
+"postalCode": 45153,
+"sameMailing": "0",
+"mailingLineAddress1": "JL.MANGGA II/E 248",
+"mailingLineAddress2": "PONDOK CANDRA, WARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 61256,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3209205702970007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ZAP",
+				"bidangUsaha": "KLINIK KECANTIKAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "GIOVANNY FEBRIANNE WIBISONO",
+    "birthDate": "19970217", 
+"birthPlace": "CIREBON",
+"emailAddress": "giovannyfbrnne17@gmail.com",
+"mobilePhone": "083824390066",
+"homePhone": "083824390066",
+"lineAddress1": "PERUM TAMAN BIMA PERMAI F 08",
+"lineAddress2": "TUK , KEDAWUNG",
+"cityAddress": "",
+"postalCode": 45153,
+"sameMailing": "0",
+"mailingLineAddress1": "JL.MANGGA II/E 248",
+"mailingLineAddress2": "PONDOK CANDRA, WARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 61256,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3209205702970007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ZAP",
+				"bidangUsaha": "KLINIK KECANTIKAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92216286",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231029170151",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1341650149",
+"bankAccountName": "GIOVANNY FEBRIANNE WIBISONO",
+"ewalletNo": "083824390066",
+"ewalletType": "GOPAY",
+"ewalletName": "GIOVANNY FEBRIANNE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082142072884",
+"name": "VALENCIA PRILLYANNE WIBISONO",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19980428",
+"percentage": 100,
+"email": "prilyanne0801@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:38:47 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YENI DAMAYANTI",
+    "birthDate": "19820614", 
+"birthPlace": "DENPASAR",
+"emailAddress": "yenidamayanti1406@gmail.com",
+"mobilePhone": "0878554047772",
+"homePhone": "087855404772",
+"lineAddress1": "DELTA PELANGI 2/72",
+"lineAddress2": "DELTASARI BARU",
+"cityAddress": "",
+"postalCode": 61256,
+"sameMailing": "1",
+"mailingLineAddress1": "DELTA PELANGI 2/72",
+"mailingLineAddress2": "DELTASARI BARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 61256,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515185406820005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ISRA",
+				"bidangUsaha": "YAYASAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "YENI DAMAYANTI",
+    "birthDate": "19820614", 
+"birthPlace": "DENPASAR",
+"emailAddress": "yenidamayanti1406@gmail.com",
+"mobilePhone": "0878554047772",
+"homePhone": "087855404772",
+"lineAddress1": "DELTA PELANGI 2/72",
+"lineAddress2": "DELTASARI BARU",
+"cityAddress": "",
+"postalCode": 61256,
+"sameMailing": "1",
+"mailingLineAddress1": "DELTA PELANGI 2/72",
+"mailingLineAddress2": "DELTASARI BARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 61256,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3515185406820005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ISRA",
+				"bidangUsaha": "YAYASAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92316747",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231029173846",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8220422276",
+"bankAccountName": "YENI DAMAYANTI",
+"ewalletNo": "087855404772",
+"ewalletType": "OVO",
+"ewalletName": "YENI DAMAYANTI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08122689333",
+"name": "RONALD SUHARDI",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19790910",
+"percentage": 100,
+"email": "ronaldsuhardi@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:12:08 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "JEFFREY PUTRA TANUJAYA",
+    "birthDate": "19980330", 
+"birthPlace": "MALANG",
+"emailAddress": "jeffreyputratanujaya@gmail.com",
+"mobilePhone": "087787481781",
+"homePhone": "087787481781",
+"lineAddress1": "NGAGEL TIMUR 2/40, PUCANG SEWU",
+"lineAddress2": "GUBENG",
+"cityAddress": "",
+"postalCode": 60283,
+"sameMailing": "1",
+"mailingLineAddress1": "NGAGEL TIMUR 2/40, PUCANG SEWU",
+"mailingLineAddress2": "GUBENG",
+"mailingCityAddress": "",
+"mailingpostalCode": 60283,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578083003980003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BCA",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "JEFFREY PUTRA TANUJAYA",
+    "birthDate": "19980330", 
+"birthPlace": "MALANG",
+"emailAddress": "jeffreyputratanujaya@gmail.com",
+"mobilePhone": "087787481781",
+"homePhone": "087787481781",
+"lineAddress1": "NGAGEL TIMUR 2/40, PUCANG SEWU",
+"lineAddress2": "GUBENG",
+"cityAddress": "",
+"postalCode": 60283,
+"sameMailing": "1",
+"mailingLineAddress1": "NGAGEL TIMUR 2/40, PUCANG SEWU",
+"mailingLineAddress2": "GUBENG",
+"mailingCityAddress": "",
+"mailingpostalCode": 60283,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578083003980003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BCA",
+				"bidangUsaha": "JASA KEUANGAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92316917",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231029181207",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2060683240",
+"bankAccountName": "JEFFREY PUTRA TANUJAYA",
+"ewalletNo": "087787481781",
+"ewalletType": "GOPAY",
+"ewalletName": "JEFFREY PUTRA TANUJAYA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895395162775",
+"name": "STEVEN TANUJAYA",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19980321",
+"percentage": 100,
+"email": "steventanujaya619@gmail.com"
+}
+]
+}
+139.228.60.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 20:14:10 2023-10-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HADI POERNOMO SOETJAHJO",
+    "birthDate": "19670722", 
+"birthPlace": "MOJOKERTO",
+"emailAddress": "hpsoetjahjo@yahoo.com",
+"mobilePhone": "0811337299",
+"homePhone": "0811337299",
+"lineAddress1": "KERTAJAYA INDAH TIMUR 11/57",
+"lineAddress2": "GEBANG PUTIH , SUKOLILO",
+"cityAddress": "",
+"postalCode": 60117,
+"sameMailing": "1",
+"mailingLineAddress1": "KERTAJAYA INDAH TIMUR 11/57",
+"mailingLineAddress2": "GEBANG PUTIH , SUKOLILO",
+"mailingCityAddress": "",
+"mailingpostalCode": 60117,
+"gender": "M",
+"jobType": "Job18",
+"identityType": 1,
+"identityNumber": "3578092207670003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HADI POERNOMO SOETJAHJO",
+    "birthDate": "19670722", 
+"birthPlace": "MOJOKERTO",
+"emailAddress": "hpsoetjahjo@yahoo.com",
+"mobilePhone": "0811337299",
+"homePhone": "0811337299",
+"lineAddress1": "KERTAJAYA INDAH TIMUR 11/57",
+"lineAddress2": "GEBANG PUTIH , SUKOLILO",
+"cityAddress": "",
+"postalCode": 60117,
+"sameMailing": "1",
+"mailingLineAddress1": "KERTAJAYA INDAH TIMUR 11/57",
+"mailingLineAddress2": "GEBANG PUTIH , SUKOLILO",
+"mailingCityAddress": "",
+"mailingpostalCode": 60117,
+"gender": "M",
+"jobType": "Job18",
+"identityType": 1,
+"identityNumber": "3578092207670003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "92316815",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231029201409",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4641106512",
+"bankAccountName": "HADI POERNOMO SUTJAHJO",
+"ewalletNo": "0811337299",
+"ewalletType": "GOPAY",
+"ewalletName": "HADI POERNOMO SOETJAHJO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081233140697",
+"name": "MARGARET ANASTASIA POERNOMO",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19970922",
+"percentage": 34,
+"email": "et.margar@live.com"
+},{
+"seqNo": "2",
+"mobileNo": "085100939398",
+"name": "CHRISTOPHER HALIM POERNOMO",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19981101",
+"percentage": 33,
+"email": "chpoernomo@gmail.com"
+},{
+"seqNo": "3",
+"mobileNo": "081330086788",
+"name": "BELINDA ERIKA POERNOMO",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20080404",
+"percentage": 33,
+"email": "belindaep@yahoo.com"
+}
+]
+}

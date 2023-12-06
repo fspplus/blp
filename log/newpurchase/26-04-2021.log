@@ -1,0 +1,198 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:13:34 2021-04-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SAGITA RAHMA KASWULANDARI",
+    "birthDate": "19930827", 
+"birthPlace": "Jakarta",
+"emailAddress": "sagiitark@gmail.com",
+"mobilePhone": "083875522623",
+"homePhone": "083875522623",
+"lineAddress1": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"lineAddress2": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"cityAddress": "Jakarta",
+"postalCode": 10450,
+"sameMailing": "1",
+"mailingLineAddress1": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"mailingLineAddress2": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10450,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3175016708930002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KHAWLAH AQIQAH",
+				"bidangUsaha": "CATERING "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SAGITA RAHMA KASWULANDARI",
+    "birthDate": "19930827", 
+"birthPlace": "Jakarta",
+"emailAddress": "sagiitark@gmail.com",
+"mobilePhone": "083875522623",
+"homePhone": "083875522623",
+"lineAddress1": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"lineAddress2": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"cityAddress": "Jakarta",
+"postalCode": 10450,
+"sameMailing": "1",
+"mailingLineAddress1": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"mailingLineAddress2": "JL TANAH TINGGI SAWAH NO 21 RT 05 RW 08 JOHAR BARU",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10450,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3175016708930002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KHAWLAH AQIQAH",
+				"bidangUsaha": "CATERING "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "71909942",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210426101334",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6805033022",
+"bankAccountName": "Sagita R Kaswulandari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "083875522623",
+"name": "Khawlah Al-Azwar",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20181228",
+"percentage": 100,
+"email": "sagiitark@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:24:56 2021-04-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "KHAERUNISA INDAH",
+    "birthDate": "19970312", 
+"birthPlace": "Tegal",
+"emailAddress": "khaerunisa635@gmail.com",
+"mobilePhone": "08128519594",
+"homePhone": "08128519594",
+"lineAddress1": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"lineAddress2": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"cityAddress": "Jakarta",
+"postalCode": 11480,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"mailingLineAddress2": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11480,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173075203970004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PIONEERINDO GOURMET INTERNATIONAL",
+				"bidangUsaha": "RESTAURANT "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "KHAERUNISA INDAH",
+    "birthDate": "19970312", 
+"birthPlace": "Tegal",
+"emailAddress": "khaerunisa635@gmail.com",
+"mobilePhone": "08128519594",
+"homePhone": "08128519594",
+"lineAddress1": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"lineAddress2": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"cityAddress": "Jakarta",
+"postalCode": 11480,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"mailingLineAddress2": "JL KEMANGGISAN RT 05 RW 09 PALMERAH",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11480,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173075203970004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PIONEERINDO GOURMET INTERNATIONAL",
+				"bidangUsaha": "RESTAURANT "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "71909942",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210426112455",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2290020916",
+"bankAccountName": "Khaerunisa Indah Lestari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085720672488",
+"name": "DEVITA FARA DILA",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19990708",
+"percentage": 100,
+"email": "warungmasboed@gmail.com"
+}
+]
+}

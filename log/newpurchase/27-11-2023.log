@@ -1,0 +1,111 @@
+175.223.26.246 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:23:57 2023-11-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Menik Dewi Salindri",
+    "birthDate": "19880420", 
+"birthPlace": "Semarang",
+"emailAddress": "salindrimenikdewi@gmail.com",
+"mobilePhone": "082120550902",
+"homePhone": "0",
+"lineAddress1": "Tembalang Pesona Asri Blok R No 12B Semarang ",
+"lineAddress2": "Paramount Village Jln Wilis 35 Semarang",
+"cityAddress": "Semarang",
+"postalCode": 50278,
+"sameMailing": "1",
+"mailingLineAddress1": "Tembalang Pesona Asri Blok R No 12B Semarang ",
+"mailingLineAddress2": "Paramount Village Jln Wilis 35 Semarang",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50278,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374076004880003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Segara Bimbel",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Menik Dewi Salindri",
+    "birthDate": "19880420", 
+"birthPlace": "Semarang",
+"emailAddress": "salindrimenikdewi@gmail.com",
+"mobilePhone": "082120550902",
+"homePhone": "0",
+"lineAddress1": "Tembalang Pesona Asri Blok R No 12B Semarang ",
+"lineAddress2": "Paramount Village Jln Wilis 35 Semarang",
+"cityAddress": "Semarang",
+"postalCode": 50278,
+"sameMailing": "1",
+"mailingLineAddress1": "Tembalang Pesona Asri Blok R No 12B Semarang ",
+"mailingLineAddress2": "Paramount Village Jln Wilis 35 Semarang",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50278,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374076004880003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Segara Bimbel",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20231127132357",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "4161467788",
+"bankAccountName": "Menik Dewi Salindri",
+"ewalletNo": "082120550902",
+"ewalletType": "OVO",
+"ewalletName": "Menik Dewi Salindri",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082134682289",
+"name": "Endang Ediati",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19670525",
+"percentage": 50,
+"email": "salindrisoeparto@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "082120550902",
+"name": "Agus Sacawirya",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19830801",
+"percentage": 50,
+"email": "salindri71@gmail.com"
+}
+]
+}

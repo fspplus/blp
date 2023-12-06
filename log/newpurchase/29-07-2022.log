@@ -1,0 +1,99 @@
+192.168.103.229 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 18:16:11 2022-07-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "BUDI IRAWAN",
+    "birthDate": "19921101", 
+"birthPlace": "PANGKALAN LUNANG",
+"emailAddress": "virriyananda@gmail.com",
+"mobilePhone": "083193250034",
+"homePhone": "082140407860",
+"lineAddress1": "JL. SELAM III NO.52",
+"lineAddress2": "KEL. TEGAL S MANDALA I KEC. MEDAN DENAI",
+"cityAddress": "",
+"postalCode": 20226,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. KARANTINA II NO.49",
+"mailingLineAddress2": "SIDORAME BARAT I, KEC. MEDAN TIMUR",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271040111920006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KOPI LAPTOP",
+				"bidangUsaha": "CAFE "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "BUDI IRAWAN",
+    "birthDate": "19921101", 
+"birthPlace": "PANGKALAN LUNANG",
+"emailAddress": "virriyananda@gmail.com",
+"mobilePhone": "083193250034",
+"homePhone": "082140407860",
+"lineAddress1": "JL. SELAM III NO.52",
+"lineAddress2": "KEL. TEGAL S MANDALA I KEC. MEDAN DENAI",
+"cityAddress": "",
+"postalCode": 20226,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. KARANTINA II NO.49",
+"mailingLineAddress2": "SIDORAME BARAT I, KEC. MEDAN TIMUR",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271040111920006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "KOPI LAPTOP",
+				"bidangUsaha": "CAFE "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210227",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220729181606",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000757188",
+"bankAccountName": "BUDI IRAWAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082165184422",
+"name": "LILIK",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19830823",
+"percentage": 100,
+"email": "liangyenlilik@gmail.com"
+}
+]
+}

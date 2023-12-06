@@ -1,0 +1,198 @@
+114.122.15.193 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:10:00 2023-08-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Siet Cen",
+    "birthDate": "19771212", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "sietcen@gmail.com",
+"mobilePhone": "081375061338",
+"homePhone": "081375061338",
+"lineAddress1": "Jl. Sisingamangaraja No. 591",
+"lineAddress2": "Kel perdagangan 1, kec bandar",
+"cityAddress": "Perdagangan",
+"postalCode": 21184,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sisingamangaraja No. 591",
+"mailingLineAddress2": "Kel perdagangan 1, kec bandar",
+"mailingCityAddress": "Perdagangan",
+"mailingpostalCode": 21184,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1272045212770004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Laris Plastik",
+				"bidangUsaha": "Retail "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Siet Cen",
+    "birthDate": "19771212", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "sietcen@gmail.com",
+"mobilePhone": "081375061338",
+"homePhone": "081375061338",
+"lineAddress1": "Jl. Sisingamangaraja No. 591",
+"lineAddress2": "Kel perdagangan 1, kec bandar",
+"cityAddress": "Perdagangan",
+"postalCode": 21184,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sisingamangaraja No. 591",
+"mailingLineAddress2": "Kel perdagangan 1, kec bandar",
+"mailingCityAddress": "Perdagangan",
+"mailingpostalCode": 21184,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1272045212770004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Laris Plastik",
+				"bidangUsaha": "Retail "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230801150957",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8200004508",
+"bankAccountName": "Siet Cen",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085359151018",
+"name": "Atan Sehat",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19730820",
+"percentage": 100,
+"email": "at4nseh4t@gmail.com"
+}
+]
+}
+114.122.15.193 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:33:29 2023-08-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Suyanti",
+    "birthDate": "19760912", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "dutchdoll76@yahoo.com",
+"mobilePhone": "08118404588",
+"homePhone": "08118404588",
+"lineAddress1": "Jl. Janur Kuning VI.WL 2/5",
+"lineAddress2": "Kel kelapa gading timur, kec kelapa gading",
+"cityAddress": "Jakarta",
+"postalCode": 12980,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Janur Kuning VI.WL 2/5",
+"mailingLineAddress2": "Kel kelapa gading timur, kec kelapa gading",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12980,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1272025209760001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Energi Unggul Persada",
+				"bidangUsaha": "Perkebunan kelapa sawit "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Suyanti",
+    "birthDate": "19760912", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "dutchdoll76@yahoo.com",
+"mobilePhone": "08118404588",
+"homePhone": "08118404588",
+"lineAddress1": "Jl. Janur Kuning VI.WL 2/5",
+"lineAddress2": "Kel kelapa gading timur, kec kelapa gading",
+"cityAddress": "Jakarta",
+"postalCode": 12980,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Janur Kuning VI.WL 2/5",
+"mailingLineAddress2": "Kel kelapa gading timur, kec kelapa gading",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12980,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1272025209760001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Energi Unggul Persada",
+				"bidangUsaha": "Perkebunan kelapa sawit "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230801153328",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8005006500",
+"bankAccountName": "Suyanti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087867118220",
+"name": "Beatrice Chelseandra",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20040319",
+"percentage": 100,
+"email": "zyyen76@gmail.com"
+}
+]
+}

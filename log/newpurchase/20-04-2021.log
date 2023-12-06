@@ -1,0 +1,99 @@
+45.112.126.161 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:10:59 2021-04-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jaki Pauji",
+    "birthDate": "19931221", 
+"birthPlace": "Bandung",
+"emailAddress": "jakipauji@gmail.com",
+"mobilePhone": "089653713762",
+"homePhone": "081218948196",
+"lineAddress1": "Jl. Balai Rakyat No.92 Rt.2/Rw.2",
+"lineAddress2": "Kel.Jagakarsa Kec.Jagakarsa",
+"cityAddress": "Jakarta",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Balai Rakyat No.92 Rt.2/Rw.2",
+"mailingLineAddress2": "Kel.Jagakarsa Kec.Jagakarsa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174092112931002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "United Creative",
+				"bidangUsaha": "Digital Agency & Advertising "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jaki Pauji",
+    "birthDate": "19931221", 
+"birthPlace": "Bandung",
+"emailAddress": "jakipauji@gmail.com",
+"mobilePhone": "089653713762",
+"homePhone": "081218948196",
+"lineAddress1": "Jl. Balai Rakyat No.92 Rt.2/Rw.2",
+"lineAddress2": "Kel.Jagakarsa Kec.Jagakarsa",
+"cityAddress": "Jakarta",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Balai Rakyat No.92 Rt.2/Rw.2",
+"mailingLineAddress2": "Kel.Jagakarsa Kec.Jagakarsa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174092112931002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "United Creative",
+				"bidangUsaha": "Digital Agency & Advertising "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909947",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20210420111058",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5470028710",
+"bankAccountName": "Jaki Pauji",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895330037212",
+"name": "Jamilah",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19731112",
+"percentage": 100,
+"email": "jamilahgarut5@gmail.com"
+}
+]
+}

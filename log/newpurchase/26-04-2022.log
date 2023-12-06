@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:53:17 2022-04-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Woro Mustiko W",
+    "birthDate": "19660405", 
+"birthPlace": "Jakarta",
+"emailAddress": "wurimustiko@yahoo.co.id",
+"mobilePhone": "082113507700",
+"homePhone": "0218351914",
+"lineAddress1": "Jl. Palbatu II No.25 RT06/RW04",
+"lineAddress2": "Menteng Dalam, Tebet",
+"cityAddress": "Jakarta",
+"postalCode": 12870,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Palbatu II No.25 RT06/RW04",
+"mailingLineAddress2": "Menteng Dalam, Tebet",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12870,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "3174014504660002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Subkoordinator",
+"namaLembaga": "Kementerian Pariwisata dan Ekonomi Kreatif",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Woro Mustiko W",
+    "birthDate": "19660405", 
+"birthPlace": "Jakarta",
+"emailAddress": "wurimustiko@yahoo.co.id",
+"mobilePhone": "082113507700",
+"homePhone": "0218351914",
+"lineAddress1": "Jl. Palbatu II No.25 RT06/RW04",
+"lineAddress2": "Menteng Dalam, Tebet",
+"cityAddress": "Jakarta",
+"postalCode": 12870,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Palbatu II No.25 RT06/RW04",
+"mailingLineAddress2": "Menteng Dalam, Tebet",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12870,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "3174014504660002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Subkoordinator",
+"namaLembaga": "Kementerian Pariwisata dan Ekonomi Kreatif",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "00000564",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220426115315",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1030004434151",
+"bankAccountName": "Woro Mustiko W",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081314096100",
+"name": "Bintang Fajaratri Mentari",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19951118",
+"percentage": 100,
+"email": "bfajaratri@naver.com"
+}
+]
+}

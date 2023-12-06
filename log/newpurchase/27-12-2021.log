@@ -1,0 +1,99 @@
+112.78.153.130 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:12:07 2021-12-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YULIA",
+    "birthDate": "19660911", 
+"birthPlace": "Jakarta",
+"emailAddress": "yulia2109@yahoo.com",
+"mobilePhone": "081514336860",
+"homePhone": "081514336860",
+"lineAddress1": "Jl.Barkah III no.33 RT.013/RW.002 Manggarai Selatan - Tebet",
+"lineAddress2": "Jl.Barkah III no.33 Manggarai Selatan - Tebet",
+"cityAddress": "",
+"postalCode": 12860,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Barkah III no.33 RT.013/RW.002 Manggarai Selatan - Tebet",
+"mailingLineAddress2": "Jl.Barkah III no.33 Manggarai Selatan - Tebet",
+"mailingCityAddress": "",
+"mailingpostalCode": 12860,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3174015109660004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Membantu bisnis suami",
+"namaLembaga": "Locarbs",
+				"bidangUsaha": "Kuliner "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "YULIA",
+    "birthDate": "19660911", 
+"birthPlace": "Jakarta",
+"emailAddress": "yulia2109@yahoo.com",
+"mobilePhone": "081514336860",
+"homePhone": "081514336860",
+"lineAddress1": "Jl.Barkah III no.33 RT.013/RW.002 Manggarai Selatan - Tebet",
+"lineAddress2": "Jl.Barkah III no.33 Manggarai Selatan - Tebet",
+"cityAddress": "",
+"postalCode": 12860,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Barkah III no.33 RT.013/RW.002 Manggarai Selatan - Tebet",
+"mailingLineAddress2": "Jl.Barkah III no.33 Manggarai Selatan - Tebet",
+"mailingCityAddress": "",
+"mailingpostalCode": 12860,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3174015109660004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Membantu bisnis suami",
+"namaLembaga": "Locarbs",
+				"bidangUsaha": "Kuliner "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20211227161205",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6000377951",
+"bankAccountName": "YULIA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "71909946"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087881237575",
+"name": "SUWARGIONO",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19650907",
+"percentage": 100,
+"email": "homemaxiclub@gmail.com"
+}
+]
+}

@@ -1,0 +1,108 @@
+45.126.185.237 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:22:27 2023-08-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MERY FUJIWARA",
+    "birthDate": "19820416", 
+"birthPlace": "Medan",
+"emailAddress": "tangeksim_56@yahoo.co.id",
+"mobilePhone": "08116585617",
+"homePhone": "08116585617",
+"lineAddress1": "Jl B katamso no 441D Rt/Rw : 001/005 ",
+"lineAddress2": "kel.sei mati kec.medan maimun",
+"cityAddress": "",
+"postalCode": 20159,
+"sameMailing": "0",
+"mailingLineAddress1": "Komp the palace polonia Blok A no 28 ",
+"mailingLineAddress2": "kel.suka damai kec.medan polonia",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20157,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271155604820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT LAUT UNITED",
+				"bidangUsaha": "EKSPOR IKAN & SEAFOOD "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MERY FUJIWARA",
+    "birthDate": "19820416", 
+"birthPlace": "Medan",
+"emailAddress": "tangeksim_56@yahoo.co.id",
+"mobilePhone": "08116585617",
+"homePhone": "08116585617",
+"lineAddress1": "Jl B katamso no 441D Rt/Rw : 001/005 ",
+"lineAddress2": "kel.sei mati kec.medan maimun",
+"cityAddress": "",
+"postalCode": 20159,
+"sameMailing": "0",
+"mailingLineAddress1": "Komp the palace polonia Blok A no 28 ",
+"mailingLineAddress2": "kel.suka damai kec.medan polonia",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20157,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271155604820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT LAUT UNITED",
+				"bidangUsaha": "EKSPOR IKAN & SEAFOOD "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230818142224",
+"bankCode": "022",
+"ropBankCode": "022",
+"bankAccount": "760114798000",
+"bankAccountName": "MERY FUJIWARA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116585617",
+"name": "Hewitt hartanoto",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20080910",
+"percentage": 50,
+"email": "tangeksim_56@yahoo.com"
+},{
+"seqNo": "2",
+"mobileNo": "08116585617",
+"name": "MAEVY HARTANOTO",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20120825",
+"percentage": 50,
+"email": "tangeksim_56@yahoo.com"
+}
+]
+}

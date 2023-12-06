@@ -1,0 +1,99 @@
+36.78.1.164 https://www.bucketlistplan.co.id/prepurchase?view=finish 11:04:42 2020-09-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Khoerohtun Nisa",
+    "birthDate": "19960507", 
+"birthPlace": "Tegal",
+"emailAddress": "kondouyuri7@gmail.com",
+"mobilePhone": "081212506748",
+"homePhone": "081212506748",
+"lineAddress1": "Malaka jaya rt 8 rw 6, malaka jaya, duren sawit, jakarta timur",
+"lineAddress2": "Malaka jaya, duren sawit, jaktim",
+"cityAddress": "Jakarta",
+"postalCode": 13460,
+"sameMailing": "1",
+"mailingLineAddress1": "Malaka jaya rt 8 rw 6, malaka jaya, duren sawit, jakarta timur",
+"mailingLineAddress2": "Malaka jaya, duren sawit, jaktim",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13460,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3328134705960006",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Khoerohtun Nisa",
+    "birthDate": "19960507", 
+"birthPlace": "Tegal",
+"emailAddress": "kondouyuri7@gmail.com",
+"mobilePhone": "081212506748",
+"homePhone": "081212506748",
+"lineAddress1": "Malaka jaya rt 8 rw 6, malaka jaya, duren sawit, jakarta timur",
+"lineAddress2": "Malaka jaya, duren sawit, jaktim",
+"cityAddress": "Jakarta",
+"postalCode": 13460,
+"sameMailing": "1",
+"mailingLineAddress1": "Malaka jaya rt 8 rw 6, malaka jaya, duren sawit, jakarta timur",
+"mailingLineAddress2": "Malaka jaya, duren sawit, jaktim",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13460,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3328134705960006",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200911110441",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2180800096",
+"bankAccountName": "Khoerohtun nisa",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081212506718",
+"name": "Kartimah",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19630904",
+"percentage": 100,
+"email": "kondouyuri7@gmail.com"
+}
+]
+}

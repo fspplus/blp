@@ -1,0 +1,198 @@
+114.125.57.152 https://koreaversikamu.co.id/prepurchase?view=finish 12:35:20 2020-09-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jacinta Vella Juniva",
+    "birthDate": "20010609", 
+"birthPlace": "Medan",
+"emailAddress": "jacintavella2001@gmail.com",
+"mobilePhone": "082272549228",
+"homePhone": "082272549228",
+"lineAddress1": "Jl.Pukat Banting 1 No:19-BE",
+"lineAddress2": "Jl.Pukat Banting 1 No:19-BE",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Karantina 2 No: 73 A",
+"mailingLineAddress2": "Jl.Karantina 2 No:73 A",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271144906010004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.Menara Mas Mega Mandiri",
+				"bidangUsaha": "Admin "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jacinta Vella Juniva",
+    "birthDate": "20010609", 
+"birthPlace": "Medan",
+"emailAddress": "jacintavella2001@gmail.com",
+"mobilePhone": "082272549228",
+"homePhone": "082272549228",
+"lineAddress1": "Jl.Pukat Banting 1 No:19-BE",
+"lineAddress2": "Jl.Pukat Banting 1 No:19-BE",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Karantina 2 No: 73 A",
+"mailingLineAddress2": "Jl.Karantina 2 No:73 A",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271144906010004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.Menara Mas Mega Mandiri",
+				"bidangUsaha": "Admin "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200902123520",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222733543",
+"bankAccountName": "Jacinta Vella Juniva",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082272549228",
+"name": "Jenny",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19730820",
+"percentage": 100,
+"email": "jacintavella2001@gmail.com"
+}
+]
+}
+202.67.36.205 https://koreaversikamu.co.id/prepurchase?view=finish 17:12:57 2020-09-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DICKSON",
+    "birthDate": "19940505", 
+"birthPlace": "TENGAN",
+"emailAddress": "dickson.samara@gmail.com",
+"mobilePhone": "082349926687",
+"homePhone": "082349926687",
+"lineAddress1": "JL DAENG RAMANG GRIYA MULIA ASRI BLOK 4C NO 23",
+"lineAddress2": "SUDIANG",
+"cityAddress": "",
+"postalCode": 90920,
+"sameMailing": "1",
+"mailingLineAddress1": "JL DAENG RAMANG GRIYA MULIA ASRI BLOK 4C NO 23",
+"mailingLineAddress2": "SUDIANG",
+"mailingCityAddress": "",
+"mailingpostalCode": 90920,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7318120505940006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT ARTHA BOGA CEMERLANG",
+				"bidangUsaha": "RETAIL "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "DICKSON",
+    "birthDate": "19940505", 
+"birthPlace": "TENGAN",
+"emailAddress": "dickson.samara@gmail.com",
+"mobilePhone": "082349926687",
+"homePhone": "082349926687",
+"lineAddress1": "JL DAENG RAMANG GRIYA MULIA ASRI BLOK 4C NO 23",
+"lineAddress2": "SUDIANG",
+"cityAddress": "",
+"postalCode": 90920,
+"sameMailing": "1",
+"mailingLineAddress1": "JL DAENG RAMANG GRIYA MULIA ASRI BLOK 4C NO 23",
+"mailingLineAddress2": "SUDIANG",
+"mailingCityAddress": "",
+"mailingpostalCode": 90920,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7318120505940006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT ARTHA BOGA CEMERLANG",
+				"bidangUsaha": "RETAIL "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92011358",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200902171257",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8735213128",
+"bankAccountName": "DICKSON",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081341616872",
+"name": "Sri yunita",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19880612",
+"percentage": 100,
+"email": "srimassora@yahoo.com"
+}
+]
+}

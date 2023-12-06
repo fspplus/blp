@@ -1,0 +1,102 @@
+182.2.137.57 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:59:31 2023-09-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Martinus salim",
+    "birthDate": "19800108", 
+"birthPlace": "Jakarta",
+"emailAddress": "angeline.istanto@yahoo.com",
+"mobilePhone": "081510102025",
+"homePhone": "081510102025",
+"lineAddress1": "Jl bahtera permai 1A no 8",
+"lineAddress2": "Perumahan layar permai ( the kayara )",
+"cityAddress": "",
+"postalCode": 14460,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl bahtera permai 1A no 8",
+"mailingLineAddress2": "Perumahan layar permai ( the kayara )",
+"mailingCityAddress": "",
+"mailingpostalCode": 14460,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3172020801800005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Platinum vape",
+				"bidangUsaha": "Online "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Martinus salim",
+    "birthDate": "19800108", 
+"birthPlace": "Jakarta",
+"emailAddress": "angeline.istanto@yahoo.com",
+"mobilePhone": "081510102025",
+"homePhone": "081510102025",
+"lineAddress1": "Jl bahtera permai 1A no 8",
+"lineAddress2": "Perumahan layar permai ( the kayara )",
+"cityAddress": "",
+"postalCode": 14460,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl bahtera permai 1A no 8",
+"mailingLineAddress2": "Perumahan layar permai ( the kayara )",
+"mailingCityAddress": "",
+"mailingpostalCode": 14460,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3172020801800005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Platinum vape",
+				"bidangUsaha": "Online "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311468",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230912155930",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3861037078",
+"bankAccountName": "Angeline octavianus",
+"ewalletNo": "081510102025",
+"ewalletType": "OVO",
+"ewalletName": "Angeline octavianus",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081510102025",
+"name": "Angeline Octavianus",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19801025",
+"percentage": 100,
+"email": "angeline.istanto@yahoo.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+140.213.11.231 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:04:42 2021-05-05
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Galih Dwi Pamungkas",
+    "birthDate": "19950816", 
+"birthPlace": "Sidoarjo",
+"emailAddress": "pamungkasg887@gmail.com",
+"mobilePhone": "087887304704",
+"homePhone": "087887304704",
+"lineAddress1": "Gunungsari Indah EE/30",
+"lineAddress2": "RT 001/008 Kelurahan Kedurus, kec Karang Pilang ",
+"cityAddress": "Surabaya",
+"postalCode": 60223,
+"sameMailing": "1",
+"mailingLineAddress1": "Gunungsari Indah EE/30",
+"mailingLineAddress2": "RT 001/008 Kelurahan Kedurus, kec Karang Pilang ",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60223,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "378011608950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Asuransi",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Galih Dwi Pamungkas",
+    "birthDate": "19950816", 
+"birthPlace": "Sidoarjo",
+"emailAddress": "pamungkasg887@gmail.com",
+"mobilePhone": "087887304704",
+"homePhone": "087887304704",
+"lineAddress1": "Gunungsari Indah EE/30",
+"lineAddress2": "RT 001/008 Kelurahan Kedurus, kec Karang Pilang ",
+"cityAddress": "Surabaya",
+"postalCode": 60223,
+"sameMailing": "1",
+"mailingLineAddress1": "Gunungsari Indah EE/30",
+"mailingLineAddress2": "RT 001/008 Kelurahan Kedurus, kec Karang Pilang ",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60223,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "378011608950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Asuransi",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011600",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210505140441",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1400020275179",
+"bankAccountName": "Galih Dwi Pamungkas",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081911872621",
+"name": "Agnes Maryanti",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710305",
+"percentage": 100,
+"email": "pamungkasg887@gmail.com"
+}
+]
+}

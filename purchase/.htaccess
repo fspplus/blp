@@ -1,0 +1,47 @@
+## Options +FollowSymLinks +MultiViews
+## Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /
+
+## don't touch /forum URIs
+RewriteRule ^controller/ - [L,NC]
+RewriteRule ^formaplikasi/ - [L,NC]
+RewriteRule ^view-reffmate/ - [L,NC]
+## RewriteRule ^jsonapp/ - [L,NC]
+RewriteRule ^promo-details/([a-zA-Z0-9_-]+)$ promo-details.php?page=$1 [R=301,QSA,L]
+
+## hide .php extension snippet
+
+# To externally redirect /dir/foo.php to /dir/foo
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R,L]
+
+# To internally forward /dir/foo to /dir/foo.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ $1.php [L]
+
+RewriteRule ^new-profile/([^/]*)$ /new-profile.php?page=$1 [L]
+RewriteRule ^articles/([^/]*)\.html$ /articles/article-detail?title=$1 [L]
+
+# To remove www header
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+
+AddType application/x-httpd-php .html .htm
+
+ErrorDocument 404 /pages-error-404.php
+ErrorDocument 500 /error-pages-404.php
+ErrorDocument 403 /error-pages-404.php
+ErrorDocument 400 /error-pages-404.php
+ErrorDocument 401 /error-pages-404.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^promo-details/([a-zA-Z0-9_-]+)$ promo-details.php?page=$1 [QSA,L]
+</IfModule>
+
+<IfModule mod_security.c>
+SecFilterEngine Off
+SecFilterScanPOST Off
+</IfModule>

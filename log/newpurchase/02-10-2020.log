@@ -1,0 +1,99 @@
+115.178.192.100 https://koreaversikamu.co.id/prepurchase?view=finish 12:44:24 2020-10-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Merry",
+    "birthDate": "19880525", 
+"birthPlace": "Binjai",
+"emailAddress": "merlyn.merry@yahoo.co.id",
+"mobilePhone": "08116098066",
+"homePhone": "08116098066",
+"lineAddress1": "Jl.Sudirman G Sentosa No:10",
+"lineAddress2": "Jl.Sudirman G Sentosa No:10",
+"cityAddress": "",
+"postalCode": 20712,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.T.Amir Hamzah Villa Makmur Garden No:8S",
+"mailingLineAddress2": "Jl.selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275026505880009",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kulaku",
+				"bidangUsaha": "Baking "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Merry",
+    "birthDate": "19880525", 
+"birthPlace": "Binjai",
+"emailAddress": "merlyn.merry@yahoo.co.id",
+"mobilePhone": "08116098066",
+"homePhone": "08116098066",
+"lineAddress1": "Jl.Sudirman G Sentosa No:10",
+"lineAddress2": "Jl.Sudirman G Sentosa No:10",
+"cityAddress": "",
+"postalCode": 20712,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.T.Amir Hamzah Villa Makmur Garden No:8S",
+"mailingLineAddress2": "Jl.selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275026505880009",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kulaku",
+				"bidangUsaha": "Baking "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20201002124421",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1750503701",
+"bankAccountName": "Merry",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116098066",
+"name": "Kwan Cin In",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19620202",
+"percentage": 100,
+"email": "merlyn.merry@yahoo.co.id"
+}
+]
+}

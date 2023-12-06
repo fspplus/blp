@@ -1,0 +1,142 @@
+192.168.115.125 https://www.koreaversikamu.co.id/prepurchase?view=finish 15:21:07 2020-04-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maria28",
+    "birthDate": "19801028", 
+"birthPlace": "Medan",
+"emailAddress": "mariakie80@gmail.com",
+"mobilePhone": "08126037595",
+"homePhone": "08126037595",
+"lineAddress1": "Jalan Karang Anyar, RT 001/RW 001 ",
+"lineAddress2": "Banyu Manik",
+"cityAddress": "",
+"postalCode": 50261,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Bukit Bayu No.6",
+"mailingLineAddress2": "Bukit Sari",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50261,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271066810800004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swiss Bakery",
+				"bidangUsaha": "Makanan "
+			},
+			"dealsCode": "92011164",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92011164",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200422152106",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000381889",
+"bankAccountName": "Maria",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011164"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126037595",
+"name": "Sony Kurniawan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19750917",
+"percentage": 100,
+"email": "mariakie80@gmail.com"
+}
+]
+}
+36.79.109.77 http://uat.koreaversikamu.co.id/prepurchase?view=finish 22:40:44 2020-04-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Barbie",
+    "birthDate": "19910416", 
+"birthPlace": "Luar negri",
+"emailAddress": "princesscantik135@gmail.com",
+"mobilePhone": "08593434260",
+"homePhone": "0219299999999",
+"lineAddress1": "Jalan",
+"lineAddress2": "raya",
+"cityAddress": "Denpasar",
+"postalCode": 24112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan",
+"mailingLineAddress2": "raya",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 24112,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "0284032029840298",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    }
+
+"purchase": {
+"productId": 8,
+"referenceCode": "401",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200422224043",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "13213123222222222222",
+"bankAccountName": "Chava",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0888888888888",
+"name": "chava",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20150401",
+"percentage": 100,
+"email": "chava@gmai.com"
+}
+]
+}

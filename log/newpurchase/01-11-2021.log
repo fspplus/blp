@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:27:44 2021-11-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jacques",
+    "birthDate": "20010322", 
+"birthPlace": "Medan",
+"emailAddress": "jacjc2203@gmail.com",
+"mobilePhone": "082274737033",
+"homePhone": "082274737033",
+"lineAddress1": "Jl. Nikel No. 4B, SUKARAMAI II",
+"lineAddress2": "MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Nikel No. 4B, SUKARAMAI II",
+"mailingLineAddress2": "MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271032203010002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Usaha",
+"namaLembaga": "Usaha keluarga",
+				"bidangUsaha": "Penjualan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jacques",
+    "birthDate": "20010322", 
+"birthPlace": "Medan",
+"emailAddress": "jacjc2203@gmail.com",
+"mobilePhone": "082274737033",
+"homePhone": "082274737033",
+"lineAddress1": "Jl. Nikel No. 4B, SUKARAMAI II",
+"lineAddress2": "MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Nikel No. 4B, SUKARAMAI II",
+"mailingLineAddress2": "MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271032203010002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Usaha",
+"namaLembaga": "Usaha keluarga",
+				"bidangUsaha": "Penjualan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20211101092743",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3831607759",
+"bankAccountName": "Jacques",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082274737033",
+"name": "Jacqueline",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20050418",
+"percentage": 100,
+"email": "jacjc2203@gmail.com"
+}
+]
+}

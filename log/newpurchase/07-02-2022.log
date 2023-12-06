@@ -1,0 +1,99 @@
+111.94.32.205 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:28:15 2022-02-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rina Mulya Fitriana",
+    "birthDate": "19920323", 
+"birthPlace": "Kota Tangerang",
+"emailAddress": "rinamulfit@gmail.com",
+"mobilePhone": "08170220392",
+"homePhone": "0215542202",
+"lineAddress1": "Alam Indah Blok B.5/1 RT. 003 RW. 005 Kel. Poris Plawad Indah Kec. Cipondoh",
+"lineAddress2": "Gang Melati No. 52 RT. 01 RW. 04 Kel. Margasari Kec. Karawaci",
+"cityAddress": "",
+"postalCode": 15113,
+"sameMailing": "0",
+"mailingLineAddress1": "Talaga Bestari Jl. Aglaonema VI Blok E2 No. 25 RT. 13 RW. 01 Desa Wanakerta Kec. Sindang Jaya",
+"mailingLineAddress2": "Alam Indah B.5/1 RT. 003 RW. 005 Kel. Poris Plawad Indah Kec. Cipondoh",
+"mailingCityAddress": "",
+"mailingpostalCode": 15560,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "3671076203920003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Rina Mulya Fitriana",
+    "birthDate": "19920323", 
+"birthPlace": "Kota Tangerang",
+"emailAddress": "rinamulfit@gmail.com",
+"mobilePhone": "08170220392",
+"homePhone": "0215542202",
+"lineAddress1": "Alam Indah Blok B.5/1 RT. 003 RW. 005 Kel. Poris Plawad Indah Kec. Cipondoh",
+"lineAddress2": "Gang Melati No. 52 RT. 01 RW. 04 Kel. Margasari Kec. Karawaci",
+"cityAddress": "",
+"postalCode": 15113,
+"sameMailing": "0",
+"mailingLineAddress1": "Talaga Bestari Jl. Aglaonema VI Blok E2 No. 25 RT. 13 RW. 01 Desa Wanakerta Kec. Sindang Jaya",
+"mailingLineAddress2": "Alam Indah B.5/1 RT. 003 RW. 005 Kel. Poris Plawad Indah Kec. Cipondoh",
+"mailingCityAddress": "",
+"mailingpostalCode": 15560,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "3671076203920003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},"policyPayor":{"fullName":"Fanny Kurniawan","birthDate":"19890215","birthPlace":"","emailAddress":"fanny.k1989@gmail.com","mobilePhone":"085695541688","homePhone":"085695541688","lineAddress1":"Kota Tangerang","lineAddress2":"Kota Tangerang","cityAddress":"Kota Tangerang","postalCode":"15113","sameMailing":"0","mailingLineAddress1":"Kota Tangerang","mailingLineAddress2":"Kota Tangerang","mailingCityAddress":"Kota Tangerang","mailingpostalCode":15113,"gender":"M","jobType":"17","identityType":1,"identityNumber":"3671051402890003","incomeSource":"1","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"M","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"17","occupationdesc":"","jobpos":"","incomesourcedesc":"2","incomesrcoth":"2","incomeoth":"3","incomeothdesc":"","incomeothtype":"","npwp":"7109722584160","relwinsured":"fanny.k1989@gmail.com","relwholder":"3","kitasNo":"3671051402890003","office_phone1":"0215583682","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71910032",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220207182813",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4970962838",
+"bankAccountName": "Rina Mulya Fitriana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08170220392",
+"name": "Aretha Rifani Kurniawan",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20180920",
+"percentage": 100,
+"email": "rinamulfit@gmail.com"
+}
+]
+}

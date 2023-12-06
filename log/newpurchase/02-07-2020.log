@@ -1,0 +1,495 @@
+158.140.180.92 https://www.bucketlistplan.co.id/prepurchase?view=finish 09:40:32 2020-07-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Gabriela Priscilla",
+    "birthDate": "20000312", 
+"birthPlace": "Jakarta",
+"emailAddress": "gbrlprsclla@gmail.com",
+"mobilePhone": "089653784034",
+"homePhone": "089653784034",
+"lineAddress1": "Jl. Krisan Blok F8/9 sektor 1.5 Griyaloka BSD",
+"lineAddress2": "RT.006/RW.008, Kel. Lengkong Gudang Timur, Kec. Serpong, Kota Tangerang Selatan",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15321,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Krisan Blok F8/9 sektor 1.5 Griyaloka BSD",
+"mailingLineAddress2": "RT.006/RW.008, Kel. Lengkong Gudang Timur, Kec. Serpong, Kota Tangerang Selatan",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15321,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173045203000006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT KOPI OPA KOREA",
+				"bidangUsaha": "Perdagangan eceran kopi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Gabriela Priscilla",
+    "birthDate": "20000312", 
+"birthPlace": "Jakarta",
+"emailAddress": "gbrlprsclla@gmail.com",
+"mobilePhone": "089653784034",
+"homePhone": "089653784034",
+"lineAddress1": "Jl. Krisan Blok F8/9 sektor 1.5 Griyaloka BSD",
+"lineAddress2": "RT.006/RW.008, Kel. Lengkong Gudang Timur, Kec. Serpong, Kota Tangerang Selatan",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15321,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Krisan Blok F8/9 sektor 1.5 Griyaloka BSD",
+"mailingLineAddress2": "RT.006/RW.008, Kel. Lengkong Gudang Timur, Kec. Serpong, Kota Tangerang Selatan",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15321,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173045203000006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT KOPI OPA KOREA",
+				"bidangUsaha": "Perdagangan eceran kopi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200702094031",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8831315156",
+"bankAccountName": "Gabriela Priscilla",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0816893366",
+"name": "Herie Budiman",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19600726",
+"percentage": 100,
+"email": "herie.budiman@gmail.com"
+}
+]
+}
+125.160.114.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 20:18:20 2020-07-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Stefany anggriani",
+    "birthDate": "8 juni 1994", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefany_anggriani@yahoo.com",
+"mobilePhone": "081280082824",
+"homePhone": "081280082824",
+"lineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"lineAddress2": "Jelambar barat 2a",
+"cityAddress": "Tangerang",
+"postalCode": 15334,
+"sameMailing": "1",
+"mailingLineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"mailingLineAddress2": "Jelambar barat 2a",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Stefany anggriani",
+    "birthDate": "8 juni 1994", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefany_anggriani@yahoo.com",
+"mobilePhone": "081280082824",
+"homePhone": "081280082824",
+"lineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"lineAddress2": "Jelambar barat 2a",
+"cityAddress": "Tangerang",
+"postalCode": 15334,
+"sameMailing": "1",
+"mailingLineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"mailingLineAddress2": "Jelambar barat 2a",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200702201819",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4661309843",
+"bankAccountName": "Stefany anggriani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopichuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "+628180636000",
+"name": "Daniel ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "28 agustus 1992",
+"percentage": 100,
+"email": "dh.hermansyah@gmail.com"
+}
+]
+}
+125.160.114.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 20:18:46 2020-07-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Stefany anggriani",
+    "birthDate": "8 juni 1994", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefany_anggriani@yahoo.com",
+"mobilePhone": "081280082824",
+"homePhone": "081280082824",
+"lineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"lineAddress2": "Jelambar barat 2a",
+"cityAddress": "Tangerang",
+"postalCode": 15334,
+"sameMailing": "1",
+"mailingLineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"mailingLineAddress2": "Jelambar barat 2a",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Stefany anggriani",
+    "birthDate": "8 juni 1994", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefany_anggriani@yahoo.com",
+"mobilePhone": "081280082824",
+"homePhone": "081280082824",
+"lineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"lineAddress2": "Jelambar barat 2a",
+"cityAddress": "Tangerang",
+"postalCode": 15334,
+"sameMailing": "1",
+"mailingLineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25, Gading serpong",
+"mailingLineAddress2": "Jelambar barat 2a",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200702201846",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4661309843",
+"bankAccountName": "Stefany anggriani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopichuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "+628180636000",
+"name": "Daniel ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "28 agustus 1992",
+"percentage": 100,
+"email": "dh.hermansyah@gmail.com"
+}
+]
+}
+125.160.114.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 22:46:15 2020-07-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Stefany anggriani",
+    "birthDate": "8 Juni 1994", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefany_anggriani@yahoo.com",
+"mobilePhone": "081280082824",
+"homePhone": "085692280800",
+"lineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25",
+"lineAddress2": "Jelambar barat 2a",
+"cityAddress": "Tangerang",
+"postalCode": 15334,
+"sameMailing": "1",
+"mailingLineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25",
+"mailingLineAddress2": "Jelambar barat 2a",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Stefany anggriani",
+    "birthDate": "8 Juni 1994", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefany_anggriani@yahoo.com",
+"mobilePhone": "081280082824",
+"homePhone": "085692280800",
+"lineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25",
+"lineAddress2": "Jelambar barat 2a",
+"cityAddress": "Tangerang",
+"postalCode": 15334,
+"sameMailing": "1",
+"mailingLineAddress1": "Cluster allogio. Jalan allogio timur 2 nomor 25",
+"mailingLineAddress2": "Jelambar barat 2a",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200702224613",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4661309843",
+"bankAccountName": "Stefany anggriani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "+628180636000",
+"name": "Daniel ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "28 Agustus 1992",
+"percentage": 100,
+"email": "dh.hermansyah@gmail.com"
+}
+]
+}
+125.160.114.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 22:59:28 2020-07-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Stefany Anggriani",
+    "birthDate": "19940608", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefanyanggriani8@gmail.com",
+"mobilePhone": "081280082824",
+"homePhone": "081280082824",
+"lineAddress1": "Villa Melati Mas Blok M3/3",
+"lineAddress2": "Jl. Magnolia II",
+"cityAddress": "",
+"postalCode": 15310,
+"sameMailing": "0",
+"mailingLineAddress1": "Cluster Allogio Summarecon Serpong",
+"mailingLineAddress2": "Jl. Allogio Timur 2 no.25",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Stefany Anggriani",
+    "birthDate": "19940608", 
+"birthPlace": "Jakarta",
+"emailAddress": "stefanyanggriani8@gmail.com",
+"mobilePhone": "081280082824",
+"homePhone": "081280082824",
+"lineAddress1": "Villa Melati Mas Blok M3/3",
+"lineAddress2": "Jl. Magnolia II",
+"cityAddress": "",
+"postalCode": 15310,
+"sameMailing": "0",
+"mailingLineAddress1": "Cluster Allogio Summarecon Serpong",
+"mailingLineAddress2": "Jl. Allogio Timur 2 no.25",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "F",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3173024806940001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200702225927",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4661309843",
+"bankAccountName": "Stefany Anggriani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081806360001",
+"name": "Daniel",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19920828",
+"percentage": 100,
+"email": "dh.hermansyah@gmail.com"
+}
+]
+}

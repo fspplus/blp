@@ -1,0 +1,264 @@
+202.152.32.194 https://koreaversikamu.co.id/prepurchase?view=finish 14:17:21 2019-10-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SYA'BAN ALIWANTORO",
+    "birthDate": "19900314", 
+"birthPlace": "bantul",
+"emailAddress": "aliwantoro@gmail.com",
+"mobilePhone": "089637855974",
+"homePhone": "089637855974",
+"lineAddress1": "Mejing lor rt/rw 001/001 Kel.Ambarketawang",
+"lineAddress2": "Kec. Gamping",
+"cityAddress": "",
+"postalCode": 55294,
+"sameMailing": "1",
+"mailingLineAddress1": "Mejing lor rt/rw 001/001 Kel.Ambarketawang",
+"mailingLineAddress2": "Kec. Gamping",
+"mailingCityAddress": "",
+"mailingpostalCode": 55294,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3402091403900001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. INTERNUSA MANDIRI",
+"bidangUsaha": "DISTRIBUTOR ELEKTRONIK"
+}
+}
+},
+"purchase": {
+"productId": 6,
+"referenceCode": "91910200",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191022141720",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8610468242",
+"bankAccountName": "SYABAN ALIWANTORO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087738294754",
+"name": "MARYANI",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19930716",
+"percentage": 100,
+"email": "yani.azam26@gmail.com"
+}
+]
+}
+202.152.32.194 https://koreaversikamu.co.id/prepurchase?view=finish 15:31:54 2019-10-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ARI SUBIYANTO",
+    "birthDate": "19800711", 
+"birthPlace": "Surabaya",
+"emailAddress": "ari.subiyantoo@gmail.com",
+"mobilePhone": "081336616061",
+"homePhone": "081336616061",
+"lineAddress1": "SIDOSERMO 13/20 RT/RW 005/003 KEL.SIDOSERMO",
+"lineAddress2": "KEC.WONOCOLO ",
+"cityAddress": "",
+"postalCode": 60239,
+"sameMailing": "1",
+"mailingLineAddress1": "SIDOSERMO 13/20 RT/RW 005/003 KEL.SIDOSERMO",
+"mailingLineAddress2": "KEC.WONOCOLO ",
+"mailingCityAddress": "",
+"mailingpostalCode": 60239,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3578121106800003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.HANWHA LIFE",
+"bidangUsaha": "ASURANSI"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "91910200",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191022153153",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5075104241",
+"bankAccountName": "ARI SUBIYANTO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085749199547",
+"name": "Sutatik",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19640630",
+"percentage": 100,
+"email": "ari.subiyantoo@gmail.com"
+}
+]
+}
+202.152.32.194 https://koreaversikamu.co.id/prepurchase?view=finish 16:04:44 2019-10-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sya'ban Aliwantoro",
+    "birthDate": "19900314", 
+"birthPlace": "Bantul",
+"emailAddress": "aliwantoro@gmail.com",
+"mobilePhone": "089637855974",
+"homePhone": "089637855974",
+"lineAddress1": "Mejing Lor Rt/Rw 001/001",
+"lineAddress2": "Kel. Ambarketawang, Kec. Gamping",
+"cityAddress": "",
+"postalCode": 55294,
+"sameMailing": "1",
+"mailingLineAddress1": "Mejing Lor Rt/Rw 001/001",
+"mailingLineAddress2": "Kel. Ambarketawang, Kec. Gamping",
+"mailingCityAddress": "",
+"mailingpostalCode": 55294,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3402091403900001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Internusa Mandiri",
+"bidangUsaha": "Distributor elektronik"
+}
+}
+},
+"purchase": {
+"productId": 6,
+"referenceCode": "91910200",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191022160444",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8610468242",
+"bankAccountName": "SYABAN ALIWANTORO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087738294754",
+"name": "Maryani",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19930716",
+"percentage": 100,
+"email": "yani.azam26@gmail.com"
+}
+]
+}
+202.152.32.194 https://koreaversikamu.co.id/prepurchase?view=finish 16:10:42 2019-10-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sya'ban Aliwantoro",
+    "birthDate": "19900314", 
+"birthPlace": "Bantul",
+"emailAddress": "aliwantoro@gmail.com",
+"mobilePhone": "089637855974",
+"homePhone": "089637855974",
+"lineAddress1": "Mejing Lor Rt/Rw 001/001",
+"lineAddress2": "Kel. Ambarketawang, Kec. Gamping",
+"cityAddress": "",
+"postalCode": 55294,
+"sameMailing": "1",
+"mailingLineAddress1": "Mejing Lor Rt/Rw 001/001",
+"mailingLineAddress2": "Kel. Ambarketawang, Kec. Gamping",
+"mailingCityAddress": "",
+"mailingpostalCode": 55294,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3402091403900001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Internusa Mandiri",
+"bidangUsaha": "Distributor elektronik"
+}
+}
+},
+"purchase": {
+"productId": 6,
+"referenceCode": "91910200",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191022161041",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8610468242",
+"bankAccountName": "SYABAN ALIWANTORO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087738294754",
+"name": "Maryani",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19930716",
+"percentage": 100,
+"email": "yani.azam26@gmail.com"
+}
+]
+}

@@ -1,0 +1,204 @@
+116.90.183.64 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:34:12 2023-09-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lindayani",
+    "birthDate": "19701006", 
+"birthPlace": "Medan",
+"emailAddress": "lindayani123.ly@gmail.com",
+"mobilePhone": "08126040052",
+"homePhone": "08126040052",
+"lineAddress1": "Jl suluh no 165 medan",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl suluh no 165 medan",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271144610700002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Lindayani",
+    "birthDate": "19701006", 
+"birthPlace": "Medan",
+"emailAddress": "lindayani123.ly@gmail.com",
+"mobilePhone": "08126040052",
+"homePhone": "08126040052",
+"lineAddress1": "Jl suluh no 165 medan",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl suluh no 165 medan",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271144610700002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230916123411",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0337843755",
+"bankAccountName": "Lindayani ",
+"ewalletNo": "08126040052",
+"ewalletType": "OVO",
+"ewalletName": "Lindayani ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126040052",
+"name": "Christanta Ardana Ginting ",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20001222",
+"percentage": 100,
+"email": "lindayani123.ly@gmail.com"
+}
+]
+}
+116.90.183.64 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:22:54 2023-09-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tjioe Hun",
+    "birthDate": "19620823", 
+"birthPlace": "Bagan siapi-api ",
+"emailAddress": "ciuhunciam0718@gmail.com",
+"mobilePhone": "081370688677",
+"homePhone": "081370688677",
+"lineAddress1": "Jl fressia no 8 R Cemara asri ",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl fressia no 8 R Cemara asri ",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207266308620011",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Tjioe Hun",
+    "birthDate": "19620823", 
+"birthPlace": "Bagan siapi-api ",
+"emailAddress": "ciuhunciam0718@gmail.com",
+"mobilePhone": "081370688677",
+"homePhone": "081370688677",
+"lineAddress1": "Jl fressia no 8 R Cemara asri ",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl fressia no 8 R Cemara asri ",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207266308620011",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230916132253",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305007265",
+"bankAccountName": "Tjioe Hun",
+"ewalletNo": "081370688677",
+"ewalletType": "OVO",
+"ewalletName": "Tjioe Hun",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085261618899",
+"name": "Valentine",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19931227",
+"percentage": 100,
+"email": "ciuhunciam0718@gmail.com"
+}
+]
+}

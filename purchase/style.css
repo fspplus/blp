@@ -1,0 +1,217 @@
+html{
+    margin-bottom: 0px;
+}
+.colorWHite{
+    color: white !important;
+}
+h5, h4, h3, h2, h1,{
+    font-family: "Varela Round", sans-serif;
+}
+p, span, label{
+    font-family: "Varela Round", sans-serif;
+    margin-bottom: 10px;
+}
+a{
+    color: #ff7101;
+    transition: all .3s;
+    border-bottom: 1px solid rgba(0,0,0,0);
+}
+a:hover{
+    border-bottom: 1px solid #ff7101;
+    color: #ff7101 !important;
+    text-decoration: none;
+}
+select{
+    height: 52 !important;
+    background: none !important;
+    border: 1px solid lightgray !important;
+    border-radius: 0px !important;
+    width: 100% !important;
+}
+.floating-label input:focus + label, .floating-label textarea:focus + label{
+    opacity: 1;
+    top: .5em;
+}
+.floating-label input:focus::-webkit-input-placeholder,.floating-label input:focus::-moz-input-placeholder,.floating-label input:focus:-ms-input-placeholder, .floating-label textarea:focus::-webkit-input-placeholder,.floating-label textarea:focus::-moz-input-placeholder,.floating-label textarea:focus:-ms-input-placeholder { 
+    visibility: hidden;
+}
+.floating-label input, .floating-label textarea{
+    width: 100%;
+    padding: 12px 15px;
+    font-size: 16px;
+    background-color: transparent;
+    border: none !important;
+    border-bottom: 1px solid white !important;
+}
+.floating-label label{
+    color: #ff7101;
+    font-size: .55em;
+    opacity: 0;
+    text-transform: uppercase;
+    transition: opacity .2s, top .2s;
+    position: absolute;
+    top: -5px;
+    left: 2em;
+}
+.floating-label{
+    position: relative;
+    margin-bottom: 10px;
+}
+.floating-label select{
+    color: white;
+}
+form{
+    /*max-width: 250px;
+    width: 100%;*/
+    margin: auto;
+    /*text-align: center;*/
+}
+input:focus::-webkit-input-placeholder {
+    opacity: 0 !important;
+}
+input::-webkit-input-placeholder{
+    transition: all .5s;
+}
+.formLogin, .formRegisterInfluencer{
+    border-radius: 25px;
+    background-color: #fff;
+    width: 100%;
+    max-width: 1000px;
+    margin: 5% auto;
+    box-shadow: 7px 3px 18px 0 rgba(0, 0, 0, 0.2), 9px 0px 45px 0 rgba(0, 0, 0, 0.19);
+}
+.imageForm{
+height: 65rem;
+object-fit: cover;
+}
+.formLogin input[type="submit"], .formRegister input[type="submit"], .formRegisterInfluencer input[type="submit"], .contBtn{
+    min-width: 100px;
+    max-width: 200px;
+    background-color: #ff7101;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #ff7101;
+    transition: all .3s;
+    cursor: pointer;
+    float: left;
+}
+.formLogin input[type="submit"]:hover, .formRegister input[type="submit"]:hover, .formRegisterInfluencer input[type="submit"]:hover, .contBtn:hover{
+    background-color: #fff;
+    border: 1px solid #ff7101;
+    color: #ff7101;
+}
+.formThankyou{
+    padding: 60px 45px;
+    margin-top: 5% !important;
+    margin: auto;
+    border-radius: 25px;
+    background-color: white;
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+}
+.formThankyou h3, .formThankyou h5, .formThankyou a{
+    padding-top: 25px;
+}
+.formRegister{
+    padding: 20px;
+    margin-top: 5%;
+    border-radius: 25px;
+    background-color: white;
+    width: 100%;
+    max-width: 350px;
+}
+[class*=form-]{
+    transition: all .3s;
+}
+.showForm{
+    opacity: 1;
+    height: auto;
+}
+.hideForm{
+    opacity: 0;
+    height: 0px;
+    position: absolute;
+}
+.row{
+    overflow: hidden;
+}
+textarea, input[type="date"]{
+    border: 1px solid lightgray !important;
+}
+
+#matchingpass{
+    text-align: left !important;
+    padding-top: 20px;
+}
+input[type="date"]:before {
+    content: attr(placeholder) !important;
+    color: #ff7101;
+    margin-right: 0.5em;
+}
+input[type="date"]:focus:before,
+input[type="date"]:valid:before {
+    content: "";
+}
+.form-3 h6 {
+    color: white;
+    background-color: rgba(	255,113,1,0.8);
+    padding: 10px;
+}
+.rowRegister{
+    border-radius: 25px;
+}
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9{
+    display: inline-block;
+}
+.switchEr{
+    text-align: right;
+}
+.switchEr .switchErBtn{
+    padding: 10px 15px;
+    color: #ff7101 !important;
+    transition: all .3s;
+    border-radius: 10px;
+    font-size: 14px;
+}
+.switchEr .switchErActive{
+    background-color: #ff7101;
+    color: white !important;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+@media screen and (max-width: 768px){
+.imageForm{
+height: 500px;
+object-fit: cover;
+}
+    .rowNotifInfluencer{
+        padding: 50px 10px;
+    }
+}
+@media screen and (min-width: 769px){
+    .rowNotifInfluencer{
+        padding: 75px 30px;
+        margin-bottom: 0px !important;
+    }
+}
+.h3influencer{
+    color: white;
+    margin-bottom: 50px;
+}
+.paraInfluencer{
+    color: white;
+}
+.backbtn{
+    color:white;
+    margin-right: 10px;
+    transition: all .3s;
+}
+.backbtn:hover{
+    text-decoration: none !important;
+    color: #ff7101;
+    border: none;
+}

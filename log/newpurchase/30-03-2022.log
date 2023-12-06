@@ -1,0 +1,297 @@
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:08:14 2022-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sansan Cendana",
+    "birthDate": "19900625", 
+"birthPlace": "Kisaran",
+"emailAddress": "sansancendana250690@gmail.com",
+"mobilePhone": "081380520813",
+"homePhone": "081380520813",
+"lineAddress1": "jalan Pukat Banting IV No.39 F ",
+"lineAddress2": "Kel. Bantan, Kec.Medan Tembung",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pukat Banting V No.70 F",
+"mailingLineAddress2": "Kel.Bantan, Kec. Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271146506900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Hero",
+				"bidangUsaha": "Perlengkapan Bayi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Sansan Cendana",
+    "birthDate": "19900625", 
+"birthPlace": "Kisaran",
+"emailAddress": "sansancendana250690@gmail.com",
+"mobilePhone": "081380520813",
+"homePhone": "081380520813",
+"lineAddress1": "jalan Pukat Banting IV No.39 F ",
+"lineAddress2": "Kel. Bantan, Kec.Medan Tembung",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pukat Banting V No.70 F",
+"mailingLineAddress2": "Kel.Bantan, Kec. Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271146506900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Hero",
+				"bidangUsaha": "Perlengkapan Bayi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "92011578",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220330110813",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305170310",
+"bankAccountName": "Sansan Cendana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011578"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081380520813",
+"name": "Leina",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19681219",
+"percentage": 100,
+"email": "sansancendana250690@gmail.com"
+}
+]
+}
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:17:46 2022-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sansan Cendana",
+    "birthDate": "19900625", 
+"birthPlace": "Kisaran",
+"emailAddress": "sansancendana250690@gmail.com",
+"mobilePhone": "081380520813",
+"homePhone": "081380520813",
+"lineAddress1": "Jalan Pukat Banting IV No.39F",
+"lineAddress2": "Kel. Bantan, Kec.Medan Tembung",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pukat Banting V No.70 F",
+"mailingLineAddress2": "Kel.Bantan, Kec. Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271146506900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Hero",
+				"bidangUsaha": "Perlengkapan Bayi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Sansan Cendana",
+    "birthDate": "19900625", 
+"birthPlace": "Kisaran",
+"emailAddress": "sansancendana250690@gmail.com",
+"mobilePhone": "081380520813",
+"homePhone": "081380520813",
+"lineAddress1": "Jalan Pukat Banting IV No.39F",
+"lineAddress2": "Kel. Bantan, Kec.Medan Tembung",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pukat Banting V No.70 F",
+"mailingLineAddress2": "Kel.Bantan, Kec. Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271146506900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Hero",
+				"bidangUsaha": "Perlengkapan Bayi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 5,
+"referenceCode": "92011578",
+"productCode": "B.101",
+"parentProductId": 5,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 900000,
+"autoDebet": "Y",
+"purchaseDate": "20220330111746",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305170310",
+"bankAccountName": "Sansan Cendana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011578"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081380520813",
+"name": "Leina",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19681219",
+"percentage": 100,
+"email": "sansancendana250690@gmail.com"
+}
+]
+}
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:22:53 2022-03-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sansan Cendana",
+    "birthDate": "19900625", 
+"birthPlace": "Kisaran",
+"emailAddress": "sansancendana250690@gmail.com",
+"mobilePhone": "081380520813",
+"homePhone": "081380520813",
+"lineAddress1": "Jalan Pukat Banting IV No. 39F",
+"lineAddress2": "Kel. Bantan, Kec. Medan Tembung",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pukat Banting V No.70 F",
+"mailingLineAddress2": "Kel.Bantan, Kec. Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271146506900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Hero",
+				"bidangUsaha": "Perlengkapan Bayi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Sansan Cendana",
+    "birthDate": "19900625", 
+"birthPlace": "Kisaran",
+"emailAddress": "sansancendana250690@gmail.com",
+"mobilePhone": "081380520813",
+"homePhone": "081380520813",
+"lineAddress1": "Jalan Pukat Banting IV No. 39F",
+"lineAddress2": "Kel. Bantan, Kec. Medan Tembung",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pukat Banting V No.70 F",
+"mailingLineAddress2": "Kel.Bantan, Kec. Medan Tembung",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271146506900001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Hero",
+				"bidangUsaha": "Perlengkapan Bayi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 5,
+"referenceCode": "92011578",
+"productCode": "B.101",
+"parentProductId": 5,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 900000,
+"autoDebet": "Y",
+"purchaseDate": "20220330112252",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305170310",
+"bankAccountName": "Sansan Cendana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011578"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081380520813",
+"name": "Leina",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19681219",
+"percentage": 100,
+"email": "sansancendana250690@gmail.com"
+}
+]
+}

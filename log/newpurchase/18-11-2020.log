@@ -1,0 +1,486 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:16:34 2020-11-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YUYUN ARIFAH",
+    "birthDate": "19880214", 
+"birthPlace": "TINJOWAN",
+"emailAddress": "yuyunarifah140288@yahoo.com",
+"mobilePhone": "082277929267",
+"homePhone": "082277929267",
+"lineAddress1": "JL. ANGGREK II NO. 13 ",
+"lineAddress2": "KEL. TAMBUN NABOLON, KEC. SIANTAR MARTOBA",
+"cityAddress": "",
+"postalCode": 21137,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. ANGGREK II NO. 13 ",
+"mailingLineAddress2": "KEL. TAMBUN NABOLON, KEC. SIANTAR MARTOBA",
+"mailingCityAddress": "",
+"mailingpostalCode": 21137,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1218135402880001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "HANWHA LIFE ",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "YUYUN ARIFAH",
+    "birthDate": "19880214", 
+"birthPlace": "TINJOWAN",
+"emailAddress": "yuyunarifah140288@yahoo.com",
+"mobilePhone": "082277929267",
+"homePhone": "082277929267",
+"lineAddress1": "JL. ANGGREK II NO. 13 ",
+"lineAddress2": "KEL. TAMBUN NABOLON, KEC. SIANTAR MARTOBA",
+"cityAddress": "",
+"postalCode": 21137,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. ANGGREK II NO. 13 ",
+"mailingLineAddress2": "KEL. TAMBUN NABOLON, KEC. SIANTAR MARTOBA",
+"mailingCityAddress": "",
+"mailingpostalCode": 21137,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1218135402880001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "HANWHA LIFE ",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201118101633",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6125094795",
+"bankAccountName": "YUYUN ARIFAH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082277929267",
+"name": "VIOLYNE AUGUST SIMSON",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20030830",
+"percentage": 50,
+"email": "yuyunarifah140288@yahoo.com"
+},{
+"seqNo": "2",
+"mobileNo": "082277929267",
+"name": "ERIC GAUTAMA SIMSON",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20060129",
+"percentage": 50,
+"email": "yuyunarifah140288@yahoo.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:15:44 2020-11-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "LINDA",
+    "birthDate": "19821112", 
+"birthPlace": "MEDAN",
+"emailAddress": "lindahong876@gmail.com",
+"mobilePhone": "085277730989",
+"homePhone": "085277730989",
+"lineAddress1": "JL. S. PARMAN GG. PASIR NO 7 ",
+"lineAddress2": "KEL. PETISAH HULU, KEC. MEDAN BARU",
+"cityAddress": "",
+"postalCode": 20153,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. S. PARMAN GG. PASIR NO 7 ",
+"mailingLineAddress2": "KEL. PETISAH HULU, KEC. MEDAN BARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 20153,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271015211820001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN",
+"namaLembaga": "HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "LINDA",
+    "birthDate": "19821112", 
+"birthPlace": "MEDAN",
+"emailAddress": "lindahong876@gmail.com",
+"mobilePhone": "085277730989",
+"homePhone": "085277730989",
+"lineAddress1": "JL. S. PARMAN GG. PASIR NO 7 ",
+"lineAddress2": "KEL. PETISAH HULU, KEC. MEDAN BARU",
+"cityAddress": "",
+"postalCode": 20153,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. S. PARMAN GG. PASIR NO 7 ",
+"mailingLineAddress2": "KEL. PETISAH HULU, KEC. MEDAN BARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 20153,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271015211820001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN",
+"namaLembaga": "HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201118111544",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305277742",
+"bankAccountName": "LINDA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085277730989",
+"name": "JUNAIDI LUBIS",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19840418",
+"percentage": 100,
+"email": "lindahong876@gmail.com"
+}
+]
+}
+180.244.232.145 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:15:14 2020-11-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201118171513",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305277742",
+"bankAccountName": "Linda",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}
+180.244.232.145 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:31:07 2020-11-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201118173107",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305277742",
+"bankAccountName": "Linda",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}
+180.244.232.145 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:34:38 2020-11-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "linda",
+    "birthDate": "19751103", 
+"birthPlace": "Jakarta",
+"emailAddress": "lindahong876@gmail.com",
+"mobilePhone": "085277730989",
+"homePhone": "085277730989",
+"lineAddress1": "Jalan Fajar VII No 32",
+"lineAddress2": "SawahBesar",
+"cityAddress": "Jakarta",
+"postalCode": 10710,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Fajar VII No 32",
+"mailingLineAddress2": "SawahBesar",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10710,
+"gender": "F",
+"jobType": "Job9",
+"identityType": 1,
+"identityNumber": "3171024311750001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "linda",
+    "birthDate": "19751103", 
+"birthPlace": "Jakarta",
+"emailAddress": "lindahong876@gmail.com",
+"mobilePhone": "085277730989",
+"homePhone": "085277730989",
+"lineAddress1": "Jalan Fajar VII No 32",
+"lineAddress2": "SawahBesar",
+"cityAddress": "Jakarta",
+"postalCode": 10710,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Fajar VII No 32",
+"mailingLineAddress2": "SawahBesar",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10710,
+"gender": "F",
+"jobType": "Job9",
+"identityType": 1,
+"identityNumber": "3171024311750001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201118173438",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305277742",
+"bankAccountName": "Linda",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085277730989",
+"name": "Junaidi Lubis",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19840418",
+"percentage": 100,
+"email": "lindahong876@gmail.com"
+}
+]
+}

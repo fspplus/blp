@@ -1,0 +1,99 @@
+182.0.232.106 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 02:49:14 2020-12-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Q1",
+    "birthDate": "20201218", 
+"birthPlace": "Jakarta",
+"emailAddress": "1ssd@yahoo.com",
+"mobilePhone": "11111",
+"homePhone": "1",
+"lineAddress1": "1",
+"lineAddress2": "1",
+"cityAddress": "",
+"postalCode": 1,
+"sameMailing": "0",
+"mailingLineAddress1": "1",
+"mailingLineAddress2": "1",
+"mailingCityAddress": "",
+"mailingpostalCode": 1,
+"gender": "",
+"jobType": "Job16",
+"identityType": 1,
+"identityNumber": "11",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "Q1",
+    "birthDate": "20201218", 
+"birthPlace": "Jakarta",
+"emailAddress": "1ssd@yahoo.com",
+"mobilePhone": "11111",
+"homePhone": "1",
+"lineAddress1": "1",
+"lineAddress2": "1",
+"cityAddress": "",
+"postalCode": 1,
+"sameMailing": "0",
+"mailingLineAddress1": "1",
+"mailingLineAddress2": "1",
+"mailingCityAddress": "",
+"mailingpostalCode": 1,
+"gender": "",
+"jobType": "Job16",
+"identityType": 1,
+"identityNumber": "11",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20201210024913",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "11",
+"bankAccountName": "Dd",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "1",
+"name": "1",
+"famrel": ,
+"gender": "M",
+"birthDate": "19700101",
+"percentage": 100,
+"email": "1@yahoo.com"
+}
+]
+}

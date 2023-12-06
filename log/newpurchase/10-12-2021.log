@@ -1,0 +1,198 @@
+101.128.118.63 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:24:59 2021-12-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hendrik",
+    "birthDate": "19881221", 
+"birthPlace": "Medan",
+"emailAddress": "hendriklp@yahoo.com",
+"mobilePhone": "085372961672",
+"homePhone": "085372961672",
+"lineAddress1": "Jl Prof HM Yamin SH No. 193",
+"lineAddress2": "Sei Kerah Hilir II, Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Prof HM Yamin SH No. 193",
+"mailingLineAddress2": "Sei Kerah Hilir II, Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271182112880002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank Danamon",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Hendrik",
+    "birthDate": "19881221", 
+"birthPlace": "Medan",
+"emailAddress": "hendriklp@yahoo.com",
+"mobilePhone": "085372961672",
+"homePhone": "085372961672",
+"lineAddress1": "Jl Prof HM Yamin SH No. 193",
+"lineAddress2": "Sei Kerah Hilir II, Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20233,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Prof HM Yamin SH No. 193",
+"mailingLineAddress2": "Sei Kerah Hilir II, Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20233,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271182112880002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank Danamon",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20211210142458",
+"bankCode": "011",
+"ropBankCode": "011",
+"bankAccount": "003555393325",
+"bankAccountName": "Hendrik",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085372961672",
+"name": "Devonne leewandowski",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20181107",
+"percentage": 100,
+"email": "hendriklp@yahoo.com"
+}
+]
+}
+118.137.205.4 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 21:01:57 2021-12-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ni Made Sari Anggraini",
+    "birthDate": "19971204", 
+"birthPlace": "Bekasi",
+"emailAddress": "madesarianggraini@gmail.com",
+"mobilePhone": "081246267901",
+"homePhone": "02188868665",
+"lineAddress1": "Br. Dinas Pidpid Kaler Dauh Margi",
+"lineAddress2": "Pidpid, Abang",
+"cityAddress": "",
+"postalCode": 80852,
+"sameMailing": "0",
+"mailingLineAddress1": "Puri Bintara Regency Blok K-21, Jalan Bintara Raya",
+"mailingLineAddress2": "Bintara, Bekasi Barat",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5107054412970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Sumitomo Indonesia",
+				"bidangUsaha": "Retail/Trading "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Ni Made Sari Anggraini",
+    "birthDate": "19971204", 
+"birthPlace": "Bekasi",
+"emailAddress": "madesarianggraini@gmail.com",
+"mobilePhone": "081246267901",
+"homePhone": "02188868665",
+"lineAddress1": "Br. Dinas Pidpid Kaler Dauh Margi",
+"lineAddress2": "Pidpid, Abang",
+"cityAddress": "",
+"postalCode": 80852,
+"sameMailing": "0",
+"mailingLineAddress1": "Puri Bintara Regency Blok K-21, Jalan Bintara Raya",
+"mailingLineAddress2": "Bintara, Bekasi Barat",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5107054412970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Sumitomo Indonesia",
+				"bidangUsaha": "Retail/Trading "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "00000400",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20211210210155",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6955093031",
+"bankAccountName": "Ni Made Sari Anggraini",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08128156801",
+"name": "Diana Devi",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19680511",
+"percentage": 100,
+"email": "dianadevi2018@gmail.com"
+}
+]
+}

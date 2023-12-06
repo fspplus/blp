@@ -1,0 +1,297 @@
+114.122.5.220 https://www.bucketlistplan.co.id/prepurchase?view=finish 10:54:43 2020-06-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hellen eko",
+    "birthDate": "19870112", 
+"birthPlace": "Medan",
+"emailAddress": "helleneko@yahoo.com",
+"mobilePhone": "0819863032",
+"homePhone": "06180083290",
+"lineAddress1": "Jl.Gabus No:9DD /17A",
+"lineAddress2": "Jl.Timor Baru 1 No:120",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gabus No:9DD /17A",
+"mailingLineAddress2": "Jl.Timor Baru 1 No:120",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271205201870001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Maxin",
+				"bidangUsaha": "Cat "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hellen eko",
+    "birthDate": "19870112", 
+"birthPlace": "Medan",
+"emailAddress": "helleneko@yahoo.com",
+"mobilePhone": "0819863032",
+"homePhone": "06180083290",
+"lineAddress1": "Jl.Gabus No:9DD /17A",
+"lineAddress2": "Jl.Timor Baru 1 No:120",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gabus No:9DD /17A",
+"mailingLineAddress2": "Jl.Timor Baru 1 No:120",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271205201870001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Maxin",
+				"bidangUsaha": "Cat "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200626105442",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "004132415450",
+"bankAccountName": "Hellen Eko",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0819863032",
+"name": "Kenzo Modric Salim",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20120629",
+"percentage": 100,
+"email": "helleneko@yahoo.com"
+}
+]
+}
+114.122.5.220 https://www.bucketlistplan.co.id/prepurchase?view=finish 12:05:41 2020-06-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hellen eko",
+    "birthDate": "19870112", 
+"birthPlace": "Medan",
+"emailAddress": "cemerlangmaxinecahaya20@gmail.com",
+"mobilePhone": "0819863032",
+"homePhone": "06180083290",
+"lineAddress1": "Jl.Gabus No:9DD /17A",
+"lineAddress2": "Jl.Timor Baru 1 No:120",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gabus No:9DD /17A",
+"mailingLineAddress2": "Jl.Timor Baru 1 No:120",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271205201870001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Maxin",
+				"bidangUsaha": "Cat "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hellen eko",
+    "birthDate": "19870112", 
+"birthPlace": "Medan",
+"emailAddress": "cemerlangmaxinecahaya20@gmail.com",
+"mobilePhone": "0819863032",
+"homePhone": "06180083290",
+"lineAddress1": "Jl.Gabus No:9DD /17A",
+"lineAddress2": "Jl.Timor Baru 1 No:120",
+"cityAddress": "Medan",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gabus No:9DD /17A",
+"mailingLineAddress2": "Jl.Timor Baru 1 No:120",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271205201870001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Maxin",
+				"bidangUsaha": "Cat "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200626120541",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "004132415450",
+"bankAccountName": "Hellen Eko",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0819863032",
+"name": "Kenzo Modric Salim",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20120629",
+"percentage": 100,
+"email": "helleneko@yahoo.com"
+}
+]
+}
+192.168.111.105 https://www.koreaversikamu.co.id/prepurchase?view=finish 15:08:02 2020-06-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Liana Carolina",
+    "birthDate": "19740602", 
+"birthPlace": "Jakarta",
+"emailAddress": "liana.carolina0808@gmail.com",
+"mobilePhone": "087775136717",
+"homePhone": "087775136717",
+"lineAddress1": "jl.sawo  kecik I no.27 rt.001 rw.007 ",
+"lineAddress2": "bukit duri, tebet, ",
+"cityAddress": "",
+"postalCode": 12480,
+"sameMailing": "0",
+"mailingLineAddress1": "jl. pajajaran no.84 baranangsiang , ",
+"mailingLineAddress2": "bogor timur 16143",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16143,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014206740002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "hanwha life",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Liana Carolina",
+    "birthDate": "19740602", 
+"birthPlace": "Jakarta",
+"emailAddress": "liana.carolina0808@gmail.com",
+"mobilePhone": "087775136717",
+"homePhone": "087775136717",
+"lineAddress1": "jl.sawo  kecik I no.27 rt.001 rw.007 ",
+"lineAddress2": "bukit duri, tebet, ",
+"cityAddress": "",
+"postalCode": 12480,
+"sameMailing": "0",
+"mailingLineAddress1": "jl. pajajaran no.84 baranangsiang , ",
+"mailingLineAddress2": "bogor timur 16143",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16143,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014206740002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "hanwha life",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200626150801",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "9000023290232",
+"bankAccountName": "liana carolina",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087775136717",
+"name": "Zefanya Maureen Nathania",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20050413",
+"percentage": 100,
+"email": "liana.carolina0808@gmail.com"
+}
+]
+}

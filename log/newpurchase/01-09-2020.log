@@ -1,0 +1,576 @@
+111.94.236.69 https://www.bucketlistplan.co.id/prepurchase?view=finish 16:28:08 2020-09-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "angelia",
+    "birthDate": "19951202", 
+"birthPlace": "Tangerang selatan",
+"emailAddress": "angelia.tjan@gmail.com",
+"mobilePhone": "087780385386",
+"homePhone": "087780385386",
+"lineAddress1": "Kp. Ciletuh ",
+"lineAddress2": "Kec. Caringin Kel. Ciderum Kab. Bogor RT 002/002",
+"cityAddress": "",
+"postalCode": 16730,
+"sameMailing": "0",
+"mailingLineAddress1": "Scientia residence tower C, Jl. Scientia Square Barat, Curug Sangereng, Kec. Klp. Dua, Tangerang, Banten ",
+"mailingLineAddress2": "lantai 11 nomor 26",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201274212950006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "project manager",
+"namaLembaga": "PT Dreambox",
+				"bidangUsaha": "agency "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "angelia",
+    "birthDate": "19951202", 
+"birthPlace": "Tangerang selatan",
+"emailAddress": "angelia.tjan@gmail.com",
+"mobilePhone": "087780385386",
+"homePhone": "087780385386",
+"lineAddress1": "Kp. Ciletuh ",
+"lineAddress2": "Kec. Caringin Kel. Ciderum Kab. Bogor RT 002/002",
+"cityAddress": "",
+"postalCode": 16730,
+"sameMailing": "0",
+"mailingLineAddress1": "Scientia residence tower C, Jl. Scientia Square Barat, Curug Sangereng, Kec. Klp. Dua, Tangerang, Banten ",
+"mailingLineAddress2": "lantai 11 nomor 26",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15334,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201274212950006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "project manager",
+"namaLembaga": "PT Dreambox",
+				"bidangUsaha": "agency "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "kopi chuse",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200901162807",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8830875400",
+"bankAccountName": "CV Dreambox Denalo International",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081387999688",
+"name": "Yosua Gunawan Tjandra",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19910331",
+"percentage": 100,
+"email": "yosua.tjan1202@gmail.com"
+}
+]
+}
+125.161.131.108 https://www.bucketlistplan.co.id/prepurchase?view=finish 16:58:57 2020-09-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Veronika",
+    "birthDate": "19950430", 
+"birthPlace": "Jakarta",
+"emailAddress": "vero@dreambox.id",
+"mobilePhone": "085281382757",
+"homePhone": "0215381441",
+"lineAddress1": "Teluk Gong Jl. C no. 122",
+"lineAddress2": "Pejagalan, Penjaringan",
+"cityAddress": "",
+"postalCode": 14450,
+"sameMailing": "0",
+"mailingLineAddress1": "Ruko BSD sektor IV blok RD 66",
+"mailingLineAddress2": "Serpong Utara",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15322,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175097004951001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Dreambox Denalo International",
+				"bidangUsaha": "Jasa Konsultan Branding "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Veronika",
+    "birthDate": "19950430", 
+"birthPlace": "Jakarta",
+"emailAddress": "vero@dreambox.id",
+"mobilePhone": "085281382757",
+"homePhone": "0215381441",
+"lineAddress1": "Teluk Gong Jl. C no. 122",
+"lineAddress2": "Pejagalan, Penjaringan",
+"cityAddress": "",
+"postalCode": 14450,
+"sameMailing": "0",
+"mailingLineAddress1": "Ruko BSD sektor IV blok RD 66",
+"mailingLineAddress2": "Serpong Utara",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15322,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3175097004951001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Dreambox Denalo International",
+				"bidangUsaha": "Jasa Konsultan Branding "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200901165856",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8830875400",
+"bankAccountName": "CV Dreambox Denalo International",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "kopi chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895327773015",
+"name": "Darsih",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19680813",
+"percentage": 100,
+"email": "veronika.iv13@gmail.com"
+}
+]
+}
+125.161.129.193 https://www.bucketlistplan.co.id/prepurchase?view=finish 18:11:19 2020-09-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "andreas kevin adam",
+    "birthDate": "19940116", 
+"birthPlace": "Bandung",
+"emailAddress": "andreaskevinadam@gmail.com",
+"mobilePhone": "089620445901",
+"homePhone": "0813-9889-371",
+"lineAddress1": "Jl. Kartika 5 no 06 Meruya Utara, Kembangan RT 003/RW004",
+"lineAddress2": "DKI JAKARTA JAKARTA BARAT",
+"cityAddress": "",
+"postalCode": 11510,
+"sameMailing": "0",
+"mailingLineAddress1": "Summarecon Scientia Square ParkRuko Garden View, GV-03ATF 2nd floorJalan Scientia Boulevard Gading SerpongTangerang, Banten 15810",
+"mailingLineAddress2": "Jl. Kartika 5 no 06 Meruya Utara, Kembangan RT 003/RW004, DKI JAKARTA JAKARTA BARAT",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173081601950007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Dreambox Denalo International",
+				"bidangUsaha": "Jasa Konsultan Branding "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "andreas kevin adam",
+    "birthDate": "19940116", 
+"birthPlace": "Bandung",
+"emailAddress": "andreaskevinadam@gmail.com",
+"mobilePhone": "089620445901",
+"homePhone": "0813-9889-371",
+"lineAddress1": "Jl. Kartika 5 no 06 Meruya Utara, Kembangan RT 003/RW004",
+"lineAddress2": "DKI JAKARTA JAKARTA BARAT",
+"cityAddress": "",
+"postalCode": 11510,
+"sameMailing": "0",
+"mailingLineAddress1": "Summarecon Scientia Square ParkRuko Garden View, GV-03ATF 2nd floorJalan Scientia Boulevard Gading SerpongTangerang, Banten 15810",
+"mailingLineAddress2": "Jl. Kartika 5 no 06 Meruya Utara, Kembangan RT 003/RW004, DKI JAKARTA JAKARTA BARAT",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173081601950007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Dreambox Denalo International",
+				"bidangUsaha": "Jasa Konsultan Branding "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200901181119",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": " 8830 875 400",
+"bankAccountName": "CV Dreambox Denalo International",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "kopi chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087771035664",
+"name": "RUTH CARROLINE ADAM",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19960914",
+"percentage": 100,
+"email": "ruthcarroline@yahoo.co.id"
+}
+]
+}
+36.77.244.30 https://www.bucketlistplan.co.id/prepurchase?view=finish 18:13:45 2020-09-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fahmi Adi Ekalaksono",
+    "birthDate": "19970529", 
+"birthPlace": "Serang",
+"emailAddress": "fahmiadi3@gmail.com",
+"mobilePhone": "081905554010",
+"homePhone": "081398893710",
+"lineAddress1": "Taman Graha Asri D3 No 3",
+"lineAddress2": "Ciracas, Serang Banten",
+"cityAddress": "",
+"postalCode": 42116,
+"sameMailing": "0",
+"mailingLineAddress1": "Summarecon Scientia Square Park Ruko Garden View, GV-03ATF 2nd floor",
+"mailingLineAddress2": "Jalan Scientia Boulevard Gading Serpong Tangerang, Banten 15810",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3604012905970508",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Dreambox Denalo International",
+				"bidangUsaha": "Jasa Konsultan Branding "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Fahmi Adi Ekalaksono",
+    "birthDate": "19970529", 
+"birthPlace": "Serang",
+"emailAddress": "fahmiadi3@gmail.com",
+"mobilePhone": "081905554010",
+"homePhone": "081398893710",
+"lineAddress1": "Taman Graha Asri D3 No 3",
+"lineAddress2": "Ciracas, Serang Banten",
+"cityAddress": "",
+"postalCode": 42116,
+"sameMailing": "0",
+"mailingLineAddress1": "Summarecon Scientia Square Park Ruko Garden View, GV-03ATF 2nd floor",
+"mailingLineAddress2": "Jalan Scientia Boulevard Gading Serpong Tangerang, Banten 15810",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3604012905970508",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Dreambox Denalo International",
+				"bidangUsaha": "Jasa Konsultan Branding "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200901181344",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6040332314",
+"bankAccountName": "Fahmi Adi Ekalaksono",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "kopi chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087871668473",
+"name": "Fahira Dwi Septia",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20010926",
+"percentage": 100,
+"email": "fahiradwi26@gmail.com"
+}
+]
+}
+180.241.47.178 https://www.bucketlistplan.co.id/prepurchase?view=finish 18:16:28 2020-09-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Venisa Lee",
+    "birthDate": "19961022", 
+"birthPlace": "",
+"emailAddress": "eritanaka3@gmail.com",
+"mobilePhone": "0821686888070",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "0",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "F",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "1272026210960001",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "Venisa Lee",
+    "birthDate": "19961022", 
+"birthPlace": "",
+"emailAddress": "eritanaka3@gmail.com",
+"mobilePhone": "0821686888070",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "0",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "F",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "1272026210960001",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200901181627",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8830875400",
+"bankAccountName": "Dreambox Denalo International",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "kopichuseyo"
+}
+},
+"beneficiary": [
+]
+}
+180.241.47.178 https://www.bucketlistplan.co.id/prepurchase?view=finish 18:24:19 2020-09-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Venisa Lee",
+    "birthDate": "19961022", 
+"birthPlace": "",
+"emailAddress": "eritanaka3@gmail.com",
+"mobilePhone": "0821686888070",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "0",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "F",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "1272026210960001",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "Venisa Lee",
+    "birthDate": "19961022", 
+"birthPlace": "",
+"emailAddress": "eritanaka3@gmail.com",
+"mobilePhone": "0821686888070",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "0",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "F",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "1272026210960001",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200901182418",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8830875400",
+"bankAccountName": "Dreambox Denalo International",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "kopichuseyo"
+}
+},
+"beneficiary": [
+]
+}

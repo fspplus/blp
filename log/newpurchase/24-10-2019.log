@@ -1,0 +1,330 @@
+10.1.1.33 https://koreaversikamu.co.id/prepurchase?view=finish 10:29:54 2019-10-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Indah",
+    "birthDate": "19620718", 
+"birthPlace": "Pariaman",
+"emailAddress": "indah@gmail.com",
+"mobilePhone": "08788854426",
+"homePhone": "0217558688",
+"lineAddress1": "Jagakarsa 1",
+"lineAddress2": "Jagakarsa",
+"cityAddress": "Jakarta",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jagakarsa 1",
+"mailingLineAddress2": "Jagakarsa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3457658",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT jaya abadi",
+"bidangUsaha": "Perdagangan"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "KgtRgs12",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191024102953",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5421972849",
+"bankAccountName": "Indah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08755465484",
+"name": "Dina",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19660804",
+"percentage": 100,
+"email": "dina@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/prepurchase?view=finish 13:36:21 2019-10-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Indah",
+    "birthDate": "19620815", 
+"birthPlace": "Pariaman",
+"emailAddress": "indah@gmail.com",
+"mobilePhone": "08134645768",
+"homePhone": "02176484658",
+"lineAddress1": "Jl. Jagakarsa 1",
+"lineAddress2": "Jagakarsa",
+"cityAddress": "Jakarta",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jagakarsa 1",
+"mailingLineAddress2": "Jagakarsa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "34675494664",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Jaya Abadi",
+"bidangUsaha": "Perdagangan"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "kGjsgs62",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191024133620",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5467249724",
+"bankAccountName": "Indah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087854946458",
+"name": "Dina",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19670405",
+"percentage": 100,
+"email": "dina@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/prepurchase?view=finish 14:35:49 2019-10-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Indah",
+    "birthDate": "19620815", 
+"birthPlace": "Pariaman",
+"emailAddress": "indah@gmail.com",
+"mobilePhone": "08134645768",
+"homePhone": "02176484658",
+"lineAddress1": "Jl. Jagakarsa 1",
+"lineAddress2": "Jagakarsa",
+"cityAddress": "Jakarta",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jagakarsa 1",
+"mailingLineAddress2": "Jagakarsa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "34675494664",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Jaya Abadi",
+"bidangUsaha": "Perdagangan"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "kGjsgs62",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191024143548",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5467249724",
+"bankAccountName": "Indah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087854946458",
+"name": "Dina",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19670405",
+"percentage": 100,
+"email": "dina@gmail.com"
+}
+]
+}
+114.124.196.13 https://koreaversikamu.co.id/prepurchase?view=finish 16:42:53 2019-10-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nuraedah ",
+    "birthDate": "19791108", 
+"birthPlace": "Indonesia ",
+"emailAddress": "nunusyafici28@gmail.com",
+"mobilePhone": "081281170323",
+"homePhone": "(02174117411",
+"lineAddress1": "Komplek pdk no. 67",
+"lineAddress2": "Jakarta",
+"cityAddress": "",
+"postalCode": 12420,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek pdk no. 67",
+"mailingLineAddress2": "Jakarta",
+"mailingCityAddress": "",
+"mailingpostalCode": 12420,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174064810790017",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt hanwhalife ",
+"bidangUsaha": "Asuransi "
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91809365 ",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191024164253",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2671414723",
+"bankAccountName": "Nuraedah ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081281170323",
+"name": "Azizah",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20001101",
+"percentage": 100,
+"email": "nunusyafici28@gmail.com"
+}
+]
+}
+114.124.196.13 https://koreaversikamu.co.id/prepurchase?view=finish 16:43:31 2019-10-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nuraedah ",
+    "birthDate": "19791108", 
+"birthPlace": "Indonesia ",
+"emailAddress": "nunusyafici28@gmail.com",
+"mobilePhone": "081281170323",
+"homePhone": "(02174117411",
+"lineAddress1": "Komplek pdk no. 67",
+"lineAddress2": "Jakarta",
+"cityAddress": "",
+"postalCode": 12420,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek pdk no. 67",
+"mailingLineAddress2": "Jakarta",
+"mailingCityAddress": "",
+"mailingpostalCode": 12420,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174064810790017",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt hanwhalife ",
+"bidangUsaha": "Asuransi "
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91809365 ",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191024164331",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2671414723",
+"bankAccountName": "Nuraedah ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081281170323",
+"name": "Azizah",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20001101",
+"percentage": 100,
+"email": "nunusyafici28@gmail.com"
+}
+]
+}

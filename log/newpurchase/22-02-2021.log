@@ -1,0 +1,99 @@
+223.255.230.4 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:25:09 2021-02-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hilda Nugrahini",
+    "birthDate": "19830703", 
+"birthPlace": "Surabaya",
+"emailAddress": "istaha2041@gmail.com",
+"mobilePhone": "081615600324",
+"homePhone": "081615600324",
+"lineAddress1": "tempel sukorejo 1/27 RT001/007",
+"lineAddress2": "wonorejo, tegalsari",
+"cityAddress": "Surabaya",
+"postalCode": 60263,
+"sameMailing": "1",
+"mailingLineAddress1": "tempel sukorejo 1/27 RT001/007",
+"mailingLineAddress2": "wonorejo, tegalsari",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60263,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578054307830004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Delta Anugrah",
+				"bidangUsaha": "marketing "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hilda Nugrahini",
+    "birthDate": "19830703", 
+"birthPlace": "Surabaya",
+"emailAddress": "istaha2041@gmail.com",
+"mobilePhone": "081615600324",
+"homePhone": "081615600324",
+"lineAddress1": "tempel sukorejo 1/27 RT001/007",
+"lineAddress2": "wonorejo, tegalsari",
+"cityAddress": "Surabaya",
+"postalCode": 60263,
+"sameMailing": "1",
+"mailingLineAddress1": "tempel sukorejo 1/27 RT001/007",
+"mailingLineAddress2": "wonorejo, tegalsari",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60263,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578054307830004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Delta Anugrah",
+				"bidangUsaha": "marketing "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011518",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210222132505",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "550717254",
+"bankAccountName": "Hilda Nugrahini",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081615600324",
+"name": "Muhammadan Baqladhev sufi",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20110723",
+"percentage": 100,
+"email": "istaha2041@gmail.com"
+}
+]
+}

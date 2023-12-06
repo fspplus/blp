@@ -1,0 +1,102 @@
+45.126.185.238 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:31:49 2023-10-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DARWIN",
+    "birthDate": "19860814", 
+"birthPlace": "Medan",
+"emailAddress": "darwintan86@gmail.com",
+"mobilePhone": "082167768833",
+"homePhone": "082167768833",
+"lineAddress1": "JL NIBUNG II NO 108 ",
+"lineAddress2": "KEL PETISAH TENGAH KEC.MEDAN PETISAH",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "JL NIBUNG II NO 108 ",
+"mailingLineAddress2": "KEL PETISAH TENGAH KEC.MEDAN PETISAH",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271191408860001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ROBINCOM",
+				"bidangUsaha": "TOKO ELEKTRONIK "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "DARWIN",
+    "birthDate": "19860814", 
+"birthPlace": "Medan",
+"emailAddress": "darwintan86@gmail.com",
+"mobilePhone": "082167768833",
+"homePhone": "082167768833",
+"lineAddress1": "JL NIBUNG II NO 108 ",
+"lineAddress2": "KEL PETISAH TENGAH KEC.MEDAN PETISAH",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "JL NIBUNG II NO 108 ",
+"mailingLineAddress2": "KEL PETISAH TENGAH KEC.MEDAN PETISAH",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271191408860001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ROBINCOM",
+				"bidangUsaha": "TOKO ELEKTRONIK "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231012143148",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3490654738",
+"bankAccountName": "DARWIN",
+"ewalletNo": "082167768833",
+"ewalletType": "OVO",
+"ewalletName": "DARWIN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082167768833",
+"name": "NG TJUI JEN",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19590714",
+"percentage": 100,
+"email": "darwintan86@gmail.com"
+}
+]
+}

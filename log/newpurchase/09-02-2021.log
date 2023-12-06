@@ -1,0 +1,99 @@
+140.213.13.30 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 15:15:35 2021-02-09
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Moch Daniel Ogajogatha",
+    "birthDate": "19980528", 
+"birthPlace": "Surabaya",
+"emailAddress": "danielogajh28@gmail.com",
+"mobilePhone": "082231323416",
+"homePhone": "082231323416",
+"lineAddress1": "kejawan gebang 12 RT 001/004",
+"lineAddress2": "gebang putih, sukolilo",
+"cityAddress": "Surabaya",
+"postalCode": 60117,
+"sameMailing": "1",
+"mailingLineAddress1": "kejawan gebang 12 RT 001/004",
+"mailingLineAddress2": "gebang putih, sukolilo",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60117,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578092805980001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Permata Indonesia",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Moch Daniel Ogajogatha",
+    "birthDate": "19980528", 
+"birthPlace": "Surabaya",
+"emailAddress": "danielogajh28@gmail.com",
+"mobilePhone": "082231323416",
+"homePhone": "082231323416",
+"lineAddress1": "kejawan gebang 12 RT 001/004",
+"lineAddress2": "gebang putih, sukolilo",
+"cityAddress": "Surabaya",
+"postalCode": 60117,
+"sameMailing": "1",
+"mailingLineAddress1": "kejawan gebang 12 RT 001/004",
+"mailingLineAddress2": "gebang putih, sukolilo",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60117,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578092805980001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Permata Indonesia",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011518",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210209151534",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "08880632345",
+"bankAccountName": "Moch Daniel Ogajogatha",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082333883330",
+"name": "Nuridah",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19770805",
+"percentage": 100,
+"email": "danielogajh28@gmail.com"
+}
+]
+}

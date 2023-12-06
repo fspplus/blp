@@ -1,0 +1,198 @@
+192.168.111.247 https://www.koreaversikamu.co.id/prepurchase?view=finish 13:48:12 2020-05-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "GERALDY BAMBANG SETIAWAN",
+    "birthDate": "19950702", 
+"birthPlace": "Bogor",
+"emailAddress": "likemike12345677@gmail.com",
+"mobilePhone": "082237993037",
+"homePhone": "082237993037",
+"lineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"lineAddress2": "BOGOR",
+"cityAddress": "Bogor",
+"postalCode": 16144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"mailingLineAddress2": "BOGOR",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16144,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3271050207950017",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "PT HANWHA LIFE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "GERALDY BAMBANG SETIAWAN",
+    "birthDate": "19950702", 
+"birthPlace": "Bogor",
+"emailAddress": "likemike12345677@gmail.com",
+"mobilePhone": "082237993037",
+"homePhone": "082237993037",
+"lineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"lineAddress2": "BOGOR",
+"cityAddress": "Bogor",
+"postalCode": 16144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"mailingLineAddress2": "BOGOR",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16144,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3271050207950017",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "PT HANWHA LIFE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 3,
+"referenceCode": "91909619",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20200520134812",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0953753330",
+"bankAccountName": "GERALDY BAMBANG SETIAWAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082237993037",
+"name": "ALVIN SETIAWAN BAMBANG",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20010124",
+"percentage": 100,
+"email": "likemike12345677@gmail.com"
+}
+]
+}
+192.168.111.247 https://www.koreaversikamu.co.id/prepurchase?view=finish 15:10:15 2020-05-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "GERALDY BAMBANG SETIAWAN",
+    "birthDate": "19950702", 
+"birthPlace": "Bogor",
+"emailAddress": "likemike12345677@gmail.com",
+"mobilePhone": "082237993037",
+"homePhone": "082237993037",
+"lineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"lineAddress2": "BOGOR",
+"cityAddress": "Bogor",
+"postalCode": 16144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"mailingLineAddress2": "BOGOR",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16144,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3271050207950017",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "PT HANWHA LIFE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "GERALDY BAMBANG SETIAWAN",
+    "birthDate": "19950702", 
+"birthPlace": "Bogor",
+"emailAddress": "likemike12345677@gmail.com",
+"mobilePhone": "082237993037",
+"homePhone": "082237993037",
+"lineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"lineAddress2": "BOGOR",
+"cityAddress": "Bogor",
+"postalCode": 16144,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. PANGKALAN RAYA RT.002 RW.002 KEL.CIBULUH, KEC. KOTA BOGOR UTARA",
+"mailingLineAddress2": "BOGOR",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16144,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3271050207950017",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "PT HANWHA LIFE INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 3,
+"referenceCode": "91909619",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20200520151014",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0953753330",
+"bankAccountName": "GERALDY BAMBANG SETIAWAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082237993037",
+"name": "ALVIN SETIAWAN BAMBANG",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20010124",
+"percentage": 100,
+"email": "likemike12345677@gmail.com"
+}
+]
+}

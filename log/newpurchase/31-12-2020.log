@@ -1,0 +1,198 @@
+158.140.187.214 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:17:11 2020-12-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Benyamin Alvin Triantoputro",
+    "birthDate": "19980504", 
+"birthPlace": "Semarang",
+"emailAddress": "begodzila@gmail.com",
+"mobilePhone": "08974910012",
+"homePhone": "08974910012",
+"lineAddress1": "Jl. Anggrek X No.21",
+"lineAddress2": "RT.007 RW.005 Kel Pekunden",
+"cityAddress": "",
+"postalCode": 50134,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Candi Penataran Timur  No.140",
+"mailingLineAddress2": "RT.06 RW.04 Kel Kalipancur",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50183,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374010405980001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Jualan makan kesehatan",
+"namaLembaga": "PT. H & E Dermatch Indonesia",
+				"bidangUsaha": "Healthy Food "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Benyamin Alvin Triantoputro",
+    "birthDate": "19980504", 
+"birthPlace": "Semarang",
+"emailAddress": "begodzila@gmail.com",
+"mobilePhone": "08974910012",
+"homePhone": "08974910012",
+"lineAddress1": "Jl. Anggrek X No.21",
+"lineAddress2": "RT.007 RW.005 Kel Pekunden",
+"cityAddress": "",
+"postalCode": 50134,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Candi Penataran Timur  No.140",
+"mailingLineAddress2": "RT.06 RW.04 Kel Kalipancur",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50183,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374010405980001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Jualan makan kesehatan",
+"namaLembaga": "PT. H & E Dermatch Indonesia",
+				"bidangUsaha": "Healthy Food "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201231131710",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8985050399",
+"bankAccountName": "Benyamin Alvin Triantoputro",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082328087500",
+"name": "Yuliani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19621030",
+"percentage": 100,
+"email": "begodzila@gmail.com"
+}
+]
+}
+114.5.109.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:10:19 2020-12-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Thomas Hubaya",
+    "birthDate": "19770313", 
+"birthPlace": "Semarang",
+"emailAddress": "thomas_hubaya@yahoo.co.id",
+"mobilePhone": "087731310131",
+"homePhone": "08156513131",
+"lineAddress1": "Jl.Pandanaran I / 28",
+"lineAddress2": "RT.001 RW.004 Kel Pekunden",
+"cityAddress": "",
+"postalCode": 50134,
+"sameMailing": "0",
+"mailingLineAddress1": "Seteran Selatan III No.9",
+"mailingLineAddress2": "Kelurahan Miroto",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50134,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374011303770002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Marketing Property",
+"namaLembaga": "Era Atlas Property",
+				"bidangUsaha": "Property "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Thomas Hubaya",
+    "birthDate": "19770313", 
+"birthPlace": "Semarang",
+"emailAddress": "thomas_hubaya@yahoo.co.id",
+"mobilePhone": "087731310131",
+"homePhone": "08156513131",
+"lineAddress1": "Jl.Pandanaran I / 28",
+"lineAddress2": "RT.001 RW.004 Kel Pekunden",
+"cityAddress": "",
+"postalCode": 50134,
+"sameMailing": "0",
+"mailingLineAddress1": "Seteran Selatan III No.9",
+"mailingLineAddress2": "Kelurahan Miroto",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50134,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374011303770002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Marketing Property",
+"namaLembaga": "Era Atlas Property",
+				"bidangUsaha": "Property "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201231171018",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1820289966",
+"bankAccountName": "Thomas Hubaya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085100199288",
+"name": "Veronica Indra Dewi",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19780617",
+"percentage": 100,
+"email": "thomas_hubaya@yahoo.co.id"
+}
+]
+}

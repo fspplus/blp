@@ -1,0 +1,702 @@
+182.1.8.20 https://koreaversikamu.co.id/prepurchase?view=finish 10:09:58 2020-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hendri",
+    "birthDate": "19860630", 
+"birthPlace": "Medan",
+"emailAddress": "kokhen86@gmail.com",
+"mobilePhone": "081361712818",
+"homePhone": "081361712818",
+"lineAddress1": "Jl.Pukat 6 Lingk ix No:11",
+"lineAddress2": "Jl.Pukat 6 Lingk ix No:11",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271113006860007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko asia textile",
+				"bidangUsaha": "Kain "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hendri",
+    "birthDate": "19860630", 
+"birthPlace": "Medan",
+"emailAddress": "kokhen86@gmail.com",
+"mobilePhone": "081361712818",
+"homePhone": "081361712818",
+"lineAddress1": "Jl.Pukat 6 Lingk ix No:11",
+"lineAddress2": "Jl.Pukat 6 Lingk ix No:11",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271113006860007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko asia textile",
+				"bidangUsaha": "Kain "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20201023100955",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2566699777",
+"bankAccountName": "Hendri",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361712818",
+"name": "Jade caithleen thesia",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20130314",
+"percentage": 100,
+"email": "kokhen86@gmail.com"
+}
+]
+}
+180.244.234.237 https://uat.koreaversikamu.co.id/purchase/prepurchase?view=finish 10:33:05 2020-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Princess",
+    "birthDate": "19901018", 
+"birthPlace": "Jakarta",
+"emailAddress": "princesscantik705@gmail.com",
+"mobilePhone": "08593434260",
+"homePhone": "0932492093200",
+"lineAddress1": "jalan",
+"lineAddress2": "rya",
+"cityAddress": "Jakarta",
+"postalCode": 31223,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "rya",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 31223,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "9203984109999999",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Ca",
+"namaLembaga": "ntik",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Princess",
+    "birthDate": "19901018", 
+"birthPlace": "Jakarta",
+"emailAddress": "princesscantik705@gmail.com",
+"mobilePhone": "08593434260",
+"homePhone": "0932492093200",
+"lineAddress1": "jalan",
+"lineAddress2": "rya",
+"cityAddress": "Jakarta",
+"postalCode": 31223,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "rya",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 31223,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "9203984109999999",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Ca",
+"namaLembaga": "ntik",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "403",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20201023103301",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "32222222222222222225",
+"bankAccountName": "cantik",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "TRAVELOKA"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0193011111111",
+"name": "sayang",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19891010",
+"percentage": 50,
+"email": "sayanag@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "9203810109310",
+"name": "cinta",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19741010",
+"percentage": 50,
+"email": "ibu@gmail.com"
+}
+]
+}
+139.194.40.27 https://uat.koreaversikamu.co.id/purchase/prepurchase?view=finish 15:37:34 2020-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tatata",
+    "birthDate": "20201001", 
+"birthPlace": "Jakarta",
+"emailAddress": "asd@gmail.com",
+"mobilePhone": "1920381923081",
+"homePhone": "1092381902381",
+"lineAddress1": "Da",
+"lineAddress2": "Di",
+"cityAddress": "Dumai",
+"postalCode": 12312,
+"sameMailing": "1",
+"mailingLineAddress1": "Da",
+"mailingLineAddress2": "Di",
+"mailingCityAddress": "Dumai",
+"mailingpostalCode": 12312,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1092381928310938",
+"incomeSource": "Wrs",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "La",
+"namaLembaga": "Di",
+				"bidangUsaha": "Da "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Tatata",
+    "birthDate": "20201001", 
+"birthPlace": "Jakarta",
+"emailAddress": "asd@gmail.com",
+"mobilePhone": "1920381923081",
+"homePhone": "1092381902381",
+"lineAddress1": "Da",
+"lineAddress2": "Di",
+"cityAddress": "Dumai",
+"postalCode": 12312,
+"sameMailing": "1",
+"mailingLineAddress1": "Da",
+"mailingLineAddress2": "Di",
+"mailingCityAddress": "Dumai",
+"mailingpostalCode": 12312,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1092381928310938",
+"incomeSource": "Wrs",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "La",
+"namaLembaga": "Di",
+				"bidangUsaha": "Da "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 2,
+"referenceCode": "5129838137",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20201023153733",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "12038123918231203819",
+"bankAccountName": "Asd",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "100909890"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0812312312312",
+"name": "Fox",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20201008",
+"percentage": 100,
+"email": "asd@gmail.com"
+}
+]
+}
+112.215.240.212 https://bucketlistplan.co.id/prepurchase?view=finish 17:31:37 2020-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "mayapermata.aisyah@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "mayapermata.aisyah@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201023173137",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3570621636",
+"bankAccountName": "Maya Permata Aisyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087888508859",
+"name": "Nonni Fermani Ayuliati",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19881130",
+"percentage": 100,
+"email": "nonniferayli@gmail.com"
+}
+]
+}
+112.215.240.212 https://bucketlistplan.co.id/prepurchase?view=finish 17:35:24 2020-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "mayapermata.aisyah@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "mayapermata.aisyah@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201023173524",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3570621636",
+"bankAccountName": "Maya Permata Aisyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087888508859",
+"name": "Nonni Fermani Ayuliati",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19881130",
+"percentage": 100,
+"email": "nonniferayli@gmail.com"
+}
+]
+}
+112.215.240.212 https://bucketlistplan.co.id/prepurchase?view=finish 18:23:31 2020-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aan Darma Setiawan",
+    "birthDate": "20010124", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "andarmase@gmail.com",
+"mobilePhone": "087868226540",
+"homePhone": "087868226540",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304052401010003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Aan Darma Setiawan",
+    "birthDate": "20010124", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "andarmase@gmail.com",
+"mobilePhone": "087868226540",
+"homePhone": "087868226540",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304052401010003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201023182328",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3570777555",
+"bankAccountName": "Aan Darma Setiawan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087888508859",
+"name": "Nonni Fermani Ayuliati",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19881130",
+"percentage": 100,
+"email": "nonniferayli@gmail.com"
+}
+]
+}
+112.215.240.212 https://bucketlistplan.co.id/prepurchase?view=finish 18:34:59 2020-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "mayapermata.aisyah@gmail.com",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "mayapermata.aisyah@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Kel. Gemuruh, Kec. Bawang, Kab. Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "mayapermata.aisyah@gmail.com",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "mayapermata.aisyah@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Kaliwuluh RT 04 RW 10",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah RT 04 RW 10 Blok L",
+"mailingLineAddress2": "Kel. Gemuruh, Kec. Bawang, Kab. Banjarnegara",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD Sukses Barokah",
+				"bidangUsaha": "Dagang hasil pertanian "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201023183459",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3510621636",
+"bankAccountName": "Maya Permata Aisyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081226288576",
+"name": "Triyati Indahsari",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19701225",
+"percentage": 100,
+"email": "triyati.indahsari@gmail.com"
+}
+]
+}

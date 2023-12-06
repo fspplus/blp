@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:20:46 2021-11-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fengky Hasibuan ",
+    "birthDate": "19851026", 
+"birthPlace": "Jakarta",
+"emailAddress": "hasibuan.no22@gmail.com",
+"mobilePhone": "081213532860",
+"homePhone": "081213532860",
+"lineAddress1": "Karya Utama No.79 RT 002/006",
+"lineAddress2": "Kel. Srengseng, Kec Kembangan",
+"cityAddress": "Jakarta",
+"postalCode": 11610,
+"sameMailing": "1",
+"mailingLineAddress1": "Karya Utama No.79 RT 002/006",
+"mailingLineAddress2": "Kel. Srengseng, Kec Kembangan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11610,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173062610850001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Perusahaan swasta",
+				"bidangUsaha": "oil and gas "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Fengky Hasibuan ",
+    "birthDate": "19851026", 
+"birthPlace": "Jakarta",
+"emailAddress": "hasibuan.no22@gmail.com",
+"mobilePhone": "081213532860",
+"homePhone": "081213532860",
+"lineAddress1": "Karya Utama No.79 RT 002/006",
+"lineAddress2": "Kel. Srengseng, Kec Kembangan",
+"cityAddress": "Jakarta",
+"postalCode": 11610,
+"sameMailing": "1",
+"mailingLineAddress1": "Karya Utama No.79 RT 002/006",
+"mailingLineAddress2": "Kel. Srengseng, Kec Kembangan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11610,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173062610850001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Perusahaan swasta",
+				"bidangUsaha": "oil and gas "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71910010",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20211115162044",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0130874844",
+"bankAccountName": "Frengky Hasibuan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08111071514",
+"name": "Bernadetta Ulina",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19861021",
+"percentage": 100,
+"email": "bernadetta.ulina@gmail.com"
+}
+]
+}

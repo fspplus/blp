@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:55:07 2022-10-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "JACQUELINE",
+    "birthDate": "20050418", 
+"birthPlace": "Medan",
+"emailAddress": "tangjacqueline24@gmail.com",
+"mobilePhone": "082161094263",
+"homePhone": "082161094263",
+"lineAddress1": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"lineAddress2": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"mailingLineAddress2": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271035804050003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SWASTA",
+				"bidangUsaha": "SWASTA "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "JACQUELINE",
+    "birthDate": "20050418", 
+"birthPlace": "Medan",
+"emailAddress": "tangjacqueline24@gmail.com",
+"mobilePhone": "082161094263",
+"homePhone": "082161094263",
+"lineAddress1": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"lineAddress2": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "1",
+"mailingLineAddress1": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"mailingLineAddress2": "JL NIKEL NO 4B RT 000 RW 000 KEL SUKARAMAI II KEC MEDAN AREA MEDAN ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20211,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271035804050003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SWASTA",
+				"bidangUsaha": "SWASTA "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210234",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20221031175506",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8075369251",
+"bankAccountName": "JACQUELINE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082274737033",
+"name": "JACQUES",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20010322",
+"percentage": 100,
+"email": "jacjc2203@gmail.com"
+}
+]
+}

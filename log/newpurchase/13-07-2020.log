@@ -1,0 +1,99 @@
+36.70.242.94 https://www.bucketlistplan.co.id/prepurchase?view=finish 17:00:53 2020-07-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "geraldo valentino",
+    "birthDate": "19990115", 
+"birthPlace": "Palembang",
+"emailAddress": "gevalentino0@gmail.com",
+"mobilePhone": "085921553218",
+"homePhone": "087771691725",
+"lineAddress1": "Jalan Lagoa TRS gang III C II / 49B, Lagoa, Koja",
+"lineAddress2": "jakarta utara, DKI jakarta",
+"cityAddress": "",
+"postalCode": 14260,
+"sameMailing": "0",
+"mailingLineAddress1": "jalan Padasuka 1 (Depan SMAN 4 Tangerang), pabuaran tumpeng",
+"mailingLineAddress2": "kota tangerang, banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15112,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172031501990001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Kopi Opa Korea",
+				"bidangUsaha": "FnB "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "geraldo valentino",
+    "birthDate": "19990115", 
+"birthPlace": "Palembang",
+"emailAddress": "gevalentino0@gmail.com",
+"mobilePhone": "085921553218",
+"homePhone": "087771691725",
+"lineAddress1": "Jalan Lagoa TRS gang III C II / 49B, Lagoa, Koja",
+"lineAddress2": "jakarta utara, DKI jakarta",
+"cityAddress": "",
+"postalCode": 14260,
+"sameMailing": "0",
+"mailingLineAddress1": "jalan Padasuka 1 (Depan SMAN 4 Tangerang), pabuaran tumpeng",
+"mailingLineAddress2": "kota tangerang, banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15112,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172031501990001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Kopi Opa Korea",
+				"bidangUsaha": "FnB "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200713170053",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1080114733",
+"bankAccountName": "Geraldo Valentino",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087771691725",
+"name": "Chatrine Marthalia Angreani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19741125",
+"percentage": 100,
+"email": "chatrineyap@yahoo.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+180.244.233.152 https://www.koreaversikamu.co.id/prepurchase?view=finish 12:49:20 2020-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Putri Wulandari",
+    "birthDate": "19940527", 
+"birthPlace": "Bogor",
+"emailAddress": "puutwulandari94@gmail.com",
+"mobilePhone": "087872020559",
+"homePhone": "087872020559",
+"lineAddress1": "Ciparigi Indah Blok A No. 13",
+"lineAddress2": "RT 001/ RW 007 Kel. Ciparigi, Kec. Kota Bogor Utara",
+"cityAddress": "Bogor",
+"postalCode": 16157,
+"sameMailing": "1",
+"mailingLineAddress1": "Ciparigi Indah Blok A No. 13",
+"mailingLineAddress2": "RT 001/ RW 007 Kel. Ciparigi, Kec. Kota Bogor Utara",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16157,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271056705940001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Kulit dan Imitasi Platinum",
+				"bidangUsaha": "Toko bahan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Putri Wulandari",
+    "birthDate": "19940527", 
+"birthPlace": "Bogor",
+"emailAddress": "puutwulandari94@gmail.com",
+"mobilePhone": "087872020559",
+"homePhone": "087872020559",
+"lineAddress1": "Ciparigi Indah Blok A No. 13",
+"lineAddress2": "RT 001/ RW 007 Kel. Ciparigi, Kec. Kota Bogor Utara",
+"cityAddress": "Bogor",
+"postalCode": 16157,
+"sameMailing": "1",
+"mailingLineAddress1": "Ciparigi Indah Blok A No. 13",
+"mailingLineAddress2": "RT 001/ RW 007 Kel. Ciparigi, Kec. Kota Bogor Utara",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16157,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271056705940001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Kulit dan Imitasi Platinum",
+				"bidangUsaha": "Toko bahan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92010889",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200613124919",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0953799623",
+"bankAccountName": "Putri Wulandari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087872020559",
+"name": "Desi Permata Sari",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19991102",
+"percentage": 100,
+"email": "puutwulandari94@gmail.com"
+}
+]
+}

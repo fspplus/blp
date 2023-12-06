@@ -1,0 +1,288 @@
+114.125.71.51 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:26:37 2021-02-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "19700101", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "0",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "19700101", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "0",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92112989",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210218092637",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3310682968",
+"bankAccountName": "ARIS SAFITRI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}
+182.23.35.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:55:24 2021-02-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ARIS SAFITRI",
+    "birthDate": "19971122", 
+"birthPlace": "Malang",
+"emailAddress": "pipithanwha@gmail.com",
+"mobilePhone": "088217228464",
+"homePhone": "088217228464",
+"lineAddress1": "Jalan Sumpil II / 63, RT. 001 / RW. 013,",
+"lineAddress2": "Kel. Purwodadi, Kec. Blimbing,",
+"cityAddress": "Malang",
+"postalCode": 65125,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sumpil II / 63, RT. 001 / RW. 013,",
+"mailingLineAddress2": "Kel. Purwodadi, Kec. Blimbing,",
+"mailingCityAddress": "Malang",
+"mailingpostalCode": 65125,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3573016211970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dosen Terbang (Asisten)",
+"namaLembaga": "UB",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "ARIS SAFITRI",
+    "birthDate": "19971122", 
+"birthPlace": "Malang",
+"emailAddress": "pipithanwha@gmail.com",
+"mobilePhone": "088217228464",
+"homePhone": "088217228464",
+"lineAddress1": "Jalan Sumpil II / 63, RT. 001 / RW. 013,",
+"lineAddress2": "Kel. Purwodadi, Kec. Blimbing,",
+"cityAddress": "Malang",
+"postalCode": 65125,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sumpil II / 63, RT. 001 / RW. 013,",
+"mailingLineAddress2": "Kel. Purwodadi, Kec. Blimbing,",
+"mailingCityAddress": "Malang",
+"mailingpostalCode": 65125,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3573016211970005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dosen Terbang (Asisten)",
+"namaLembaga": "UB",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92112989",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210218095524",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3310682968",
+"bankAccountName": "ARIS SAFITRI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081230246382",
+"name": "ELMIATI",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19891121",
+"percentage": 100,
+"email": "elmiat89@gmail.com"
+}
+]
+}
+114.125.71.213 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:07:21 2021-02-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "GULTOM PUTRA YAKUB ADJI NYOKO",
+    "birthDate": "19980830", 
+"birthPlace": "WAIKABUBAK",
+"emailAddress": "gultomnyoko@gmail.com",
+"mobilePhone": "081238096321",
+"homePhone": "081238096321",
+"lineAddress1": "Jalan Adhyaksa Km. 2,",
+"lineAddress2": "Kel. Sobawawi, Kec. Loli,",
+"cityAddress": "",
+"postalCode": 87211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Waturenggong Gang 17 No. 10 (Kost Kuning - Kamar No. 11),",
+"mailingLineAddress2": "Kel. Panjer, Kec. Denpasar Selatan",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80225,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5312103008982004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "THE BIG FILM DENPASAR",
+				"bidangUsaha": "MULTIMEDIA "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "GULTOM PUTRA YAKUB ADJI NYOKO",
+    "birthDate": "19980830", 
+"birthPlace": "WAIKABUBAK",
+"emailAddress": "gultomnyoko@gmail.com",
+"mobilePhone": "081238096321",
+"homePhone": "081238096321",
+"lineAddress1": "Jalan Adhyaksa Km. 2,",
+"lineAddress2": "Kel. Sobawawi, Kec. Loli,",
+"cityAddress": "",
+"postalCode": 87211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Waturenggong Gang 17 No. 10 (Kost Kuning - Kamar No. 11),",
+"mailingLineAddress2": "Kel. Panjer, Kec. Denpasar Selatan",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80225,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "5312103008982004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "THE BIG FILM DENPASAR",
+				"bidangUsaha": "MULTIMEDIA "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92112923",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210218130721",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "218601000969501",
+"bankAccountName": "GULTOM YAKUB ADJI NYOKO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081339622053",
+"name": "AGUSTINA PALA",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19570812",
+"percentage": 100,
+"email": "gultomnyoko@yahoo.com"
+}
+]
+}

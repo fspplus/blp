@@ -1,0 +1,306 @@
+120.188.72.148 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:03:53 2021-02-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lisa Kurniawati ",
+    "birthDate": "19951212", 
+"birthPlace": "Surabaya",
+"emailAddress": "lisakurniaw12@gmail.com",
+"mobilePhone": "081354966066",
+"homePhone": "089523484616",
+"lineAddress1": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"lineAddress2": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60294,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"mailingLineAddress2": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60294,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578255212950002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "MNC vision",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Lisa Kurniawati ",
+    "birthDate": "19951212", 
+"birthPlace": "Surabaya",
+"emailAddress": "lisakurniaw12@gmail.com",
+"mobilePhone": "081354966066",
+"homePhone": "089523484616",
+"lineAddress1": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"lineAddress2": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"cityAddress": "Surabaya",
+"postalCode": 60294,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"mailingLineAddress2": "Jl. Gununganyar tengah 7a no 29 RT 2 RW 2 Kel gununganyar kec gununganyar, Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60294,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578255212950002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "MNC vision",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011518",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210225110349",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6750526266",
+"bankAccountName": "Lisa Kurniawati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089523484616",
+"name": "Nanang Joko ",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580826",
+"percentage": 50,
+"email": "lisakurniaw12@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "089523404616",
+"name": "Nanang joko",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19580826",
+"percentage": 50,
+"email": "lisakurniaw12@gmail.com"
+}
+]
+}
+182.23.24.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:32:46 2021-02-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi nurendawati",
+    "birthDate": "19800616", 
+"birthPlace": "Purwakarta",
+"emailAddress": "dewirumnurendawati@gmail.com",
+"mobilePhone": "08112095858",
+"homePhone": "08112095858",
+"lineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"lineAddress2": "Kel.kertamulya kec.padalarang ",
+"cityAddress": "",
+"postalCode": 40552,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"mailingLineAddress2": "Kel.kertamulya kec.padalarang ",
+"mailingCityAddress": "",
+"mailingpostalCode": 40552,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3217085606800010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt.asuransi hanwhalife",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dewi nurendawati",
+    "birthDate": "19800616", 
+"birthPlace": "Purwakarta",
+"emailAddress": "dewirumnurendawati@gmail.com",
+"mobilePhone": "08112095858",
+"homePhone": "08112095858",
+"lineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"lineAddress2": "Kel.kertamulya kec.padalarang ",
+"cityAddress": "",
+"postalCode": 40552,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"mailingLineAddress2": "Kel.kertamulya kec.padalarang ",
+"mailingCityAddress": "",
+"mailingpostalCode": 40552,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3217085606800010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt.asuransi hanwhalife",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "91809428",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20210225113246",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0080923775",
+"bankAccountName": "Dewi nurendawati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082217751010",
+"name": "Rudy mardiansyah",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810310",
+"percentage": 100,
+"email": "rudibloos@gmail.com"
+}
+]
+}
+182.23.24.210 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:33:13 2021-02-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi nurendawati",
+    "birthDate": "19800616", 
+"birthPlace": "Purwakarta",
+"emailAddress": "dewirumnurendawati@gmail.com",
+"mobilePhone": "08112095858",
+"homePhone": "08112095858",
+"lineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"lineAddress2": "Kel.kertamulya kec.padalarang ",
+"cityAddress": "",
+"postalCode": 40552,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"mailingLineAddress2": "Kel.kertamulya kec.padalarang ",
+"mailingCityAddress": "",
+"mailingpostalCode": 40552,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3217085606800010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt.asuransi hanwhalife",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dewi nurendawati",
+    "birthDate": "19800616", 
+"birthPlace": "Purwakarta",
+"emailAddress": "dewirumnurendawati@gmail.com",
+"mobilePhone": "08112095858",
+"homePhone": "08112095858",
+"lineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"lineAddress2": "Kel.kertamulya kec.padalarang ",
+"cityAddress": "",
+"postalCode": 40552,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.cijeungjing no.8 rt001 rw019",
+"mailingLineAddress2": "Kel.kertamulya kec.padalarang ",
+"mailingCityAddress": "",
+"mailingpostalCode": 40552,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3217085606800010",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt.asuransi hanwhalife",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "91809428",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20210225113313",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0080923775",
+"bankAccountName": "Dewi nurendawati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082217751010",
+"name": "Rudy mardiansyah",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810310",
+"percentage": 100,
+"email": "rudibloos@gmail.com"
+}
+]
+}

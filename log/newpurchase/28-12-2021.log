@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:26:15 2021-12-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Christian Emanuel",
+    "birthDate": "19920415", 
+"birthPlace": "nusa tenggara",
+"emailAddress": "cmanuel154@gmail.com",
+"mobilePhone": "081252276836",
+"homePhone": "081252276836",
+"lineAddress1": "Griya Katulampa Blok C2 No. 13, ",
+"lineAddress2": "katulampa, Bogor Timur",
+"cityAddress": "",
+"postalCode": 16144,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan De Casa, Jl. Gadog Raya No.169, Cisalak Ps., ",
+"mailingLineAddress2": "Kec. Cimanggis, Kota Depok, Jawa Barat 16452",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16452,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271021504920008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Financial "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Christian Emanuel",
+    "birthDate": "19920415", 
+"birthPlace": "nusa tenggara",
+"emailAddress": "cmanuel154@gmail.com",
+"mobilePhone": "081252276836",
+"homePhone": "081252276836",
+"lineAddress1": "Griya Katulampa Blok C2 No. 13, ",
+"lineAddress2": "katulampa, Bogor Timur",
+"cityAddress": "",
+"postalCode": 16144,
+"sameMailing": "0",
+"mailingLineAddress1": "Perumahan De Casa, Jl. Gadog Raya No.169, Cisalak Ps., ",
+"mailingLineAddress2": "Kec. Cimanggis, Kota Depok, Jawa Barat 16452",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16452,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271021504920008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Financial "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909987",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20211228142612",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5735234029",
+"bankAccountName": "Christian Emanuel",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081252276836",
+"name": "Theofilus Gaudio Emanuel",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20210802",
+"percentage": 100,
+"email": "theofilusgaudio@gmail.com"
+}
+]
+}

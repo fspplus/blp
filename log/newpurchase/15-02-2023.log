@@ -1,0 +1,99 @@
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:31:59 2023-02-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "JUSEI",
+    "birthDate": "19810801", 
+"birthPlace": "Medan",
+"emailAddress": "juseiloe@gmail.com",
+"mobilePhone": "087800070096",
+"homePhone": "087800070096",
+"lineAddress1": "JL SEI DELI KOMP. RUKO 63 F",
+"lineAddress2": "KEL. SILALAS KEC. MEDAN BARAT",
+"cityAddress": "Medan",
+"postalCode": 20114,
+"sameMailing": "1",
+"mailingLineAddress1": "JL SEI DELI KOMP. RUKO 63 F",
+"mailingLineAddress2": "KEL. SILALAS KEC. MEDAN BARAT",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20114,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271194108810001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "S2 BUTIK",
+				"bidangUsaha": "BAJU "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "JUSEI",
+    "birthDate": "19810801", 
+"birthPlace": "Medan",
+"emailAddress": "juseiloe@gmail.com",
+"mobilePhone": "087800070096",
+"homePhone": "087800070096",
+"lineAddress1": "JL SEI DELI KOMP. RUKO 63 F",
+"lineAddress2": "KEL. SILALAS KEC. MEDAN BARAT",
+"cityAddress": "Medan",
+"postalCode": 20114,
+"sameMailing": "1",
+"mailingLineAddress1": "JL SEI DELI KOMP. RUKO 63 F",
+"mailingLineAddress2": "KEL. SILALAS KEC. MEDAN BARAT",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20114,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271194108810001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "S2 BUTIK",
+				"bidangUsaha": "BAJU "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72211441",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230215173158",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305217707",
+"bankAccountName": "JUSEI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087800070096",
+"name": "CELLINE",
+"famrel": 1,
+"gender": "F",
+"birthDate": "20040623",
+"percentage": 100,
+"email": "juseiloe@gmail.com"
+}
+]
+}

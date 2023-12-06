@@ -1,0 +1,71 @@
+182.0.183.141 https://bucketlistplan.co.id/prepurchase?view=finish 15:32:47 2019-12-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fahdi sachiya",
+    "birthDate": "19840310", 
+"birthPlace": "Tangerang",
+"emailAddress": "ciyaciya03@gmail.com",
+"mobilePhone": "081219420622",
+"homePhone": "02155769350",
+"lineAddress1": "Jl. Untung suropati I no.35",
+"lineAddress2": "Rt.003/rw.008 cimone jaya karawaci",
+"cityAddress": "Tangerang",
+"postalCode": 15114,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Untung suropati I no.35",
+"mailingLineAddress2": "Rt.003/rw.008 cimone jaya karawaci",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15114,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671071003840004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Universitas nasional",
+				"bidangUsaha": "Pendidikan  "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 6,
+"referenceCode": "Traveloka",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191210153247",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1550004044148",
+"bankAccountName": "Fahdi sachiya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081297909103",
+"name": "Helda hasyria ",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19801212",
+"percentage": 100,
+"email": "heruda_hasy@yahoo.com.sg"
+}
+]
+}

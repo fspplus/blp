@@ -1,0 +1,297 @@
+182.30.127.13 https://bucketlistplan.co.id/prepurchase?view=finish 14:39:10 2020-07-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Alika peony lukito",
+    "birthDate": "19890515", 
+"birthPlace": "Tarakan",
+"emailAddress": "nannanahaaaa@gmail.com",
+"mobilePhone": "089506280234",
+"homePhone": "56566456",
+"lineAddress1": "Cluster Alloggio Barat 5 no 23",
+"lineAddress2": "Jdjsjjssjzk",
+"cityAddress": "",
+"postalCode": 15810,
+"sameMailing": "0",
+"mailingLineAddress1": "Cdkksskskkzksks",
+"mailingLineAddress2": "Skkskskssk",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6473015801990006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "jsjsjssj",
+				"bidangUsaha": "Jsjjjsjsj "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Alika peony lukito",
+    "birthDate": "19890515", 
+"birthPlace": "Tarakan",
+"emailAddress": "nannanahaaaa@gmail.com",
+"mobilePhone": "089506280234",
+"homePhone": "56566456",
+"lineAddress1": "Cluster Alloggio Barat 5 no 23",
+"lineAddress2": "Jdjsjjssjzk",
+"cityAddress": "",
+"postalCode": 15810,
+"sameMailing": "0",
+"mailingLineAddress1": "Cdkksskskkzksks",
+"mailingLineAddress2": "Skkskskssk",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6473015801990006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "jsjsjssj",
+				"bidangUsaha": "Jsjjjsjsj "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200707143910",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "5616644676464",
+"bankAccountName": "Alakakakakak",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089506280234",
+"name": "Jesus",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19960703",
+"percentage": 100,
+"email": "nsjsjsjjs@gmail.com"
+}
+]
+}
+182.30.127.13 https://bucketlistplan.co.id/prepurchase?view=finish 16:41:59 2020-07-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nakamoto Yuta",
+    "birthDate": "19951026", 
+"birthPlace": "Luar negri",
+"emailAddress": "nakamotoyuta@gmail.com",
+"mobilePhone": "08126101994",
+"homePhone": "08126101994",
+"lineAddress1": "Sm agency",
+"lineAddress2": "Seoul",
+"cityAddress": "Tangerang",
+"postalCode": 15810,
+"sameMailing": "1",
+"mailingLineAddress1": "Sm agency",
+"mailingLineAddress2": "Seoul",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "6473002100650004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kopi chuseyo",
+				"bidangUsaha": "F&B "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Nakamoto Yuta",
+    "birthDate": "19951026", 
+"birthPlace": "Luar negri",
+"emailAddress": "nakamotoyuta@gmail.com",
+"mobilePhone": "08126101994",
+"homePhone": "08126101994",
+"lineAddress1": "Sm agency",
+"lineAddress2": "Seoul",
+"cityAddress": "Tangerang",
+"postalCode": 15810,
+"sameMailing": "1",
+"mailingLineAddress1": "Sm agency",
+"mailingLineAddress2": "Seoul",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "6473002100650004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kopi chuseyo",
+				"bidangUsaha": "F&B "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200707164159",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "0895616444",
+"bankAccountName": "Kdkskkss",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08121264348",
+"name": "Moon Taeil",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19960709",
+"percentage": 100,
+"email": "tidakada@gmail.com"
+}
+]
+}
+114.122.12.237 https://www.bucketlistplan.co.id/prepurchase?view=finish 17:28:40 2020-07-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Peter Lore",
+    "birthDate": "19780615", 
+"birthPlace": "Jakarta",
+"emailAddress": "syhl88-peterlore@yahoo.com",
+"mobilePhone": "0811135738",
+"homePhone": "0216620728",
+"lineAddress1": "Jl.pluit raya selatan komplek Grand Pluit Mall blok E No:1",
+"lineAddress2": "Jl.kayu besar No:47",
+"cityAddress": "Jakarta",
+"postalCode": 14440,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.pluit raya selatan komplek Grand Pluit Mall blok E No:1",
+"mailingLineAddress2": "Jl.kayu besar No:47",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14440,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3173061506780008",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sumihar",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Peter Lore",
+    "birthDate": "19780615", 
+"birthPlace": "Jakarta",
+"emailAddress": "syhl88-peterlore@yahoo.com",
+"mobilePhone": "0811135738",
+"homePhone": "0216620728",
+"lineAddress1": "Jl.pluit raya selatan komplek Grand Pluit Mall blok E No:1",
+"lineAddress2": "Jl.kayu besar No:47",
+"cityAddress": "Jakarta",
+"postalCode": 14440,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.pluit raya selatan komplek Grand Pluit Mall blok E No:1",
+"mailingLineAddress2": "Jl.kayu besar No:47",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14440,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3173061506780008",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sumihar",
+				"bidangUsaha": "Pengangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200707172840",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1681860822",
+"bankAccountName": "Peter Lore",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "+62 811 14712",
+"name": "Siska Halim",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19841128",
+"percentage": 100,
+"email": "syhl88-peterlore@yahoo.com"
+}
+]
+}

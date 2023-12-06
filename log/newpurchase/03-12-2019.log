@@ -1,0 +1,142 @@
+184.22.114.2 https://koreaversikamu.co.id/prepurchase?view=finish 19:23:16 2019-12-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DAUNGJAI TANGSAYAN",
+    "birthDate": "19910815", 
+"birthPlace": "Luar negri",
+"emailAddress": "pla_yoy@hotmail.com",
+"mobilePhone": "+66982640797",
+"homePhone": "+66982640797",
+"lineAddress1": "278 Soi.Ramkhamhaeng68 Sukhapiban3 Road",
+"lineAddress2": "Bangkapi province, Bangkok, Thailand",
+"cityAddress": "Luar negri",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "278 Soi.Ramkhamhaeng68 Sukhapiban3 Road",
+"mailingLineAddress2": "Bangkapi province, Bangkok, Thailand",
+"mailingCityAddress": "Luar negri",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "AB1960938",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "One World Media",
+				"bidangUsaha": "Media "
+			},
+			"dealsCode": "LYD",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191203192314",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "123456789",
+"bankAccountName": "DAUNGJAU TANGSAYAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "LYD"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "+66979245133",
+"name": "WONVIMON TANGSAYAN",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19960717",
+"percentage": 100,
+"email": "yoyyoyyoyyoyyoyyoy@gmail.com"
+}
+]
+}
+184.22.118.245 https://koreaversikamu.co.id/prepurchase?view=finish 19:26:21 2019-12-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DAUNGJAI TANGSAYAN",
+    "birthDate": "20171113", 
+"birthPlace": "Luar negri",
+"emailAddress": "pla_yoy@hotmail.com",
+"mobilePhone": "66982640797",
+"homePhone": "66982640797",
+"lineAddress1": "278 Bangkapi",
+"lineAddress2": "Bangkok",
+"cityAddress": "",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "278 Bangkapi",
+"mailingLineAddress2": "Bangkok",
+"mailingCityAddress": "",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1960938",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "One World Media",
+				"bidangUsaha": "Media "
+			},
+			"dealsCode": "LYD",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 3,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191203192620",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "123456789",
+"bankAccountName": "DAUNGJAI TANGSAYAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "LYD"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "66982640000",
+"name": "WONVIMON TANGSAYAN",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20191022",
+"percentage": 100,
+"email": "yoyyoyyoyyoyyoyyoy@gmail.com"
+}
+]
+}

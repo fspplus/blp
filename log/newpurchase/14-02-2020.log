@@ -1,0 +1,142 @@
+114.122.9.166 https://koreaversikamu.co.id/prepurchase?view=finish 09:52:53 2020-02-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tony",
+    "birthDate": "19731212", 
+"birthPlace": "Medan",
+"emailAddress": "tonysuryamin@gmail.com",
+"mobilePhone": "081277746490",
+"homePhone": "0618470886",
+"lineAddress1": "Jl.Gladiol LK XII blok L No:18",
+"lineAddress2": "Jl.selamat ketaren BLok:B3",
+"cityAddress": "",
+"postalCode": 20124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gladiol LK XII blok L No:18",
+"mailingLineAddress2": "Jl.selamat ketaren BLok:B3",
+"mailingCityAddress": "",
+"mailingpostalCode": 20124,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271031212730004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200214095251",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8370216402",
+"bankAccountName": "Tony",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082161094263",
+"name": "Jacqueline",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20050418",
+"percentage": 100,
+"email": "tonysuryamin@gmail.com"
+}
+]
+}
+180.247.249.116 https://koreaversikamu.co.id/prepurchase?view=finish 14:13:16 2020-02-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "William Halim",
+    "birthDate": "19900615", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "williamhalim168@gmail.com",
+"mobilePhone": "085237659995",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Dewa ruci No:54",
+"lineAddress2": "Jl.Selamat Ketaren Blok: B3",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Dewa ruci No:54",
+"mailingLineAddress2": "Jl.Selamat Ketaren Blok: B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271191506900005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Showroom168",
+				"bidangUsaha": "Jual beli mobil "
+			},
+			"dealsCode": "",
+			"maritalStatus": "N"
+		}
+    },
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200214141316",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221995383",
+"bankAccountName": "William Halim",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116506667",
+"name": "Selleyyu Halim",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19881018",
+"percentage": 100,
+"email": "swettyyu88@gmail.com"
+}
+]
+}

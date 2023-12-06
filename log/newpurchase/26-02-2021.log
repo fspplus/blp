@@ -1,0 +1,612 @@
+139.255.95.18 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 11:03:56 2021-02-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Vallerie Odelia Tano",
+    "birthDate": "20030130", 
+"birthPlace": "Medan",
+"emailAddress": "surianybca@gmail.com",
+"mobilePhone": "081397978868",
+"homePhone": "081397978868",
+"lineAddress1": "JL. SAMBU NO.46 KEL.GANG BUNTU KEC.MEDAN TIMUR ",
+"lineAddress2": "KOTA MEDAN",
+"cityAddress": "Medan",
+"postalCode": 20231,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAMBU NO.46 KEL.GANG BUNTU KEC.MEDAN TIMUR ",
+"mailingLineAddress2": "KOTA MEDAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20231,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271207001030002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV SAHABAT JAYA CEMERLANG",
+				"bidangUsaha": "DISTRIBUTOR "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Vallerie Odelia Tano",
+    "birthDate": "20030130", 
+"birthPlace": "Medan",
+"emailAddress": "surianybca@gmail.com",
+"mobilePhone": "081397978868",
+"homePhone": "081397978868",
+"lineAddress1": "JL. SAMBU NO.46 KEL.GANG BUNTU KEC.MEDAN TIMUR ",
+"lineAddress2": "KOTA MEDAN",
+"cityAddress": "Medan",
+"postalCode": 20231,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAMBU NO.46 KEL.GANG BUNTU KEC.MEDAN TIMUR ",
+"mailingLineAddress2": "KOTA MEDAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20231,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271207001030002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV SAHABAT JAYA CEMERLANG",
+				"bidangUsaha": "DISTRIBUTOR "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91909993",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20210226110353",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1951288174",
+"bankAccountName": "VALLERIE ODELIA TANO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081397978868",
+"name": "SURIANY",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19780222",
+"percentage": 100,
+"email": "surianybca@gmail.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 11:12:24 2021-02-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ELLY NUGRAININGTYAS",
+    "birthDate": "19750512", 
+"birthPlace": "Jakarta",
+"emailAddress": "ellinnugra@gmail.com",
+"mobilePhone": "081311478048",
+"homePhone": "081311478048",
+"lineAddress1": "JL  BOULEVARD KLOSTER AZALEA BLOK W2/11",
+"lineAddress2": "RT.003, RW. 006 JATIMULYA, CILODONG",
+"cityAddress": "Depok",
+"postalCode": 16413,
+"sameMailing": "1",
+"mailingLineAddress1": "JL  BOULEVARD KLOSTER AZALEA BLOK W2/11",
+"mailingLineAddress2": "RT.003, RW. 006 JATIMULYA, CILODONG",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16413,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3276055205750014",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "TC INVEST",
+				"bidangUsaha": "KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ELLY NUGRAININGTYAS",
+    "birthDate": "19750512", 
+"birthPlace": "Jakarta",
+"emailAddress": "ellinnugra@gmail.com",
+"mobilePhone": "081311478048",
+"homePhone": "081311478048",
+"lineAddress1": "JL  BOULEVARD KLOSTER AZALEA BLOK W2/11",
+"lineAddress2": "RT.003, RW. 006 JATIMULYA, CILODONG",
+"cityAddress": "Depok",
+"postalCode": 16413,
+"sameMailing": "1",
+"mailingLineAddress1": "JL  BOULEVARD KLOSTER AZALEA BLOK W2/11",
+"mailingLineAddress2": "RT.003, RW. 006 JATIMULYA, CILODONG",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16413,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3276055205750014",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "TC INVEST",
+				"bidangUsaha": "KEUANGAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603936",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210226111221",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3351029666",
+"bankAccountName": "ELLY NUGRAININGTYAS",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081311478048",
+"name": "LANGIT ATHALAH USLIE ",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20100405",
+"percentage": 100,
+"email": "ellinnugra@gmail.com"
+}
+]
+}
+114.122.107.180 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:14:46 2021-02-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lia amalia",
+    "birthDate": "19810902", 
+"birthPlace": "Garut",
+"emailAddress": "liaa68696@gmail.com",
+"mobilePhone": "081380800250",
+"homePhone": "081380800250",
+"lineAddress1": "Kp.sukasirna rt001 rw004",
+"lineAddress2": "Kel.limbangan timur kec.bl.limbangan",
+"cityAddress": "",
+"postalCode": 44186,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp.sukasirna rt001 rw004",
+"mailingLineAddress2": "Kel.limbangan timur kec.bl.limbangan",
+"mailingCityAddress": "",
+"mailingpostalCode": 44186,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3201154209810001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Qirsa laubdry",
+				"bidangUsaha": "Jasa laundry "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Lia amalia",
+    "birthDate": "19810902", 
+"birthPlace": "Garut",
+"emailAddress": "liaa68696@gmail.com",
+"mobilePhone": "081380800250",
+"homePhone": "081380800250",
+"lineAddress1": "Kp.sukasirna rt001 rw004",
+"lineAddress2": "Kel.limbangan timur kec.bl.limbangan",
+"cityAddress": "",
+"postalCode": 44186,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp.sukasirna rt001 rw004",
+"mailingLineAddress2": "Kel.limbangan timur kec.bl.limbangan",
+"mailingCityAddress": "",
+"mailingpostalCode": 44186,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3201154209810001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Qirsa laubdry",
+				"bidangUsaha": "Jasa laundry "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "91809428",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20210226171442",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1481189433",
+"bankAccountName": "Lia amalia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081380800250",
+"name": "Natasya salsabila",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20020130",
+"percentage": 30,
+"email": "liaa68696@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "081380800250",
+"name": "Naima syakira fakhira",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20100914",
+"percentage": 30,
+"email": "lia68696@gmail.com"
+},{
+"seqNo": "3",
+"mobileNo": "081380800250",
+"name": "M.adzkan rasyid ramadhan",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20140714",
+"percentage": 40,
+"email": "lia68696@gmail.com"
+}
+]
+}
+114.125.30.171 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:23:14 2021-02-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Agustina",
+    "birthDate": "19720803", 
+"birthPlace": "Kabanjahe",
+"emailAddress": "agustinaing72@gmail.com",
+"mobilePhone": "0811646205",
+"homePhone": "0811646205",
+"lineAddress1": "Jalan Dagan No. 3C",
+"lineAddress2": "Kelurahan Sekip, Kecamatan Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20113,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Dagan No. 3C",
+"mailingLineAddress2": "Kelurahan Sekip, Kecamatan Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20113,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271194308720003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Perguruan Sutomo",
+				"bidangUsaha": "Sekolah "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Agustina",
+    "birthDate": "19720803", 
+"birthPlace": "Kabanjahe",
+"emailAddress": "agustinaing72@gmail.com",
+"mobilePhone": "0811646205",
+"homePhone": "0811646205",
+"lineAddress1": "Jalan Dagan No. 3C",
+"lineAddress2": "Kelurahan Sekip, Kecamatan Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20113,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Dagan No. 3C",
+"mailingLineAddress2": "Kelurahan Sekip, Kecamatan Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20113,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271194308720003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Perguruan Sutomo",
+				"bidangUsaha": "Sekolah "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011992",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210226172311",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "70017276800",
+"bankAccountName": "AGUSTINA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011992"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811646205",
+"name": "CHARLIE WIJAYA",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19660612",
+"percentage": 100,
+"email": "agustinaing72@gmail.com"
+}
+]
+}
+182.23.35.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:34:33 2021-02-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DEWA GEDE SATRIA AMBARA",
+    "birthDate": "19820722", 
+"birthPlace": "Denpasar",
+"emailAddress": "apsbaline@gmail.com",
+"mobilePhone": "081237579266",
+"homePhone": "081237579266",
+"lineAddress1": "JALAN A. YANI GANG KAKATUA NO. 3X, BR/LINK. HITA BHUA",
+"lineAddress2": "KEL. PEGUYANGAN, KEC. DENPASAR UTARA",
+"cityAddress": "Denpasar",
+"postalCode": 80115,
+"sameMailing": "1",
+"mailingLineAddress1": "JALAN A. YANI GANG KAKATUA NO. 3X, BR/LINK. HITA BHUA",
+"mailingLineAddress2": "KEL. PEGUYANGAN, KEC. DENPASAR UTARA",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80115,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "5171042207820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dokter Spesialis Tulang",
+"namaLembaga": "Bali Medika dan RS Bunda",
+				"bidangUsaha": "Kesehatan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DEWA GEDE SATRIA AMBARA",
+    "birthDate": "19820722", 
+"birthPlace": "Denpasar",
+"emailAddress": "apsbaline@gmail.com",
+"mobilePhone": "081237579266",
+"homePhone": "081237579266",
+"lineAddress1": "JALAN A. YANI GANG KAKATUA NO. 3X, BR/LINK. HITA BHUA",
+"lineAddress2": "KEL. PEGUYANGAN, KEC. DENPASAR UTARA",
+"cityAddress": "Denpasar",
+"postalCode": 80115,
+"sameMailing": "1",
+"mailingLineAddress1": "JALAN A. YANI GANG KAKATUA NO. 3X, BR/LINK. HITA BHUA",
+"mailingLineAddress2": "KEL. PEGUYANGAN, KEC. DENPASAR UTARA",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80115,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "5171042207820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dokter Spesialis Tulang",
+"namaLembaga": "Bali Medika dan RS Bunda",
+				"bidangUsaha": "Kesehatan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011288",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210226173429",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1450013593112",
+"bankAccountName": "DEWA GEDE SATRIA AMBARA PUTRA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081237579266",
+"name": "DEWA GEDE ABBYSENA SATRIA AIRLANGGA",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20090909",
+"percentage": 100,
+"email": "abbysenasatriaairlangga@gmail.com"
+}
+]
+}
+182.23.35.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:41:12 2021-02-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NI NYOMAN NOHANA ARLINAWATI",
+    "birthDate": "19800704", 
+"birthPlace": "TEGALMENGKEB",
+"emailAddress": "nohanarlina@gmail.com",
+"mobilePhone": "081239556607",
+"homePhone": "08123955607",
+"lineAddress1": "Jalan A. Yani Gang Kakatua No. 3X, Br./Link. Hita Bhua,",
+"lineAddress2": "Kel. Peguyangan, Kec. Denpasar Utara,",
+"cityAddress": "Denpasar",
+"postalCode": 80115,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan A. Yani Gang Kakatua No. 3X, Br./Link. Hita Bhua,",
+"mailingLineAddress2": "Kel. Peguyangan, Kec. Denpasar Utara,",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80115,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "5102024407800002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Rumah Potong Bebek",
+				"bidangUsaha": "Veteriner (Pemotongan Hewan) "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NI NYOMAN NOHANA ARLINAWATI",
+    "birthDate": "19800704", 
+"birthPlace": "TEGALMENGKEB",
+"emailAddress": "nohanarlina@gmail.com",
+"mobilePhone": "081239556607",
+"homePhone": "08123955607",
+"lineAddress1": "Jalan A. Yani Gang Kakatua No. 3X, Br./Link. Hita Bhua,",
+"lineAddress2": "Kel. Peguyangan, Kec. Denpasar Utara,",
+"cityAddress": "Denpasar",
+"postalCode": 80115,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan A. Yani Gang Kakatua No. 3X, Br./Link. Hita Bhua,",
+"mailingLineAddress2": "Kel. Peguyangan, Kec. Denpasar Utara,",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80115,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "5102024407800002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Rumah Potong Bebek",
+				"bidangUsaha": "Veteriner (Pemotongan Hewan) "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011288",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210226184108",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7725045336",
+"bankAccountName": "NI NYOMAN NOHANA ARLINAWATI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081237579266",
+"name": "DEWA GEDE ABBYSENA SATRIA AIRLANGGA",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20090909",
+"percentage": 100,
+"email": "abbysenasatriaairlangga@gmail.com"
+}
+]
+}

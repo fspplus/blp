@@ -1,0 +1,2574 @@
+114.122.12.111 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:28:55 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yenni Octavia",
+    "birthDate": "19841020", 
+"birthPlace": "Dolok Merawan",
+"emailAddress": "yennio.yo10@gmail.com",
+"mobilePhone": "0819624188",
+"homePhone": "0819624188",
+"lineAddress1": "Jl. AR Hakim No. 128 A",
+"lineAddress2": "Kel Sukaramai 1, Kec Medan Area",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. AR Hakim No. 128 A",
+"mailingLineAddress2": "Kel Sukaramai 1, Kec Medan Area",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271116009840005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank IBK Indonesia",
+				"bidangUsaha": "Banking "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yenni Octavia",
+    "birthDate": "19841020", 
+"birthPlace": "Dolok Merawan",
+"emailAddress": "yennio.yo10@gmail.com",
+"mobilePhone": "0819624188",
+"homePhone": "0819624188",
+"lineAddress1": "Jl. AR Hakim No. 128 A",
+"lineAddress2": "Kel Sukaramai 1, Kec Medan Area",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. AR Hakim No. 128 A",
+"mailingLineAddress2": "Kel Sukaramai 1, Kec Medan Area",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271116009840005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank IBK Indonesia",
+				"bidangUsaha": "Banking "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613142854",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300036857",
+"bankAccountName": "Yenni Octavia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085275977858",
+"name": "Benny Bestanto",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19850816",
+"percentage": 100,
+"email": "yennio.yo10@gmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:33:47 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Utily",
+    "birthDate": "19831030", 
+"birthPlace": "Medan",
+"emailAddress": "jantyw369@gmail.com",
+"mobilePhone": "0818288182",
+"homePhone": "0818288182",
+"lineAddress1": "Jl. Jawa kom. Tomang mas Iii Lk.X no.8D",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jawa kom. Tomang mas Iii Lk.X no.8D",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271037010830011",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pemilik",
+"namaLembaga": "Zhelly Nail Studio",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Utily",
+    "birthDate": "19831030", 
+"birthPlace": "Medan",
+"emailAddress": "jantyw369@gmail.com",
+"mobilePhone": "0818288182",
+"homePhone": "0818288182",
+"lineAddress1": "Jl. Jawa kom. Tomang mas Iii Lk.X no.8D",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jawa kom. Tomang mas Iii Lk.X no.8D",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271037010830011",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pemilik",
+"namaLembaga": "Zhelly Nail Studio",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613153346",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950746102",
+"bankAccountName": "Utily",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818288182",
+"name": "Nicholas Sentamin",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20061025",
+"percentage": 100,
+"email": "Jantyw369@gmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:46:35 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Bibah Salim ",
+    "birthDate": "19610210", 
+"birthPlace": "Bagan siapi api",
+"emailAddress": "bibah.salim61@gmail.com",
+"mobilePhone": "082248130490",
+"homePhone": "082248130490",
+"lineAddress1": "Jl. Jamin Ginting Km.8,5 komp. Royal Sumatera",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jamin Ginting Km.8,5 komp. Royal Sumatera",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271145002610001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Distributor",
+"namaLembaga": "Pt Amindoway jaya",
+				"bidangUsaha": "Alat alat kebutuhan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Bibah Salim ",
+    "birthDate": "19610210", 
+"birthPlace": "Bagan siapi api",
+"emailAddress": "bibah.salim61@gmail.com",
+"mobilePhone": "082248130490",
+"homePhone": "082248130490",
+"lineAddress1": "Jl. Jamin Ginting Km.8,5 komp. Royal Sumatera",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jamin Ginting Km.8,5 komp. Royal Sumatera",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271145002610001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Distributor",
+"namaLembaga": "Pt Amindoway jaya",
+				"bidangUsaha": "Alat alat kebutuhan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613154634",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950866906",
+"bankAccountName": "Bibah salim",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082248130490",
+"name": "Venus ",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19921122",
+"percentage": 100,
+"email": "bibah.salim61@gmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:35:25 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163525",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:35:25 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163525",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:35:26 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163525",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:36:26 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163626",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:37:45 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163745",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:37:45 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163745",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:38:45 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163845",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:38:46 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163845",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:39:46 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613163946",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:40:46 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613164046",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:41:47 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613164146",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:42:47 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613164247",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:43:47 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613164347",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:45:48 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613164547",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:46:48 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613164648",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:47:48 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613164748",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:52:49 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613165249",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:53:49 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613165349",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:54:50 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613165449",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:54:50 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613165450",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+110.232.78.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:56:50 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613165650",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:57:51 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613165750",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}
+140.213.32.5 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:59:51 2023-06-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ucharies",
+    "birthDate": "19831021", 
+"birthPlace": "Medan",
+"emailAddress": "ucharies818sc@gmail.com",
+"mobilePhone": "085297999818",
+"homePhone": "085297999818",
+"lineAddress1": "Jl. Thamrin no.96",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Thamrin no.96",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271016110830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Genki booster",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230613165951",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300151818",
+"bankAccountName": "Ucharies",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286872118",
+"name": "Schubert javier djufri",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20141210",
+"percentage": 100,
+"email": "u_charies@hotmail.com"
+}
+]
+}

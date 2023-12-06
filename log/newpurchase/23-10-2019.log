@@ -1,0 +1,198 @@
+10.1.1.33 https://koreaversikamu.co.id/prepurchase?view=finish 09:32:13 2019-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Indah Mulia",
+    "birthDate": "19940330", 
+"birthPlace": "Pariaman",
+"emailAddress": "indah33@gmail.com",
+"mobilePhone": "087885531922",
+"homePhone": "0217805217",
+"lineAddress1": "Jl. Jagakarsa 1, Gang Aren I no.32",
+"lineAddress2": "Kel. Jagakarsa, Kec.Jagakarsa",
+"cityAddress": "Jakarta",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jagakarsa 1, Gang Aren I no.32",
+"mailingLineAddress2": "Kel. Jagakarsa, Kec.Jagakarsa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174047007820007",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT CERITA NUSANTARA JAYA",
+"bidangUsaha": "Perdagangan"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191023093212",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5470814151",
+"bankAccountName": "Indah Mulia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081346975284",
+"name": "Rosemayanti",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19991118",
+"percentage": 100,
+"email": "rosemayanti18@gmail.com"
+}
+]
+}
+203.128.81.190 https://koreaversikamu.co.id/prepurchase?view=finish 16:35:16 2019-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "fahdi sachiya",
+    "birthDate": "19840310", 
+"birthPlace": "Tangerang",
+"emailAddress": "ciyaciya03@gmail.com",
+"mobilePhone": "081219420622",
+"homePhone": "02155769350",
+"lineAddress1": "Jl. Untung Suropati I No.35 Rt.003/Rw.008 ",
+"lineAddress2": "Cimone Jaya Karawaci",
+"cityAddress": "Tangerang",
+"postalCode": 15116,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Untung Suropati I No.35 Rt.003/Rw.008 ",
+"mailingLineAddress2": "Cimone Jaya Karawaci",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15116,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3671071003840004",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Universitas nasional jakarta",
+"bidangUsaha": "pendidikan "
+}
+}
+},
+"purchase": {
+"productId": 6,
+"referenceCode": "71909919",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191023163515",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1550004044148",
+"bankAccountName": "fahdi sachiya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081297909103",
+"name": "Helda Hasyria ",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19801212",
+"percentage": 100,
+"email": "heruda_hasy@yahoo.com.sg"
+}
+]
+}
+140.213.141.155 https://koreaversikamu.co.id/prepurchase?view=finish 23:39:59 2019-10-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Indah Mulia",
+    "birthDate": "19940330", 
+"birthPlace": "Pariaman",
+"emailAddress": "indah30@gmail.com",
+"mobilePhone": "087885531922",
+"homePhone": "0217854695",
+"lineAddress1": "Jl. Jagakarsa 1, gang aren 1",
+"lineAddress2": "Kel. Jagakarsa, Kec. Jagakarsa",
+"cityAddress": "Jakarta",
+"postalCode": 12620,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Jagakarsa 1, gang aren 1",
+"mailingLineAddress2": "Kel. Jagakarsa, Kec. Jagakarsa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174047007820007",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Abadi Jaya",
+"bidangUsaha": "Perdagangan"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "ktAf1b4",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191023233958",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5470415188",
+"bankAccountName": "Indah Mulia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081369337455",
+"name": "Dina Utami",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19991106",
+"percentage": 100,
+"email": "dinautami01@gmail.com"
+}
+]
+}

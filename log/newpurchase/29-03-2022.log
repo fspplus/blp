@@ -1,0 +1,99 @@
+101.128.119.139 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 08:25:59 2022-03-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Desvianti",
+    "birthDate": "19651222", 
+"birthPlace": "Padang",
+"emailAddress": "desviantispd@gmail.com",
+"mobilePhone": "085263456590",
+"homePhone": "0751495175",
+"lineAddress1": "Komp. Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp. Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096212650003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Guru",
+"namaLembaga": "SMPN 18 Padang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Desvianti",
+    "birthDate": "19651222", 
+"birthPlace": "Padang",
+"emailAddress": "desviantispd@gmail.com",
+"mobilePhone": "085263456590",
+"homePhone": "0751495175",
+"lineAddress1": "Komp. Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp. Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096212650003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Guru",
+"namaLembaga": "SMPN 18 Padang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "00000313",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20220329082558",
+"bankCode": "118",
+"ropBankCode": "118",
+"bankAccount": "10050210103020",
+"bankAccountName": "Desvianti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263800113",
+"name": "Arini Viola Burhan",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19911115",
+"percentage": 100,
+"email": "ariniviola@gmail.com"
+}
+]
+}

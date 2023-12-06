@@ -1,0 +1,117 @@
+45.126.185.236 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:58:43 2023-03-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HANIYATI",
+    "birthDate": "19790421", 
+"birthPlace": "Medan",
+"emailAddress": "thamhanie1979@gmail.com",
+"mobilePhone": "0811635566",
+"homePhone": "0811635566",
+"lineAddress1": "JL CEMARA GG TURI NO 16 ",
+"lineAddress2": "KEL.PULO BRAYAN DARAT II KEC.MEDAN TIMUR",
+"cityAddress": "",
+"postalCode": 20239,
+"sameMailing": "0",
+"mailingLineAddress1": "KOMP ISTANA PRIMA JL B.KATAMSO NO A 3A",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271156104790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT LAUT UNITED",
+				"bidangUsaha": "EKSPOR & IMPORT SEAFOOD "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HANIYATI",
+    "birthDate": "19790421", 
+"birthPlace": "Medan",
+"emailAddress": "thamhanie1979@gmail.com",
+"mobilePhone": "0811635566",
+"homePhone": "0811635566",
+"lineAddress1": "JL CEMARA GG TURI NO 16 ",
+"lineAddress2": "KEL.PULO BRAYAN DARAT II KEC.MEDAN TIMUR",
+"cityAddress": "",
+"postalCode": 20239,
+"sameMailing": "0",
+"mailingLineAddress1": "KOMP ISTANA PRIMA JL B.KATAMSO NO A 3A",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271156104790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT LAUT UNITED",
+				"bidangUsaha": "EKSPOR & IMPORT SEAFOOD "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230324135842",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1060014991759",
+"bankAccountName": "HANIYATI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811635566",
+"name": "PRISCILIA ANGREINY",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20080825",
+"percentage": 50,
+"email": "thamhanie1979@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "0811635566",
+"name": "DAKOTA ANGGREINY",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20140817",
+"percentage": 25,
+"email": "thamhanie1979@gmail.com"
+},{
+"seqNo": "3",
+"mobileNo": "0811635566",
+"name": "VYNCENZIA ANGGREINY",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20170220",
+"percentage": 25,
+"email": "thamhanie1979@gmail.com"
+}
+]
+}

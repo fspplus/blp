@@ -1,0 +1,99 @@
+182.23.25.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:00:44 2020-12-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "LIANNE SH",
+    "birthDate": "19700922", 
+"birthPlace": "Jakarta",
+"emailAddress": "mariagoretti1346@gmail.com",
+"mobilePhone": "081294189786",
+"homePhone": "081294189786",
+"lineAddress1": "JL.ANYELIR BLOK D 6 RT.002 RW 012",
+"lineAddress2": "MEKARSARI, CIMANGGIS, DEPOK",
+"cityAddress": "Depok",
+"postalCode": 16452,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.ANYELIR BLOK D 6 RT.002 RW 012",
+"mailingLineAddress2": "MEKARSARI, CIMANGGIS, DEPOK",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16452,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3276026209700012",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "LIANNE SH",
+    "birthDate": "19700922", 
+"birthPlace": "Jakarta",
+"emailAddress": "mariagoretti1346@gmail.com",
+"mobilePhone": "081294189786",
+"homePhone": "081294189786",
+"lineAddress1": "JL.ANYELIR BLOK D 6 RT.002 RW 012",
+"lineAddress2": "MEKARSARI, CIMANGGIS, DEPOK",
+"cityAddress": "Depok",
+"postalCode": 16452,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.ANYELIR BLOK D 6 RT.002 RW 012",
+"mailingLineAddress2": "MEKARSARI, CIMANGGIS, DEPOK",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 16452,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3276026209700012",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGEN ASURANSI",
+"namaLembaga": "HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201229170044",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8690820910",
+"bankAccountName": "LIANNE SH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087877245568",
+"name": "JANUAR SE",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19790116",
+"percentage": 100,
+"email": "mariagoretti1346@gmail.com"
+}
+]
+}

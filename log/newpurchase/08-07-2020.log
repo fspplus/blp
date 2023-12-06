@@ -1,0 +1,99 @@
+61.94.54.90 https://www.bucketlistplan.co.id/prepurchase?view=finish 16:47:39 2020-07-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Gerdie Mulyadi",
+    "birthDate": "19971216", 
+"birthPlace": "Jakarta",
+"emailAddress": "gerdiemul97@gmail.com",
+"mobilePhone": "081283865803",
+"homePhone": "0215463459",
+"lineAddress1": "Jalan Doktor Makaliwe I Nomor 23",
+"lineAddress2": "Grogol, Grogol Petamburan",
+"cityAddress": "",
+"postalCode": 11450,
+"sameMailing": "0",
+"mailingLineAddress1": "Sektor 8B blok FA3/38",
+"mailingLineAddress2": "Gading Serpong, Tangerang, Banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173021612971002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Kopi Opa Korea",
+				"bidangUsaha": "Coffeeshop Franchising "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Gerdie Mulyadi",
+    "birthDate": "19971216", 
+"birthPlace": "Jakarta",
+"emailAddress": "gerdiemul97@gmail.com",
+"mobilePhone": "081283865803",
+"homePhone": "0215463459",
+"lineAddress1": "Jalan Doktor Makaliwe I Nomor 23",
+"lineAddress2": "Grogol, Grogol Petamburan",
+"cityAddress": "",
+"postalCode": 11450,
+"sameMailing": "0",
+"mailingLineAddress1": "Sektor 8B blok FA3/38",
+"mailingLineAddress2": "Gading Serpong, Tangerang, Banten",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173021612971002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Kopi Opa Korea",
+				"bidangUsaha": "Coffeeshop Franchising "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200708164739",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8830999265",
+"bankAccountName": "Gerdie Mulyadi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081283865807",
+"name": "Gerald Mulyadi",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19970111",
+"percentage": 100,
+"email": "laurensiusgerald@yahoo.com"
+}
+]
+}

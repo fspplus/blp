@@ -1,0 +1,198 @@
+120.188.79.136 https://bucketlistplan.co.id/prepurchase?view=finish 15:45:36 2020-08-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tony harijono",
+    "birthDate": "19700126", 
+"birthPlace": "Farmasi",
+"emailAddress": "toni.harijono@gmail.com",
+"mobilePhone": "08123222880",
+"homePhone": "08123222880",
+"lineAddress1": "Jl sumatra no 2",
+"lineAddress2": "Karanganyar. Panggungrejo",
+"cityAddress": "",
+"postalCode": 67151,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl kalimati tengah",
+"mailingLineAddress2": "Nomer 4",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60162,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3575012601700001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT IEKIM TIE JAYA AGUNG",
+				"bidangUsaha": "FARMASI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Tony harijono",
+    "birthDate": "19700126", 
+"birthPlace": "Farmasi",
+"emailAddress": "toni.harijono@gmail.com",
+"mobilePhone": "08123222880",
+"homePhone": "08123222880",
+"lineAddress1": "Jl sumatra no 2",
+"lineAddress2": "Karanganyar. Panggungrejo",
+"cityAddress": "",
+"postalCode": 67151,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl kalimati tengah",
+"mailingLineAddress2": "Nomer 4",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60162,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3575012601700001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT IEKIM TIE JAYA AGUNG",
+				"bidangUsaha": "FARMASI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 5,
+"referenceCode": "92011600",
+"productCode": "B.101",
+"parentProductId": 5,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 900000,
+"autoDebet": "Y",
+"purchaseDate": "20200813154535",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7230001582",
+"bankAccountName": "Tony harijono",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011600"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08123222880",
+"name": "Wilson anthonius harijono",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20110612",
+"percentage": 100,
+"email": "toni.harijono@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/prepurchase?view=finish 16:15:29 2020-08-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Irham Crissantoso",
+    "birthDate": "19930621", 
+"birthPlace": "Jakarta",
+"emailAddress": "irhamchris@gmail.com",
+"mobilePhone": "085695037565",
+"homePhone": "085695037565",
+"lineAddress1": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"lineAddress2": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"cityAddress": "Jakarta",
+"postalCode": 13210,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"mailingLineAddress2": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13210,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3175022106930006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Finance",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Irham Crissantoso",
+    "birthDate": "19930621", 
+"birthPlace": "Jakarta",
+"emailAddress": "irhamchris@gmail.com",
+"mobilePhone": "085695037565",
+"homePhone": "085695037565",
+"lineAddress1": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"lineAddress2": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"cityAddress": "Jakarta",
+"postalCode": 13210,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"mailingLineAddress2": "Jl. Sambiloto 4 No 47 RT. 14/06 Jakarta Timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13210,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3175022106930006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Finance",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "000480",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200813161529",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8790271158",
+"bankAccountName": "Irham Crissantoso",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085810572155",
+"name": "Harris Sarifudin",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19690618",
+"percentage": 100,
+"email": "irhamchris@gmail.com"
+}
+]
+}

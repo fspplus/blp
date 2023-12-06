@@ -1,0 +1,99 @@
+112.215.151.45 https://bucketlistplan.co.id/prepurchase?view=finish 15:43:26 2020-06-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tiara Puan Yoenianto",
+    "birthDate": "20000701", 
+"birthPlace": "jember",
+"emailAddress": "tiarapuan29@gmail.com",
+"mobilePhone": "087715452601",
+"homePhone": "087715452601",
+"lineAddress1": "Jl. Manyar AA - 4 , Rt 01/ Rw 004",
+"lineAddress2": "Tembokrejo, Purworejo",
+"cityAddress": "",
+"postalCode": 67118,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl Tutul IV no 91, RT 03/ RW 44",
+"mailingLineAddress2": "Dusun Pringgolayan, Kecamatan Banguntapan, kabupaten Bantul, DIY ",
+"mailingCityAddress": "Yogyakarta",
+"mailingpostalCode": 55191,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3575024107000016",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Barista",
+"namaLembaga": "Kopi Chuseyo ",
+				"bidangUsaha": "Cafe "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Tiara Puan Yoenianto",
+    "birthDate": "20000701", 
+"birthPlace": "jember",
+"emailAddress": "tiarapuan29@gmail.com",
+"mobilePhone": "087715452601",
+"homePhone": "087715452601",
+"lineAddress1": "Jl. Manyar AA - 4 , Rt 01/ Rw 004",
+"lineAddress2": "Tembokrejo, Purworejo",
+"cityAddress": "",
+"postalCode": 67118,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl Tutul IV no 91, RT 03/ RW 44",
+"mailingLineAddress2": "Dusun Pringgolayan, Kecamatan Banguntapan, kabupaten Bantul, DIY ",
+"mailingCityAddress": "Yogyakarta",
+"mailingpostalCode": 55191,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3575024107000016",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Barista",
+"namaLembaga": "Kopi Chuseyo ",
+				"bidangUsaha": "Cafe "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "0464",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200612154326",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8465467564",
+"bankAccountName": "Tiara Puan Yoenianto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085230569404",
+"name": "Vinsensia Niken Devi Intan Sari",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710916",
+"percentage": 100,
+"email": "tiarapuan29@gmail.com"
+}
+]
+}

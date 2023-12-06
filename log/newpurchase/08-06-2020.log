@@ -1,0 +1,198 @@
+103.119.50.8 https://bucketlistplan.co.id/prepurchase?view=finish 08:56:18 2020-06-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "hestiana kiftia sari",
+    "birthDate": "19911005", 
+"birthPlace": "Jakarta",
+"emailAddress": "hestiana.kiftia@gmail.com",
+"mobilePhone": "08577323212",
+"homePhone": "08577323212",
+"lineAddress1": "jl penggalang 1 rt 05 rw 10 no 31 palmeriam",
+"lineAddress2": "matraman jakarta timur",
+"cityAddress": "Jakarta",
+"postalCode": 13140,
+"sameMailing": "1",
+"mailingLineAddress1": "jl penggalang 1 rt 05 rw 10 no 31 palmeriam",
+"mailingLineAddress2": "matraman jakarta timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13140,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171084510910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "hestiana kiftia sari",
+    "birthDate": "19911005", 
+"birthPlace": "Jakarta",
+"emailAddress": "hestiana.kiftia@gmail.com",
+"mobilePhone": "08577323212",
+"homePhone": "08577323212",
+"lineAddress1": "jl penggalang 1 rt 05 rw 10 no 31 palmeriam",
+"lineAddress2": "matraman jakarta timur",
+"cityAddress": "Jakarta",
+"postalCode": 13140,
+"sameMailing": "1",
+"mailingLineAddress1": "jl penggalang 1 rt 05 rw 10 no 31 palmeriam",
+"mailingLineAddress2": "matraman jakarta timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13140,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171084510910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 3,
+"referenceCode": "000296",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20200608085618",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7000438701",
+"bankAccountName": "hestiana kiftia sari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08577323212",
+"name": "De gea glory adysti",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20181101",
+"percentage": 100,
+"email": "hestiana.kiftia@gmail.com"
+}
+]
+}
+180.244.234.64 https://bucketlistplan.co.id/prepurchase?view=finish 13:34:54 2020-06-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Suci fitriana",
+    "birthDate": "19960427", 
+"birthPlace": "Madiun",
+"emailAddress": "sucifitriana27@gmail.com",
+"mobilePhone": "082244848822",
+"homePhone": "082244848822",
+"lineAddress1": "Dusun 02 RT 9/3",
+"lineAddress2": "desa sukolilo",
+"cityAddress": "Madiun",
+"postalCode": 63161,
+"sameMailing": "1",
+"mailingLineAddress1": "Dusun 02 RT 9/3",
+"mailingLineAddress2": "desa sukolilo",
+"mailingCityAddress": "Madiun",
+"mailingpostalCode": 63161,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "3519096704930001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Assistant manager",
+"namaLembaga": "PT Bank Mandiri",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Suci fitriana",
+    "birthDate": "19960427", 
+"birthPlace": "Madiun",
+"emailAddress": "sucifitriana27@gmail.com",
+"mobilePhone": "082244848822",
+"homePhone": "082244848822",
+"lineAddress1": "Dusun 02 RT 9/3",
+"lineAddress2": "desa sukolilo",
+"cityAddress": "Madiun",
+"postalCode": 63161,
+"sameMailing": "1",
+"mailingLineAddress1": "Dusun 02 RT 9/3",
+"mailingLineAddress2": "desa sukolilo",
+"mailingCityAddress": "Madiun",
+"mailingpostalCode": 63161,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "3519096704930001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Assistant manager",
+"namaLembaga": "PT Bank Mandiri",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "000432",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200608133454",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "9000027291799",
+"bankAccountName": "Suci fitriana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082244848822",
+"name": "Lilik Sri ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19661124",
+"percentage": 100,
+"email": "sucifitriana27@gmail.com"
+}
+]
+}

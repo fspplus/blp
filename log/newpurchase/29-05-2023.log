@@ -1,0 +1,198 @@
+114.4.215.198 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:10:22 2023-05-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yulianti",
+    "birthDate": "19770707", 
+"birthPlace": "Jakatta",
+"emailAddress": "yulianti.daniel@yahoo.co.id",
+"mobilePhone": "081280058681",
+"homePhone": "081280058681",
+"lineAddress1": "Jln Terusan Gaharu I Ujung",
+"lineAddress2": "Rt 009/011, Cilandak Barat, Cilandak",
+"cityAddress": "",
+"postalCode": 12430,
+"sameMailing": "0",
+"mailingLineAddress1": "Jln Kramat Jaya Baru Blok E2 no 81 ",
+"mailingLineAddress2": "Rt 001/010, Johar Baru ",
+"mailingCityAddress": "",
+"mailingpostalCode": 10560,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3174064707770003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sinar Makmur",
+				"bidangUsaha": "Percetakan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yulianti",
+    "birthDate": "19770707", 
+"birthPlace": "Jakatta",
+"emailAddress": "yulianti.daniel@yahoo.co.id",
+"mobilePhone": "081280058681",
+"homePhone": "081280058681",
+"lineAddress1": "Jln Terusan Gaharu I Ujung",
+"lineAddress2": "Rt 009/011, Cilandak Barat, Cilandak",
+"cityAddress": "",
+"postalCode": 12430,
+"sameMailing": "0",
+"mailingLineAddress1": "Jln Kramat Jaya Baru Blok E2 no 81 ",
+"mailingLineAddress2": "Rt 001/010, Johar Baru ",
+"mailingCityAddress": "",
+"mailingpostalCode": 10560,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3174064707770003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sinar Makmur",
+				"bidangUsaha": "Percetakan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210218",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230529171022",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1681671434",
+"bankAccountName": "Yulianti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "72210218"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081330673770",
+"name": "Daniel Setiawan BP",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19760419",
+"percentage": 100,
+"email": "danielsetiawanbp@gmail.com"
+}
+]
+}
+114.4.215.198 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:51:16 2023-05-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yulianti",
+    "birthDate": "19770707", 
+"birthPlace": "Jakatta",
+"emailAddress": "yulianti.daniel@yahoo.co.id",
+"mobilePhone": "081280058681",
+"homePhone": "081280058681",
+"lineAddress1": "Jln Terusan Gaharu I Ujung",
+"lineAddress2": "Rt 009/011, Cilandak Barat, Cilandak",
+"cityAddress": "",
+"postalCode": 12430,
+"sameMailing": "0",
+"mailingLineAddress1": "Jln Kramat Jaya Baru Blok E2 no 81 ",
+"mailingLineAddress2": "Rt 001/010, Johar Baru ",
+"mailingCityAddress": "",
+"mailingpostalCode": 10560,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3174064707770003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sinar Makmur",
+				"bidangUsaha": "Percetakan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Yulianti",
+    "birthDate": "19770707", 
+"birthPlace": "Jakatta",
+"emailAddress": "yulianti.daniel@yahoo.co.id",
+"mobilePhone": "081280058681",
+"homePhone": "081280058681",
+"lineAddress1": "Jln Terusan Gaharu I Ujung",
+"lineAddress2": "Rt 009/011, Cilandak Barat, Cilandak",
+"cityAddress": "",
+"postalCode": 12430,
+"sameMailing": "0",
+"mailingLineAddress1": "Jln Kramat Jaya Baru Blok E2 no 81 ",
+"mailingLineAddress2": "Rt 001/010, Johar Baru ",
+"mailingCityAddress": "",
+"mailingpostalCode": 10560,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3174064707770003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sinar Makmur",
+				"bidangUsaha": "Percetakan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210218",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230529185116",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1681671434",
+"bankAccountName": "Yulianti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "72210218"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081330673770",
+"name": "Daniel Setiawan BP",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19760419",
+"percentage": 100,
+"email": "danielsetiawanbp@gmail.com"
+}
+]
+}

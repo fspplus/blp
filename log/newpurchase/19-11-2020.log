@@ -1,0 +1,198 @@
+182.1.60.143 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:52:05 2020-11-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Herman Syafuddin",
+    "birthDate": "19760315", 
+"birthPlace": "Medan",
+"emailAddress": "empatdantujuh@yahoo.com",
+"mobilePhone": "085261088252",
+"homePhone": "061-7348865",
+"lineAddress1": "Jl. Kalimantan No. 16B",
+"lineAddress2": "Jl. Kalimantan No. 16B",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Kapuas No. 3J",
+"mailingLineAddress2": "Jl. Kapuas No. 3J",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271011503760001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Tania Selatan",
+				"bidangUsaha": "Perkebunan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Herman Syafuddin",
+    "birthDate": "19760315", 
+"birthPlace": "Medan",
+"emailAddress": "empatdantujuh@yahoo.com",
+"mobilePhone": "085261088252",
+"homePhone": "061-7348865",
+"lineAddress1": "Jl. Kalimantan No. 16B",
+"lineAddress2": "Jl. Kalimantan No. 16B",
+"cityAddress": "",
+"postalCode": 20211,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Kapuas No. 3J",
+"mailingLineAddress2": "Jl. Kapuas No. 3J",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20213,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271011503760001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Tania Selatan",
+				"bidangUsaha": "Perkebunan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92012071",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20201119155204",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221151614",
+"bankAccountName": "Herman Syafuddin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126072119",
+"name": "Raty",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19750125",
+"percentage": 100,
+"email": "ratyse@yahoo.com"
+}
+]
+}
+114.124.142.4 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 21:28:55 2020-11-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YENI RAHMAWATI",
+    "birthDate": "19920328", 
+"birthPlace": "Jakarta",
+"emailAddress": "kumalaraisha@gmail.com",
+"mobilePhone": "082316478693",
+"homePhone": "082316478693",
+"lineAddress1": "LEGENDA WISATA ZONA MARCOPOLO BLOK A.6/40",
+"lineAddress2": "RT.001 RW.016 NAGRAK, GN.PUTRI",
+"cityAddress": "Bogor",
+"postalCode": 16965,
+"sameMailing": "1",
+"mailingLineAddress1": "LEGENDA WISATA ZONA MARCOPOLO BLOK A.6/40",
+"mailingLineAddress2": "RT.001 RW.016 NAGRAK, GN.PUTRI",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16965,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3203126803920002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "YENI RAHMAWATI",
+    "birthDate": "19920328", 
+"birthPlace": "Jakarta",
+"emailAddress": "kumalaraisha@gmail.com",
+"mobilePhone": "082316478693",
+"homePhone": "082316478693",
+"lineAddress1": "LEGENDA WISATA ZONA MARCOPOLO BLOK A.6/40",
+"lineAddress2": "RT.001 RW.016 NAGRAK, GN.PUTRI",
+"cityAddress": "Bogor",
+"postalCode": 16965,
+"sameMailing": "1",
+"mailingLineAddress1": "LEGENDA WISATA ZONA MARCOPOLO BLOK A.6/40",
+"mailingLineAddress2": "RT.001 RW.016 NAGRAK, GN.PUTRI",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16965,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3203126803920002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603936",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201119212852",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4061235323",
+"bankAccountName": "YENI RAHMAWATI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082316478693",
+"name": "RAISHA KUMALA",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20140605",
+"percentage": 100,
+"email": "kumalaraisha@gmail.com"
+}
+]
+}

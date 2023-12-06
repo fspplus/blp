@@ -1,0 +1,71 @@
+114.142.172.5 https://koreaversikamu.co.id/prepurchase?view=finish 21:51:43 2020-01-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Violin, SE.",
+    "birthDate": "19750215", 
+"birthPlace": "Firdaus",
+"emailAddress": "fjosephkho@gmail.com",
+"mobilePhone": "0811634808",
+"homePhone": "-",
+"lineAddress1": "Jl. Sikambing no. 55B",
+"lineAddress2": "Kec. Medan Petisah Kel. Sekip",
+"cityAddress": "Medan",
+"postalCode": 20113,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sikambing no. 55B",
+"mailingLineAddress2": "Kec. Medan Petisah Kel. Sekip",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20113,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1271195502750002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 2,
+"referenceCode": "92010786",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200130215141",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3830208517",
+"bankAccountName": "Violin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895613308346",
+"name": "Chris Audric Justin",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20030105",
+"percentage": 100,
+"email": "chrisaudricjustin@icloud.com"
+}
+]
+}

@@ -1,0 +1,297 @@
+103.121.18.53 https://www.bucketlistplan.co.id/prepurchase?view=finish 10:44:45 2020-07-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Veilscock Chongson",
+    "birthDate": "19881114", 
+"birthPlace": "Binjai",
+"emailAddress": "veilscock.moment@gmail.com",
+"mobilePhone": "081265818846",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok: B No:18",
+"lineAddress2": "Jl.Gatot Subroto komp.Nusa dua blok:B No:18",
+"cityAddress": "Medan",
+"postalCode": 20123,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok: B No:18",
+"mailingLineAddress2": "Jl.Gatot Subroto komp.Nusa dua blok:B No:18",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271021411880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Veilscock Chongson",
+    "birthDate": "19881114", 
+"birthPlace": "Binjai",
+"emailAddress": "veilscock.moment@gmail.com",
+"mobilePhone": "081265818846",
+"homePhone": "0614524829",
+"lineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok: B No:18",
+"lineAddress2": "Jl.Gatot Subroto komp.Nusa dua blok:B No:18",
+"cityAddress": "Medan",
+"postalCode": 20123,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok: B No:18",
+"mailingLineAddress2": "Jl.Gatot Subroto komp.Nusa dua blok:B No:18",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271021411880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200727104443",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7865180888",
+"bankAccountName": "Veilscock Chongson",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081265818846",
+"name": "Rosita Chandra",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880913",
+"percentage": 100,
+"email": "veilscock.moment@gmail.com"
+}
+]
+}
+125.165.28.54 https://www.bucketlistplan.co.id/prepurchase?view=finish 12:33:46 2020-07-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Veilscock Chongson",
+    "birthDate": "19881114", 
+"birthPlace": "Binjai",
+"emailAddress": "veilscock.moment@gmail.com",
+"mobilePhone": "081265818846",
+"homePhone": "081265818846",
+"lineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"lineAddress2": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"cityAddress": "Medan",
+"postalCode": 20123,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"mailingLineAddress2": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271021411880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Veilscock Chongson",
+    "birthDate": "19881114", 
+"birthPlace": "Binjai",
+"emailAddress": "veilscock.moment@gmail.com",
+"mobilePhone": "081265818846",
+"homePhone": "081265818846",
+"lineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"lineAddress2": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"cityAddress": "Medan",
+"postalCode": 20123,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"mailingLineAddress2": "Jl.Gatot Subroto Komp.Nusa Dua Blok B No:18",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20123,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271021411880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200727123345",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7865180888",
+"bankAccountName": "Veilscock Chongson",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081265818846",
+"name": "Rosita Chandra",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880913",
+"percentage": 100,
+"email": "veilscock.moment@gmail.com"
+}
+]
+}
+118.137.86.131 https://www.bucketlistplan.co.id/prepurchase?view=finish 16:04:31 2020-07-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NOVI ANGGRAENI",
+    "birthDate": "19950627", 
+"birthPlace": "INDRAMAYU",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"lineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"cityAddress": "Jakarta",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"mailingLineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "KARIAWAN",
+"namaLembaga": "HANWALIFE ",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NOVI ANGGRAENI",
+    "birthDate": "19950627", 
+"birthPlace": "INDRAMAYU",
+"emailAddress": "081284487324feo@gmail.com",
+"mobilePhone": "081284487324",
+"homePhone": "-",
+"lineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"lineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"cityAddress": "Jakarta",
+"postalCode": 13910,
+"sameMailing": "1",
+"mailingLineAddress1": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"mailingLineAddress2": "TAMAN PULO GEBANG BLOK B10 NO 9A ",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13910,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3212016706950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "KARIAWAN",
+"namaLembaga": "HANWALIFE ",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "Novi95",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200727160430",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5211365553",
+"bankAccountName": "NOVI ANGGRAENI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Novi95"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Zabrina lacrasha jacelyn",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20121116",
+"percentage": 100 ,
+"email": "jacelynzabrina@gmail.com"
+}
+]
+}

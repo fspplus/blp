@@ -1,0 +1,198 @@
+180.251.13.177 https://www.bucketlistplan.co.id/prepurchase?view=finish 10:05:08 2020-07-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Susana",
+    "birthDate": "19810807", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "susana3344@yahoo.com",
+"mobilePhone": "08126414388",
+"homePhone": "+62 61 800832",
+"lineAddress1": "Jl.Sudirman Dusun 1 Sei Rampah",
+"lineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok B3",
+"cityAddress": "Tebing tinggi",
+"postalCode": 20695,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Sudirman Dusun 1 Sei Rampah",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok B3",
+"mailingCityAddress": "Tebing tinggi",
+"mailingpostalCode": 20695,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1218044708810001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Susana",
+    "birthDate": "19810807", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "susana3344@yahoo.com",
+"mobilePhone": "08126414388",
+"homePhone": "+62 61 800832",
+"lineAddress1": "Jl.Sudirman Dusun 1 Sei Rampah",
+"lineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok B3",
+"cityAddress": "Tebing tinggi",
+"postalCode": 20695,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Sudirman Dusun 1 Sei Rampah",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok B3",
+"mailingCityAddress": "Tebing tinggi",
+"mailingpostalCode": 20695,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1218044708810001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},"policyPayor":{"fullName":"Susana","birthDate":"19810807","birthPlace":"","emailAddress":"susana3344@yahoo.com","mobilePhone":"08126414388","homePhone":"08126414388","lineAddress1":"Jl.Sudirman Dusun 1 Sei Rampah","lineAddress2":"Jl.Selamat Ketaren Komplek Mutiara Palace Blok B3","cityAddress":"Tebing Tinggi","postalCode":"20695","sameMailing":"0","mailingLineAddress1":"Jl.Sudirman Dusun 1 Sei Rampah","mailingLineAddress2":"Jl.Selamat Ketaren Komplek Mutiara Palace Blok B3","mailingCityAddress":"Tebing Tinggi","mailingpostalCode":20695,"gender":"F","jobType":"12","identityType":1,"identityNumber":"1218044708810001","incomeSource":"1","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"M","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"12","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"1","incomeoth":"3","incomeothdesc":"","incomeothtype":"","npwp":"000000","relwinsured":"susana3344@yahoo.com","relwholder":"0","kitasNo":"1218044708810001","office_phone1":"+62 61 800832","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200716100507",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0420032269",
+"bankAccountName": "Susana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126212621",
+"name": "Anwar Kamal",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19770226",
+"percentage": 100,
+"email": "susana3344@yahoo.com"
+}
+]
+}
+182.1.56.163 https://www.bucketlistplan.co.id/prepurchase?view=finish 14:41:42 2020-07-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Mawardi",
+    "birthDate": "19750601", 
+"birthPlace": "Medan",
+"emailAddress": "mawardisakiwa@gmail.com",
+"mobilePhone": "082361610707",
+"homePhone": "082161512751",
+"lineAddress1": "Jl.Dwikora No:101,pasar 6 Desa pematang johar-percut sei tuan",
+"lineAddress2": "Jl.Letda Sujono No:42",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Dwikora No:101,pasar 6 Desa pematang johar-percut sei tuan",
+"mailingLineAddress2": "Jl.Letda Sujono No:42",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207260106750016",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV.Laguna Cipta Dwikora",
+				"bidangUsaha": "Elektronik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Mawardi",
+    "birthDate": "19750601", 
+"birthPlace": "Medan",
+"emailAddress": "mawardisakiwa@gmail.com",
+"mobilePhone": "082361610707",
+"homePhone": "082161512751",
+"lineAddress1": "Jl.Dwikora No:101,pasar 6 Desa pematang johar-percut sei tuan",
+"lineAddress2": "Jl.Letda Sujono No:42",
+"cityAddress": "Medan",
+"postalCode": 20371,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Dwikora No:101,pasar 6 Desa pematang johar-percut sei tuan",
+"mailingLineAddress2": "Jl.Letda Sujono No:42",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207260106750016",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV.Laguna Cipta Dwikora",
+				"bidangUsaha": "Elektronik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200716144142",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300183507",
+"bankAccountName": "Mawardi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082361610707",
+"name": "Sisiwati",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19760418",
+"percentage": 100,
+"email": "mawardisakiwa@gmail.com"
+}
+]
+}

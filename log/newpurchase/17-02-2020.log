@@ -1,0 +1,142 @@
+139.255.79.155 https://koreaversikamu.co.id/prepurchase?view=finish 15:00:43 2020-02-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dada Frida",
+    "birthDate": "19651105", 
+"birthPlace": "Surabaya",
+"emailAddress": "fridakiprit65@gmail.com",
+"mobilePhone": "082141873439",
+"homePhone": "082141873439",
+"lineAddress1": "Lebak indah 18",
+"lineAddress2": "Lebak indah 18",
+"cityAddress": "Surabaya",
+"postalCode": 60134,
+"sameMailing": "1",
+"mailingLineAddress1": "Lebak indah 18",
+"mailingLineAddress2": "Lebak indah 18",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60134,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "3578104511650003",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91910418",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200217150043",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3890575675",
+"bankAccountName": "Dada Frida",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081235171015",
+"name": "Imanuel Sumargo",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19960726",
+"percentage": 100,
+"email": "imanuelsumargo96@gmail.com"
+}
+]
+}
+158.140.187.210 https://koreaversikamu.co.id/prepurchase?view=finish 15:01:30 2020-02-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tony",
+    "birthDate": "19731212", 
+"birthPlace": "Medan",
+"emailAddress": "tonysuryamin@gmail.com",
+"mobilePhone": "081277746490",
+"homePhone": "0618470886",
+"lineAddress1": "Jl.Gladiol LK XII Blok L No:18",
+"lineAddress2": "Jl.selamat Ketaren Blok:B3",
+"cityAddress": "Medan",
+"postalCode": 20124,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Gladiol LK XII Blok L No:18",
+"mailingLineAddress2": "Jl.selamat Ketaren Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20124,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271031212730004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200217150130",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8370216402",
+"bankAccountName": "Tony",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082161094263",
+"name": "Jacqueline",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20050418",
+"percentage": 100,
+"email": "tonysuryamin@gmail.com"
+}
+]
+}

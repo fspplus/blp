@@ -1,0 +1,99 @@
+140.213.36.241 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:06:16 2023-05-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Herliana ",
+    "birthDate": "19791029", 
+"birthPlace": "Medan",
+"emailAddress": "herliana2909.ht@gmail.com",
+"mobilePhone": "08126038564",
+"homePhone": "08126038564",
+"lineAddress1": "Jl. Sulang saling no.5 / 12",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sulang saling no.5 / 12",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271186910790002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sulangsaling",
+				"bidangUsaha": "Makanan ringan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Herliana ",
+    "birthDate": "19791029", 
+"birthPlace": "Medan",
+"emailAddress": "herliana2909.ht@gmail.com",
+"mobilePhone": "08126038564",
+"homePhone": "08126038564",
+"lineAddress1": "Jl. Sulang saling no.5 / 12",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sulang saling no.5 / 12",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271186910790002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sulangsaling",
+				"bidangUsaha": "Makanan ringan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230516170615",
+"bankCode": "151",
+"ropBankCode": "151",
+"bankAccount": "20104058195",
+"bankAccountName": "Herliana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08982820810",
+"name": "Yellyna",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19530327",
+"percentage": 100,
+"email": "herliana2909.ht@gmail.com"
+}
+]
+}

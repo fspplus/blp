@@ -1,0 +1,99 @@
+45.126.185.208 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:52:12 2023-03-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "LISMAWATY",
+    "birthDate": "19840531", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "lihuaharlis@gmail.com",
+"mobilePhone": "085261035578",
+"homePhone": "085261035578",
+"lineAddress1": "JL B KATAMSO NO 441D RT/RW 001/005 ",
+"lineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "",
+"postalCode": 20159,
+"sameMailing": "0",
+"mailingLineAddress1": "JL MUSTANG KOMP THE PALACE POLONIA BLOK A NO 28 ",
+"mailingLineAddress2": "KEL.SUKA DAMAI KEC.MEDAN POLONIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20157,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1272037105840002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT BINTANG MAKMUR",
+				"bidangUsaha": "PRODUKSI BARANG PECAH BELAH "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "LISMAWATY",
+    "birthDate": "19840531", 
+"birthPlace": "Pematang siantar",
+"emailAddress": "lihuaharlis@gmail.com",
+"mobilePhone": "085261035578",
+"homePhone": "085261035578",
+"lineAddress1": "JL B KATAMSO NO 441D RT/RW 001/005 ",
+"lineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "",
+"postalCode": 20159,
+"sameMailing": "0",
+"mailingLineAddress1": "JL MUSTANG KOMP THE PALACE POLONIA BLOK A NO 28 ",
+"mailingLineAddress2": "KEL.SUKA DAMAI KEC.MEDAN POLONIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20157,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1272037105840002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT BINTANG MAKMUR",
+				"bidangUsaha": "PRODUKSI BARANG PECAH BELAH "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230321165211",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6995133630",
+"bankAccountName": "LISMAWATY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085261035578",
+"name": "HARMER BUMI",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19820101",
+"percentage": 100,
+"email": "lihuaharlis@gmail.com"
+}
+]
+}

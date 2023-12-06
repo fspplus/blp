@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:02:34 2021-09-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Miftahulumi",
+    "birthDate": "19960613", 
+"birthPlace": "Bekasi",
+"emailAddress": "miftahulumi.nadi@gmail.com",
+"mobilePhone": "081294601010",
+"homePhone": "0218477532",
+"lineAddress1": "Jl. Permata Raya A6/6. Jati Kramat Indah 2. Kel. Jatikramat. Kec. Jati Asih. Kota Bekasi - 17421",
+"lineAddress2": "Kota Bekasi - 17421",
+"cityAddress": "Bekasi",
+"postalCode": 17421,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Permata Raya A6/6. Jati Kramat Indah 2. Kel. Jatikramat. Kec. Jati Asih. Kota Bekasi - 17421",
+"mailingLineAddress2": "Kota Bekasi - 17421",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17421,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275095306960007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Miftahulumi",
+    "birthDate": "19960613", 
+"birthPlace": "Bekasi",
+"emailAddress": "miftahulumi.nadi@gmail.com",
+"mobilePhone": "081294601010",
+"homePhone": "0218477532",
+"lineAddress1": "Jl. Permata Raya A6/6. Jati Kramat Indah 2. Kel. Jatikramat. Kec. Jati Asih. Kota Bekasi - 17421",
+"lineAddress2": "Kota Bekasi - 17421",
+"cityAddress": "Bekasi",
+"postalCode": 17421,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Permata Raya A6/6. Jati Kramat Indah 2. Kel. Jatikramat. Kec. Jati Asih. Kota Bekasi - 17421",
+"mailingLineAddress2": "Kota Bekasi - 17421",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17421,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275095306960007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000546",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210924150231",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7510626987",
+"bankAccountName": "Miftahulumi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081281855343",
+"name": "Rusdiana",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19960613",
+"percentage": 100,
+"email": "miftahulumi.nadi@gmail.com"
+}
+]
+}

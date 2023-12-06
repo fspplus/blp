@@ -1,0 +1,396 @@
+140.213.156.139 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 08:53:59 2021-04-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Atlas tata surya",
+    "birthDate": "19870127", 
+"birthPlace": "Medan",
+"emailAddress": "atlastatasurya@gmail.com",
+"mobilePhone": "0811631629",
+"homePhone": "0811631629",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271092701870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Atlas tata surya",
+    "birthDate": "19870127", 
+"birthPlace": "Medan",
+"emailAddress": "atlastatasurya@gmail.com",
+"mobilePhone": "0811631629",
+"homePhone": "0811631629",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271092701870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92012391",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210406085358",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221728539",
+"bankAccountName": "Atlas tata surya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116075208",
+"name": "Fanny franciska",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19860727",
+"percentage": 100,
+"email": "fannyfranciska@gmail.com"
+}
+]
+}
+140.213.156.139 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 09:06:23 2021-04-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Atlas tata surya",
+    "birthDate": "19870127", 
+"birthPlace": "Medan",
+"emailAddress": "atlastatasurya@gmail.com",
+"mobilePhone": "0811631629",
+"homePhone": "0811631629",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271092701870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Atlas tata surya",
+    "birthDate": "19870127", 
+"birthPlace": "Medan",
+"emailAddress": "atlastatasurya@gmail.com",
+"mobilePhone": "0811631629",
+"homePhone": "0811631629",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271092701870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210406090623",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116075208",
+"name": "Fanny franciska",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19860727",
+"percentage": 100,
+"email": "fannyfranciska@gmail.com"
+}
+]
+}
+140.213.156.139 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 09:06:24 2021-04-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Atlas tata surya",
+    "birthDate": "19870127", 
+"birthPlace": "Medan",
+"emailAddress": "atlastatasurya@gmail.com",
+"mobilePhone": "0811631629",
+"homePhone": "0811631629",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271092701870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Atlas tata surya",
+    "birthDate": "19870127", 
+"birthPlace": "Medan",
+"emailAddress": "atlastatasurya@gmail.com",
+"mobilePhone": "0811631629",
+"homePhone": "0811631629",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271092701870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210406090623",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116075208",
+"name": "Fanny franciska",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19860727",
+"percentage": 100,
+"email": "fannyfranciska@gmail.com"
+}
+]
+}
+140.213.156.139 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 09:19:03 2021-04-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "fanny franciska",
+    "birthDate": "19860727", 
+"birthPlace": "Medan",
+"emailAddress": "fannyfranciska@gmail.com",
+"mobilePhone": "08116075208",
+"homePhone": "08116075208",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271166707860001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Restoran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "fanny franciska",
+    "birthDate": "19860727", 
+"birthPlace": "Medan",
+"emailAddress": "fannyfranciska@gmail.com",
+"mobilePhone": "08116075208",
+"homePhone": "08116075208",
+"lineAddress1": "Villa gading mas blok k no. 1",
+"lineAddress2": "Villa gading mas blok k no. 1",
+"cityAddress": "",
+"postalCode": 20147,
+"sameMailing": "1",
+"mailingLineAddress1": "Villa gading mas blok k no. 1",
+"mailingLineAddress2": "Villa gading mas blok k no. 1",
+"mailingCityAddress": "",
+"mailingpostalCode": 20147,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271166707860001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Wisma benteng",
+				"bidangUsaha": "Restoran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92012391",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210406091902",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221861158",
+"bankAccountName": "Fanny franciska",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811631629",
+"name": "Atlas tata surya",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19870127",
+"percentage": 100,
+"email": "atlastatasurya@gmail.com"
+}
+]
+}

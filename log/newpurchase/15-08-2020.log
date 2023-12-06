@@ -1,0 +1,99 @@
+223.255.230.37 https://bucketlistplan.co.id/prepurchase?view=finish 12:05:42 2020-08-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dewi Oktaviana Subyanto",
+    "birthDate": "19911024", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewie_oktav91@yahoo.com",
+"mobilePhone": "082231021412",
+"homePhone": "082231021412",
+"lineAddress1": "Tambak Segaran Wetan no 61 ",
+"lineAddress2": "Rt 005/008 Rangkah, Tambak Sari",
+"cityAddress": "",
+"postalCode": 60135,
+"sameMailing": "0",
+"mailingLineAddress1": "Lebak jaya utara 5c no D 25",
+"mailingLineAddress2": "Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578106410910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BCA",
+				"bidangUsaha": "Marketing "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Dewi Oktaviana Subyanto",
+    "birthDate": "19911024", 
+"birthPlace": "Surabaya",
+"emailAddress": "dewie_oktav91@yahoo.com",
+"mobilePhone": "082231021412",
+"homePhone": "082231021412",
+"lineAddress1": "Tambak Segaran Wetan no 61 ",
+"lineAddress2": "Rt 005/008 Rangkah, Tambak Sari",
+"cityAddress": "",
+"postalCode": 60135,
+"sameMailing": "0",
+"mailingLineAddress1": "Lebak jaya utara 5c no D 25",
+"mailingLineAddress2": "Surabaya",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60134,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578106410910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BCA",
+				"bidangUsaha": "Marketing "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011721",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200815120541",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1020363742",
+"bankAccountName": "Dewi Oktaviana Subyanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082231021412",
+"name": "Oei Ay Fang",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19591009",
+"percentage": 100,
+"email": "dewie_oktav91@yahoo.com"
+}
+]
+}

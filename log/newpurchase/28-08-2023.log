@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:49:53 2023-08-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Asri Nur Aisyah Fajriatin ",
+    "birthDate": "19981007", 
+"birthPlace": "Jakarta",
+"emailAddress": "asrinaf10@gmail.com",
+"mobilePhone": "082119158761",
+"homePhone": "082119158761",
+"lineAddress1": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"lineAddress2": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"cityAddress": "Bekasi",
+"postalCode": 17426,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"mailingLineAddress2": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17426,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275094710980007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Asri Nur Aisyah Fajriatin ",
+    "birthDate": "19981007", 
+"birthPlace": "Jakarta",
+"emailAddress": "asrinaf10@gmail.com",
+"mobilePhone": "082119158761",
+"homePhone": "082119158761",
+"lineAddress1": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"lineAddress2": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"cityAddress": "Bekasi",
+"postalCode": 17426,
+"sameMailing": "1",
+"mailingLineAddress1": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"mailingLineAddress2": "JL PRIMADANA 2 BLOK C2/11-12 RT 010 RW 010 KEL JATISARI KEC JATISARI KOTA BEKASI JAWA BARAT",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17426,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275094710980007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Swasta",
+				"bidangUsaha": "Swasta "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "23TFJM7I",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230828164952",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0541201431",
+"bankAccountName": "Asri Nur aisyah Fajriatin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081283165686",
+"name": "Enung Nurhayati",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19670803",
+"percentage": 100,
+"email": "asrinaf10@gmail.com"
+}
+]
+}

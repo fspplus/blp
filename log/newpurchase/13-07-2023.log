@@ -1,0 +1,495 @@
+36.79.16.158 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:02:19 2023-07-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Grosir sembako JJ ",
+				"bidangUsaha": "Sembako  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Grosir sembako JJ ",
+				"bidangUsaha": "Sembako  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230713120218",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8280420124",
+"bankAccountName": "Juliani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126073415",
+"name": "Jun Ratnagho",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810618",
+"percentage": 100,
+"email": "sukartini595@gmail.com"
+}
+]
+}
+36.79.16.158 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:06:06 2023-07-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sembako jj",
+				"bidangUsaha": "Sembako  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sembako jj",
+				"bidangUsaha": "Sembako  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230713120605",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8280420124",
+"bankAccountName": "Juliani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126073415",
+"name": "Jun Ratnagho ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810618",
+"percentage": 100,
+"email": "sukartini595@gmail.com"
+}
+]
+}
+36.79.16.158 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:06:11 2023-07-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sembako jj",
+				"bidangUsaha": "Sembako  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sembako jj",
+				"bidangUsaha": "Sembako  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230713120611",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8280420124",
+"bankAccountName": "Juliani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126073415",
+"name": "Jun Ratnagho ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810618",
+"percentage": 100,
+"email": "sukartini595@gmail.com"
+}
+]
+}
+36.79.16.158 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:16:55 2023-07-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan ",
+"emailAddress": "anakajaib1277@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sembako jj ",
+				"bidangUsaha": "Sembako "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Juliani",
+    "birthDate": "19821210", 
+"birthPlace": "Medan ",
+"emailAddress": "anakajaib1277@gmail.com",
+"mobilePhone": "08126073415",
+"homePhone": "08126073415",
+"lineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pembangunan II komp Krakatau anggrek no 87 N",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271045012820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Sembako jj ",
+				"bidangUsaha": "Sembako "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230713121654",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8280420124",
+"bankAccountName": "Juliani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126073415",
+"name": "Jun Ratnagho ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810618",
+"percentage": 100,
+"email": "anakajaib1277@gmail.com"
+}
+]
+}
+45.126.185.238 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:52:35 2023-07-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "IVA HERAWATY",
+    "birthDate": "19730517", 
+"birthPlace": "Medan",
+"emailAddress": "ivalie0573@gmail.com",
+"mobilePhone": "081377021956",
+"homePhone": "081377021956",
+"lineAddress1": "JL B KATAMSO NO 445 A",
+"lineAddress2": "KEL. SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "Medan",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "JL B KATAMSO NO 445 A",
+"mailingLineAddress2": "KEL. SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271155705730001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.ASIA SAKTI WAHID",
+				"bidangUsaha": "MANUFAKTUR MAKANAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "IVA HERAWATY",
+    "birthDate": "19730517", 
+"birthPlace": "Medan",
+"emailAddress": "ivalie0573@gmail.com",
+"mobilePhone": "081377021956",
+"homePhone": "081377021956",
+"lineAddress1": "JL B KATAMSO NO 445 A",
+"lineAddress2": "KEL. SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "Medan",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "JL B KATAMSO NO 445 A",
+"mailingLineAddress2": "KEL. SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271155705730001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.ASIA SAKTI WAHID",
+				"bidangUsaha": "MANUFAKTUR MAKANAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230713165234",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6995123570",
+"bankAccountName": "IVA HERAWATY",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081377021956",
+"name": "ANDREAS GOVAN",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20040207",
+"percentage": 100,
+"email": "ivalie0573@gmail.com"
+}
+]
+}

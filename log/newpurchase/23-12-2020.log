@@ -1,0 +1,99 @@
+120.188.84.35 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:07:49 2020-12-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Paulus Yosifya",
+    "birthDate": "19610913", 
+"birthPlace": "Semarang",
+"emailAddress": "paulus.yosifya@gmail.com",
+"mobilePhone": "0816666673",
+"homePhone": "0247603031",
+"lineAddress1": "Jl. Purianjasmoro K-2 / No.22",
+"lineAddress2": "RT.006 RW.001 Kel Tawangsari Kec Semarang Barat",
+"cityAddress": "",
+"postalCode": 50144,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Purianjasmoro K-2 / No.22",
+"mailingLineAddress2": "RT.006 RW.001 Kel Tawangsari Kec Semarang Barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 50144,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374131309610003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.Jawasurya Kencana Indah",
+				"bidangUsaha": "Carton Box "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Paulus Yosifya",
+    "birthDate": "19610913", 
+"birthPlace": "Semarang",
+"emailAddress": "paulus.yosifya@gmail.com",
+"mobilePhone": "0816666673",
+"homePhone": "0247603031",
+"lineAddress1": "Jl. Purianjasmoro K-2 / No.22",
+"lineAddress2": "RT.006 RW.001 Kel Tawangsari Kec Semarang Barat",
+"cityAddress": "",
+"postalCode": 50144,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Purianjasmoro K-2 / No.22",
+"mailingLineAddress2": "RT.006 RW.001 Kel Tawangsari Kec Semarang Barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 50144,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374131309610003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.Jawasurya Kencana Indah",
+				"bidangUsaha": "Carton Box "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20201223170747",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "409023707",
+"bankAccountName": "Nani Yosifya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087832893600",
+"name": "Nani Yosifya",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19620816",
+"percentage": 100,
+"email": "nani_yosifya@yahoo.co.id"
+}
+]
+}

@@ -1,0 +1,189 @@
+10.1.1.33 https://www.bucketlistplan.co.id/prepurchase?view=finish 10:04:53 2020-07-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200720100453",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}
+182.1.18.144 https://www.bucketlistplan.co.id/prepurchase?view=finish 11:51:36 2020-07-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jenny",
+    "birthDate": "19730820", 
+"birthPlace": "Medan",
+"emailAddress": "kelvinjulio1993@gmail.com",
+"mobilePhone": "081361299887",
+"homePhone": "+62 61 800832",
+"lineAddress1": "Jl.karantina 2 No:73A",
+"lineAddress2": "Jl.Pukat banting I No:19-BE",
+"cityAddress": "Medan",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.karantina 2 No:73A",
+"mailingLineAddress2": "Jl.Pukat banting I No:19-BE",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1271146008730004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Jenny",
+    "birthDate": "19730820", 
+"birthPlace": "Medan",
+"emailAddress": "kelvinjulio1993@gmail.com",
+"mobilePhone": "081361299887",
+"homePhone": "+62 61 800832",
+"lineAddress1": "Jl.karantina 2 No:73A",
+"lineAddress2": "Jl.Pukat banting I No:19-BE",
+"cityAddress": "Medan",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.karantina 2 No:73A",
+"mailingLineAddress2": "Jl.Pukat banting I No:19-BE",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1271146008730004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},"policyPayor":{"fullName":"Jenny","birthDate":"19730820","birthPlace":"","emailAddress":"kelvinjulio1993@gmail.com","mobilePhone":"081361299887","homePhone":"081361299887","lineAddress1":"Jl.karantina 2 No:73A","lineAddress2":"Jl.Pukat Banting I No:19-BE","cityAddress":"Medan","postalCode":"20235","sameMailing":"0","mailingLineAddress1":"Jl.karantina 2 No:73A","mailingLineAddress2":"Jl.Pukat Banting I No:19-BE","mailingCityAddress":"Medan","mailingpostalCode":20235,"gender":"F","jobType":"999","identityType":1,"identityNumber":"1271146008730004","incomeSource":"1","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"M","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"999","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"1","incomeoth":"3","incomeothdesc":"","incomeothtype":"","npwp":"00000","relwinsured":"kelvinjulio1993@gmail.com","relwholder":"4","kitasNo":"1271146008730004","office_phone1":"+62 61 800832","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200720115136",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8305011050",
+"bankAccountName": "Jenny",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081361299887",
+"name": "Kelvin Julio",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19730820",
+"percentage": 100,
+"email": "kelvinjulio1993@gmail.com"
+}
+]
+}

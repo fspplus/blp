@@ -1,0 +1,99 @@
+114.122.21.36 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:31:53 2022-08-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aida Calista Tanasia",
+    "birthDate": "19901102", 
+"birthPlace": "Medan",
+"emailAddress": "aidacalista@hotmail.com",
+"mobilePhone": "08126005602",
+"homePhone": "08126005602",
+"lineAddress1": "Jl.Cendana No:37",
+"lineAddress2": "Jl.Cendana No:37",
+"cityAddress": "Medan",
+"postalCode": 20234,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Cendana No:37",
+"mailingLineAddress2": "Jl.Cendana No:37",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20234,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271194211900001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Aida boutique ",
+				"bidangUsaha": "Pakaian "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Aida Calista Tanasia",
+    "birthDate": "19901102", 
+"birthPlace": "Medan",
+"emailAddress": "aidacalista@hotmail.com",
+"mobilePhone": "08126005602",
+"homePhone": "08126005602",
+"lineAddress1": "Jl.Cendana No:37",
+"lineAddress2": "Jl.Cendana No:37",
+"cityAddress": "Medan",
+"postalCode": 20234,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Cendana No:37",
+"mailingLineAddress2": "Jl.Cendana No:37",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20234,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271194211900001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Aida boutique ",
+				"bidangUsaha": "Pakaian "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210234",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220803103152",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8645007537",
+"bankAccountName": "Aida Calista Tanasia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08192160212",
+"name": "Vincent Leonardo ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19890825",
+"percentage": 100,
+"email": "aidacalista@hotmail.com"
+}
+]
+}

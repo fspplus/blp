@@ -1,0 +1,198 @@
+118.96.173.61 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 21:24:05 2020-12-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Laurensia Adriani Soejanto",
+    "birthDate": "19971211", 
+"birthPlace": "Semarang",
+"emailAddress": "laurensyadriani96@gmail.com",
+"mobilePhone": "+33753864978",
+"homePhone": "0243520579",
+"lineAddress1": "Citra 2 Ext Blok BE 1 No.5-7",
+"lineAddress2": "RT.003 RW.020 Kel Pegadungan- Kalideres",
+"cityAddress": "",
+"postalCode": 11830,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Taman Seteran Barat 34",
+"mailingLineAddress2": "RT.03 RW.03 Kel Miroto",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50134,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374135112970006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pelajar",
+"namaLembaga": "Pelajar",
+				"bidangUsaha": "Pelajar "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Laurensia Adriani Soejanto",
+    "birthDate": "19971211", 
+"birthPlace": "Semarang",
+"emailAddress": "laurensyadriani96@gmail.com",
+"mobilePhone": "+33753864978",
+"homePhone": "0243520579",
+"lineAddress1": "Citra 2 Ext Blok BE 1 No.5-7",
+"lineAddress2": "RT.003 RW.020 Kel Pegadungan- Kalideres",
+"cityAddress": "",
+"postalCode": 11830,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Taman Seteran Barat 34",
+"mailingLineAddress2": "RT.03 RW.03 Kel Miroto",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50134,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374135112970006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pelajar",
+"namaLembaga": "Pelajar",
+				"bidangUsaha": "Pelajar "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20201226212404",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4671512167",
+"bankAccountName": "Laurensia Adriani Soejanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087889999888",
+"name": "Kusumawaty Pranata",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19741219",
+"percentage": 100,
+"email": "kusumawatyp@yahoo.com"
+}
+]
+}
+114.5.109.133 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 22:12:16 2020-12-26
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Laurensia Adriani Soejanto",
+    "birthDate": "19971211", 
+"birthPlace": "Semarang",
+"emailAddress": "laurensyadriani96@gmail.com",
+"mobilePhone": "+33753864978",
+"homePhone": "0243520579",
+"lineAddress1": "Citra 2 Ext Blok BE 1 No.5-7",
+"lineAddress2": "RT.003 RW.020 Kel Pegadungan- Kalideres",
+"cityAddress": "",
+"postalCode": 11830,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Taman Seteran Barat 34",
+"mailingLineAddress2": "RT.03 RW.03 Kel Miroto",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50134,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374135112970006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pelajar",
+"namaLembaga": "Pelajar",
+				"bidangUsaha": "Pelajar "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Laurensia Adriani Soejanto",
+    "birthDate": "19971211", 
+"birthPlace": "Semarang",
+"emailAddress": "laurensyadriani96@gmail.com",
+"mobilePhone": "+33753864978",
+"homePhone": "0243520579",
+"lineAddress1": "Citra 2 Ext Blok BE 1 No.5-7",
+"lineAddress2": "RT.003 RW.020 Kel Pegadungan- Kalideres",
+"cityAddress": "",
+"postalCode": 11830,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Taman Seteran Barat 34",
+"mailingLineAddress2": "RT.03 RW.03 Kel Miroto",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50134,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374135112970006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Pelajar",
+"namaLembaga": "Pelajar",
+				"bidangUsaha": "Pelajar "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20201226221216",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4671512167",
+"bankAccountName": "Laurensia Adriani Soejanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087889999888",
+"name": "Kusumawaty Pranata",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19741219",
+"percentage": 100,
+"email": "kusumawatyp@yahoo.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+114.10.86.66 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:02:55 2023-05-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HERMANTO",
+    "birthDate": "19870801", 
+"birthPlace": "Medan",
+"emailAddress": "hermanto.wu@gmail.com",
+"mobilePhone": "081361702636",
+"homePhone": "081361702636",
+"lineAddress1": "JL RAHMADSYAH G.KEMALA-II-38",
+"lineAddress2": "KEL. KOTA MATSUM III, KEC. MEDAN KOTA ",
+"cityAddress": "Medan",
+"postalCode": 20215,
+"sameMailing": "1",
+"mailingLineAddress1": "JL RAHMADSYAH G.KEMALA-II-38",
+"mailingLineAddress2": "KEL. KOTA MATSUM III, KEC. MEDAN KOTA ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20215,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271010108870004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SUMBER MOBIL",
+				"bidangUsaha": "DEALER USED CAR "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "HERMANTO",
+    "birthDate": "19870801", 
+"birthPlace": "Medan",
+"emailAddress": "hermanto.wu@gmail.com",
+"mobilePhone": "081361702636",
+"homePhone": "081361702636",
+"lineAddress1": "JL RAHMADSYAH G.KEMALA-II-38",
+"lineAddress2": "KEL. KOTA MATSUM III, KEC. MEDAN KOTA ",
+"cityAddress": "Medan",
+"postalCode": 20215,
+"sameMailing": "1",
+"mailingLineAddress1": "JL RAHMADSYAH G.KEMALA-II-38",
+"mailingLineAddress2": "KEL. KOTA MATSUM III, KEC. MEDAN KOTA ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20215,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271010108870004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SUMBER MOBIL",
+				"bidangUsaha": "DEALER USED CAR "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230525140255",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "8375031159",
+"bankAccountName": "HERMANTO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08163152332",
+"name": "DENI",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19811011",
+"percentage": 100,
+"email": "hermanto.wu@gmail.com"
+}
+]
+}

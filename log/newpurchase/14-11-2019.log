@@ -1,0 +1,132 @@
+10.1.1.33 https://www.koreaversikamu.co.id/prepurchase?view=finish 14:51:32 2019-11-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ani",
+    "birthDate": "20 06 1976", 
+"birthPlace": "Thgg",
+"emailAddress": "aryafahri96@gmail.com",
+"mobilePhone": "083894323654",
+"homePhone": "0215454785",
+"lineAddress1": "Gffhfd",
+"lineAddress2": "Feyhff",
+"cityAddress": "",
+"postalCode": 12345,
+"sameMailing": "1",
+"mailingLineAddress1": "Gffhfd",
+"mailingLineAddress2": "Feyhff",
+"mailingCityAddress": "",
+"mailingpostalCode": 12345,
+"gender": "F",
+"jobType": "job7",
+"identityType": 1,
+"identityNumber": "3173056006760007",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Ryg",
+"namaLembaga": "Ghjff",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191114145130",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5415063919",
+"bankAccountName": "Ani ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "083894323654",
+"name": "Tyu",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20050501",
+"percentage": 100,
+"email": "aryafahri96@gmail.com"
+}
+]
+}
+10.1.1.33 https://www.koreaversikamu.co.id/prepurchase?view=finish 14:52:58 2019-11-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nonni",
+    "birthDate": "19871112", 
+"birthPlace": "Bandung",
+"emailAddress": "nonni@gmail.com",
+"mobilePhone": "08786767678",
+"homePhone": "0217686877",
+"lineAddress1": "j. gang aren",
+"lineAddress2": "jagakarsa",
+"cityAddress": "",
+"postalCode": 12620,
+"sameMailing": "0",
+"mailingLineAddress1": "jl.rawa",
+"mailingLineAddress2": "pasar minggu",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12620,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "254576687868787",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "hanwha",
+"bidangUsaha": "asuransi"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "71909924",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191114145257",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5788466743",
+"bankAccountName": "Nonni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081387565646",
+"name": "dina",
+"famrel": 1,
+"gender": "F",
+"birthDate": "20080717",
+"percentage": 100,
+"email": "dina@gmail.com"
+}
+]
+}

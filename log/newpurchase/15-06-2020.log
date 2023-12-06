@@ -1,0 +1,99 @@
+114.125.6.215 https://www.bucketlistplan.co.id/prepurchase?view=finish 14:16:54 2020-06-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Silvia",
+    "birthDate": "19880111", 
+"birthPlace": "Medan",
+"emailAddress": "silviaeffendy88@gmail.com",
+"mobilePhone": "08196020202",
+"homePhone": "06180083290",
+"lineAddress1": "Komplek Mutiara Palace Blok AA9",
+"lineAddress2": "Komplek Mutiara Palace Blok B3",
+"cityAddress": "Medan",
+"postalCode": 20223,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Mutiara Palace Blok AA9",
+"mailingLineAddress2": "Komplek Mutiara Palace Blok B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271015101880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Silvia",
+    "birthDate": "19880111", 
+"birthPlace": "Medan",
+"emailAddress": "silviaeffendy88@gmail.com",
+"mobilePhone": "08196020202",
+"homePhone": "06180083290",
+"lineAddress1": "Komplek Mutiara Palace Blok AA9",
+"lineAddress2": "Komplek Mutiara Palace Blok B3",
+"cityAddress": "Medan",
+"postalCode": 20223,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Mutiara Palace Blok AA9",
+"mailingLineAddress2": "Komplek Mutiara Palace Blok B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271015101880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200615141653",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8250170336",
+"bankAccountName": "Silvia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "91708165"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08196020202",
+"name": "Michael",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19890911",
+"percentage": 100,
+"email": "silviaeffendy88@gmail.com"
+}
+]
+}

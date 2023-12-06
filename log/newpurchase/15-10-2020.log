@@ -1,0 +1,99 @@
+125.162.29.236 https://koreaversikamu.co.id/prepurchase?view=finish 13:18:22 2020-10-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Djuan",
+    "birthDate": "19710501", 
+"birthPlace": "Takengon",
+"emailAddress": "aliongemail@yahoo.com",
+"mobilePhone": "0811615973",
+"homePhone": "0811615973",
+"lineAddress1": "Jl.Asia Baru No:48",
+"lineAddress2": "Jl.Asia Baru No:48",
+"cityAddress": "",
+"postalCode": 20214,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271100105710002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pio coffee",
+				"bidangUsaha": "Coffee "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Djuan",
+    "birthDate": "19710501", 
+"birthPlace": "Takengon",
+"emailAddress": "aliongemail@yahoo.com",
+"mobilePhone": "0811615973",
+"homePhone": "0811615973",
+"lineAddress1": "Jl.Asia Baru No:48",
+"lineAddress2": "Jl.Asia Baru No:48",
+"cityAddress": "",
+"postalCode": 20214,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komplek Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20223,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271100105710002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pio coffee",
+				"bidangUsaha": "Coffee "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20201015131821",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1957550550",
+"bankAccountName": "Djuan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811615973",
+"name": "Juverio",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20031218",
+"percentage": 100,
+"email": "aliongemail@yahoo.com"
+}
+]
+}

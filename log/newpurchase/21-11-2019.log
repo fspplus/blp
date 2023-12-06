@@ -1,0 +1,198 @@
+10.1.1.33 https://koreaversikamu.co.id/prepurchase?view=finish 16:08:59 2019-11-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Norwati Rosni",
+    "birthDate": "19650311", 
+"birthPlace": "Medan",
+"emailAddress": "rosninurwati@gmail.com",
+"mobilePhone": "081118836",
+"homePhone": "081118836",
+"lineAddress1": "SUNTER MAS TMR H BLOK Z/14 RT 010 RW 008 SUNTER JAYA",
+"lineAddress2": "TANJUNG PRIOK JAKARTA UTARA 14350",
+"cityAddress": "Jakarta",
+"postalCode": 14350,
+"sameMailing": "1",
+"mailingLineAddress1": "SUNTER MAS TMR H BLOK Z/14 RT 010 RW 008 SUNTER JAYA",
+"mailingLineAddress2": "TANJUNG PRIOK JAKARTA UTARA 14350",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14350,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3172025103650005",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE INSURANCE",
+"bidangUsaha": "ASURANSI"
+}
+}
+},
+"purchase": {
+"productId": 4,
+"referenceCode": "91910287",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20191121160859",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5425030113",
+"bankAccountName": "Norwati Rosni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082112905979",
+"name": "Xavier Alexander Tjiam",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20050915",
+"percentage": 100,
+"email": "xavieralexandertj@gmail.com"
+}
+]
+}
+112.215.200.91 https://koreaversikamu.co.id/prepurchase?view=finish 17:47:16 2019-11-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ahmad reza anggara",
+    "birthDate": "19891111", 
+"birthPlace": "Yogyakarta",
+"emailAddress": "ahmadrezaanggara@gmail.com",
+"mobilePhone": "082136758819",
+"homePhone": "082136758819",
+"lineAddress1": "Pulau Pasir, RT 002 / RW 005",
+"lineAddress2": "Rangai Tritunggal, Katibung",
+"cityAddress": "",
+"postalCode": 35243,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl palem 1 book B1 no 21",
+"mailingLineAddress2": "Perubahan Taman cibodas, tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15132,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "1801081111890003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Telenet",
+"bidangUsaha": "IT"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "LYD",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191121174716",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7660041286",
+"bankAccountName": "Ahmad Reza Anggara",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081369005440",
+"name": "Muhammad Yasir",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19630323",
+"percentage": 100,
+"email": "ahmadrezaanggara@gmail.com"
+}
+]
+}
+118.96.47.115 https://koreaversikamu.co.id/prepurchase?view=finish 19:12:11 2019-11-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Mardiyah",
+    "birthDate": "19791009", 
+"birthPlace": "Jakarta",
+"emailAddress": "danaoke@yahoo.com",
+"mobilePhone": "087770583009",
+"homePhone": "02187787537",
+"lineAddress1": "Batu ampar III 007/003",
+"lineAddress2": "Jakarta timur",
+"cityAddress": "Jakarta",
+"postalCode": 13520,
+"sameMailing": "1",
+"mailingLineAddress1": "Batu ampar III 007/003",
+"mailingLineAddress2": "Jakarta timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13520,
+"gender": "F",
+"jobType": "job19",
+"identityType": 1,
+"identityNumber": "3175044910790007",
+"incomeSource": "shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Oke.jalanjalan",
+"bidangUsaha": "Travel"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191121191211",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5425038301",
+"bankAccountName": "Mardiyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081213055809",
+"name": "Hamdi",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19850131",
+"percentage": 100,
+"email": "danaoke@yahoo.com"
+}
+]
+}

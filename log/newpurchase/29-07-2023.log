@@ -1,0 +1,198 @@
+114.122.8.41 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:14:05 2023-07-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Devita Maya",
+    "birthDate": "19831228", 
+"birthPlace": "Pematang Siantar",
+"emailAddress": "devitamaya28@gmail.com",
+"mobilePhone": "085276988300",
+"homePhone": "085276988300",
+"lineAddress1": "Jl. Gajah Mada No. 4 C",
+"lineAddress2": "Kelurahan Petisah Tengah, Kec Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gajah Mada No. 4 C",
+"mailingLineAddress2": "Kelurahan Petisah Tengah, Kec Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271196812830003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Matahari Service",
+				"bidangUsaha": "Otomotif "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Devita Maya",
+    "birthDate": "19831228", 
+"birthPlace": "Pematang Siantar",
+"emailAddress": "devitamaya28@gmail.com",
+"mobilePhone": "085276988300",
+"homePhone": "085276988300",
+"lineAddress1": "Jl. Gajah Mada No. 4 C",
+"lineAddress2": "Kelurahan Petisah Tengah, Kec Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gajah Mada No. 4 C",
+"mailingLineAddress2": "Kelurahan Petisah Tengah, Kec Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271196812830003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Matahari Service",
+				"bidangUsaha": "Otomotif "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230729131404",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3491345908",
+"bankAccountName": "Devita Maya",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126553428",
+"name": "Celine Cherrya Sanvie",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20071028",
+"percentage": 100,
+"email": "celinesanvie28@gmail.com"
+}
+]
+}
+114.122.8.41 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:25:52 2023-07-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hasan Santoso",
+    "birthDate": "19760905", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "hasansantoso5976@gmail.com",
+"mobilePhone": "085275450311",
+"homePhone": "085275450311",
+"lineAddress1": "Jl. Gajah Mada No. 4 C",
+"lineAddress2": "Kel Petisah Tengah, Kec Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gajah Mada No. 4 C",
+"mailingLineAddress2": "Kel Petisah Tengah, Kec Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271190509760002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Matahari Service",
+				"bidangUsaha": "Otomotif "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hasan Santoso",
+    "birthDate": "19760905", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "hasansantoso5976@gmail.com",
+"mobilePhone": "085275450311",
+"homePhone": "085275450311",
+"lineAddress1": "Jl. Gajah Mada No. 4 C",
+"lineAddress2": "Kel Petisah Tengah, Kec Medan Petisah",
+"cityAddress": "Medan",
+"postalCode": 20112,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gajah Mada No. 4 C",
+"mailingLineAddress2": "Kel Petisah Tengah, Kec Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20112,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271190509760002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Matahari Service",
+				"bidangUsaha": "Otomotif "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230729132551",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3491149068",
+"bankAccountName": "Hasan Santoso",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082130368886",
+"name": "Celine Cherrya Sanvie",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20071028",
+"percentage": 100,
+"email": "celinesanvie28@gmail.com"
+}
+]
+}

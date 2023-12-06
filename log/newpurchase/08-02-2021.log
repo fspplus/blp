@@ -1,0 +1,99 @@
+182.23.59.35 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:37:08 2021-02-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "YAMIMA",
+    "birthDate": "19820715", 
+"birthPlace": "Sandana",
+"emailAddress": "yemimadiva@gmail.com",
+"mobilePhone": "082351300662",
+"homePhone": "0213924229",
+"lineAddress1": "Jl. Gunung sahari selatan IV Rt 06/07",
+"lineAddress2": "Gunung sahari kemayoran",
+"cityAddress": "",
+"postalCode": 10610,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Salemba Raya No. 24 A-B Rt 04/06",
+"mailingLineAddress2": "Kenari, kec Senen",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10430,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6105085507820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Yayasan Mika",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "YAMIMA",
+    "birthDate": "19820715", 
+"birthPlace": "Sandana",
+"emailAddress": "yemimadiva@gmail.com",
+"mobilePhone": "082351300662",
+"homePhone": "0213924229",
+"lineAddress1": "Jl. Gunung sahari selatan IV Rt 06/07",
+"lineAddress2": "Gunung sahari kemayoran",
+"cityAddress": "",
+"postalCode": 10610,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Salemba Raya No. 24 A-B Rt 04/06",
+"mailingLineAddress2": "Kenari, kec Senen",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10430,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6105085507820003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Yayasan Mika",
+				"bidangUsaha": "Pendidikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "92011654",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20210208123707",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3423358617",
+"bankAccountName": "YAMIMA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081210426864",
+"name": "Netsen",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19800222",
+"percentage": 100,
+"email": "yemimadiva@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+114.79.57.161 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 12:56:48 2020-12-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DEBBIE CAVBELL SALIM",
+    "birthDate": "19991028", 
+"birthPlace": "Medan",
+"emailAddress": "cavbell@gmail.com",
+"mobilePhone": "081223126661",
+"homePhone": "061-4530172",
+"lineAddress1": "Jalan Pabrik Tenun (Perumahan Tenun Indah) Blok B No.7",
+"lineAddress2": "Kelurahan Sei Putih Tengah, Kecamatan Medan Petisah",
+"cityAddress": "",
+"postalCode": 20118,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pabrik Tenun No.88A",
+"mailingLineAddress2": "Kelurahan Sei Putih Tengah, Kecamatan Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271196810990001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Guna Mandiri",
+				"bidangUsaha": "Konveksi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "DEBBIE CAVBELL SALIM",
+    "birthDate": "19991028", 
+"birthPlace": "Medan",
+"emailAddress": "cavbell@gmail.com",
+"mobilePhone": "081223126661",
+"homePhone": "061-4530172",
+"lineAddress1": "Jalan Pabrik Tenun (Perumahan Tenun Indah) Blok B No.7",
+"lineAddress2": "Kelurahan Sei Putih Tengah, Kecamatan Medan Petisah",
+"cityAddress": "",
+"postalCode": 20118,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Pabrik Tenun No.88A",
+"mailingLineAddress2": "Kelurahan Sei Putih Tengah, Kecamatan Medan Petisah",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20118,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271196810990001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Guna Mandiri",
+				"bidangUsaha": "Konveksi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92012059",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20201219125648",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "4125306298",
+"bankAccountName": "DEBBIE CAVBELL SALIM",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811633898",
+"name": "Budiman Salim",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19641126",
+"percentage": 100,
+"email": "alamatsuratku88a@gmail.com"
+}
+]
+}

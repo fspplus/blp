@@ -1,0 +1,495 @@
+180.244.232.131 http://uat.koreaversikamu.co.id/prepurchase?view=finish 09:20:06 2020-04-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Luar negri",
+"emailAddress": "cessaarmaida01@gmail.com",
+"mobilePhone": "924820202888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "1983881383883883",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Luar negri",
+"emailAddress": "cessaarmaida01@gmail.com",
+"mobilePhone": "924820202888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "1983881383883883",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},"policyPayor":{"fullName":"Wil","birthDate":"19800409","birthPlace":"","emailAddress":"wil@gmail.com","mobilePhone":"2382984428882","homePhone":"2382984428882","lineAddress1":"jalan","lineAddress2":"istana","cityAddress":"Jakarta","postalCode":"13232","sameMailing":"0","mailingLineAddress1":"jalan","mailingLineAddress2":"istana","mailingCityAddress":"Jakarta","mailingpostalCode":13232,"gender":"M","jobType":"32","identityType":1,"identityNumber":"2829898888888888","incomeSource":"1","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"M","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"32","occupationdesc":"","jobpos":"","incomesourcedesc":"6","incomesrcoth":"6","incomeoth":"1","incomeothdesc":"2","incomeothtype":"5","npwp":"0008880000000","relwinsured":"wil@gmail.com","relwholder":"7","kitasNo":"2829898888888888","office_phone1":"0210202020202","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200424092004",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "22144444444444444444",
+"bankAccountName": "cantik",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "2301299031010",
+"name": "cayang",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20060419",
+"percentage": 100,
+"email": "ca@gmail.com"
+}
+]
+}
+180.244.232.131 http://uat.koreaversikamu.co.id/prepurchase?view=finish 12:38:45 2020-04-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Jakarta",
+"emailAddress": "cessaarmaida01@gmai.com",
+"mobilePhone": "92820202888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1983881383883888",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "eselon",
+"namaLembaga": "kemerntrian",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Jakarta",
+"emailAddress": "cessaarmaida01@gmai.com",
+"mobilePhone": "92820202888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1983881383883888",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "eselon",
+"namaLembaga": "kemerntrian",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200424123844",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "21144444444444444444",
+"bankAccountName": "Chava",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "2431111111111",
+"name": "ja",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20200417",
+"percentage": 100,
+"email": "ja@mgai.om"
+}
+]
+}
+180.244.232.131 http://uat.koreaversikamu.co.id/prepurchase?view=finish 14:15:10 2020-04-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Jakarta",
+"emailAddress": "cessaarmaida01@gmai.com",
+"mobilePhone": "92820202888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job16",
+"identityType": 1,
+"identityNumber": "1983881383883888",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Jakarta",
+"emailAddress": "cessaarmaida01@gmai.com",
+"mobilePhone": "92820202888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job16",
+"identityType": 1,
+"identityNumber": "1983881383883888",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200424141508",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "21144444444444444444",
+"bankAccountName": "Chava",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "3255555555555",
+"name": "ca",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20200409",
+"percentage": 100,
+"email": "ca@gmail.com"
+}
+]
+}
+180.244.232.131 http://uat.koreaversikamu.co.id/prepurchase?view=finish 14:31:23 2020-04-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Jakarta",
+"emailAddress": "cessaa@gmai.com",
+"mobilePhone": "0288898888888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3113191111111111",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Jakarta",
+"emailAddress": "cessaa@gmai.com",
+"mobilePhone": "0288898888888",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Jakarta",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job17",
+"identityType": 1,
+"identityNumber": "3113191111111111",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200424143122",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "21144444444444444444",
+"bankAccountName": "Chava",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0812182919191",
+"name": "caca",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20020411",
+"percentage": 100,
+"email": "caca@gmail.com"
+}
+]
+}
+180.244.232.131 http://uat.koreaversikamu.co.id/prepurchase?view=finish 14:44:15 2020-04-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Depok",
+"emailAddress": "cessssss@gmai.com",
+"mobilePhone": "0288898877799",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Depok",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "3113191111111533",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Cessa",
+    "birthDate": "19900417", 
+"birthPlace": "Depok",
+"emailAddress": "cessssss@gmai.com",
+"mobilePhone": "0288898877799",
+"homePhone": "02392382828",
+"lineAddress1": "jalan",
+"lineAddress2": "jalan",
+"cityAddress": "Depok",
+"postalCode": 12131,
+"sameMailing": "1",
+"mailingLineAddress1": "jalan",
+"mailingLineAddress2": "jalan",
+"mailingCityAddress": "Depok",
+"mailingpostalCode": 12131,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "3113191111111533",
+"incomeSource": "Inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},"policyPayor":{"fullName":"kiki","birthDate":"19940406","birthPlace":"","emailAddress":"kiki@gmail.com","mobilePhone":"920312311222","homePhone":"920312311222","lineAddress1":"ja","lineAddress2":"xa","cityAddress":"depok","postalCode":"21312","sameMailing":"0","mailingLineAddress1":"ja","mailingLineAddress2":"xa","mailingCityAddress":"depok","mailingpostalCode":21312,"gender":"M","jobType":"32","identityType":1,"identityNumber":"3243251211111111","incomeSource":"1","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"M","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"32","occupationdesc":"","jobpos":"","incomesourcedesc":"6","incomesrcoth":"6","incomeoth":"3","incomeothdesc":"","incomeothtype":"","npwp":"3423333333333","relwinsured":"kiki@gmail.com","relwholder":"7","kitasNo":"3243251211111111","office_phone1":"02013112133","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200424144413",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2313122222222222222",
+"bankAccountName": "ceca",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "2410230101311",
+"name": "caca",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20200403",
+"percentage": 100,
+"email": "caca@gmai.com"
+}
+]
+}

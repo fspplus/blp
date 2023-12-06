@@ -1,0 +1,396 @@
+36.89.128.253 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 08:35:28 2021-09-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/bucketlistplan.co.id/web/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210921083527",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4582342630",
+"bankAccountName": "Siti Sakinah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081286500129",
+"name": "Muhamad Irfa Farhan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19900809",
+"percentage": 100,
+"email": "saqinah10@gmail.com"
+}
+]
+}
+36.89.128.253 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 08:43:18 2021-09-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/bucketlistplan.co.id/web/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210921084318",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4582342630",
+"bankAccountName": "Siti Sakinah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085210611116",
+"name": "Muhamad Irfa Farhan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19900809",
+"percentage": 100,
+"email": "saqinah10@gmail.com"
+}
+]
+}
+36.89.128.253 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:34:06 2021-09-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/bucketlistplan.co.id/web/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210921093405",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4582342630",
+"bankAccountName": "Siti Sakinah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085210611116",
+"name": "Muhamad Irfa Farhan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19900809",
+"percentage": 100,
+"email": "saqinah10@gmail.com"
+}
+]
+}
+36.89.128.253 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:34:13 2021-09-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Siti Sakinah",
+    "birthDate": "19920911", 
+"birthPlace": "Tangerang",
+"emailAddress": "saqinah10@gmail.com",
+"mobilePhone": "081286500129",
+"homePhone": "081286500129",
+"lineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"lineAddress2": "Kec. Jayanti Kab. Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 15610,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Kunir Ds. Sumur Bandung",
+"mailingLineAddress2": "Kec. Jayanti Kab. Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3603125109920006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Dahsheng",
+				"bidangUsaha": "Manufaktur "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "<br /><b>Notice</b>:  Undefined index: role in <b>/var/www/bucketlistplan.co.id/web/purchase/view-purchase/prepurchase-payment.php</b> on line <b>105</b><br />",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210921093413",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4582342630",
+"bankAccountName": "Siti Sakinah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085210611116",
+"name": "Muhamad Irfa Farhan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19900809",
+"percentage": 100,
+"email": "saqinah10@gmail.com"
+}
+]
+}

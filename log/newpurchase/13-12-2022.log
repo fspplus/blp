@@ -1,0 +1,297 @@
+140.213.17.52 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:32:06 2022-12-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "John",
+    "birthDate": "19700913", 
+"birthPlace": "Medan",
+"emailAddress": "john_liem@ymail.com",
+"mobilePhone": "085373454888",
+"homePhone": "085373454888",
+"lineAddress1": "Jl. Ismailiyah No.59 c",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Ismailiyah No.59 c",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271101309700002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agent",
+"namaLembaga": "Sinarmas ",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "John",
+    "birthDate": "19700913", 
+"birthPlace": "Medan",
+"emailAddress": "john_liem@ymail.com",
+"mobilePhone": "085373454888",
+"homePhone": "085373454888",
+"lineAddress1": "Jl. Ismailiyah No.59 c",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Ismailiyah No.59 c",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271101309700002",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agent",
+"namaLembaga": "Sinarmas ",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221213143205",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300010955",
+"bankAccountName": "John",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085373454888",
+"name": "Bradian Lie",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19961011",
+"percentage": 100,
+"email": "john_liem@ymail.com"
+}
+]
+}
+140.213.17.52 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:52:56 2022-12-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tannady Yudi Darmawan ,drg",
+    "birthDate": "19840425", 
+"birthPlace": "Balikpapan",
+"emailAddress": "anakajaib889@gmail.com",
+"mobilePhone": "08126090227",
+"homePhone": "08126090227",
+"lineAddress1": "Kapt pattimura no.135",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Kapt pattimura no.135",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271192404840004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dokter Gigi ",
+"namaLembaga": "Dokter Gigi Tannady",
+				"bidangUsaha": "Kedokteran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Tannady Yudi Darmawan ,drg",
+    "birthDate": "19840425", 
+"birthPlace": "Balikpapan",
+"emailAddress": "anakajaib889@gmail.com",
+"mobilePhone": "08126090227",
+"homePhone": "08126090227",
+"lineAddress1": "Kapt pattimura no.135",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Kapt pattimura no.135",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271192404840004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Dokter Gigi ",
+"namaLembaga": "Dokter Gigi Tannady",
+				"bidangUsaha": "Kedokteran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221213145253",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222424222",
+"bankAccountName": "Tannady Yudi Darmawan dr",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126090227",
+"name": "Drg. Katherine",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19871128",
+"percentage": 100,
+"email": "anakajaib889@gmail.com"
+}
+]
+}
+118.151.222.182 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:03:46 2022-12-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Irwan",
+    "birthDate": "19880829", 
+"birthPlace": "Medan",
+"emailAddress": "siauju88@gmail.com",
+"mobilePhone": "081233339968",
+"homePhone": "081233339968",
+"lineAddress1": "Jl. Asia no.119E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Asia no.119E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Veco Optical",
+				"bidangUsaha": "Kacamata "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Irwan",
+    "birthDate": "19880829", 
+"birthPlace": "Medan",
+"emailAddress": "siauju88@gmail.com",
+"mobilePhone": "081233339968",
+"homePhone": "081233339968",
+"lineAddress1": "Jl. Asia no.119E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Asia no.119E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271102908880003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Veco Optical",
+				"bidangUsaha": "Kacamata "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221213180345",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300139567",
+"bankAccountName": "Irwan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082276008899",
+"name": "Hoshi Iocho Anpo",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920308",
+"percentage": 100,
+"email": "siauju88@gmail.com"
+}
+]
+}

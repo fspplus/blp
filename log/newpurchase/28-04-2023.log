@@ -1,0 +1,99 @@
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:14:55 2023-04-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SURI SUKMANINGSIH",
+    "birthDate": "19910928", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "suri.acen@gmail.com",
+"mobilePhone": "085296866688",
+"homePhone": "085296866688",
+"lineAddress1": "DUSUN CEMPAKA",
+"lineAddress2": "KEL. BERINGIN, KEC.BERINGIN",
+"cityAddress": "",
+"postalCode": 20552,
+"sameMailing": "0",
+"mailingLineAddress1": "JL PANCING KOMP MMTC BLOK B 47",
+"mailingLineAddress2": "KEL. KENANGAN BARU, KEC. PERCUT SEI TUAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1276056809910001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "FINANCIAL PLANNER",
+"namaLembaga": "PT AXA FINANCIAL INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SURI SUKMANINGSIH",
+    "birthDate": "19910928", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "suri.acen@gmail.com",
+"mobilePhone": "085296866688",
+"homePhone": "085296866688",
+"lineAddress1": "DUSUN CEMPAKA",
+"lineAddress2": "KEL. BERINGIN, KEC.BERINGIN",
+"cityAddress": "",
+"postalCode": 20552,
+"sameMailing": "0",
+"mailingLineAddress1": "JL PANCING KOMP MMTC BLOK B 47",
+"mailingLineAddress2": "KEL. KENANGAN BARU, KEC. PERCUT SEI TUAN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20371,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1276056809910001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "FINANCIAL PLANNER",
+"namaLembaga": "PT AXA FINANCIAL INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230428111455",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222087528",
+"bankAccountName": "SURI SUKMANINGSIH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085296866688",
+"name": "DELVIN TOKIWA",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20131005",
+"percentage": 100,
+"email": "suri.acen@gmail.com"
+}
+]
+}

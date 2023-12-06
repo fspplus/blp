@@ -1,0 +1,99 @@
+110.138.245.167 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 05:39:03 2022-07-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Erika Bagus Fitriaji ",
+    "birthDate": "19850620", 
+"birthPlace": "Surabaya",
+"emailAddress": "erikabagusf@gmail.com",
+"mobilePhone": "081333088837",
+"homePhone": "0318703241",
+"lineAddress1": "Rungkut Kidul RK  5 Eno.37",
+"lineAddress2": "Rungkut Asri Timur XIII no.33 ",
+"cityAddress": "Surabaya",
+"postalCode": 60293,
+"sameMailing": "1",
+"mailingLineAddress1": "Rungkut Kidul RK  5 Eno.37",
+"mailingLineAddress2": "Rungkut Asri Timur XIII no.33 ",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60293,
+"gender": "M",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3578032006850003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Erika Bagus Fitriaji ",
+    "birthDate": "19850620", 
+"birthPlace": "Surabaya",
+"emailAddress": "erikabagusf@gmail.com",
+"mobilePhone": "081333088837",
+"homePhone": "0318703241",
+"lineAddress1": "Rungkut Kidul RK  5 Eno.37",
+"lineAddress2": "Rungkut Asri Timur XIII no.33 ",
+"cityAddress": "Surabaya",
+"postalCode": 60293,
+"sameMailing": "1",
+"mailingLineAddress1": "Rungkut Kidul RK  5 Eno.37",
+"mailingLineAddress2": "Rungkut Asri Timur XIII no.33 ",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60293,
+"gender": "M",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3578032006850003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220706053859",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6750487619",
+"bankAccountName": "Erika Bagus Fitriaji ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BlCP100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081231188827",
+"name": "Erika Bagus Fitriaji",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19931018",
+"percentage": 100,
+"email": "nonicawitch@gmail.com"
+}
+]
+}

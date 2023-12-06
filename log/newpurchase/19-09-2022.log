@@ -1,0 +1,99 @@
+45.126.185.209 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 14:36:31 2022-09-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Johan Gazali",
+    "birthDate": "19750707", 
+"birthPlace": "Sibolga",
+"emailAddress": "johan_enghan@yahoo.com",
+"mobilePhone": "085363901799",
+"homePhone": "085363901799",
+"lineAddress1": "Perum Pondok, Mutiara Blok K I No. 09, RT/RW 004/004",
+"lineAddress2": "Kel. Tampan, Kec.Payung Sekaki",
+"cityAddress": "Pekanbaru",
+"postalCode": 28292,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum Pondok, Mutiara Blok K I No. 09, RT/RW 004/004",
+"mailingLineAddress2": "Kel. Tampan, Kec.Payung Sekaki",
+"mailingCityAddress": "Pekanbaru",
+"mailingpostalCode": 28292,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1471070707750021",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Jotasindo Prima  Sentosa",
+				"bidangUsaha": "Distributor Cat "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Johan Gazali",
+    "birthDate": "19750707", 
+"birthPlace": "Sibolga",
+"emailAddress": "johan_enghan@yahoo.com",
+"mobilePhone": "085363901799",
+"homePhone": "085363901799",
+"lineAddress1": "Perum Pondok, Mutiara Blok K I No. 09, RT/RW 004/004",
+"lineAddress2": "Kel. Tampan, Kec.Payung Sekaki",
+"cityAddress": "Pekanbaru",
+"postalCode": 28292,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum Pondok, Mutiara Blok K I No. 09, RT/RW 004/004",
+"mailingLineAddress2": "Kel. Tampan, Kec.Payung Sekaki",
+"mailingCityAddress": "Pekanbaru",
+"mailingpostalCode": 28292,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1471070707750021",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Jotasindo Prima  Sentosa",
+				"bidangUsaha": "Distributor Cat "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210241",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20220919143630",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0341574225",
+"bankAccountName": "Johan Gazali",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081266207159",
+"name": "Lily",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19760503",
+"percentage": 100,
+"email": "tai_lily@yahoo.com"
+}
+]
+}

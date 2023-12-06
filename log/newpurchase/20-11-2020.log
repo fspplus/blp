@@ -1,0 +1,99 @@
+182.1.108.34 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:08:21 2020-11-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Naufal",
+    "birthDate": "19890703", 
+"birthPlace": "Surabaya",
+"emailAddress": "naufalsuryono2@gmail.com",
+"mobilePhone": "085225906183",
+"homePhone": "085290738011",
+"lineAddress1": "Perum Surya Asri Blok 1C 4-1",
+"lineAddress2": "Pandean 3/11",
+"cityAddress": "",
+"postalCode": 61356,
+"sameMailing": "0",
+"mailingLineAddress1": "Pandean 3/11",
+"mailingLineAddress2": "Perum Surya Asri Blok 1C 4-1",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60274,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3316090307890004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BTB",
+				"bidangUsaha": "Properti "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Naufal",
+    "birthDate": "19890703", 
+"birthPlace": "Surabaya",
+"emailAddress": "naufalsuryono2@gmail.com",
+"mobilePhone": "085225906183",
+"homePhone": "085290738011",
+"lineAddress1": "Perum Surya Asri Blok 1C 4-1",
+"lineAddress2": "Pandean 3/11",
+"cityAddress": "",
+"postalCode": 61356,
+"sameMailing": "0",
+"mailingLineAddress1": "Pandean 3/11",
+"mailingLineAddress2": "Perum Surya Asri Blok 1C 4-1",
+"mailingCityAddress": "Surabaya",
+"mailingpostalCode": 60274,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3316090307890004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BTB",
+				"bidangUsaha": "Properti "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20201120110819",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "1102985078",
+"bankAccountName": "Naufal",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085290738011",
+"name": "Yul Nur Ella",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19611028",
+"percentage": 100,
+"email": "naufalsuryono2@gmail.com"
+}
+]
+}

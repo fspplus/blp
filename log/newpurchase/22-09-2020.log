@@ -1,0 +1,99 @@
+114.122.20.36 https://koreaversikamu.co.id/prepurchase?view=finish 23:29:03 2020-09-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "edy sugianto",
+    "birthDate": "19800612", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "edysugianto@yahoo.com",
+"mobilePhone": "08163179292",
+"homePhone": "0614516924",
+"lineAddress1": "katamso dalam 64e ",
+"lineAddress2": "kel. aur kec. medan maimun",
+"cityAddress": "Medan",
+"postalCode": 20151,
+"sameMailing": "1",
+"mailingLineAddress1": "katamso dalam 64e ",
+"mailingLineAddress2": "kel. aur kec. medan maimun",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20151,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271151206800001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "cv unisys",
+				"bidangUsaha": "komputer "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "edy sugianto",
+    "birthDate": "19800612", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "edysugianto@yahoo.com",
+"mobilePhone": "08163179292",
+"homePhone": "0614516924",
+"lineAddress1": "katamso dalam 64e ",
+"lineAddress2": "kel. aur kec. medan maimun",
+"cityAddress": "Medan",
+"postalCode": 20151,
+"sameMailing": "1",
+"mailingLineAddress1": "katamso dalam 64e ",
+"mailingLineAddress2": "kel. aur kec. medan maimun",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20151,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271151206800001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "cv unisys",
+				"bidangUsaha": "komputer "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91910425",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20200922232901",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000213102",
+"bankAccountName": "edy sugianto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811633853",
+"name": "emi",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19841101",
+"percentage": 100,
+"email": "emifang@yahoo.com"
+}
+]
+}

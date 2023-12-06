@@ -1,0 +1,99 @@
+182.1.31.182 https://koreaversikamu.co.id/prepurchase?view=finish 10:35:51 2020-10-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fery Chandra",
+    "birthDate": "19890313", 
+"birthPlace": "Medan",
+"emailAddress": "fery_abc.drycell@yahoo.com",
+"mobilePhone": "085922392888",
+"homePhone": "0618451509",
+"lineAddress1": "Komplek Amalia Residance Blok B No:2 LK19",
+"lineAddress2": "Komplek Amalia Residance Blok B No:2 LK19",
+"cityAddress": "",
+"postalCode": 20244,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Binjai Km.9.5 Paya Geli-Medan",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komp.Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20351,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271021303890004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.Everbright",
+				"bidangUsaha": "Batere "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Fery Chandra",
+    "birthDate": "19890313", 
+"birthPlace": "Medan",
+"emailAddress": "fery_abc.drycell@yahoo.com",
+"mobilePhone": "085922392888",
+"homePhone": "0618451509",
+"lineAddress1": "Komplek Amalia Residance Blok B No:2 LK19",
+"lineAddress2": "Komplek Amalia Residance Blok B No:2 LK19",
+"cityAddress": "",
+"postalCode": 20244,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl.Binjai Km.9.5 Paya Geli-Medan",
+"mailingLineAddress2": "Jl.Selamat Ketaren Komp.Mutiara Palace Blok:B3",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20351,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271021303890004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.Everbright",
+				"bidangUsaha": "Batere "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20201001103551",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8075066372",
+"bankAccountName": "Fery Chandra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085922392888",
+"name": "Lisa",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19920317",
+"percentage": 100,
+"email": "fery_abc.drycell@yahoo.com"
+}
+]
+}

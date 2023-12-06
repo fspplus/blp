@@ -1,0 +1,99 @@
+45.126.185.209 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:50:54 2022-11-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Erni",
+    "birthDate": "19811109", 
+"birthPlace": "Tanjungbalai",
+"emailAddress": "ernylin7@gmail.com",
+"mobilePhone": "085361109238",
+"homePhone": "085361109238",
+"lineAddress1": "Jl. Brig. Katamso Baru No.22 Medan",
+"lineAddress2": ".Jl. Brig. Katamso Baru No.22 Medan",
+"cityAddress": "Medan",
+"postalCode": 20151,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Brig. Katamso Baru No.22 Medan",
+"mailingLineAddress2": ".Jl. Brig. Katamso Baru No.22 Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20151,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271154911810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Erni Stroe",
+				"bidangUsaha": "Kelontong "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Erni",
+    "birthDate": "19811109", 
+"birthPlace": "Tanjungbalai",
+"emailAddress": "ernylin7@gmail.com",
+"mobilePhone": "085361109238",
+"homePhone": "085361109238",
+"lineAddress1": "Jl. Brig. Katamso Baru No.22 Medan",
+"lineAddress2": ".Jl. Brig. Katamso Baru No.22 Medan",
+"cityAddress": "Medan",
+"postalCode": 20151,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Brig. Katamso Baru No.22 Medan",
+"mailingLineAddress2": ".Jl. Brig. Katamso Baru No.22 Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20151,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271154911810006",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Erni Stroe",
+				"bidangUsaha": "Kelontong "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221112135052",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000535525",
+"bankAccountName": "Erni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085361109238",
+"name": "Lim Hui Tjeng alias Susi",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19490414",
+"percentage": 100,
+"email": "ernylin7@gamail.com"
+}
+]
+}

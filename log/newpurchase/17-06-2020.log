@@ -1,0 +1,99 @@
+180.244.234.147 https://koreaversikamu.co.id/prepurchase?view=finish 09:33:03 2020-06-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Meilyna Candra",
+    "birthDate": "20000525", 
+"birthPlace": "Bogor",
+"emailAddress": "lyna250500@gmail.com",
+"mobilePhone": "082297806056",
+"homePhone": "082297806056",
+"lineAddress1": "Jalan Pepaya Ujung No. 112 ",
+"lineAddress2": "Rt01/Rw10 Kel. Kotabatu, Kec. Ciomas",
+"cityAddress": "Bogor",
+"postalCode": 16610,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Pepaya Ujung No. 112 ",
+"mailingLineAddress2": "Rt01/Rw10 Kel. Kotabatu, Kec. Ciomas",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16610,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201296505000006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agen",
+"namaLembaga": "Hanwha Life Insurance",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Meilyna Candra",
+    "birthDate": "20000525", 
+"birthPlace": "Bogor",
+"emailAddress": "lyna250500@gmail.com",
+"mobilePhone": "082297806056",
+"homePhone": "082297806056",
+"lineAddress1": "Jalan Pepaya Ujung No. 112 ",
+"lineAddress2": "Rt01/Rw10 Kel. Kotabatu, Kec. Ciomas",
+"cityAddress": "Bogor",
+"postalCode": 16610,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Pepaya Ujung No. 112 ",
+"mailingLineAddress2": "Rt01/Rw10 Kel. Kotabatu, Kec. Ciomas",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16610,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201296505000006",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agen",
+"namaLembaga": "Hanwha Life Insurance",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92010889",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200617093303",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7370339907",
+"bankAccountName": "Meilyna Candra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082297806056",
+"name": "Lim Sui Hiong",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19640419",
+"percentage": 100,
+"email": "lyna250500@gmail.com"
+}
+]
+}

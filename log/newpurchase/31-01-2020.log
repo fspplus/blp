@@ -1,0 +1,142 @@
+103.37.229.133 https://www.koreaversikamu.co.id/prepurchase?view=finish 16:19:36 2020-01-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Linda Salim",
+    "birthDate": "19721224", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "lindasalimlim@gmail.com",
+"mobilePhone": "-",
+"homePhone": "-",
+"lineAddress1": "Jalan Timor Baru no. 12 DH / 4K",
+"lineAddress2": "Kel. Gang Buntu Kec. Medan Timur",
+"cityAddress": "Medan",
+"postalCode": 20231,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Timor Baru no. 12 DH / 4K",
+"mailingLineAddress2": "Kel. Gang Buntu Kec. Medan Timur",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20231,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1271206412720003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 2,
+"referenceCode": "20VI3EDK",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200131161936",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3830985360",
+"bankAccountName": "Linda Salim",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Ambran Khomala",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19641013",
+"percentage": 100,
+"email": "bryanedbert55@gmail.com"
+}
+]
+}
+103.25.166.82 https://koreaversikamu.co.id/prepurchase?view=finish 20:08:41 2020-01-31
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SURIATI",
+    "birthDate": "19740301", 
+"birthPlace": "Kuala Simpang",
+"emailAddress": "lie_suang@yahoo.com",
+"mobilePhone": "00",
+"homePhone": "-",
+"lineAddress1": "Jalan Flores no. 28/22",
+"lineAddress2": "Kel. Pandau Hilir Kec. Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20232,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Flores no. 28/22",
+"mailingLineAddress2": "Kel. Pandau Hilir Kec. Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job10",
+"identityType": 1,
+"identityNumber": "1271184103740003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 2,
+"referenceCode": "20VI3EDK",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20200131200840",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221522361",
+"bankAccountName": "Suriati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "-",
+"name": "Niki Nicander",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20021228",
+"percentage": 100,
+"email": "james_pandi2002@yahoo.com"
+}
+]
+}

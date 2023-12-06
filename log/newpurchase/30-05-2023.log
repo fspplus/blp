@@ -1,0 +1,504 @@
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:56:07 2023-05-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ING YONG",
+    "birthDate": "19790611", 
+"birthPlace": "PANTAI LABU",
+"emailAddress": "ingyong_tas@yahoo.com",
+"mobilePhone": "081361593888",
+"homePhone": "081361593888",
+"lineAddress1": "KOMP TAMAN PRIMADONA NO M-5 LK 7",
+"lineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20128,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP TAMAN PRIMADONA NO M-5 LK 7",
+"mailingLineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20128,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271025106790002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dapur Uniq",
+				"bidangUsaha": "Pecah Belah "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "ING YONG",
+    "birthDate": "19790611", 
+"birthPlace": "PANTAI LABU",
+"emailAddress": "ingyong_tas@yahoo.com",
+"mobilePhone": "081361593888",
+"homePhone": "081361593888",
+"lineAddress1": "KOMP TAMAN PRIMADONA NO M-5 LK 7",
+"lineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"cityAddress": "Medan",
+"postalCode": 20128,
+"sameMailing": "1",
+"mailingLineAddress1": "KOMP TAMAN PRIMADONA NO M-5 LK 7",
+"mailingLineAddress2": "KEL. SUNGGAL, KEC. MEDAN SUNGGAL",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20128,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271025106790002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dapur Uniq",
+				"bidangUsaha": "Pecah Belah "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230530125606",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222188341",
+"bankAccountName": "ING YONG",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085296389888",
+"name": "ERWIN",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19760430",
+"percentage": 100,
+"email": "erwin01@gmail.com"
+}
+]
+}
+118.136.23.53 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:02:57 2023-05-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Susianti",
+    "birthDate": "19871005", 
+"birthPlace": "Medan",
+"emailAddress": "chensusyanty@yahoo.com",
+"mobilePhone": "087878708986",
+"homePhone": "0218583329",
+"lineAddress1": "Jl kh ahmad dahlan no 7, kel. palmeriam kec.matraman",
+"lineAddress2": "RT12/08 matraman jakarta timur",
+"cityAddress": "Jakarta",
+"postalCode": 13140,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl kh ahmad dahlan no 7, kel. palmeriam kec.matraman",
+"mailingLineAddress2": "RT12/08 matraman jakarta timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13140,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3175014510871001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Rays motor",
+				"bidangUsaha": "Bengkel "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Susianti",
+    "birthDate": "19871005", 
+"birthPlace": "Medan",
+"emailAddress": "chensusyanty@yahoo.com",
+"mobilePhone": "087878708986",
+"homePhone": "0218583329",
+"lineAddress1": "Jl kh ahmad dahlan no 7, kel. palmeriam kec.matraman",
+"lineAddress2": "RT12/08 matraman jakarta timur",
+"cityAddress": "Jakarta",
+"postalCode": 13140,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl kh ahmad dahlan no 7, kel. palmeriam kec.matraman",
+"mailingLineAddress2": "RT12/08 matraman jakarta timur",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13140,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3175014510871001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Rays motor",
+				"bidangUsaha": "Bengkel "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210218",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230530140256",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0941592952",
+"bankAccountName": "Susianti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087878774229",
+"name": "Raymond wibawa kuswadi",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19780917",
+"percentage": 100,
+"email": "rere78kuswadi@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:48:11 2023-05-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Riefki Ardiansyah",
+    "birthDate": "19861012", 
+"birthPlace": "Jakarta",
+"emailAddress": "ardiansyah.riefki2@gmail.com",
+"mobilePhone": "081808860434",
+"homePhone": "081808860434",
+"lineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"lineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"cityAddress": "Tangerang",
+"postalCode": 15151,
+"sameMailing": "1",
+"mailingLineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"mailingLineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15151,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171071210860001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SWASTA",
+				"bidangUsaha": "SWASTA "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Riefki Ardiansyah",
+    "birthDate": "19861012", 
+"birthPlace": "Jakarta",
+"emailAddress": "ardiansyah.riefki2@gmail.com",
+"mobilePhone": "081808860434",
+"homePhone": "081808860434",
+"lineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"lineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"cityAddress": "Tangerang",
+"postalCode": 15151,
+"sameMailing": "1",
+"mailingLineAddress1": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"mailingLineAddress2": "KP DUKUH RT 002 RW 006 KEL SUDIMARA SELATAN KEC CILEDUG KOTA TANGERANG ",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15151,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171071210860001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SWASTA",
+				"bidangUsaha": "SWASTA "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210218",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230530154810",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0701638211",
+"bankAccountName": "Riefki Ardiansyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "083874295226",
+"name": "RINI RIANTI ",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19910426",
+"percentage": 100,
+"email": "rinirianti26@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:14:19 2023-05-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DEMPO SATRIANDU",
+    "birthDate": "19700101", 
+"birthPlace": "Bogor",
+"emailAddress": "demposatriandu@gmail.con",
+"mobilePhone": "087746503617",
+"homePhone": "087746503617",
+"lineAddress1": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"lineAddress2": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"cityAddress": "",
+"postalCode": 16610,
+"sameMailing": "1",
+"mailingLineAddress1": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"mailingLineAddress2": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"mailingCityAddress": "",
+"mailingpostalCode": 16610,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201291202840005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SWASTA",
+				"bidangUsaha": "SWASTA "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DEMPO SATRIANDU",
+    "birthDate": "19700101", 
+"birthPlace": "Bogor",
+"emailAddress": "demposatriandu@gmail.con",
+"mobilePhone": "087746503617",
+"homePhone": "087746503617",
+"lineAddress1": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"lineAddress2": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"cityAddress": "",
+"postalCode": 16610,
+"sameMailing": "1",
+"mailingLineAddress1": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"mailingLineAddress2": "JL GABUS NO 7 TMN PAGELARAN RT 006 RW 010 KEL PADASUKA KEC CIOMAS KAB BOGOR ",
+"mailingCityAddress": "",
+"mailingpostalCode": 16610,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201291202840005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SWASTA",
+				"bidangUsaha": "SWASTA "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210218",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230530161418",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6820853791",
+"bankAccountName": "DEMPO SATRIANDU",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087746503617",
+"name": "CONSTANTINE KEN AKHTAR",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20160902",
+"percentage": 50,
+"email": "demposatriandu@gmail.con"
+},{
+"seqNo": "2",
+"mobileNo": "087746503617",
+"name": "	CLARENCE KIM ORLEAN",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20191120",
+"percentage": 50,
+"email": "demposatriandu@gmail.con"
+}
+]
+}
+180.241.46.134 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:37:58 2023-05-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Butiano",
+    "birthDate": "19760420", 
+"birthPlace": "Palembang",
+"emailAddress": "butiano88@gmail.com",
+"mobilePhone": "08126524677",
+"homePhone": "08126524677",
+"lineAddress1": "Jl. Krantina no.61 F",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Krantina no.61 F",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271202004760007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Printis Jaya Makmur",
+				"bidangUsaha": "Pemgangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Butiano",
+    "birthDate": "19760420", 
+"birthPlace": "Palembang",
+"emailAddress": "butiano88@gmail.com",
+"mobilePhone": "08126524677",
+"homePhone": "08126524677",
+"lineAddress1": "Jl. Krantina no.61 F",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Krantina no.61 F",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271202004760007",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Printis Jaya Makmur",
+				"bidangUsaha": "Pemgangkutan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230530183757",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221089692",
+"bankAccountName": "Butiano",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126386833",
+"name": "Lily",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19760814",
+"percentage": 100,
+"email": "butiano88@gmail.com"
+}
+]
+}

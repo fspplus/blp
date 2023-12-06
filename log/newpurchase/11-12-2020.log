@@ -1,0 +1,99 @@
+223.255.229.26 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:33:39 2020-12-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jihan Kurnia Setiadi",
+    "birthDate": "20020211", 
+"birthPlace": "Makassar",
+"emailAddress": "irmamagfira1993@gmail.com",
+"mobilePhone": "082190313228",
+"homePhone": "082190313228",
+"lineAddress1": "Jl. Cendrawasih no 99/131",
+"lineAddress2": "Rt 004/01. Mario, Mariso",
+"cityAddress": "",
+"postalCode": 90125,
+"sameMailing": "0",
+"mailingLineAddress1": "Bumi Palangga Mas 1 Blok D No.10",
+"mailingLineAddress2": "kec Palangga, Kel Bontoala, kab Gowa, 92161",
+"mailingCityAddress": "Makassar",
+"mailingpostalCode": 92161,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7371035102020008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jihan Kurnia Setiadi",
+    "birthDate": "20020211", 
+"birthPlace": "Makassar",
+"emailAddress": "irmamagfira1993@gmail.com",
+"mobilePhone": "082190313228",
+"homePhone": "082190313228",
+"lineAddress1": "Jl. Cendrawasih no 99/131",
+"lineAddress2": "Rt 004/01. Mario, Mariso",
+"cityAddress": "",
+"postalCode": 90125,
+"sameMailing": "0",
+"mailingLineAddress1": "Bumi Palangga Mas 1 Blok D No.10",
+"mailingLineAddress2": "kec Palangga, Kel Bontoala, kab Gowa, 92161",
+"mailingCityAddress": "Makassar",
+"mailingpostalCode": 92161,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7371035102020008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 6,
+"referenceCode": "92011857",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20201211093338",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "305001031448532",
+"bankAccountName": "Jihan Kurnia Setiadi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "BLPCB100"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085146117074",
+"name": "Irma Magfira / Hartiah",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19931028",
+"percentage": 100,
+"email": "irmamagfira1993@gmail.com"
+}
+]
+}

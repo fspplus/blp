@@ -1,0 +1,19 @@
+05-10-2020 08:22:25 - ERROR - v: 6.8.7 - m: 64.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+05-10-2020 08:23:29 - ERROR - v: 6.8.7 - m: 64.3 MB, u: 1 - SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: Your FROM address ( hanwha.blindspot.id , Koreaversikamu
+<newsletter@hanwha.blindspot.id> ) must match your authenticated email
+domain ( fspplus.com ). Treating this as a spoofed email.
+ SMTP code: 550
+05-10-2020 08:24:38 - ERROR - v: 6.8.7 - m: 64.3 MB, u: 1 - SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: Your FROM address ( hanwha.blindspot.id , Koreaversikamu
+<newsletter@hanwha.blindspot.id> ) must match your authenticated email
+domain ( blindspot.id ). Treating this as a spoofed email.
+ SMTP code: 550
+05-10-2020 08:25:47 - ERROR - v: 6.8.7 - m: 64.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+05-10-2020 08:26:27 - ERROR - v: 6.8.7 - m: 64.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+05-10-2020 08:28:31 - ERROR - v: 6.8.7 - m: 64.5 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+05-10-2020 08:28:40 - ERROR - v: 6.8.7 - m: 64.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+05-10-2020 08:32:22 - ERROR - v: 6.8.7 - m: 62.7 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+05-10-2020 08:33:15 - ERROR - v: 6.8.7 - m: 62.7 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+05-10-2020 08:33:55 - ERROR - v: 6.8.7 - m: 62.7 MB, u: 1 - SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: Your FROM address ( hanwha.blindspot.id , Koreaversikamu
+<newsletter@hanwha.blindspot.id> ) must match your authenticated email
+domain ( blindspot.id ). Treating this as a spoofed email.
+ SMTP code: 550

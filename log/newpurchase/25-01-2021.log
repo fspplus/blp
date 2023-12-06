@@ -1,0 +1,99 @@
+182.0.208.150 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:17:28 2021-01-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rita",
+    "birthDate": "19881213", 
+"birthPlace": "Wonogiri",
+"emailAddress": "rita_rita81@yahoo.com",
+"mobilePhone": "08138002618",
+"homePhone": "02184971988",
+"lineAddress1": "Jl. Caman raya rt 02/03",
+"lineAddress2": "Jatibening",
+"cityAddress": "",
+"postalCode": 17412,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Wijaya kusuma Blok B/189. Perum jatibening permai, Pondok gede",
+"mailingLineAddress2": "Pondok gede",
+"mailingCityAddress": "",
+"mailingpostalCode": 17412,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275085312880007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Supra chemie",
+				"bidangUsaha": "Trading "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Rita",
+    "birthDate": "19881213", 
+"birthPlace": "Wonogiri",
+"emailAddress": "rita_rita81@yahoo.com",
+"mobilePhone": "08138002618",
+"homePhone": "02184971988",
+"lineAddress1": "Jl. Caman raya rt 02/03",
+"lineAddress2": "Jatibening",
+"cityAddress": "",
+"postalCode": 17412,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Wijaya kusuma Blok B/189. Perum jatibening permai, Pondok gede",
+"mailingLineAddress2": "Pondok gede",
+"mailingCityAddress": "",
+"mailingpostalCode": 17412,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275085312880007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Supra chemie",
+				"bidangUsaha": "Trading "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011654",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210125111727",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7510766932",
+"bankAccountName": "Rita",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08119404044",
+"name": "Nurgianto",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19840617",
+"percentage": 100,
+"email": "ginahartono.gh@gmail.com"
+}
+]
+}

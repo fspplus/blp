@@ -1,0 +1,198 @@
+140.213.34.50 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:21:37 2023-07-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Willyam Wilkes Pranata",
+    "birthDate": "19980212", 
+"birthPlace": "Tanggerang",
+"emailAddress": "pranatawillyam101@gmail.com",
+"mobilePhone": "087748960638",
+"homePhone": "087748960638",
+"lineAddress1": "Jl Perniagaan No 57",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Perniagaan No 57",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1205071202980004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Perkasa",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Willyam Wilkes Pranata",
+    "birthDate": "19980212", 
+"birthPlace": "Tanggerang",
+"emailAddress": "pranatawillyam101@gmail.com",
+"mobilePhone": "087748960638",
+"homePhone": "087748960638",
+"lineAddress1": "Jl Perniagaan No 57",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Perniagaan No 57",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1205071202980004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Perkasa",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230719152137",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1951960638",
+"bankAccountName": "Willyam Wilkes Pranata",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087748960638",
+"name": "Chelsea",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20061111",
+"percentage": 100,
+"email": "pranatawillyam101@gmail.com"
+}
+]
+}
+182.253.242.73 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 23:13:51 2023-07-19
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hendry Chandra",
+    "birthDate": "19841031", 
+"birthPlace": "Medan",
+"emailAddress": "chandrayie@gmail.com",
+"mobilePhone": "082168683988",
+"homePhone": "082168683988",
+"lineAddress1": "Jl. Gembung No.52",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gembung No.52",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271043110840001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hendry Chandra",
+    "birthDate": "19841031", 
+"birthPlace": "Medan",
+"emailAddress": "chandrayie@gmail.com",
+"mobilePhone": "082168683988",
+"homePhone": "082168683988",
+"lineAddress1": "Jl. Gembung No.52",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gembung No.52",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271043110840001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230719231350",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3830950787",
+"bankAccountName": "Hendry Chandra",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081283653800",
+"name": "Linda",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19840801",
+"percentage": 100,
+"email": "linda_limousin@yahoo.com"
+}
+]
+}

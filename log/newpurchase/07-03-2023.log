@@ -1,0 +1,99 @@
+45.126.185.208 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:41:37 2023-03-07
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Vindy Kotto",
+    "birthDate": "19661130", 
+"birthPlace": "Binjai",
+"emailAddress": "vindy.kotto88@gmail.com",
+"mobilePhone": "085261677911",
+"homePhone": "085261677911",
+"lineAddress1": "Jl. AR. Hakim No. 183 C",
+"lineAddress2": "Kel. Tegal Sari II",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. AR. Hakim No. 183 C",
+"mailingLineAddress2": "Kel. Tegal Sari II",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275013011660005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto Crystal",
+				"bidangUsaha": "Foto copy "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Vindy Kotto",
+    "birthDate": "19661130", 
+"birthPlace": "Binjai",
+"emailAddress": "vindy.kotto88@gmail.com",
+"mobilePhone": "085261677911",
+"homePhone": "085261677911",
+"lineAddress1": "Jl. AR. Hakim No. 183 C",
+"lineAddress2": "Kel. Tegal Sari II",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. AR. Hakim No. 183 C",
+"mailingLineAddress2": "Kel. Tegal Sari II",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1275013011660005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Foto Crystal",
+				"bidangUsaha": "Foto copy "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230307164136",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1956889911",
+"bankAccountName": "Vindy Kotto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085297957138",
+"name": "Angie Angela",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19990930",
+"percentage": 100,
+"email": "angieangelawu@gmail.com"
+}
+]
+}

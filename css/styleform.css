@@ -1,0 +1,324 @@
+.container-fluid{padding: 0}
+.page-titles{box-shadow: none;}
+.btn{
+  width:200px;
+  border:3px solid #ff7101;
+  border-radius:10px;
+  font-family: "Varela Round", sans-serif;
+  font-size:16px;
+  color:#ff7101;
+  padding:5px;
+  margin: auto;
+  text-align: center;
+  background: none;
+}
+.btn:hover{
+    border: 3px solid white;
+    background-color: #ff7101;
+    color: white !important;
+}
+.btn:hover span{
+    color:white;
+}
+
+.btnBuy{
+  width:150px;
+  border: none;
+  border-radius:10px;
+  font-family: "Varela Round", sans-serif;
+  font-size:16px;
+  background-color: #ff7101;
+  color: white;
+  padding:10px;
+}
+
+.btn2{
+  min-width: 100px;
+  border: none;
+  border-radius: 10px;
+  font-family: "Varela Round", sans-serif;
+  font-size: 16px;
+  background-color: #ff7101;
+  padding: 10px;
+  margin: 20px 0 35px 0px;
+  text-align: center;
+  color: white !important;
+  border: 2px solid #ff7101;
+}
+.btn2:hover{
+    background-color: white;
+    color: #ff7101 !important;
+}
+
+.btn3{
+  font-family: "Varela Round", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: black
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.btnline{
+  width: 200px;
+  height: 4px;
+  background-color: #ff7101;
+  margin: 10px auto;
+}
+
+.btn:hover, .btn2:hover{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.premi{
+  text-align: center;
+  border: 3px grey solid;
+  border-radius: 20px;
+  padding: 20px 0;
+  margin-bottom: 10%;
+}
+
+.premi h1, .premi h2, .premi a{
+  font-weight: bold;
+  color: grey;
+}
+
+.premi:hover{
+  border-color: #ff7101;
+}
+
+.premi a:hover{
+  color: #ff7101 !important;
+}
+
+#mobile:not(.hide){
+  display: block; 
+  position: fixed; 
+  right: 0;
+  animation: slide 0.5s forwards;
+}
+
+.hide{display: none;}
+.white{background-color: white !important}
+
+@media (min-width: 900px){
+  #menu3{display: none;}
+  #close{margin-left: 70px}
+}
+@media (max-width: 1198px){
+  .menuListHeader{width: 50%}
+  .desktopMenu #menu1, .desktopMenu #menu2, .desktopMenu #menu4, .desktopMenu #menupro, .desktopMenu #menuproLog{display: none;}
+  #menu3{display: block;}
+  #close{margin-left: 10px}
+  .btn3{font-size: 24px; padding: 15px}
+}
+@media (max-width: 560px){
+  .menuListHeader{width: 20%}
+  #close{margin-left: -60px}
+  .btn3{font-size: 20px; padding: 10px}
+}
+
+@media (max-width: 600px){
+  #data-tertanggung, #data-beneficiary, #ilustrasi, #sdkb{padding: 0 5%}
+  #btnpay7{margin-top: 100px !important}
+}
+
+.txedit{
+  height:50px;
+  width: 100%;
+  border: #e4e4e4 2px solid;
+  border-radius: 10px;
+  font-size:20px;
+  font-family: "Varela Round", sans-serif;
+  margin-bottom:20px;
+  margin-top: 10px;
+  padding:10px;
+}
+
+#colL{padding-right: 50px}
+#colR{padding-left: 50px}
+
+@media (max-width: 1000px){
+  #colL, #colR{
+    padding: 0;
+  }
+  #colL{padding-bottom: 50px}
+}
+
+@media (min-width: 540px){
+  #tgl{width: 25%; margin-right: 5%}
+  #bln{width: 25%; margin-right: 5%}
+  #thn{width: 35%}
+}
+
+.row2{
+  color: white;
+  background: none;
+  padding: 15px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: -25%;
+}
+@media (max-width: 1172px) and (min-width: 990px){
+  .row2{font-size: 24px};
+}
+
+.row3{
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: -35%;
+}
+
+.experience{
+  font-weight: 800;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.experience2{
+  font-size: 16px;
+  text-align: center;
+  color: grey;
+}
+
+.header{
+  width:100%; 
+  height: 60px; 
+  background: white; 
+  position:fixed; 
+  padding: 10px; 
+  z-index:100;
+  box-shadow: 0 5px 20px 0px rgba(0,0,0,0.3);
+}
+
+.mobileMenu{
+  width: 250px; 
+  height: 1000px; 
+  background-color: black; 
+  float: right; 
+  margin-right: -10px;
+}
+
+#close{
+  font-size: 30px; 
+  padding: 15px; 
+  color: white; 
+  cursor: pointer;
+}
+
+.bucket h1{font-size: 30px; font-weight: 800; color: #ff7101; margin-bottom: 25px}
+.bucket h2{font-size: 24px; font-weight: bold; color: #ff7101; margin-bottom: 25px}
+.bucket p{font-size: 18px; color: #ff7101; margin-bottom: 5px}
+a:focus{color: #ff7101}
+
+.tablebkt{
+  width: 100%;
+  border: 1px #ff7101 solid;
+}
+
+.tablebkt th{font-weight: bold;}
+
+.tablebkt th, .tablebkt td{
+  padding: 10px;
+  color: #ff7101;
+  font-size: 20px;
+  text-align: center;
+}
+#form1,#form2,#form3,#form4,#form5,#form6,#form7,#form8{
+    padding: 10% 0 !important;
+}
+@media (min-width: 1240px){
+  #form1,#form2,#form3,#form4,#form5,#form6,#form7,#form8{
+    padding: 7% 0 !important;
+  }
+}
+@media (max-width: 768px){
+  #form1,#form2,#form3,#form4,#form5,#form6,#form7,#form8{
+    padding: 20% 0 !important;
+  }
+  #req7{padding: 5% !important}
+}
+
+.block {
+    animation: fadeEffect 1s; /* Fading effect takes 1 second */
+    width: 100%;
+}
+.block:not(.default){
+    display: none;
+}
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+#txtktp{
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.btnHanwha{
+    cursor: pointer;
+    padding: 5px 10px;
+    transition: all .3s;
+    display: block;
+    text-align: center;
+    background-color: transparent;
+    color: #ff7101;
+    border: 1px solid #ff7101;
+}
+.btnpage{
+    cursor: pointer;
+    transition: all .3s;
+    width: 30px;
+    text-align: center;
+    margin-left: 5px;
+    background-color: transparent;
+    color: #ff7101;
+    border: 1px solid #ff7101;
+}
+.btnpage:first-child{
+    margin-left: 0;
+}
+.btnpage.active{
+    margin-left: 0;
+    margin-right: -5px;
+}
+.pagedot{
+    text-align: center;
+    margin-left: 5px;
+}
+.col-lg-1half{
+    flex: 0 0 13.5%;
+    max-width: 13.5%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media screen and (max-width: 1430px){
+    .col-ict{flex: 0 0 15%; max-width: 15%;}
+    .col-lg-7{max-width: 57%}
+}
+@media screen and (max-width: 1358px){
+    .col-ict, .col-act{flex: 0 0 15%; max-width: 16%;}
+    .col-lg-7{max-width: 50%}
+}
+.btnHanwha:hover, .btnHanwha.active{
+    background-color: #ff7101;
+    color: white !important;
+}
+.btnpage:hover, .btnpage.active{
+    background-color: #ff7101;
+    color: white;
+    display: inline-block;
+}
+.pagemobile{text-align: center;}

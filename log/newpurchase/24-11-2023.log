@@ -1,0 +1,102 @@
+140.213.94.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:40:00 2023-11-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Marlina Nur Gayatri",
+    "birthDate": "20231116", 
+"birthPlace": "Tasikmalaya",
+"emailAddress": "marlinagayatri206@gmail.com",
+"mobilePhone": "08111603933",
+"homePhone": "08111603933",
+"lineAddress1": "Komp.Danamon Jl. Primadana 2 blok c2 no.11-12 RT/RW10",
+"lineAddress2": "JATISARI - JATIASIH",
+"cityAddress": "Bekasi",
+"postalCode": 17426,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp.Danamon Jl. Primadana 2 blok c2 no.11-12 RT/RW10",
+"mailingLineAddress2": "JATISARI - JATIASIH",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17426,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3206025603930002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "AbidzarShop",
+				"bidangUsaha": "Online shop "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Marlina Nur Gayatri",
+    "birthDate": "20231116", 
+"birthPlace": "Tasikmalaya",
+"emailAddress": "marlinagayatri206@gmail.com",
+"mobilePhone": "08111603933",
+"homePhone": "08111603933",
+"lineAddress1": "Komp.Danamon Jl. Primadana 2 blok c2 no.11-12 RT/RW10",
+"lineAddress2": "JATISARI - JATIASIH",
+"cityAddress": "Bekasi",
+"postalCode": 17426,
+"sameMailing": "1",
+"mailingLineAddress1": "Komp.Danamon Jl. Primadana 2 blok c2 no.11-12 RT/RW10",
+"mailingLineAddress2": "JATISARI - JATIASIH",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17426,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3206025603930002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "AbidzarShop",
+				"bidangUsaha": "Online shop "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "23TFJM71",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231124093959",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "4372 01 021133 53 2",
+"bankAccountName": "Marlina Nur Gayatri",
+"ewalletNo": "08111603933",
+"ewalletType": "OVO",
+"ewalletName": "Marlina Nur Gayatri",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082158276586",
+"name": "Muhammad Asep N.",
+"famrel": 2,
+"gender": "M",
+"birthDate": "20230827",
+"percentage": 100,
+"email": "muhammadasepn@gmail.com"
+}
+]
+}

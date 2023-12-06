@@ -1,0 +1,99 @@
+120.188.6.83 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:37:45 2020-11-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Setya Eka Sari ",
+    "birthDate": "19870618", 
+"birthPlace": "Surabaya",
+"emailAddress": "setyaekasari@gmail.com",
+"mobilePhone": "085748040143",
+"homePhone": "085748040143",
+"lineAddress1": "Kendinding tengah sekolahan ",
+"lineAddress2": "Griya permata gedangan",
+"cityAddress": "",
+"postalCode": 60212,
+"sameMailing": "0",
+"mailingLineAddress1": "Griya permata gedangan",
+"mailingLineAddress2": "Kedinding tengah sekolahan",
+"mailingCityAddress": "",
+"mailingpostalCode": 60141,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578085806870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Pelangi",
+				"bidangUsaha": "Recruitmen "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Setya Eka Sari ",
+    "birthDate": "19870618", 
+"birthPlace": "Surabaya",
+"emailAddress": "setyaekasari@gmail.com",
+"mobilePhone": "085748040143",
+"homePhone": "085748040143",
+"lineAddress1": "Kendinding tengah sekolahan ",
+"lineAddress2": "Griya permata gedangan",
+"cityAddress": "",
+"postalCode": 60212,
+"sameMailing": "0",
+"mailingLineAddress1": "Griya permata gedangan",
+"mailingLineAddress2": "Kedinding tengah sekolahan",
+"mailingCityAddress": "",
+"mailingpostalCode": 60141,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578085806870002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Pelangi",
+				"bidangUsaha": "Recruitmen "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201112153745",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "6013010050855538",
+"bankAccountName": "Setya Eka sari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085748040143",
+"name": "Nabila Shifa Atmaja",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20140617",
+"percentage": 100,
+"email": "setyaekasari@gmail.com"
+}
+]
+}

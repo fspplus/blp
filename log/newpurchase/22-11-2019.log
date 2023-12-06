@@ -1,0 +1,132 @@
+10.1.1.33 https://www.bucketlistplan.co.id/prepurchase?view=finish 14:51:02 2019-11-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Maya Permata Aisyah",
+    "birthDate": "19950529", 
+"birthPlace": "Banjarnegara",
+"emailAddress": "aichi.pookiss@gmail.com",
+"mobilePhone": "082132511655",
+"homePhone": "082132511655",
+"lineAddress1": "Perumahan Gemuruh Griya Indah. kali Wuluh Rt 004/010",
+"lineAddress2": "Gemuruh, Bawang, Banjarnegara.",
+"cityAddress": "",
+"postalCode": 53471,
+"sameMailing": "1",
+"mailingLineAddress1": "Perumahan Gemuruh Griya Indah. kali Wuluh Rt 004/010",
+"mailingLineAddress2": "Gemuruh, Bawang, Banjarnegara.",
+"mailingCityAddress": "",
+"mailingpostalCode": 53471,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3304056905950003",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "daihatsu",
+"bidangUsaha": "penjualan"
+}
+}
+},
+"purchase": {
+"productId": 3,
+"referenceCode": "9999990012375508",
+"productCode": "B.101",
+"parentProductId": 3,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 400000,
+"autoDebet": "Y",
+"purchaseDate": "20191122145102",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4210056535",
+"bankAccountName": "Maya Permata Aisyah",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081327118659",
+"name": "Triyati Indah Sari",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19701225",
+"percentage": 94,
+"email": "aichi.pookiss@gmail.com"
+}
+]
+}
+182.1.95.128 https://koreaversikamu.co.id/prepurchase?view=finish 18:08:43 2019-11-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lidia Eka Anggreny",
+    "birthDate": "19920707", 
+"birthPlace": "Jakarta",
+"emailAddress": "leaanggreny@gmail.com",
+"mobilePhone": "081311664110",
+"homePhone": "0214722324",
+"lineAddress1": "Jl. H. Mugeni 1 no. 11 rt 9 rw 4",
+"lineAddress2": "Pisangan Timur Pulogadung Jakarta Timur ",
+"cityAddress": "Jakarta",
+"postalCode": 13230,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. H. Mugeni 1 no. 11 rt 9 rw 4",
+"mailingLineAddress2": "Pisangan Timur Pulogadung Jakarta Timur ",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13230,
+"gender": "F",
+"jobType": "job7",
+"identityType": 1,
+"identityNumber": "3175024707920002",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staff registrasi suplemen kesehatan",
+"namaLembaga": "BPOM",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191122180841",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1230007621081",
+"bankAccountName": "Lidia Eka Anggreny",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081213998752",
+"name": "Ratih Yuliyanti",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19960708",
+"percentage": 100,
+"email": "ratihylnti@gmail.com"
+}
+]
+}

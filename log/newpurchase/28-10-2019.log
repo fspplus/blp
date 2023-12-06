@@ -1,0 +1,132 @@
+120.188.94.22 https://bucketlistplan.co.id/prepurchase?view=finish 11:10:43 2019-10-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fery EA",
+    "birthDate": "19581015", 
+"birthPlace": "Jakarta",
+"emailAddress": "test@dorado.id",
+"mobilePhone": "046484816810",
+"homePhone": "840046484946",
+"lineAddress1": "Rumah",
+"lineAddress2": "Rumah 1",
+"cityAddress": "Tangerang",
+"postalCode": 15810,
+"sameMailing": "1",
+"mailingLineAddress1": "Rumah",
+"mailingLineAddress2": "Rumah 1",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "8161040487694840",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dorado",
+"bidangUsaha": "Digital"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "FERYANEA",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191028111042",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "60457818404145",
+"bankAccountName": "Fery",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085468188485",
+"name": "Felicia Yauwin",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19591014",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+10.1.1.33 https://koreaversikamu.co.id/prepurchase?view=finish 15:49:12 2019-10-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yuliana",
+    "birthDate": "19770403", 
+"birthPlace": "Jakarta",
+"emailAddress": "yuliana.elisya@gmail.com",
+"mobilePhone": "081213254928",
+"homePhone": "081213254928",
+"lineAddress1": "Jl kebon kacang 32 no 10",
+"lineAddress2": "Jakarta pusat 10240",
+"cityAddress": "",
+"postalCode": 10240,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl kebon kacang 32 no 10",
+"mailingLineAddress2": "Jakarta pusat 10240",
+"mailingCityAddress": "",
+"mailingpostalCode": 10240,
+"gender": "F",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3174024304770002",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pribadi",
+"bidangUsaha": "Pribadi"
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "91809350",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191028154912",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5415063919",
+"bankAccountName": "Yuliana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081213254928",
+"name": "Vaerie melody angelica muljono",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20070505",
+"percentage": 100,
+"email": "yuliana.elisya@gmail.com"
+}
+]
+}

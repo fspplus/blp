@@ -1,0 +1,297 @@
+139.255.95.18 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:45:04 2021-03-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jason William",
+    "birthDate": "19990821", 
+"birthPlace": "Jakarta",
+"emailAddress": "jaswil2106@gmail.com",
+"mobilePhone": "085214740733",
+"homePhone": "085214740733",
+"lineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"lineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"cityAddress": "Jakarta",
+"postalCode": 14360,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"mailingLineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14360,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172022108990008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Megah Gelora Utama",
+				"bidangUsaha": "Teknologi  "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jason William",
+    "birthDate": "19990821", 
+"birthPlace": "Jakarta",
+"emailAddress": "jaswil2106@gmail.com",
+"mobilePhone": "085214740733",
+"homePhone": "085214740733",
+"lineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"lineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"cityAddress": "Jakarta",
+"postalCode": 14360,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"mailingLineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14360,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172022108990008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Megah Gelora Utama",
+				"bidangUsaha": "Teknologi  "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011164",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210310144500",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5000210899",
+"bankAccountName": "Jason William",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011164"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085214740733",
+"name": "Willy Rivangi",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19700612",
+"percentage": 100,
+"email": "willyrivangi@gmail.com"
+}
+]
+}
+182.1.62.145 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:56:42 2021-03-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jason William",
+    "birthDate": "19990821", 
+"birthPlace": "Jakarta",
+"emailAddress": "jaswil2106@gmail.com",
+"mobilePhone": "085214740733",
+"homePhone": "085214740733",
+"lineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"lineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"cityAddress": "Jakarta",
+"postalCode": 14360,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"mailingLineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14360,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172022108990008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Megah Gelora Utama",
+				"bidangUsaha": "Teknologi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jason William",
+    "birthDate": "19990821", 
+"birthPlace": "Jakarta",
+"emailAddress": "jaswil2106@gmail.com",
+"mobilePhone": "085214740733",
+"homePhone": "085214740733",
+"lineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"lineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"cityAddress": "Jakarta",
+"postalCode": 14360,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"mailingLineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14360,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172022108990008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Megah Gelora Utama",
+				"bidangUsaha": "Teknologi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011164",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210310145641",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5000210899",
+"bankAccountName": "Jason William",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011164"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085214740733",
+"name": "Willy Rivangi",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19700612",
+"percentage": 100,
+"email": "willyrivangi@gmail.com"
+}
+]
+}
+182.1.62.145 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:00:59 2021-03-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Jason William",
+    "birthDate": "19990821", 
+"birthPlace": "Jakarta",
+"emailAddress": "jaswil2106@gmail.com",
+"mobilePhone": "085214740733",
+"homePhone": "085214740733",
+"lineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"lineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"cityAddress": "Jakarta",
+"postalCode": 14360,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"mailingLineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14360,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172022108990008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Megah Gelora Utama",
+				"bidangUsaha": "Teknologi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Jason William",
+    "birthDate": "19990821", 
+"birthPlace": "Jakarta",
+"emailAddress": "jaswil2106@gmail.com",
+"mobilePhone": "085214740733",
+"homePhone": "085214740733",
+"lineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"lineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"cityAddress": "Jakarta",
+"postalCode": 14360,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sunter Pulo Kecil A3/8, RT/RW 002/010",
+"mailingLineAddress2": "Kelurahan Sunter Jaya Kecamatan Tanjung Priok",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14360,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3172022108990008",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Megah Gelora Utama",
+				"bidangUsaha": "Teknologi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011164",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210310150059",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5000210899",
+"bankAccountName": "Jason William",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011164"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085214740733",
+"name": "Willy Rivangi",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19700612",
+"percentage": 100,
+"email": "willyrivangi@gmail.com"
+}
+]
+}

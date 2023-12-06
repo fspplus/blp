@@ -1,0 +1,99 @@
+182.23.25.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:21:00 2020-11-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "VENY PANSY RUSLI",
+    "birthDate": "19720420", 
+"birthPlace": "Jakarta",
+"emailAddress": "fatikalorinasanto@gmail.com",
+"mobilePhone": "082218599989",
+"homePhone": "082218599989",
+"lineAddress1": "PTB DUREN SAWIT TMR N I/11",
+"lineAddress2": "RT.003 RW.008  KEL.DUREN SAWIT KEC.DUREN SAWIT",
+"cityAddress": "Jakarta",
+"postalCode": 13340,
+"sameMailing": "1",
+"mailingLineAddress1": "PTB DUREN SAWIT TMR N I/11",
+"mailingLineAddress2": "RT.003 RW.008  KEL.DUREN SAWIT KEC.DUREN SAWIT",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13340,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3175076004720004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGENCY DIRECTOR",
+"namaLembaga": "PT HANWHA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "VENY PANSY RUSLI",
+    "birthDate": "19720420", 
+"birthPlace": "Jakarta",
+"emailAddress": "fatikalorinasanto@gmail.com",
+"mobilePhone": "082218599989",
+"homePhone": "082218599989",
+"lineAddress1": "PTB DUREN SAWIT TMR N I/11",
+"lineAddress2": "RT.003 RW.008  KEL.DUREN SAWIT KEC.DUREN SAWIT",
+"cityAddress": "Jakarta",
+"postalCode": 13340,
+"sameMailing": "1",
+"mailingLineAddress1": "PTB DUREN SAWIT TMR N I/11",
+"mailingLineAddress2": "RT.003 RW.008  KEL.DUREN SAWIT KEC.DUREN SAWIT",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 13340,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3175076004720004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGENCY DIRECTOR",
+"namaLembaga": "PT HANWHA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011489",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201111092059",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0941375684",
+"bankAccountName": "VENY PANSY RUSLI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082218599989",
+"name": "TANIA FATIKA KOMITER ",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20100416",
+"percentage": 100,
+"email": "fatikalorinasanto@gmail.com"
+}
+]
+}

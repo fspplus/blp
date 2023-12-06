@@ -1,0 +1,99 @@
+45.126.185.211 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:40:16 2022-11-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Iwan Widjaja",
+    "birthDate": "19640718", 
+"birthPlace": "Medan",
+"emailAddress": "iiwanwidjaja@gmail.com",
+"mobilePhone": "08128313333",
+"homePhone": "08128313333",
+"lineAddress1": "Jl. Garut No. 32",
+"lineAddress2": "Kel. Pasar Baru Kec. Medan Kota",
+"cityAddress": "",
+"postalCode": 20212,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Duyung No. 35/73",
+"mailingLineAddress2": "Kec. Medan Area, Kel. Medan Area",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271011807640004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Surya Persada",
+				"bidangUsaha": "Elektronik "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Iwan Widjaja",
+    "birthDate": "19640718", 
+"birthPlace": "Medan",
+"emailAddress": "iiwanwidjaja@gmail.com",
+"mobilePhone": "08128313333",
+"homePhone": "08128313333",
+"lineAddress1": "Jl. Garut No. 32",
+"lineAddress2": "Kel. Pasar Baru Kec. Medan Kota",
+"cityAddress": "",
+"postalCode": 20212,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Duyung No. 35/73",
+"mailingLineAddress2": "Kec. Medan Area, Kel. Medan Area",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20211,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271011807640004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Surya Persada",
+				"bidangUsaha": "Elektronik "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221110174015",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7860044778",
+"bankAccountName": "Iwan Widjaja",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08128313333",
+"name": "Elvi Pinnarvi",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19670414",
+"percentage": 100,
+"email": "iiwanwidjaja@gmail.com"
+}
+]
+}

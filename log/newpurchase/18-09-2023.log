@@ -1,0 +1,204 @@
+36.71.141.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:43:50 2023-09-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Valencia Enricha",
+    "birthDate": "20041209", 
+"birthPlace": "Medan",
+"emailAddress": "enrichavalencia@gmail.com",
+"mobilePhone": "08116268900",
+"homePhone": "08116268900",
+"lineAddress1": "Jl Brigjen Katamso komplek istana prima 2 no c 2",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Brigjen Katamso komplek istana prima 2 no c 2",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207264912040003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Valencia Enricha",
+    "birthDate": "20041209", 
+"birthPlace": "Medan",
+"emailAddress": "enrichavalencia@gmail.com",
+"mobilePhone": "08116268900",
+"homePhone": "08116268900",
+"lineAddress1": "Jl Brigjen Katamso komplek istana prima 2 no c 2",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Brigjen Katamso komplek istana prima 2 no c 2",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1207264912040003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230918114349",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000917681",
+"bankAccountName": "Valencia Enricha ",
+"ewalletNo": "08116268900",
+"ewalletType": "OVO",
+"ewalletName": "Valencia Enricha ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126428900",
+"name": "Deling",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19720811",
+"percentage": 100,
+"email": "deling_dd@yahoo.com"
+}
+]
+}
+36.71.137.206 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:35:08 2023-09-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Herlina",
+    "birthDate": "19700310", 
+"birthPlace": "Panipahan ",
+"emailAddress": "herlinazhang19@gmail.com",
+"mobilePhone": "082369172136",
+"homePhone": "082369172136",
+"lineAddress1": "Jl sungai lakam",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 29661,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sungai lakam",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 29661,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "2102035003700005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Herlina",
+    "birthDate": "19700310", 
+"birthPlace": "Panipahan ",
+"emailAddress": "herlinazhang19@gmail.com",
+"mobilePhone": "082369172136",
+"homePhone": "082369172136",
+"lineAddress1": "Jl sungai lakam",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 29661,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sungai lakam",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 29661,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "2102035003700005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230918133507",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8070458145",
+"bankAccountName": "Herlina",
+"ewalletNo": "082369172136",
+"ewalletType": "OVO",
+"ewalletName": "Herlina",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082386656346",
+"name": "Jensen",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20031005",
+"percentage": 100,
+"email": "jensen0510@gmail.com"
+}
+]
+}

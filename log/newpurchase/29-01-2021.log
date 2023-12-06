@@ -1,0 +1,693 @@
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 10:56:30 2021-01-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NICO WIJAYA",
+    "birthDate": "19880406", 
+"birthPlace": "Jakarta",
+"emailAddress": "nico_kaito@yahoo.com",
+"mobilePhone": "087808884009",
+"homePhone": "087808884009",
+"lineAddress1": "JL.BANGAU VI NO.12 DE RT.014, RW.007",
+"lineAddress2": "GN.SAHARI SELATAN , KEMAYORAN",
+"cityAddress": "",
+"postalCode": 10610,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.BANGAU VI NO.12 DE RT.014, RW.007",
+"mailingLineAddress2": "GN.SAHARI SELATAN , KEMAYORAN",
+"mailingCityAddress": "",
+"mailingpostalCode": 10610,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171030604880001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NICO WIJAYA",
+    "birthDate": "19880406", 
+"birthPlace": "Jakarta",
+"emailAddress": "nico_kaito@yahoo.com",
+"mobilePhone": "087808884009",
+"homePhone": "087808884009",
+"lineAddress1": "JL.BANGAU VI NO.12 DE RT.014, RW.007",
+"lineAddress2": "GN.SAHARI SELATAN , KEMAYORAN",
+"cityAddress": "",
+"postalCode": 10610,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.BANGAU VI NO.12 DE RT.014, RW.007",
+"mailingLineAddress2": "GN.SAHARI SELATAN , KEMAYORAN",
+"mailingCityAddress": "",
+"mailingpostalCode": 10610,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171030604880001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603934",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210129105629",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4010397176",
+"bankAccountName": "NICO WIJAYA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087808884008",
+"name": "NAOMI RAHARDJA",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19891108",
+"percentage": 100,
+"email": "naomi.rahardja@gmail.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 12:03:00 2021-01-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SUPARMAN SE",
+    "birthDate": "19750517", 
+"birthPlace": "Bogor",
+"emailAddress": "arman170574@yahoo.co.id",
+"mobilePhone": "088212998505",
+"homePhone": "088212998505",
+"lineAddress1": "JL.RIAU UJUNG KP.WARGALUYU NO.5 RT.001, RW.004",
+"lineAddress2": "BARANANGSIANG",
+"cityAddress": "Bogor",
+"postalCode": 16143,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.RIAU UJUNG KP.WARGALUYU NO.5 RT.001, RW.004",
+"mailingLineAddress2": "BARANANGSIANG",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16143,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271021705740014",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "pt hanwha life",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "SUPARMAN SE",
+    "birthDate": "19750517", 
+"birthPlace": "Bogor",
+"emailAddress": "arman170574@yahoo.co.id",
+"mobilePhone": "088212998505",
+"homePhone": "088212998505",
+"lineAddress1": "JL.RIAU UJUNG KP.WARGALUYU NO.5 RT.001, RW.004",
+"lineAddress2": "BARANANGSIANG",
+"cityAddress": "Bogor",
+"postalCode": 16143,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.RIAU UJUNG KP.WARGALUYU NO.5 RT.001, RW.004",
+"mailingLineAddress2": "BARANANGSIANG",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16143,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271021705740014",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "pt hanwha life",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210129120259",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5735043193",
+"bankAccountName": "SUPARMAN SE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0882212998505",
+"name": "muhammad feryza arsyaputra",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20040718",
+"percentage": 100,
+"email": "arman170574@yahoo.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 12:35:57 2021-01-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "PATRICIA KYLIE",
+    "birthDate": "20030326", 
+"birthPlace": "Jakarta",
+"emailAddress": "kylx26@gmail.com",
+"mobilePhone": "087882317885",
+"homePhone": "087882317885",
+"lineAddress1": "JL.TANAH TINGGI IV NO.60",
+"lineAddress2": "RT.010, RW.006 TANAH TINGGI , JOHAR BARU",
+"cityAddress": "",
+"postalCode": 10540,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.TANAH TINGGI IV NO.60",
+"mailingLineAddress2": "RT.010, RW.006 TANAH TINGGI , JOHAR BARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 10540,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3171086603030001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "GURU PRIVATE",
+"namaLembaga": "GURU PRIVATE",
+				"bidangUsaha": "PENDIDIKAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "PATRICIA KYLIE",
+    "birthDate": "20030326", 
+"birthPlace": "Jakarta",
+"emailAddress": "kylx26@gmail.com",
+"mobilePhone": "087882317885",
+"homePhone": "087882317885",
+"lineAddress1": "JL.TANAH TINGGI IV NO.60",
+"lineAddress2": "RT.010, RW.006 TANAH TINGGI , JOHAR BARU",
+"cityAddress": "",
+"postalCode": 10540,
+"sameMailing": "1",
+"mailingLineAddress1": "JL.TANAH TINGGI IV NO.60",
+"mailingLineAddress2": "RT.010, RW.006 TANAH TINGGI , JOHAR BARU",
+"mailingCityAddress": "",
+"mailingpostalCode": 10540,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3171086603030001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "GURU PRIVATE",
+"namaLembaga": "GURU PRIVATE",
+				"bidangUsaha": "PENDIDIKAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603936",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210129123556",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0650731867",
+"bankAccountName": "PATRICIA KYLIE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08988692945",
+"name": "MATHEW GEORGIO STANLEY",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20070227",
+"percentage": 100,
+"email": "kylx26@gmail.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 12:47:02 2021-01-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NAOMI RAHARDJA",
+    "birthDate": "19891108", 
+"birthPlace": "Jakarta",
+"emailAddress": "naomi.rahardja@gmail.com",
+"mobilePhone": "087808884008",
+"homePhone": "087808884008",
+"lineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"lineAddress2": "BUKIT DURI SELATAN",
+"cityAddress": "Jakarta",
+"postalCode": 12840,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"mailingLineAddress2": "BUKIT DURI SELATAN",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12840,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014811890005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NAOMI RAHARDJA",
+    "birthDate": "19891108", 
+"birthPlace": "Jakarta",
+"emailAddress": "naomi.rahardja@gmail.com",
+"mobilePhone": "087808884008",
+"homePhone": "087808884008",
+"lineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"lineAddress2": "BUKIT DURI SELATAN",
+"cityAddress": "Jakarta",
+"postalCode": 12840,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"mailingLineAddress2": "BUKIT DURI SELATAN",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12840,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014811890005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603935",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210129124702",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2720049191",
+"bankAccountName": "NAOMI RAHARDJA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087808884009",
+"name": "NICO WIJAYA",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19880406",
+"percentage": 100,
+"email": "nico_kaito@yahoo.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 12:50:28 2021-01-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NAOMI RAHARDJA",
+    "birthDate": "19891108", 
+"birthPlace": "Jakarta",
+"emailAddress": "naomi.rahardja@gmail.com",
+"mobilePhone": "087808884008",
+"homePhone": "087808884008",
+"lineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"lineAddress2": "BUKIT DURI SELATAN",
+"cityAddress": "Jakarta",
+"postalCode": 12840,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"mailingLineAddress2": "BUKIT DURI SELATAN",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12840,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014811890005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NAOMI RAHARDJA",
+    "birthDate": "19891108", 
+"birthPlace": "Jakarta",
+"emailAddress": "naomi.rahardja@gmail.com",
+"mobilePhone": "087808884008",
+"homePhone": "087808884008",
+"lineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"lineAddress2": "BUKIT DURI SELATAN",
+"cityAddress": "Jakarta",
+"postalCode": 12840,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. SAWO KECIL I NO.27 RT.001. RW 007",
+"mailingLineAddress2": "BUKIT DURI SELATAN",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12840,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014811890005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT HANWHA LIFE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210129125028",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087808884009",
+"name": "NICO WIJAYA",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19880406",
+"percentage": 100,
+"email": "nico_kaito@yahoo.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 14:46:38 2021-01-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DEDDY SUSANTO",
+    "birthDate": "19691207", 
+"birthPlace": "Jakarta",
+"emailAddress": "d33339@gmail.com",
+"mobilePhone": "08161368299",
+"homePhone": "08161368299",
+"lineAddress1": "JL. KECAPI NO.12, RT.11, RW.08",
+"lineAddress2": "BUNGUR, SENEN",
+"cityAddress": "Jakarta",
+"postalCode": 10460,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. KECAPI NO.12, RT.11, RW.08",
+"mailingLineAddress2": "BUNGUR, SENEN",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10460,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171040712690001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "GW CONSULTANT",
+				"bidangUsaha": "CONSULTANT "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DEDDY SUSANTO",
+    "birthDate": "19691207", 
+"birthPlace": "Jakarta",
+"emailAddress": "d33339@gmail.com",
+"mobilePhone": "08161368299",
+"homePhone": "08161368299",
+"lineAddress1": "JL. KECAPI NO.12, RT.11, RW.08",
+"lineAddress2": "BUNGUR, SENEN",
+"cityAddress": "Jakarta",
+"postalCode": 10460,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. KECAPI NO.12, RT.11, RW.08",
+"mailingLineAddress2": "BUNGUR, SENEN",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10460,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3171040712690001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "GW CONSULTANT",
+				"bidangUsaha": "CONSULTANT "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603755",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210129144637",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0046001812",
+"bankAccountName": "DEDDY SUSANTO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08161368299",
+"name": "SEBASTIAN CHRISTOPHER SUSANTO",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20081220",
+"percentage": 100,
+"email": "d33339@gmail.com"
+}
+]
+}
+182.23.25.179 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 16:06:31 2021-01-29
+
+Content JSON:
+{
+"personalData": {
+"fullName": "SAMUEL MANALU",
+    "birthDate": "19910928", 
+"birthPlace": "TAPANULI UTARA",
+"emailAddress": "samuel.manuel0803@gmail.com",
+"mobilePhone": "081287348486",
+"homePhone": "081287348486",
+"lineAddress1": "JL. MANGGA BESAR V NO.1H RT. 009 RW.005",
+"lineAddress2": "MANGGA BESAR, TAMAN SARI",
+"cityAddress": "Jakarta",
+"postalCode": 11110,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MANGGA BESAR V NO.1H RT. 009 RW.005",
+"mailingLineAddress2": "MANGGA BESAR, TAMAN SARI",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11110,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1202102809910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CELEBRITY FITNESS",
+				"bidangUsaha": "OLAHRAGA "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "SAMUEL MANALU",
+    "birthDate": "19910928", 
+"birthPlace": "TAPANULI UTARA",
+"emailAddress": "samuel.manuel0803@gmail.com",
+"mobilePhone": "081287348486",
+"homePhone": "081287348486",
+"lineAddress1": "JL. MANGGA BESAR V NO.1H RT. 009 RW.005",
+"lineAddress2": "MANGGA BESAR, TAMAN SARI",
+"cityAddress": "Jakarta",
+"postalCode": 11110,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. MANGGA BESAR V NO.1H RT. 009 RW.005",
+"mailingLineAddress2": "MANGGA BESAR, TAMAN SARI",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11110,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1202102809910002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CELEBRITY FITNESS",
+				"bidangUsaha": "OLAHRAGA "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91707735",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210129160628",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1610029741",
+"bankAccountName": "SAMUEL MANALU",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081287348486",
+"name": "GIDEON GAMAR MANALU",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19960208",
+"percentage": 100,
+"email": "samuel.manuel0803@gmail.com"
+}
+]
+}

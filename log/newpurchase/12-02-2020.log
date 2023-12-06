@@ -1,0 +1,71 @@
+114.125.24.245 https://koreaversikamu.co.id/prepurchase?view=finish 13:08:17 2020-02-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lily Fong",
+    "birthDate": "19790913", 
+"birthPlace": "Medan",
+"emailAddress": "violinkhotaro88@gmail.com",
+"mobilePhone": "08126072425",
+"homePhone": "08126072425",
+"lineAddress1": "Jl. Pukat VII GG Gereja No. 9",
+"lineAddress2": "-",
+"cityAddress": "",
+"postalCode": 20224,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Aksara No. 122-123",
+"mailingLineAddress2": "(Toko Karya Ponsel) ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271145309790001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Karya Ponsel",
+				"bidangUsaha": "Toko HP "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 4,
+"referenceCode": "367",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200212130815",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8645018989",
+"bankAccountName": "Lily Fong",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126072425",
+"name": "Vivian",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20160204",
+"percentage": 100,
+"email": "violinkhotaro88@gmail.com"
+}
+]
+}

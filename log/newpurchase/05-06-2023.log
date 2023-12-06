@@ -1,0 +1,99 @@
+45.126.185.234 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:36:31 2023-06-05
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Benny",
+    "birthDate": "19830528", 
+"birthPlace": "Panipahan",
+"emailAddress": "bennysiong83@gmail.com",
+"mobilePhone": "082165337822",
+"homePhone": "082165337822",
+"lineAddress1": "Jl. Brigjend Katamso gg persatuan no.56",
+"lineAddress2": "Jl. Bhayangkara komp. Krakatau point tahap 2 no.88E",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Brigjend Katamso gg persatuan no.56",
+"mailingLineAddress2": "Jl. Bhayangkara komp. Krakatau point tahap 2 no.88E",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271152805830002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Ud Alam",
+				"bidangUsaha": "Wallet "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Benny",
+    "birthDate": "19830528", 
+"birthPlace": "Panipahan",
+"emailAddress": "bennysiong83@gmail.com",
+"mobilePhone": "082165337822",
+"homePhone": "082165337822",
+"lineAddress1": "Jl. Brigjend Katamso gg persatuan no.56",
+"lineAddress2": "Jl. Bhayangkara komp. Krakatau point tahap 2 no.88E",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Brigjend Katamso gg persatuan no.56",
+"mailingLineAddress2": "Jl. Bhayangkara komp. Krakatau point tahap 2 no.88E",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271152805830002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Ud Alam",
+				"bidangUsaha": "Wallet "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230605123630",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2420809797",
+"bankAccountName": "Benny",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116589989",
+"name": "Agustina",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19850915",
+"percentage": 100,
+"email": "bennysiong83@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+45.126.185.211 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:40:35 2023-05-22
+
+Content JSON:
+{
+"personalData": {
+"fullName": "FELIA ISABEL",
+    "birthDate": "20010601", 
+"birthPlace": "Medan",
+"emailAddress": "feliawu@gmail.com",
+"mobilePhone": "082165792507",
+"homePhone": "082165792507",
+"lineAddress1": "JL B KATAMSO NO 445 A RT/RW : 001/006",
+"lineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "Medan",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "JL B KATAMSO NO 445 A RT/RW : 001/006",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271154106010001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK BCA",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "FELIA ISABEL",
+    "birthDate": "20010601", 
+"birthPlace": "Medan",
+"emailAddress": "feliawu@gmail.com",
+"mobilePhone": "082165792507",
+"homePhone": "082165792507",
+"lineAddress1": "JL B KATAMSO NO 445 A RT/RW : 001/006",
+"lineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"cityAddress": "Medan",
+"postalCode": 20159,
+"sameMailing": "1",
+"mailingLineAddress1": "JL B KATAMSO NO 445 A RT/RW : 001/006",
+"mailingLineAddress2": "KEL.SEI MATI KEC.MEDAN MAIMUN",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20159,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271154106010001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BANK BCA",
+				"bidangUsaha": "PERBANKAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210844",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230522154034",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8075266550",
+"bankAccountName": "FELIA ISABEL",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082165792507",
+"name": "TAN TJENG TJOA",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19650518",
+"percentage": 100,
+"email": "feliawu@gmail.com"
+}
+]
+}

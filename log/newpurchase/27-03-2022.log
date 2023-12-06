@@ -1,0 +1,396 @@
+101.128.119.96 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:16:56 2022-03-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Tantri Velina Burhan",
+    "birthDate": "20001120", 
+"birthPlace": "Padang",
+"emailAddress": "tantrivelina@gmail.com",
+"mobilePhone": "085218169017",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1371096011000007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Frontliner",
+"namaLembaga": "Bank Rakyat Indonesia",
+				"bidangUsaha": "Keuangan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Tantri Velina Burhan",
+    "birthDate": "20001120", 
+"birthPlace": "Padang",
+"emailAddress": "tantrivelina@gmail.com",
+"mobilePhone": "085218169017",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1371096011000007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Frontliner",
+"namaLembaga": "Bank Rakyat Indonesia",
+				"bidangUsaha": "Keuangan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000313",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220327111654",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "220801007872503",
+"bankAccountName": "Tantri Velina Burhan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263456590",
+"name": "Desvianti",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19651222",
+"percentage": 100,
+"email": "desviantiepi@gmail.com"
+}
+]
+}
+110.137.193.48 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:01:35 2022-03-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Meutia Fanisa Burhan",
+    "birthDate": "19941125", 
+"birthPlace": "Padang",
+"emailAddress": "meutia.fanisa15@gmail.com",
+"mobilePhone": "081372430855",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096511940004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staf Bagian Umum",
+"namaLembaga": "Kantor Pelayanan Kekayaan Negara dan Lelang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Meutia Fanisa Burhan",
+    "birthDate": "19941125", 
+"birthPlace": "Padang",
+"emailAddress": "meutia.fanisa15@gmail.com",
+"mobilePhone": "081372430855",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096511940004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staf Bagian Umum",
+"namaLembaga": "Kantor Pelayanan Kekayaan Negara dan Lelang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000313",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220327140134",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0725900587",
+"bankAccountName": "Meutia Fanisa Burhan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263456590",
+"name": "Desvianti",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19651222",
+"percentage": 100,
+"email": "desviantiepi@gmail.com"
+}
+]
+}
+110.137.193.48 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:11:06 2022-03-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Meutia Fanisa Burhan",
+    "birthDate": "19941125", 
+"birthPlace": "Padang",
+"emailAddress": "meutia.fanisa25@gmail.com",
+"mobilePhone": "081372430855",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096511940004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staf Bagian Umum",
+"namaLembaga": "Kantor Pelayanan Kekayaan Negara dan Lelang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Meutia Fanisa Burhan",
+    "birthDate": "19941125", 
+"birthPlace": "Padang",
+"emailAddress": "meutia.fanisa25@gmail.com",
+"mobilePhone": "081372430855",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096511940004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staf Bagian Umum",
+"namaLembaga": "Kantor Pelayanan Kekayaan Negara dan Lelang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000313",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220327141106",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0725900587",
+"bankAccountName": "Meutia Fanisa Burhan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263456590",
+"name": "Desvianti",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19651222",
+"percentage": 100,
+"email": "desviantiepi@gmail.com"
+}
+]
+}
+110.137.193.48 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:11:46 2022-03-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Meutia Fanisa Burhan",
+    "birthDate": "19941125", 
+"birthPlace": "Padang",
+"emailAddress": "meutia.fanisa25@gmail.com",
+"mobilePhone": "081372430855",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096511940004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staf Bagian Umum",
+"namaLembaga": "Kantor Pelayanan Kekayaan Negara dan Lelang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Meutia Fanisa Burhan",
+    "birthDate": "19941125", 
+"birthPlace": "Padang",
+"emailAddress": "meutia.fanisa25@gmail.com",
+"mobilePhone": "081372430855",
+"homePhone": "0751495175",
+"lineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"lineAddress2": "Korong Gadang, Kuranji",
+"cityAddress": "Padang",
+"postalCode": 25156,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Bumi Minang II Blok B No.1",
+"mailingLineAddress2": "Korong Gadang, Kuranji",
+"mailingCityAddress": "Padang",
+"mailingpostalCode": 25156,
+"gender": "F",
+"jobType": "Job7",
+"identityType": 1,
+"identityNumber": "1371096511940004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Staf Bagian Umum",
+"namaLembaga": "Kantor Pelayanan Kekayaan Negara dan Lelang",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000313",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220327141146",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0725900587",
+"bankAccountName": "Meutia Fanisa Burhan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085263456590",
+"name": "Desvianti",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19651222",
+"percentage": 100,
+"email": "desviantiepi@gmail.com"
+}
+]
+}

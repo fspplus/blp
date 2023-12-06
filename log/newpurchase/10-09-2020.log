@@ -1,0 +1,99 @@
+36.71.143.101 https://koreaversikamu.co.id/prepurchase?view=finish 15:36:00 2020-09-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Yenti",
+    "birthDate": "19790822", 
+"birthPlace": "Medan",
+"emailAddress": "siu_ai8@yahoo.com",
+"mobilePhone": "082168430882",
+"homePhone": "082168430882",
+"lineAddress1": "Jl.Bogor No:70/72",
+"lineAddress2": "Jl.Bogor No:70/72",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Bogor No:70/72",
+"mailingLineAddress2": "Jl.Bogor No:70/72",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271106208790006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Besi Deli",
+				"bidangUsaha": "Besi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Yenti",
+    "birthDate": "19790822", 
+"birthPlace": "Medan",
+"emailAddress": "siu_ai8@yahoo.com",
+"mobilePhone": "082168430882",
+"homePhone": "082168430882",
+"lineAddress1": "Jl.Bogor No:70/72",
+"lineAddress2": "Jl.Bogor No:70/72",
+"cityAddress": "Medan",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Bogor No:70/72",
+"mailingLineAddress2": "Jl.Bogor No:70/72",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20212,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271106208790006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Besi Deli",
+				"bidangUsaha": "Besi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91708165",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200910153559",
+"bankCode": "019",
+"ropBankCode": "019",
+"bankAccount": "5052028837",
+"bankAccountName": "Yenti",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082168430882",
+"name": "Everna",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19780711",
+"percentage": 100,
+"email": "siu_ai8@yahoo.com"
+}
+]
+}

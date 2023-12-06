@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:41:05 2022-04-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "naomi wiwinda",
+    "birthDate": "19881114", 
+"birthPlace": "Pontianak",
+"emailAddress": "naomi.wiwinda@yahoo.com",
+"mobilePhone": "08990394441",
+"homePhone": "0215654234",
+"lineAddress1": "RATU MELATI 4 BLOK E 3 NO 14 DURI KEPA",
+"lineAddress2": "JAKARTA BARAT",
+"cityAddress": "Jakarta",
+"postalCode": 11510,
+"sameMailing": "1",
+"mailingLineAddress1": "RATU MELATI 4 BLOK E 3 NO 14 DURI KEPA",
+"mailingLineAddress2": "JAKARTA BARAT",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11510,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671125411880004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.HANWHA LIFE INSURANCE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "naomi wiwinda",
+    "birthDate": "19881114", 
+"birthPlace": "Pontianak",
+"emailAddress": "naomi.wiwinda@yahoo.com",
+"mobilePhone": "08990394441",
+"homePhone": "0215654234",
+"lineAddress1": "RATU MELATI 4 BLOK E 3 NO 14 DURI KEPA",
+"lineAddress2": "JAKARTA BARAT",
+"cityAddress": "Jakarta",
+"postalCode": 11510,
+"sameMailing": "1",
+"mailingLineAddress1": "RATU MELATI 4 BLOK E 3 NO 14 DURI KEPA",
+"mailingLineAddress2": "JAKARTA BARAT",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11510,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671125411880004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT.HANWHA LIFE INSURANCE",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000407",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220414104104",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7010142151",
+"bankAccountName": "Naomi Wiwinda",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08990394441",
+"name": "KWAN KAYDEN RIYANTO",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20190717",
+"percentage": 100,
+"email": "naomi.wiwinda@yahoo.com"
+}
+]
+}

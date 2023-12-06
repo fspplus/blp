@@ -1,0 +1,297 @@
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:19:38 2023-06-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "WATI",
+    "birthDate": "19840419", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "wati8388@gmail.com",
+"mobilePhone": "085261055689",
+"homePhone": "085261055689",
+"lineAddress1": "JL MANDALA BY PASS NO 184-I",
+"lineAddress2": "KEL. BANTAN, KEC. MEDAN TEMBUNG",
+"cityAddress": "Medan",
+"postalCode": 20224,
+"sameMailing": "1",
+"mailingLineAddress1": "JL MANDALA BY PASS NO 184-I",
+"mailingLineAddress2": "KEL. BANTAN, KEC. MEDAN TEMBUNG",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271145904840005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGENCY DIRECTOR",
+"namaLembaga": "PT AXA FINANCIAL INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "WATI",
+    "birthDate": "19840419", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "wati8388@gmail.com",
+"mobilePhone": "085261055689",
+"homePhone": "085261055689",
+"lineAddress1": "JL MANDALA BY PASS NO 184-I",
+"lineAddress2": "KEL. BANTAN, KEC. MEDAN TEMBUNG",
+"cityAddress": "Medan",
+"postalCode": 20224,
+"sameMailing": "1",
+"mailingLineAddress1": "JL MANDALA BY PASS NO 184-I",
+"mailingLineAddress2": "KEL. BANTAN, KEC. MEDAN TEMBUNG",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20224,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271145904840005",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "AGENCY DIRECTOR",
+"namaLembaga": "PT AXA FINANCIAL INDONESIA",
+				"bidangUsaha": "ASURANSI "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230628091937",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2420616085",
+"bankAccountName": "WATI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085261628388",
+"name": "SARWITO",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19810315",
+"percentage": 100,
+"email": "wati8388@gmail.com"
+}
+]
+}
+182.23.32.10 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:34:31 2023-06-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "WIBAWA",
+    "birthDate": "19820809", 
+"birthPlace": "Medan",
+"emailAddress": "wibawa.simbara@gmail.com",
+"mobilePhone": "085275266663",
+"homePhone": "085275266663",
+"lineAddress1": "JL KPT JUMHANA NO 79 LK VII",
+"lineAddress2": "KEL. SUKARAMAI II, KEC. MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KPT JUMHANA NO 79 LK VII",
+"mailingLineAddress2": "KEL. SUKARAMAI II, KEC. MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271110908820004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Clipan Finance",
+				"bidangUsaha": "Pembiayaan mobil "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "WIBAWA",
+    "birthDate": "19820809", 
+"birthPlace": "Medan",
+"emailAddress": "wibawa.simbara@gmail.com",
+"mobilePhone": "085275266663",
+"homePhone": "085275266663",
+"lineAddress1": "JL KPT JUMHANA NO 79 LK VII",
+"lineAddress2": "KEL. SUKARAMAI II, KEC. MEDAN AREA",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KPT JUMHANA NO 79 LK VII",
+"mailingLineAddress2": "KEL. SUKARAMAI II, KEC. MEDAN AREA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271110908820004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Clipan Finance",
+				"bidangUsaha": "Pembiayaan mobil "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311458",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230628093430",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3491191331",
+"bankAccountName": "WIBAWA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085275266663",
+"name": "RENY",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19850120",
+"percentage": 100,
+"email": "reny123nc@gmail.com"
+}
+]
+}
+139.194.240.163 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 20:06:45 2023-06-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Lily",
+    "birthDate": "19760814", 
+"birthPlace": "Medan",
+"emailAddress": "lily.atm@gmail.com",
+"mobilePhone": "08126386833",
+"homePhone": "08126386833",
+"lineAddress1": "Jl. Karantina No.61F",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Karantina No.61F",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271205408760002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Kamparindo Agro Industri",
+				"bidangUsaha": "Kelapa Sawit "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Lily",
+    "birthDate": "19760814", 
+"birthPlace": "Medan",
+"emailAddress": "lily.atm@gmail.com",
+"mobilePhone": "08126386833",
+"homePhone": "08126386833",
+"lineAddress1": "Jl. Karantina No.61F",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Karantina No.61F",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271205408760002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Kamparindo Agro Industri",
+				"bidangUsaha": "Kelapa Sawit "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230628200644",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8000425118",
+"bankAccountName": "Lily",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126524677",
+"name": "Butiano",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19760420",
+"percentage": 100,
+"email": "lily.atm@gmail.com"
+}
+]
+}

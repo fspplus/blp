@@ -1,0 +1,198 @@
+125.161.216.223 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:40:24 2022-03-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nursiawati",
+    "birthDate": "19680821", 
+"birthPlace": "Palembang",
+"emailAddress": "watinursia5@gmail.com",
+"mobilePhone": "089694986047",
+"homePhone": "089694986047",
+"lineAddress1": "Jl. Kopral Umar Said No 1610 rt 25 lrg. Andalas km 3,5 Palembang",
+"lineAddress2": "Jl. Kopral Umar Said No 1610 rt 25 lrg. Andalas km 3,5 Palembang",
+"cityAddress": "",
+"postalCode": 30129,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. MT. Haryono The Daarra Blok A8 Ungaran Timur Kab. Semarang Jateng",
+"mailingLineAddress2": "Jl. MT. Haryono The Daarra Blok A8 Ungaran Timur Kab. Semarang Jateng",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50514,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1671056108680003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "-",
+				"bidangUsaha": "- "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Nursiawati",
+    "birthDate": "19680821", 
+"birthPlace": "Palembang",
+"emailAddress": "watinursia5@gmail.com",
+"mobilePhone": "089694986047",
+"homePhone": "089694986047",
+"lineAddress1": "Jl. Kopral Umar Said No 1610 rt 25 lrg. Andalas km 3,5 Palembang",
+"lineAddress2": "Jl. Kopral Umar Said No 1610 rt 25 lrg. Andalas km 3,5 Palembang",
+"cityAddress": "",
+"postalCode": 30129,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. MT. Haryono The Daarra Blok A8 Ungaran Timur Kab. Semarang Jateng",
+"mailingLineAddress2": "Jl. MT. Haryono The Daarra Blok A8 Ungaran Timur Kab. Semarang Jateng",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50514,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1671056108680003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "-",
+				"bidangUsaha": "- "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71910160",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220312114023",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2220761579",
+"bankAccountName": "Nursiawati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081283851213",
+"name": "Putri Kodriati",
+"famrel": 3,
+"gender": "F",
+"birthDate": "19910405",
+"percentage": 100,
+"email": "putrikodriati@gmail.com"
+}
+]
+}
+140.213.35.183 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:49:34 2022-03-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ABDURRAKHMAN",
+    "birthDate": "19930621", 
+"birthPlace": "Cirebon",
+"emailAddress": "ramarahman21@gmail.com",
+"mobilePhone": "08170210606",
+"homePhone": "0234352999",
+"lineAddress1": "Blok Gudang Tengah No. 34",
+"lineAddress2": "Jatibarang Baru",
+"cityAddress": "",
+"postalCode": 45273,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Tanjung Duren III No. 212 Gg. Taman Apel IV",
+"mailingLineAddress2": "Kelurahan Tanjung Duren Utara Kecamatan Grogol Petamburan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11470,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212132106930002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Bank Mandiri ",
+				"bidangUsaha": "Perbankab "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "ABDURRAKHMAN",
+    "birthDate": "19930621", 
+"birthPlace": "Cirebon",
+"emailAddress": "ramarahman21@gmail.com",
+"mobilePhone": "08170210606",
+"homePhone": "0234352999",
+"lineAddress1": "Blok Gudang Tengah No. 34",
+"lineAddress2": "Jatibarang Baru",
+"cityAddress": "",
+"postalCode": 45273,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Tanjung Duren III No. 212 Gg. Taman Apel IV",
+"mailingLineAddress2": "Kelurahan Tanjung Duren Utara Kecamatan Grogol Petamburan",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11470,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3212132106930002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Bank Mandiri ",
+				"bidangUsaha": "Perbankab "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92113229",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220312144932",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6040850927",
+"bankAccountName": "Abdurrakhman",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08170210603",
+"name": "Azka Qolbiyah",
+"famrel": 4,
+"gender": "F",
+"birthDate": "20090928",
+"percentage": 100,
+"email": "ramarahman21@gmail.com"
+}
+]
+}

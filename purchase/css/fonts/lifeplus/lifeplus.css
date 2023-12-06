@@ -1,0 +1,32 @@
+/* 
+ * LIFEPLUS
+ * HANWHA LIFE INSURANCE FONT
+ */
+ 
+@font-face {
+  font-family: 'Lifeplus';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lifeplus Medium'),
+       local('LIFEPLUS-Medium'),
+       url(./woff2/LIFEPLUS-Medium.woff2) format('woff2'),
+       url(./woff/LIFEPLUS-Medium.woff) format('woff'),
+}
+@font-face {
+  font-family: 'Lifeplus';
+  font-style: thin;
+  font-weight: 200;
+  src: local('Lifeplus Light'),
+       local('LIFEPLUS-Light'),
+       url(./woff2/LIFEPLUS-Light.woff2) format('woff2'),
+       url(./woff/LIFEPLUS-Light.woff) format('woff'),
+}
+@font-face {
+  font-family: 'Lifeplus';
+  font-style: bold;
+  font-weight: 700;
+  src: local('Lifeplus Bold'),
+       local('LIFEPLUS-Bold'),
+       url(./woff2/LIFEPLUS-Bold.woff2) format('woff2'),
+       url(./woff/LIFEPLUS-Bold.woff) format('woff'),
+}

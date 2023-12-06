@@ -1,0 +1,99 @@
+114.124.210.148 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:45:58 2021-03-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Nadiyah Marsela",
+    "birthDate": "19951229", 
+"birthPlace": "Jakarta",
+"emailAddress": "nadiyah2307@gmail.com",
+"mobilePhone": "081213171930",
+"homePhone": "0812131719130",
+"lineAddress1": "Jl. Jeruk Manis III No. 50A RT 10 RW 10",
+"lineAddress2": "Kebon Jeruk, Jakarta Barat, 11530, DKI Jakarta",
+"cityAddress": "",
+"postalCode": 11530,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. F Perjuangan No. 50A RT 10 RW 10",
+"mailingLineAddress2": "Kebon Jeruk, Jakarta Barat, 11530, DKI Jakarta",
+"mailingCityAddress": "",
+"mailingpostalCode": 11530,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173056912950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ayopop Teknologi Indonesia",
+				"bidangUsaha": "Fintech Startup "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Nadiyah Marsela",
+    "birthDate": "19951229", 
+"birthPlace": "Jakarta",
+"emailAddress": "nadiyah2307@gmail.com",
+"mobilePhone": "081213171930",
+"homePhone": "0812131719130",
+"lineAddress1": "Jl. Jeruk Manis III No. 50A RT 10 RW 10",
+"lineAddress2": "Kebon Jeruk, Jakarta Barat, 11530, DKI Jakarta",
+"cityAddress": "",
+"postalCode": 11530,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. F Perjuangan No. 50A RT 10 RW 10",
+"mailingLineAddress2": "Kebon Jeruk, Jakarta Barat, 11530, DKI Jakarta",
+"mailingCityAddress": "",
+"mailingpostalCode": 11530,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173056912950003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ayopop Teknologi Indonesia",
+				"bidangUsaha": "Fintech Startup "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "464",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210324104557",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4670217626",
+"bankAccountName": "Nadiyah Marsela",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08128459164",
+"name": "Yamsasni",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19641216",
+"percentage": 100,
+"email": "nadiyah2307@gmail.com"
+}
+]
+}

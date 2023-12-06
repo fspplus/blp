@@ -1,0 +1,306 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:26:28 2022-06-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "adi rahadian kurniadi",
+    "birthDate": "19791217", 
+"birthPlace": "cirebon",
+"emailAddress": "adi.rahadian79@gmail.com",
+"mobilePhone": "081298085093",
+"homePhone": "02318854105",
+"lineAddress1": "jl rajawali timur 2 no 17",
+"lineAddress2": "rt 11 rw03",
+"cityAddress": "Cirebon",
+"postalCode": 45141,
+"sameMailing": "1",
+"mailingLineAddress1": "jl rajawali timur 2 no 17",
+"mailingLineAddress2": "rt 11 rw03",
+"mailingCityAddress": "Cirebon",
+"mailingpostalCode": 45141,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3274031712790004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwhalife Indonesia",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "adi rahadian kurniadi",
+    "birthDate": "19791217", 
+"birthPlace": "cirebon",
+"emailAddress": "adi.rahadian79@gmail.com",
+"mobilePhone": "081298085093",
+"homePhone": "02318854105",
+"lineAddress1": "jl rajawali timur 2 no 17",
+"lineAddress2": "rt 11 rw03",
+"cityAddress": "Cirebon",
+"postalCode": 45141,
+"sameMailing": "1",
+"mailingLineAddress1": "jl rajawali timur 2 no 17",
+"mailingLineAddress2": "rt 11 rw03",
+"mailingCityAddress": "Cirebon",
+"mailingpostalCode": 45141,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3274031712790004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwhalife Indonesia",
+				"bidangUsaha": "asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71910010",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220628142627",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "5250258587",
+"bankAccountName": "adi rahadian kurniadi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081394078101",
+"name": "nur khalifah",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19790905",
+"percentage": 100,
+"email": "cahaya.khalifah80@gmail.com"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:17:11 2022-06-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Dra Tries Dwi Saptari",
+    "birthDate": "19660904", 
+"birthPlace": "Jakarta",
+"emailAddress": "trieddwis@gmail.com",
+"mobilePhone": "08989965366",
+"homePhone": "08989965366",
+"lineAddress1": "Perumahan Villa Mutiara Bogor 1 Sektor 2 Blok i3 No 1 RT 009 RW 012 Mekarwangi Tanah Sereal Bogor ",
+"lineAddress2": "Perumahan Villa Mutiara Bogor 1 Sektor 2 Blok i3 No 1 RT 009 RW 012 Mekarwangi Tanah Sereal Bogor ",
+"cityAddress": "",
+"postalCode": 16168,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Karya Utama GG H Sinan N0 21B RT 003 RW 003 Kel Srengseng Kec Kembangan Jakarta barat",
+"mailingLineAddress2": "Jl. Karya Utama GG H Sinan N0 21B RT 003 RW 003 Kel Srengseng Kec Kembangan Jakarta barat",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11630,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014409660002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Dra Tries Dwi Saptari",
+    "birthDate": "19660904", 
+"birthPlace": "Jakarta",
+"emailAddress": "trieddwis@gmail.com",
+"mobilePhone": "08989965366",
+"homePhone": "08989965366",
+"lineAddress1": "Perumahan Villa Mutiara Bogor 1 Sektor 2 Blok i3 No 1 RT 009 RW 012 Mekarwangi Tanah Sereal Bogor ",
+"lineAddress2": "Perumahan Villa Mutiara Bogor 1 Sektor 2 Blok i3 No 1 RT 009 RW 012 Mekarwangi Tanah Sereal Bogor ",
+"cityAddress": "",
+"postalCode": 16168,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Karya Utama GG H Sinan N0 21B RT 003 RW 003 Kel Srengseng Kec Kembangan Jakarta barat",
+"mailingLineAddress2": "Jl. Karya Utama GG H Sinan N0 21B RT 003 RW 003 Kel Srengseng Kec Kembangan Jakarta barat",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11630,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3174014409660002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "00000112 ",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20220628151709",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1240010803881",
+"bankAccountName": "Tries Dwi Saptari",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08989965366",
+"name": "Rahadi Widhiyo Wicaksono ",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20000314",
+"percentage": 50,
+"email": "triesdwis@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "08989965366",
+"name": "Rahayu Widhiya Wardani",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20040531",
+"percentage": 50,
+"email": "triesdwis@gmail.com"
+}
+]
+}
+203.78.120.230 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 20:45:07 2022-06-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Afni Yurnalis koto",
+    "birthDate": "19840822", 
+"birthPlace": "Padang sidempuan",
+"emailAddress": "karalieva.mooie08@gmail.com",
+"mobilePhone": "0811626669",
+"homePhone": "0811626669",
+"lineAddress1": "Jl PGRI 1 blok ER/03",
+"lineAddress2": "RT 006/000, Tanah Merah, Samarinda Utara",
+"cityAddress": "Samarinda",
+"postalCode": 75119,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl PGRI 1 blok ER/03",
+"mailingLineAddress2": "RT 006/000, Tanah Merah, Samarinda Utara",
+"mailingCityAddress": "Samarinda",
+"mailingpostalCode": 75119,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1277016208840003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Teknisi",
+				"bidangUsaha": "Teknisi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Afni Yurnalis koto",
+    "birthDate": "19840822", 
+"birthPlace": "Padang sidempuan",
+"emailAddress": "karalieva.mooie08@gmail.com",
+"mobilePhone": "0811626669",
+"homePhone": "0811626669",
+"lineAddress1": "Jl PGRI 1 blok ER/03",
+"lineAddress2": "RT 006/000, Tanah Merah, Samarinda Utara",
+"cityAddress": "Samarinda",
+"postalCode": 75119,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl PGRI 1 blok ER/03",
+"mailingLineAddress2": "RT 006/000, Tanah Merah, Samarinda Utara",
+"mailingCityAddress": "Samarinda",
+"mailingpostalCode": 75119,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1277016208840003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Teknisi",
+				"bidangUsaha": "Teknisi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220628204506",
+"bankCode": "008",
+"ropBankCode": "008",
+"bankAccount": "1480013052835",
+"bankAccountName": "Afni Yurnalis Koto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Brastagi Dian Ramadhani"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081362966669",
+"name": "Sumayyah Naazneen",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20130622",
+"percentage": 100,
+"email": "karalieva.mooei08@gmail.com"
+}
+]
+}

@@ -1,0 +1,102 @@
+182.1.114.247 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:11:49 2023-11-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "CARLESTO JOSAFAT",
+    "birthDate": "19790814", 
+"birthPlace": "SURABAYA",
+"emailAddress": "carlestojosafat79@gmail.com",
+"mobilePhone": "089660664888",
+"homePhone": "085233196525",
+"lineAddress1": "GUNUNGANYAR BARU 3/2",
+"lineAddress2": "GUNUNG ANYAR",
+"cityAddress": "",
+"postalCode": 60294,
+"sameMailing": "1",
+"mailingLineAddress1": "GUNUNGANYAR BARU 3/2",
+"mailingLineAddress2": "GUNUNG ANYAR",
+"mailingCityAddress": "",
+"mailingpostalCode": 60294,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578031408790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CROSSLINE",
+				"bidangUsaha": "YAYASAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "CARLESTO JOSAFAT",
+    "birthDate": "19790814", 
+"birthPlace": "SURABAYA",
+"emailAddress": "carlestojosafat79@gmail.com",
+"mobilePhone": "089660664888",
+"homePhone": "085233196525",
+"lineAddress1": "GUNUNGANYAR BARU 3/2",
+"lineAddress2": "GUNUNG ANYAR",
+"cityAddress": "",
+"postalCode": 60294,
+"sameMailing": "1",
+"mailingLineAddress1": "GUNUNGANYAR BARU 3/2",
+"mailingLineAddress2": "GUNUNG ANYAR",
+"mailingCityAddress": "",
+"mailingpostalCode": 60294,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3578031408790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CROSSLINE",
+				"bidangUsaha": "YAYASAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311467",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231115171148",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0882696748",
+"bankAccountName": "CARLESTO JOSAFAT",
+"ewalletNo": "089660664888",
+"ewalletType": "OVO",
+"ewalletName": "CARLESTO JOSAFAT",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085233196525",
+"name": "LOIS EUNIKE GUINADI",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19770315",
+"percentage": 100,
+"email": "nikefaith77@gmail.com"
+}
+]
+}

@@ -1,0 +1,378 @@
+140.213.36.11 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:46:09 2023-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Mona",
+    "birthDate": "19721222", 
+"birthPlace": "Medan",
+"emailAddress": "yangmona788@gmail.com",
+"mobilePhone": "082159427766",
+"homePhone": "082159427766",
+"lineAddress1": "Jl. Kap. Jumhana GG III No. 458",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kap. Jumhana GG III No. 458",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271106212720003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bellyintake",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Mona",
+    "birthDate": "19721222", 
+"birthPlace": "Medan",
+"emailAddress": "yangmona788@gmail.com",
+"mobilePhone": "082159427766",
+"homePhone": "082159427766",
+"lineAddress1": "Jl. Kap. Jumhana GG III No. 458",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Kap. Jumhana GG III No. 458",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271106212720003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bellyintake",
+				"bidangUsaha": "Makanan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230725134608",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "703610390200",
+"bankAccountName": "Mona",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082159427766",
+"name": "Fenando",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19941018",
+"percentage": 100,
+"email": "yangmona788@gmail.com"
+}
+]
+}
+114.122.36.238 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:12:12 2023-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230725171212",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}
+114.122.36.238 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:12:13 2023-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+    },"policyHolder":{
+"fullName": "",
+    "birthDate": "", 
+"birthPlace": "",
+"emailAddress": "",
+"mobilePhone": "",
+"homePhone": "",
+"lineAddress1": "",
+"lineAddress2": "",
+"cityAddress": "",
+"postalCode": ,
+"sameMailing": "",
+"mailingLineAddress1": "",
+"mailingLineAddress2": "",
+"mailingCityAddress": "",
+"mailingpostalCode": ,
+"gender": "",
+"jobType": "",
+"identityType": 1,
+"identityNumber": "",
+"incomeSource": "",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": ""
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230725171213",
+"bankCode": "",
+"ropBankCode": "",
+"bankAccount": "",
+"bankAccountName": "",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [
+]
+}
+140.213.17.21 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:36:10 2023-07-25
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Raman Adjiman",
+    "birthDate": "19650515", 
+"birthPlace": "Sialang Buah",
+"emailAddress": "adjimanraman@gmail.com",
+"mobilePhone": "085318188007",
+"homePhone": "085318188007",
+"lineAddress1": "Jl. ST Hasanuddin No.28 / 117 LK VIII",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20986,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. ST Hasanuddin No.28 / 117 LK VIII",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20986,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207281505650003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kilang Padi New Makmur",
+				"bidangUsaha": "Kilang Padi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Raman Adjiman",
+    "birthDate": "19650515", 
+"birthPlace": "Sialang Buah",
+"emailAddress": "adjimanraman@gmail.com",
+"mobilePhone": "085318188007",
+"homePhone": "085318188007",
+"lineAddress1": "Jl. ST Hasanuddin No.28 / 117 LK VIII",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20986,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. ST Hasanuddin No.28 / 117 LK VIII",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20986,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1207281505650003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kilang Padi New Makmur",
+				"bidangUsaha": "Kilang Padi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230725183609",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "20109016644",
+"bankAccountName": "Raman Adjiman",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085318188007",
+"name": "Firdaus",
+"famrel": 3,
+"gender": "M",
+"birthDate": "19740310",
+"percentage": 100,
+"email": "adjimanraman@gmail.com"
+}
+]
+}

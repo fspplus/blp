@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:31:38 2022-04-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ervinna Kristyaningsih, SE",
+    "birthDate": "19760205", 
+"birthPlace": "Mojokerto",
+"emailAddress": "vinnchrist@yahoo.com",
+"mobilePhone": "0818291840",
+"homePhone": "0818291840",
+"lineAddress1": "TMN ARYAMUKTI TIMUR VII/202",
+"lineAddress2": "RT 008/004 PEDURUNGAN LOR, PEDURUNGAN",
+"cityAddress": "Semarang",
+"postalCode": 50192,
+"sameMailing": "1",
+"mailingLineAddress1": "TMN ARYAMUKTI TIMUR VII/202",
+"mailingLineAddress2": "RT 008/004 PEDURUNGAN LOR, PEDURUNGAN",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50192,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374064502760007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ervinna Kristyaningsih, SE",
+    "birthDate": "19760205", 
+"birthPlace": "Mojokerto",
+"emailAddress": "vinnchrist@yahoo.com",
+"mobilePhone": "0818291840",
+"homePhone": "0818291840",
+"lineAddress1": "TMN ARYAMUKTI TIMUR VII/202",
+"lineAddress2": "RT 008/004 PEDURUNGAN LOR, PEDURUNGAN",
+"cityAddress": "Semarang",
+"postalCode": 50192,
+"sameMailing": "1",
+"mailingLineAddress1": "TMN ARYAMUKTI TIMUR VII/202",
+"mailingLineAddress2": "RT 008/004 PEDURUNGAN LOR, PEDURUNGAN",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50192,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3374064502760007",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Hanwha Life",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "00000563",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220412143136",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2521059526",
+"bankAccountName": "Ervinna Kristyaningsih, SE",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818291840",
+"name": "Christopher Marsudi",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19740113",
+"percentage": 100,
+"email": "vinnchrist@yahoo.com"
+}
+]
+}

@@ -1,0 +1,495 @@
+182.253.242.69 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 11:56:53 2023-07-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ciu Phing",
+    "birthDate": "19780328", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "Lociuphin@yahoo.com",
+"mobilePhone": "0811653330",
+"homePhone": "0811653330",
+"lineAddress1": "JL. Veteran Dalam No.19 R",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. Veteran Dalam No.19 R",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271196803780002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ciu Phing",
+    "birthDate": "19780328", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "Lociuphin@yahoo.com",
+"mobilePhone": "0811653330",
+"homePhone": "0811653330",
+"lineAddress1": "JL. Veteran Dalam No.19 R",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. Veteran Dalam No.19 R",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271196803780002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230720115653",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1959833999",
+"bankAccountName": "Ciu Phing",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811646541",
+"name": "Hasan Gunawab",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19730323",
+"percentage": 100,
+"email": "hasan@ganindo.com"
+}
+]
+}
+45.126.185.232 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:29:57 2023-07-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MONI",
+    "birthDate": "19751128", 
+"birthPlace": "Medan",
+"emailAddress": "moniyang888@yahoo.com",
+"mobilePhone": "085206560155",
+"homePhone": "085206560155",
+"lineAddress1": "Jl perintis kemerdekaan komp jati residence blok D no 15",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl perintis kemerdekaan komp jati residence blok D no 15",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206811750002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Moniyang",
+				"bidangUsaha": "Properti  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MONI",
+    "birthDate": "19751128", 
+"birthPlace": "Medan",
+"emailAddress": "moniyang888@yahoo.com",
+"mobilePhone": "085206560155",
+"homePhone": "085206560155",
+"lineAddress1": "Jl perintis kemerdekaan komp jati residence blok D no 15",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl perintis kemerdekaan komp jati residence blok D no 15",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206811750002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Moniyang",
+				"bidangUsaha": "Properti  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230720132956",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6995737373",
+"bankAccountName": "Moni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085270225234",
+"name": "Felix Limbardon",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20021002",
+"percentage": 100,
+"email": "moniyang888@yahoo.com"
+}
+]
+}
+45.126.185.232 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:01:07 2023-07-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fitriana",
+    "birthDate": "19890512", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "nanagoh89@gmail.com",
+"mobilePhone": "082166077111",
+"homePhone": "082166077111",
+"lineAddress1": "Jl. Pasar 3 komp. Taman pasar III Blok B-8",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Pasar 3 komp. Taman pasar III Blok B-8",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1274015205890000",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Tribersa",
+				"bidangUsaha": "Perhotelan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Fitriana",
+    "birthDate": "19890512", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "nanagoh89@gmail.com",
+"mobilePhone": "082166077111",
+"homePhone": "082166077111",
+"lineAddress1": "Jl. Pasar 3 komp. Taman pasar III Blok B-8",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Pasar 3 komp. Taman pasar III Blok B-8",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1274015205890000",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Tribersa",
+				"bidangUsaha": "Perhotelan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230720140106",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0520178309",
+"bankAccountName": "Ftriana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081396177111",
+"name": "Mulyadi",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19880105",
+"percentage": 100,
+"email": "liemulyadi@ymail.com"
+}
+]
+}
+45.126.185.232 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:14:35 2023-07-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Mulyadi",
+    "birthDate": "19880105", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "liemulyadi@ymail.com",
+"mobilePhone": "081396177111",
+"homePhone": "081396177111",
+"lineAddress1": "Jl.Pasar 3 komp. Taman Pasar III Blok 8-8",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pasar 3 komp. Taman Pasar III Blok 8-8",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1274010501880003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Benua Samudera Cargo",
+				"bidangUsaha": "Expedisi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Mulyadi",
+    "birthDate": "19880105", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "liemulyadi@ymail.com",
+"mobilePhone": "081396177111",
+"homePhone": "081396177111",
+"lineAddress1": "Jl.Pasar 3 komp. Taman Pasar III Blok 8-8",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pasar 3 komp. Taman Pasar III Blok 8-8",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1274010501880003",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Benua Samudera Cargo",
+				"bidangUsaha": "Expedisi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230720141434",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0520243801",
+"bankAccountName": "Mulyadi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082166077111",
+"name": "Fitriana",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19890512",
+"percentage": 100,
+"email": "nanagoh89@gmail.com"
+}
+]
+}
+140.213.36.192 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:06:05 2023-07-20
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DASHANNY SISWORO",
+    "birthDate": "19830303", 
+"birthPlace": "Medan ",
+"emailAddress": "dashanny_mimik@yahoo.com",
+"mobilePhone": "081361388988",
+"homePhone": "081361388988",
+"lineAddress1": "Jl sabang no 11",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sabang no 11",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271104303830003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Cv jaya karya",
+				"bidangUsaha": "Industri "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DASHANNY SISWORO",
+    "birthDate": "19830303", 
+"birthPlace": "Medan ",
+"emailAddress": "dashanny_mimik@yahoo.com",
+"mobilePhone": "081361388988",
+"homePhone": "081361388988",
+"lineAddress1": "Jl sabang no 11",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sabang no 11",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271104303830003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Cv jaya karya",
+				"bidangUsaha": "Industri "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230720180605",
+"bankCode": "022",
+"ropBankCode": "022",
+"bankAccount": "700331949200",
+"bankAccountName": "DASHANNY SISWORO ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085274215255",
+"name": "Johan ",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19780523",
+"percentage": 100,
+"email": "johan_thamri@yahoo.com"
+}
+]
+}

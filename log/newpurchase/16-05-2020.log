@@ -1,0 +1,99 @@
+180.242.181.58 https://bucketlistplan.co.id/prepurchase?view=finish 07:08:38 2020-05-16
+
+Content JSON:
+{
+"personalData": {
+"fullName": "JOSEPHINA AMBARSARI LOHO",
+    "birthDate": "19950108", 
+"birthPlace": "Jakarta",
+"emailAddress": "vinaloho08@gmail.com",
+"mobilePhone": "082125179980",
+"homePhone": "082125179980",
+"lineAddress1": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"lineAddress2": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"cityAddress": "Bogor",
+"postalCode": 16922,
+"sameMailing": "1",
+"mailingLineAddress1": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"mailingLineAddress2": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16922,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3201134801950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "JOSEPHINA AMBARSARI LOHO",
+    "birthDate": "19950108", 
+"birthPlace": "Jakarta",
+"emailAddress": "vinaloho08@gmail.com",
+"mobilePhone": "082125179980",
+"homePhone": "082125179980",
+"lineAddress1": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"lineAddress2": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"cityAddress": "Bogor",
+"postalCode": 16922,
+"sameMailing": "1",
+"mailingLineAddress1": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"mailingLineAddress2": "Pondok bambu kuning C/4 20 RT 004/014 bojong gede",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16922,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "3201134801950001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "71909915",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200516070837",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7180354101",
+"bankAccountName": "JOSEPHINA AMBARSARI LOHO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081382102300",
+"name": "MARGARETHA SUDARWATI",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19601110",
+"percentage": 100,
+"email": "vinaloho08@gmail.com"
+}
+]
+}

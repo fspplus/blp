@@ -1,0 +1,99 @@
+10.1.1.33 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:22:13 2023-02-03
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DANIS PRIHANTORO",
+    "birthDate": "19841213", 
+"birthPlace": "Jakarta",
+"emailAddress": "danis.prihantoro@yahoo.co.id",
+"mobilePhone": "085697902725",
+"homePhone": "085697902725",
+"lineAddress1": "Perum Gunung Putri Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"lineAddress2": "Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"cityAddress": "Bogor",
+"postalCode": 16917,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum Gunung Putri Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"mailingLineAddress2": "Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16917,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201011512840004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DANIS PRIHANTORO",
+    "birthDate": "19841213", 
+"birthPlace": "Jakarta",
+"emailAddress": "danis.prihantoro@yahoo.co.id",
+"mobilePhone": "085697902725",
+"homePhone": "085697902725",
+"lineAddress1": "Perum Gunung Putri Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"lineAddress2": "Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"cityAddress": "Bogor",
+"postalCode": 16917,
+"sameMailing": "1",
+"mailingLineAddress1": "Perum Gunung Putri Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"mailingLineAddress2": "Permai  Jl Durian Raya V Blok A 5 No 3 rt 002 rw 009 Karanggan Gunung Putri",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16917,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201011512840004",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi Jiwa "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "00000584",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230203172212",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "68303736989",
+"bankAccountName": "DANIS PRIHANTORO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "00000584"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081928066699",
+"name": "Siti Rohma",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19880326",
+"percentage": 100,
+"email": "siti.rohma@yahoo.co.id"
+}
+]
+}

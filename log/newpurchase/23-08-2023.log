@@ -1,0 +1,99 @@
+182.253.242.74 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 19:13:37 2023-08-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Efika Arianty",
+    "birthDate": "19830719", 
+"birthPlace": "Sungai liat",
+"emailAddress": "V1cka19@yahoo.com",
+"mobilePhone": "0818199083",
+"homePhone": "0818199083",
+"lineAddress1": "Jl danau tondano no 3G",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl danau tondano no 3G",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3671115907830005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Brothers mobil",
+				"bidangUsaha": "Jual beli mobil  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Efika Arianty",
+    "birthDate": "19830719", 
+"birthPlace": "Sungai liat",
+"emailAddress": "V1cka19@yahoo.com",
+"mobilePhone": "0818199083",
+"homePhone": "0818199083",
+"lineAddress1": "Jl danau tondano no 3G",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl danau tondano no 3G",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3671115907830005",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Brothers mobil",
+				"bidangUsaha": "Jual beli mobil  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230823191336",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8060039667",
+"bankAccountName": "Efika Arianty ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0818199083",
+"name": "Justin Evadson Wijaya",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20131031",
+"percentage": 100,
+"email": "v1cka19@yahoo.com"
+}
+]
+}

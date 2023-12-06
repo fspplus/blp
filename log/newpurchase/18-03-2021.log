@@ -1,0 +1,99 @@
+139.255.95.18 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:56:17 2021-03-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Frans David Halim",
+    "birthDate": "19980704", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "fdhalim98@gmail.com",
+"mobilePhone": "081265466545",
+"homePhone": "081265466545",
+"lineAddress1": "Jalan Medan, Kelurahan PON",
+"lineAddress2": "Kecamatan Sei Bamban",
+"cityAddress": "",
+"postalCode": 20995,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Teuku Amir Hamzah No. 3B - 3C",
+"mailingLineAddress2": "Kelurahan Sei Agul, Kecamatan Medan Barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1218150407980001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Rejeki Tani",
+				"bidangUsaha": "Pupuk Tanaman "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Frans David Halim",
+    "birthDate": "19980704", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "fdhalim98@gmail.com",
+"mobilePhone": "081265466545",
+"homePhone": "081265466545",
+"lineAddress1": "Jalan Medan, Kelurahan PON",
+"lineAddress2": "Kecamatan Sei Bamban",
+"cityAddress": "",
+"postalCode": 20995,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Teuku Amir Hamzah No. 3B - 3C",
+"mailingLineAddress2": "Kelurahan Sei Agul, Kecamatan Medan Barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 20117,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1218150407980001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Rejeki Tani",
+				"bidangUsaha": "Pupuk Tanaman "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92012055",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210318125612",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0421071291",
+"bankAccountName": "Frans David Halim",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92012055"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081265466545",
+"name": "Sartini",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19720715",
+"percentage": 100,
+"email": "fdhalim98@gmail.com"
+}
+]
+}

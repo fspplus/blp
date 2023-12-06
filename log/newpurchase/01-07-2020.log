@@ -1,0 +1,702 @@
+182.23.25.179 https://www.koreaversikamu.co.id/prepurchase?view=finish 13:08:21 2020-07-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TEDDI BURHANSYAH",
+    "birthDate": "19810203", 
+"birthPlace": "Jakarta",
+"emailAddress": "teddi_boer@gmail.com",
+"mobilePhone": "08568808976",
+"homePhone": "08568808976",
+"lineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"lineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15413,
+"sameMailing": "1",
+"mailingLineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"mailingLineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15413,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3671070302810004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "ROHANIAWAN",
+"namaLembaga": "GBI",
+				"bidangUsaha": "KEAGAMAAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TEDDI BURHANSYAH",
+    "birthDate": "19810203", 
+"birthPlace": "Jakarta",
+"emailAddress": "teddi_boer@gmail.com",
+"mobilePhone": "08568808976",
+"homePhone": "08568808976",
+"lineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"lineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15413,
+"sameMailing": "1",
+"mailingLineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"mailingLineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15413,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3671070302810004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "ROHANIAWAN",
+"namaLembaga": "GBI",
+				"bidangUsaha": "KEAGAMAAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200701130821",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8820456760",
+"bankAccountName": "TEDDI BURHANSYAH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08568808976",
+"name": "MIRYAM LASIRISE",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19840803",
+"percentage": 100,
+"email": "teddi_boer@gmail.com"
+}
+]
+}
+182.23.25.179 https://www.koreaversikamu.co.id/prepurchase?view=finish 14:03:38 2020-07-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TEDDI BURHANSYAH",
+    "birthDate": "19810203", 
+"birthPlace": "Jakarta",
+"emailAddress": "teddi.boer@gmail.com",
+"mobilePhone": "08568808976",
+"homePhone": "08568808976",
+"lineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"lineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15413,
+"sameMailing": "1",
+"mailingLineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"mailingLineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15413,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3671070302810004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "ROHANIAWAN",
+"namaLembaga": "GBI",
+				"bidangUsaha": "KEAGAMAAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TEDDI BURHANSYAH",
+    "birthDate": "19810203", 
+"birthPlace": "Jakarta",
+"emailAddress": "teddi.boer@gmail.com",
+"mobilePhone": "08568808976",
+"homePhone": "08568808976",
+"lineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"lineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"cityAddress": "Tangerang selatan",
+"postalCode": 15413,
+"sameMailing": "1",
+"mailingLineAddress1": "VILLA MUTIARA BLOK X2 RT.005 RW.003",
+"mailingLineAddress2": "SAWAH BARU, CIPUTAT, TANG-SEL.BANTEN",
+"mailingCityAddress": "Tangerang selatan",
+"mailingpostalCode": 15413,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3671070302810004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "ROHANIAWAN",
+"namaLembaga": "GBI",
+				"bidangUsaha": "KEAGAMAAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200701140338",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8820456760",
+"bankAccountName": "TEDDI BURHANSYAH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08568808976",
+"name": "MIRYAM LASIRISE",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19840803",
+"percentage": 100,
+"email": "teddi.boer@gmail.com"
+}
+]
+}
+182.23.25.179 https://www.koreaversikamu.co.id/prepurchase?view=finish 14:14:45 2020-07-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "ERICK SAMUEL ANGKUW SE",
+    "birthDate": "19930228", 
+"birthPlace": "Bogor",
+"emailAddress": "ericksamuel.angkuw@yahoo.co.id",
+"mobilePhone": "089660020330",
+"homePhone": "089660020330",
+"lineAddress1": "JL. RAYA SEMPLAK NO.12 RT.001, RW.006",
+"lineAddress2": "SEMPLAK, KOTA BOGOR BARAT",
+"cityAddress": "Bogor",
+"postalCode": 16114,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. RAYA SEMPLAK NO.12 RT.001, RW.006",
+"mailingLineAddress2": "SEMPLAK, KOTA BOGOR BARAT",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16114,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271042802930002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PRIMANTARA WISESA SEJAHTERA",
+				"bidangUsaha": "PERDAGANGAN "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "ERICK SAMUEL ANGKUW SE",
+    "birthDate": "19930228", 
+"birthPlace": "Bogor",
+"emailAddress": "ericksamuel.angkuw@yahoo.co.id",
+"mobilePhone": "089660020330",
+"homePhone": "089660020330",
+"lineAddress1": "JL. RAYA SEMPLAK NO.12 RT.001, RW.006",
+"lineAddress2": "SEMPLAK, KOTA BOGOR BARAT",
+"cityAddress": "Bogor",
+"postalCode": 16114,
+"sameMailing": "1",
+"mailingLineAddress1": "JL. RAYA SEMPLAK NO.12 RT.001, RW.006",
+"mailingLineAddress2": "SEMPLAK, KOTA BOGOR BARAT",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16114,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3271042802930002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT PRIMANTARA WISESA SEJAHTERA",
+				"bidangUsaha": "PERDAGANGAN "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200701141445",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8820456760",
+"bankAccountName": "TEDDI BURHANSYAH",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "089660020330",
+"name": "MARIA ANDRA APRIYANA",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19710429",
+"percentage": 100,
+"email": "ericksamuel.angkuw@yahoo.co.id"
+}
+]
+}
+192.168.103.162 https://koreaversikamu.co.id/prepurchase?view=finish 15:05:56 2020-07-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HARTONO",
+    "birthDate": "19740825", 
+"birthPlace": "Medan",
+"emailAddress": "harto1618@gmail.com",
+"mobilePhone": "082165689899",
+"homePhone": "082165689899",
+"lineAddress1": "Jl Timur baru I no 50 A",
+"lineAddress2": "Jl timur baru I no 50 A ",
+"cityAddress": "Medan",
+"postalCode": 20231,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Timur baru I no 50 A",
+"mailingLineAddress2": "Jl timur baru I no 50 A ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20231,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271202508740001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Maju Jaya",
+				"bidangUsaha": "Kopi "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HARTONO",
+    "birthDate": "19740825", 
+"birthPlace": "Medan",
+"emailAddress": "harto1618@gmail.com",
+"mobilePhone": "082165689899",
+"homePhone": "082165689899",
+"lineAddress1": "Jl Timur baru I no 50 A",
+"lineAddress2": "Jl timur baru I no 50 A ",
+"cityAddress": "Medan",
+"postalCode": 20231,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Timur baru I no 50 A",
+"mailingLineAddress2": "Jl timur baru I no 50 A ",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20231,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271202508740001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "CV Maju Jaya",
+				"bidangUsaha": "Kopi "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91910045",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200701150556",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3830838545",
+"bankAccountName": "HARTONO",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082165689899",
+"name": "Steven Yang",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20041104",
+"percentage": 50,
+"email": "je4nnett3@gmail.com"
+},{
+"seqNo": "2",
+"mobileNo": "082165689899",
+"name": "Yuliana chandra",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19770105",
+"percentage": 50,
+"email": "je4nnett3@gmail.com"
+}
+]
+}
+125.160.114.49 https://www.bucketlistplan.co.id/prepurchase?view=finish 17:18:03 2020-07-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DANIEL",
+    "birthDate": "19920828", 
+"birthPlace": "Jakarta",
+"emailAddress": "dh.hermansyah@gmail.com",
+"mobilePhone": "081806360001",
+"homePhone": "081806360001",
+"lineAddress1": "Villa Melati Mas Blok M3/3",
+"lineAddress2": "Jl. Magnolia II",
+"cityAddress": "",
+"postalCode": 15310,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Alloggio Timur 2 no.25",
+"mailingLineAddress2": "Cluster Alloggio, Summarecon Serpong",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3674022808920001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kopi Chuseyo",
+				"bidangUsaha": "Coffeeshop "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "DANIEL",
+    "birthDate": "19920828", 
+"birthPlace": "Jakarta",
+"emailAddress": "dh.hermansyah@gmail.com",
+"mobilePhone": "081806360001",
+"homePhone": "081806360001",
+"lineAddress1": "Villa Melati Mas Blok M3/3",
+"lineAddress2": "Jl. Magnolia II",
+"cityAddress": "",
+"postalCode": 15310,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Alloggio Timur 2 no.25",
+"mailingLineAddress2": "Cluster Alloggio, Summarecon Serpong",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3674022808920001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kopi Chuseyo",
+				"bidangUsaha": "Coffeeshop "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200701171802",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7615148547",
+"bankAccountName": "DANIEL",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081280082824",
+"name": "Stefany Anggriani",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19940608",
+"percentage": 100,
+"email": "stefanyanggriani8@gmail.com"
+}
+]
+}
+118.136.228.222 https://www.bucketlistplan.co.id/prepurchase?view=finish 18:00:45 2020-07-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Aland Sinduartha Tjandra",
+    "birthDate": "19911211", 
+"birthPlace": "Yogyakarta",
+"emailAddress": "alandsind@gmail.com",
+"mobilePhone": "081398000900",
+"homePhone": "081398000900",
+"lineAddress1": "Jl Excalibur no 20, Taman Britania",
+"lineAddress2": "Lippo Karawaci Utara",
+"cityAddress": "Tangerang",
+"postalCode": 15139,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Excalibur no 20, Taman Britania",
+"mailingLineAddress2": "Lippo Karawaci Utara",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15139,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3311091112910005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dreambox",
+				"bidangUsaha": "Advertising "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Aland Sinduartha Tjandra",
+    "birthDate": "19911211", 
+"birthPlace": "Yogyakarta",
+"emailAddress": "alandsind@gmail.com",
+"mobilePhone": "081398000900",
+"homePhone": "081398000900",
+"lineAddress1": "Jl Excalibur no 20, Taman Britania",
+"lineAddress2": "Lippo Karawaci Utara",
+"cityAddress": "Tangerang",
+"postalCode": 15139,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Excalibur no 20, Taman Britania",
+"mailingLineAddress2": "Lippo Karawaci Utara",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 15139,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "3311091112910005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dreambox",
+				"bidangUsaha": "Advertising "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200701180044",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0152553020",
+"bankAccountName": "Aland Sinduartha",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "kopi chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "087803905440",
+"name": "Abram Sinduartha Tjandra",
+"famrel": 4,
+"gender": "M",
+"birthDate": "20011109",
+"percentage": 100,
+"email": "abramsind@gmail.com"
+}
+]
+}
+182.30.127.13 https://bucketlistplan.co.id/prepurchase?view=finish 18:30:25 2020-07-01
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Alika Peony Lukito",
+    "birthDate": "19980118", 
+"birthPlace": "Tarakan",
+"emailAddress": "alikapeony@gmail.com",
+"mobilePhone": "089506280234",
+"homePhone": "089506280234",
+"lineAddress1": "Semarang Indah C7/9",
+"lineAddress2": "RT 5 RW 8",
+"cityAddress": "",
+"postalCode": 50144,
+"sameMailing": "0",
+"mailingLineAddress1": "M-town Residence Tower Ellis 29/20",
+"mailingLineAddress2": "Gading Serpong",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6473015801980006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kopi Chuseyo",
+				"bidangUsaha": "Food and Beverage "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Alika Peony Lukito",
+    "birthDate": "19980118", 
+"birthPlace": "Tarakan",
+"emailAddress": "alikapeony@gmail.com",
+"mobilePhone": "089506280234",
+"homePhone": "089506280234",
+"lineAddress1": "Semarang Indah C7/9",
+"lineAddress2": "RT 5 RW 8",
+"cityAddress": "",
+"postalCode": 50144,
+"sameMailing": "0",
+"mailingLineAddress1": "M-town Residence Tower Ellis 29/20",
+"mailingLineAddress2": "Gading Serpong",
+"mailingCityAddress": "",
+"mailingpostalCode": 15810,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "6473015801980006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Kopi Chuseyo",
+				"bidangUsaha": "Food and Beverage "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20200701183024",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8831125926",
+"bankAccountName": "Alika Peony Lukito",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "Kopi Chuseyo"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081350452888",
+"name": "Alicia Febiory Christie",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19790210",
+"percentage": 100,
+"email": "alicia_christie@yahoo.com"
+}
+]
+}

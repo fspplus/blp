@@ -1,0 +1,99 @@
+114.79.5.138 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 04:36:20 2022-10-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rian Andriana ",
+    "birthDate": "20220529", 
+"birthPlace": "Cilacap ",
+"emailAddress": "ryanandriana9789@gmail.com",
+"mobilePhone": "08888146838",
+"homePhone": "08888146838",
+"lineAddress1": "Jln.baru No 12 rt 10 rw 03 ",
+"lineAddress2": "Jl baru no 12 rt10/03 Kebayoran lama Jakarta selatan ",
+"cityAddress": "",
+"postalCode": 12240,
+"sameMailing": "0",
+"mailingLineAddress1": "Jln.baru No 12 rt 10 rw 03 ",
+"mailingLineAddress2": "Jl baru no 12 rt10/03 Kebayoran lama Jakarta selatan ",
+"mailingCityAddress": "",
+"mailingpostalCode": 12240,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3301142905970006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt jco coffe and donut ",
+				"bidangUsaha": "Makanan dan minuman  "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Rian Andriana ",
+    "birthDate": "20220529", 
+"birthPlace": "Cilacap ",
+"emailAddress": "ryanandriana9789@gmail.com",
+"mobilePhone": "08888146838",
+"homePhone": "08888146838",
+"lineAddress1": "Jln.baru No 12 rt 10 rw 03 ",
+"lineAddress2": "Jl baru no 12 rt10/03 Kebayoran lama Jakarta selatan ",
+"cityAddress": "",
+"postalCode": 12240,
+"sameMailing": "0",
+"mailingLineAddress1": "Jln.baru No 12 rt 10 rw 03 ",
+"mailingLineAddress2": "Jl baru no 12 rt10/03 Kebayoran lama Jakarta selatan ",
+"mailingCityAddress": "",
+"mailingpostalCode": 12240,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3301142905970006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt jco coffe and donut ",
+				"bidangUsaha": "Makanan dan minuman  "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221013043618",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2060320708",
+"bankAccountName": "Rian Andriana ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08888146838",
+"name": "Jln.baru No 12 rt 10 rw 03 ",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19771028",
+"percentage": 100,
+"email": "ryanandriana9789@gmail.com"
+}
+]
+}

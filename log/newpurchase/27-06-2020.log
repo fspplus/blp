@@ -1,0 +1,396 @@
+139.0.126.228 https://www.bucketlistplan.co.id/prepurchase?view=finish 09:03:33 2020-06-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fairica Rizkia",
+    "birthDate": "19880129", 
+"birthPlace": "Jakarta",
+"emailAddress": "fairicharizkia@gmail.com",
+"mobilePhone": "085883116691",
+"homePhone": "085883116691",
+"lineAddress1": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"lineAddress2": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"cityAddress": "Bekasi",
+"postalCode": 17411,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"mailingLineAddress2": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17411,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275086901880002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Fairica Rizkia",
+    "birthDate": "19880129", 
+"birthPlace": "Jakarta",
+"emailAddress": "fairicharizkia@gmail.com",
+"mobilePhone": "085883116691",
+"homePhone": "085883116691",
+"lineAddress1": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"lineAddress2": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"cityAddress": "Bekasi",
+"postalCode": 17411,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"mailingLineAddress2": "Jl. Wadas 4 no.1F. Jatiwaringin",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17411,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3275086901880002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Indonesia",
+				"bidangUsaha": "Insurance "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "389",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200627090333",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "6380284551",
+"bankAccountName": "Fairica Rizkia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "389"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08170725792",
+"name": "Ruben Hutagaol",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19481031",
+"percentage": 100,
+"email": "rubenefendi@gmail.com"
+}
+]
+}
+202.67.36.20 https://koreaversikamu.co.id/prepurchase?view=finish 17:17:08 2020-06-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Darmayana",
+    "birthDate": "19781231", 
+"birthPlace": "Sengkang",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "081342649697",
+"lineAddress1": "Jl a lantara lor 2 no 13",
+"lineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"cityAddress": "",
+"postalCode": 90911,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Darmayana",
+    "birthDate": "19781231", 
+"birthPlace": "Sengkang",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "081342649697",
+"lineAddress1": "Jl a lantara lor 2 no 13",
+"lineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"cityAddress": "",
+"postalCode": 90911,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011295",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200627171708",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "505301004101505",
+"bankAccountName": "Darmayana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081342649697",
+"name": "Darmatasiah",
+"famrel": 1,
+"gender": "F",
+"birthDate": "31/12/1955",
+"percentage": 100,
+"email": "nonfyznon@gmail.com"
+}
+]
+}
+202.67.36.20 https://koreaversikamu.co.id/prepurchase?view=finish 17:44:46 2020-06-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Darmayana",
+    "birthDate": "19781231", 
+"birthPlace": "Sengkang",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "081342649697",
+"lineAddress1": "Jl pahlawan lor 2 no 19",
+"lineAddress2": "Kel lapomgkoda kab wajo sulsel",
+"cityAddress": "",
+"postalCode": 90911,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "All fe shop",
+				"bidangUsaha": "Olshop "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Darmayana",
+    "birthDate": "19781231", 
+"birthPlace": "Sengkang",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "081342649697",
+"lineAddress1": "Jl pahlawan lor 2 no 19",
+"lineAddress2": "Kel lapomgkoda kab wajo sulsel",
+"cityAddress": "",
+"postalCode": 90911,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "All fe shop",
+				"bidangUsaha": "Olshop "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011295",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200627174446",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "505301004101505",
+"bankAccountName": "Darmayana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081342649697",
+"name": "Darmatasiah",
+"famrel": 1,
+"gender": "F",
+"birthDate": "31/12/1978",
+"percentage": 100,
+"email": "nonfyznon@gmail.com"
+}
+]
+}
+202.67.36.208 https://koreaversikamu.co.id/prepurchase?view=finish 23:35:17 2020-06-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Darmayana",
+    "birthDate": "19781231", 
+"birthPlace": "Sengkang",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "081342649697",
+"lineAddress1": "Jl pahlawan lor 2 no 19",
+"lineAddress2": "Kec tempe kab wajo",
+"cityAddress": "",
+"postalCode": 90911,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "All fe shop",
+				"bidangUsaha": "Olshop "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Darmayana",
+    "birthDate": "19781231", 
+"birthPlace": "Sengkang",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "081342649697",
+"lineAddress1": "Jl pahlawan lor 2 no 19",
+"lineAddress2": "Kec tempe kab wajo",
+"cityAddress": "",
+"postalCode": 90911,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kel lapongkoda kec tempe kab wajo sul sel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "All fe shop",
+				"bidangUsaha": "Olshop "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011295",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200627233516",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "505301004101505",
+"bankAccountName": "Darmayana",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081342649697",
+"name": "Darmatasiah",
+"famrel": 1,
+"gender": "F",
+"birthDate": "31/12/1955",
+"percentage": 100,
+"email": "nonefayaz@gmail.com"
+}
+]
+}

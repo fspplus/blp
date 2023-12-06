@@ -1,0 +1,297 @@
+114.124.213.235 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 13:10:10 2020-11-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kania Ayuning Rohmawati ",
+    "birthDate": "19981203", 
+"birthPlace": "Bogor",
+"emailAddress": "kaniaayuning03@gmail.com",
+"mobilePhone": "085778989296",
+"homePhone": "085778989296",
+"lineAddress1": "Kp cipecang Rt002 Rw005 Desa Cimanggis ",
+"lineAddress2": "Kec Bojong Gede Kab Bogor ",
+"cityAddress": "Bogor",
+"postalCode": 16920,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp cipecang Rt002 Rw005 Desa Cimanggis ",
+"mailingLineAddress2": "Kec Bojong Gede Kab Bogor ",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16920,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201134312980004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agent",
+"namaLembaga": "Hanwha Life ",
+				"bidangUsaha": "Asuransi  "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Kania Ayuning Rohmawati ",
+    "birthDate": "19981203", 
+"birthPlace": "Bogor",
+"emailAddress": "kaniaayuning03@gmail.com",
+"mobilePhone": "085778989296",
+"homePhone": "085778989296",
+"lineAddress1": "Kp cipecang Rt002 Rw005 Desa Cimanggis ",
+"lineAddress2": "Kec Bojong Gede Kab Bogor ",
+"cityAddress": "Bogor",
+"postalCode": 16920,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp cipecang Rt002 Rw005 Desa Cimanggis ",
+"mailingLineAddress2": "Kec Bojong Gede Kab Bogor ",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16920,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3201134312980004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agent",
+"namaLembaga": "Hanwha Life ",
+				"bidangUsaha": "Asuransi  "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011983",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201124131008",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0725892101",
+"bankAccountName": "Kania Ayuning Rohmawati ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085717943007",
+"name": "Nani Nuryani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19720420",
+"percentage": 100%,
+"email": "kaniaayuning03@gmail.com"
+}
+]
+}
+114.124.212.107 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 16:58:34 2020-11-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kania Ayuning Rohmawati",
+    "birthDate": "19981203", 
+"birthPlace": "Bogor",
+"emailAddress": "kaniaayuning03@gmail.com",
+"mobilePhone": "085778989296",
+"homePhone": "085778989296",
+"lineAddress1": "kp Cipecang Rt002 Rw005 Desa Cimanggis Kec Bojong Gede",
+"lineAddress2": "Kab Bogor Jawa Barat",
+"cityAddress": "Bogor",
+"postalCode": 16920,
+"sameMailing": "1",
+"mailingLineAddress1": "kp Cipecang Rt002 Rw005 Desa Cimanggis Kec Bojong Gede",
+"mailingLineAddress2": "Kab Bogor Jawa Barat",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16920,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3201134312980004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Kania Ayuning Rohmawati",
+    "birthDate": "19981203", 
+"birthPlace": "Bogor",
+"emailAddress": "kaniaayuning03@gmail.com",
+"mobilePhone": "085778989296",
+"homePhone": "085778989296",
+"lineAddress1": "kp Cipecang Rt002 Rw005 Desa Cimanggis Kec Bojong Gede",
+"lineAddress2": "Kab Bogor Jawa Barat",
+"cityAddress": "Bogor",
+"postalCode": 16920,
+"sameMailing": "1",
+"mailingLineAddress1": "kp Cipecang Rt002 Rw005 Desa Cimanggis Kec Bojong Gede",
+"mailingLineAddress2": "Kab Bogor Jawa Barat",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16920,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3201134312980004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},"policyPayor":{"fullName":"","birthDate":"","birthPlace":"","emailAddress":"","mobilePhone":"","homePhone":"","lineAddress1":"","lineAddress2":"","cityAddress":"","postalCode":"","sameMailing":"0","mailingLineAddress1":"","mailingLineAddress2":"","mailingCityAddress":"","mailingpostalCode":,"gender":"","jobType":"","identityType":1,"identityNumber":"","incomeSource":"","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"","boType":"2","indivPayor":{"marital":"","citizenship":"","nationality":"","occupationid":"","occupationdesc":"","jobpos":"","incomesourcedesc":"","incomesrcoth":"","incomeoth":"","incomeothdesc":"","incomeothtype":"","npwp":"","relwinsured":"","relwholder":"","kitasNo":"","office_phone1":"","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011983",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201124165833",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0725892101",
+"bankAccountName": "Kania Ayuning Rohmawati ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085717943007",
+"name": "Nani Nuryani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19720420",
+"percentage": 100,
+"email": "kaniaayuning03@gmail.com"
+}
+]
+}
+114.124.212.107 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:55:38 2020-11-24
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kania Ayuning Rohmawati",
+    "birthDate": "19981203", 
+"birthPlace": "Bogor",
+"emailAddress": "kaniaayuning03@gmail.com",
+"mobilePhone": "085778989296",
+"homePhone": "085778989296",
+"lineAddress1": "KP Cipecang Rt002 Rw005 No 29 Desa Cimanggis ",
+"lineAddress2": "Kec Bojonggede Kab Bogor Jawa Barat",
+"cityAddress": "Bogor",
+"postalCode": 16920,
+"sameMailing": "1",
+"mailingLineAddress1": "KP Cipecang Rt002 Rw005 No 29 Desa Cimanggis ",
+"mailingLineAddress2": "Kec Bojonggede Kab Bogor Jawa Barat",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16920,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3201134312980004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Kania Ayuning Rohmawati",
+    "birthDate": "19981203", 
+"birthPlace": "Bogor",
+"emailAddress": "kaniaayuning03@gmail.com",
+"mobilePhone": "085778989296",
+"homePhone": "085778989296",
+"lineAddress1": "KP Cipecang Rt002 Rw005 No 29 Desa Cimanggis ",
+"lineAddress2": "Kec Bojonggede Kab Bogor Jawa Barat",
+"cityAddress": "Bogor",
+"postalCode": 16920,
+"sameMailing": "1",
+"mailingLineAddress1": "KP Cipecang Rt002 Rw005 No 29 Desa Cimanggis ",
+"mailingLineAddress2": "Kec Bojonggede Kab Bogor Jawa Barat",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16920,
+"gender": "F",
+"jobType": "Job14",
+"identityType": 1,
+"identityNumber": "3201134312980004",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},"policyPayor":{"fullName":"Kania Ayuning Rohmawati ","birthDate":"19981203","birthPlace":"","emailAddress":"kaniaayuning03@gmail.com","mobilePhone":"085778989296","homePhone":"085778989296","lineAddress1":"KP Cipecang RT002 / RW005 Desa Cimanggis ","lineAddress2":"Kec Bojong Gede Kab Bogor Jawa Barat ","cityAddress":"Bogor","postalCode":"16920","sameMailing":"0","mailingLineAddress1":"KP Cipecang RT002 / RW005 Desa Cimanggis ","mailingLineAddress2":"Kec Bojong Gede Kab Bogor Jawa Barat ","mailingCityAddress":"Bogor","mailingpostalCode":16920,"gender":"F","jobType":"4","identityType":1,"identityNumber":"3201134312980004","incomeSource":"6","additionalProperties":{"jobDetail":{"uraianPekerjaan":"","namaLembaga":"","bidangUsaha":" "},"maritalStatus":"S","boType":"2","indivPayor":{"marital":"","citizenship":"WNI","nationality":"","occupationid":"4","occupationdesc":"","jobpos":"","incomesourcedesc":"1","incomesrcoth":"1","incomeoth":"3","incomeothdesc":"","incomeothtype":"","npwp":"0","relwinsured":"kaniaayuning03@gmail.com","relwholder":"0","kitasNo":"3201134312980004","office_phone1":"02517559118","office_phone2":"","office_email":""}}},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011983",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20201124175536",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0725892101",
+"bankAccountName": "Kania Ayuning Rohmawati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "0"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085717943007",
+"name": "Nani Nuryani",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19720420",
+"percentage": 100,
+"email": "kaniaayuning03@gmail.com"
+}
+]
+}

@@ -1,0 +1,99 @@
+223.255.229.65 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 18:37:53 2022-09-28
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Seruni Pratiwi",
+    "birthDate": "19980806", 
+"birthPlace": "Jakarta",
+"emailAddress": "serunipratiwi27@yahoo.com",
+"mobilePhone": "085894247324",
+"homePhone": "085894247324",
+"lineAddress1": "KP. Kramat Bahagia Rt.05/ Rw.08 Grogol petamburan",
+"lineAddress2": "grogol",
+"cityAddress": "",
+"postalCode": 11450,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl Masar V RT 03 RW 10 No.58 Kembangan Utara, Jakarta barat",
+"mailingLineAddress2": "kode pos 11610",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173024608980005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Kreasi Multicahya Estetika",
+				"bidangUsaha": "Industri Kecantikan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Seruni Pratiwi",
+    "birthDate": "19980806", 
+"birthPlace": "Jakarta",
+"emailAddress": "serunipratiwi27@yahoo.com",
+"mobilePhone": "085894247324",
+"homePhone": "085894247324",
+"lineAddress1": "KP. Kramat Bahagia Rt.05/ Rw.08 Grogol petamburan",
+"lineAddress2": "grogol",
+"cityAddress": "",
+"postalCode": 11450,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl Masar V RT 03 RW 10 No.58 Kembangan Utara, Jakarta barat",
+"mailingLineAddress2": "kode pos 11610",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11610,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3173024608980005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Kreasi Multicahya Estetika",
+				"bidangUsaha": "Industri Kecantikan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "71909962",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20220928183750",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2680157025",
+"bankAccountName": "Seruni Pratiwi",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085893927422",
+"name": "Juwarni",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19740811",
+"percentage": 100,
+"email": "juwarnigani@gmail.com"
+}
+]
+}

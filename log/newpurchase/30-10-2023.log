@@ -1,0 +1,408 @@
+45.126.185.236 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:20:26 2023-10-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "HENNY WIDJAJA",
+    "birthDate": "19740902", 
+"birthPlace": "MEDAN",
+"emailAddress": "hennyamway@gmail.com",
+"mobilePhone": "0811613088",
+"homePhone": "0811613088",
+"lineAddress1": "JL SUTOMO NO 155 KEL.SEI RENGAS I",
+"lineAddress2": "KEC.MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20214,
+"sameMailing": "1",
+"mailingLineAddress1": "JL SUTOMO NO 155 KEL.SEI RENGAS I",
+"mailingLineAddress2": "KEC.MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20214,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271014209740001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "marketing",
+"namaLembaga": "AMWAY",
+				"bidangUsaha": "penjualan produk "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "HENNY WIDJAJA",
+    "birthDate": "19740902", 
+"birthPlace": "MEDAN",
+"emailAddress": "hennyamway@gmail.com",
+"mobilePhone": "0811613088",
+"homePhone": "0811613088",
+"lineAddress1": "JL SUTOMO NO 155 KEL.SEI RENGAS I",
+"lineAddress2": "KEC.MEDAN KOTA",
+"cityAddress": "Medan",
+"postalCode": 20214,
+"sameMailing": "1",
+"mailingLineAddress1": "JL SUTOMO NO 155 KEL.SEI RENGAS I",
+"mailingLineAddress2": "KEC.MEDAN KOTA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20214,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1271014209740001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "marketing",
+"namaLembaga": "AMWAY",
+				"bidangUsaha": "penjualan produk "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72311454",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231030142025",
+"bankCode": "151",
+"ropBankCode": "151",
+"bankAccount": "22115002441",
+"bankAccountName": "HENNY WIDJAJA",
+"ewalletNo": "0811613088",
+"ewalletType": "OVO",
+"ewalletName": "HENNY WIDJAJA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126096889",
+"name": "CHOA WI WANG",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19780815",
+"percentage": 100,
+"email": "hennyamway@gmail.com"
+}
+]
+}
+180.241.45.76 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:55:34 2023-10-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MULIA",
+    "birthDate": "19831119", 
+"birthPlace": "Medan",
+"emailAddress": "hung_mu_ni@yahoo.com",
+"mobilePhone": "08126588265",
+"homePhone": "08126588265",
+"lineAddress1": "Citraland gamacity cluster Grenadines ",
+"lineAddress2": "Blok h5D no 52 Medan estate ",
+"cityAddress": "",
+"postalCode": 20237,
+"sameMailing": "1",
+"mailingLineAddress1": "Citraland gamacity cluster Grenadines ",
+"mailingLineAddress2": "Blok h5D no 52 Medan estate ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20237,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271105911830002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD WIJAYA",
+				"bidangUsaha": "Toko elektronik  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MULIA",
+    "birthDate": "19831119", 
+"birthPlace": "Medan",
+"emailAddress": "hung_mu_ni@yahoo.com",
+"mobilePhone": "08126588265",
+"homePhone": "08126588265",
+"lineAddress1": "Citraland gamacity cluster Grenadines ",
+"lineAddress2": "Blok h5D no 52 Medan estate ",
+"cityAddress": "",
+"postalCode": 20237,
+"sameMailing": "1",
+"mailingLineAddress1": "Citraland gamacity cluster Grenadines ",
+"mailingLineAddress2": "Blok h5D no 52 Medan estate ",
+"mailingCityAddress": "",
+"mailingpostalCode": 20237,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271105911830002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "UD WIJAYA",
+				"bidangUsaha": "Toko elektronik  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311454",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231030145533",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "7985003831",
+"bankAccountName": "Mulia",
+"ewalletNo": "08126588265",
+"ewalletType": "OVO",
+"ewalletName": "Mulia",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126588265",
+"name": "Andy candra",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19790919",
+"percentage": 100,
+"email": "hung_mu_ni@yahoo.con"
+}
+]
+}
+114.122.9.15 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 17:46:18 2023-10-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sendy",
+    "birthDate": "19900521", 
+"birthPlace": "Medan",
+"emailAddress": "leesndy@gmail.com",
+"mobilePhone": "082210009083",
+"homePhone": "082210009083",
+"lineAddress1": "Jl.Pahlawan No:94 LK.I",
+"lineAddress2": "Jl.Pahlawan No:94 LK.I",
+"cityAddress": "Medan",
+"postalCode": 20362,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pahlawan No:94 LK.I",
+"mailingLineAddress2": "Jl.Pahlawan No:94 LK.I",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20362,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1207022105900001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agency Director",
+"namaLembaga": "Allians",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Sendy",
+    "birthDate": "19900521", 
+"birthPlace": "Medan",
+"emailAddress": "leesndy@gmail.com",
+"mobilePhone": "082210009083",
+"homePhone": "082210009083",
+"lineAddress1": "Jl.Pahlawan No:94 LK.I",
+"lineAddress2": "Jl.Pahlawan No:94 LK.I",
+"cityAddress": "Medan",
+"postalCode": 20362,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl.Pahlawan No:94 LK.I",
+"mailingLineAddress2": "Jl.Pahlawan No:94 LK.I",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20362,
+"gender": "M",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "1207022105900001",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agency Director",
+"namaLembaga": "Allians",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311469 ",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231030174617",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222870010",
+"bankAccountName": "Sendy",
+"ewalletNo": "082210009083",
+"ewalletType": "OVO",
+"ewalletName": "Sendy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "72311469 "
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082210009083",
+"name": "Eng Tjin",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19630822",
+"percentage": 100,
+"email": "leesndy@gmail.com"
+}
+]
+}
+114.122.12.233 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 23:20:37 2023-10-30
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Sugianto",
+    "birthDate": "19880221", 
+"birthPlace": "Medan",
+"emailAddress": "sugiantonico@gmail.com",
+"mobilePhone": "085261672918",
+"homePhone": "085261672918",
+"lineAddress1": "Jl pancing komp imperial court no 49",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pancing komp imperial court no 49",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102102880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Sugianto",
+    "birthDate": "19880221", 
+"birthPlace": "Medan",
+"emailAddress": "sugiantonico@gmail.com",
+"mobilePhone": "085261672918",
+"homePhone": "085261672918",
+"lineAddress1": "Jl pancing komp imperial court no 49",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pancing komp imperial court no 49",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1271102102880001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311470",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20231030232036",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8645008860",
+"bankAccountName": "Sugianto ",
+"ewalletNo": "085261672918",
+"ewalletType": "OVO",
+"ewalletName": "Sugianto ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081906520001",
+"name": "Septina",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19870925",
+"percentage": 100,
+"email": "septina.hui@gmail.com"
+}
+]
+}

@@ -1,0 +1,102 @@
+36.71.143.195 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:44:23 2023-10-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "MAIA MAJESTA TAN",
+    "birthDate": "19760414", 
+"birthPlace": "Medan ",
+"emailAddress": "maiafelvi@yahoo.com",
+"mobilePhone": "0811616967",
+"homePhone": "0811616967",
+"lineAddress1": "Jl Asia makmur blok LL no 34",
+"lineAddress2": "Kel.sukaramai II Kel.medan area",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia makmur blok LL no 34",
+"mailingLineAddress2": "Kel.sukaramai II Kel.medan area",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271105404760004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Salon maya",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "MAIA MAJESTA TAN",
+    "birthDate": "19760414", 
+"birthPlace": "Medan ",
+"emailAddress": "maiafelvi@yahoo.com",
+"mobilePhone": "0811616967",
+"homePhone": "0811616967",
+"lineAddress1": "Jl Asia makmur blok LL no 34",
+"lineAddress2": "Kel.sukaramai II Kel.medan area",
+"cityAddress": "Medan",
+"postalCode": 20216,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Asia makmur blok LL no 34",
+"mailingLineAddress2": "Kel.sukaramai II Kel.medan area",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20216,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271105404760004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Salon maya",
+				"bidangUsaha": "Kecantikan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311454",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20231027144422",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950668691",
+"bankAccountName": "MAIA MAJESTA TAN",
+"ewalletNo": "0811616967",
+"ewalletType": "OVO",
+"ewalletName": "Maia majesta tan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811616967",
+"name": "Viviella garcia",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20020730",
+"percentage": 100,
+"email": "maiafelvi@yahoo.com"
+}
+]
+}

@@ -1,0 +1,66 @@
+202.169.54.106 https://www.bucketlistplan.co.id/prepurchase?view=finish 11:44:56 2019-10-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rifky Ramadhan Amin",
+    "birthDate": "19920327", 
+"birthPlace": "Jakarta",
+"emailAddress": "rifky.amin@traveloka.com",
+"mobilePhone": "085817246494",
+"homePhone": "0214530628",
+"lineAddress1": "Jl. Gading Elok Timur 5 Blok BN 2 No. 5",
+"lineAddress2": "Kelapa Gading, Jakarta 14240",
+"cityAddress": "Jakarta",
+"postalCode": 14240,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Gading Elok Timur 5 Blok BN 2 No. 5",
+"mailingLineAddress2": "Kelapa Gading, Jakarta 14240",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 14240,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "3171052703920001",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Traveloka",
+"bidangUsaha": "Online Service"
+}
+}
+},
+"purchase": {
+"productId": 4,
+"referenceCode": "Traveloka",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20191015114456",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0657178288",
+"bankAccountName": "Rifky Ramadhan Amin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081513018289",
+"name": "Herry Hariry Amin",
+"famrel": 1,
+"gender": "M",
+"birthDate": "19631025",
+"percentage": 100,
+"email": "herry.hariry.amin@gmail.com"
+}
+]
+}

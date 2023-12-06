@@ -1,0 +1,99 @@
+182.23.25.179 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:04:50 2021-03-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Diana",
+    "birthDate": "19690923", 
+"birthPlace": "Jakarta",
+"emailAddress": "tctdiana@gmail.com",
+"mobilePhone": "08158844870",
+"homePhone": "08158844870",
+"lineAddress1": "CIMONE INDAH PLAZA B.A.41",
+"lineAddress2": "RT.003, RW. 008, CIMONE JAYA, KARAWACI ",
+"cityAddress": "",
+"postalCode": 15114,
+"sameMailing": "0",
+"mailingLineAddress1": "APARTEMENT JUANDA TOWER B 703",
+"mailingLineAddress2": "JL. Ir. Haji Juanda I",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10120,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671076309690005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "GBI CITY TOWER",
+				"bidangUsaha": "KEAGAMAAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Diana",
+    "birthDate": "19690923", 
+"birthPlace": "Jakarta",
+"emailAddress": "tctdiana@gmail.com",
+"mobilePhone": "08158844870",
+"homePhone": "08158844870",
+"lineAddress1": "CIMONE INDAH PLAZA B.A.41",
+"lineAddress2": "RT.003, RW. 008, CIMONE JAYA, KARAWACI ",
+"cityAddress": "",
+"postalCode": 15114,
+"sameMailing": "0",
+"mailingLineAddress1": "APARTEMENT JUANDA TOWER B 703",
+"mailingLineAddress2": "JL. Ir. Haji Juanda I",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 10120,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3671076309690005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "GBI CITY TOWER",
+				"bidangUsaha": "KEAGAMAAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91603166",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210315160446",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2871237605",
+"bankAccountName": "DIANA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081219192971",
+"name": "JAJAN JOHANNA",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19710129",
+"percentage": 100,
+"email": "tct.diana@gmail.com"
+}
+]
+}

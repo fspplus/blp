@@ -1,0 +1,99 @@
+116.206.37.229 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:06:11 2022-04-23
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Moch Danial Wildani",
+    "birthDate": "20020619", 
+"birthPlace": "Bogor",
+"emailAddress": "mochdanialwildani@gmail.com",
+"mobilePhone": "085697674372",
+"homePhone": "-",
+"lineAddress1": "Kp. Cienggong, RT/RW 02/05, Ds. Cisalada, Kec. Cigombong, Kab. Bogor, Kode Pos 16110",
+"lineAddress2": "-",
+"cityAddress": "Bogor",
+"postalCode": 16110,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Cienggong, RT/RW 02/05, Ds. Cisalada, Kec. Cigombong, Kab. Bogor, Kode Pos 16110",
+"mailingLineAddress2": "-",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16110,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201381906020001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BPR Arthaguna Mandiri",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Moch Danial Wildani",
+    "birthDate": "20020619", 
+"birthPlace": "Bogor",
+"emailAddress": "mochdanialwildani@gmail.com",
+"mobilePhone": "085697674372",
+"homePhone": "-",
+"lineAddress1": "Kp. Cienggong, RT/RW 02/05, Ds. Cisalada, Kec. Cigombong, Kab. Bogor, Kode Pos 16110",
+"lineAddress2": "-",
+"cityAddress": "Bogor",
+"postalCode": 16110,
+"sameMailing": "1",
+"mailingLineAddress1": "Kp. Cienggong, RT/RW 02/05, Ds. Cisalada, Kec. Cigombong, Kab. Bogor, Kode Pos 16110",
+"mailingLineAddress2": "-",
+"mailingCityAddress": "Bogor",
+"mailingpostalCode": 16110,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "3201381906020001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BPR Arthaguna Mandiri",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "71910183",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20220423150610",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "4202463687",
+"bankAccountName": "Moch Danial Wildani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "-"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0895622572321",
+"name": "Indri Yani Agustin",
+"famrel": 2,
+"gender": "F",
+"birthDate": "20020830",
+"percentage": 100,
+"email": "indriyanii.agustin@gmail.com"
+}
+]
+}

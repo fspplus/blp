@@ -1,0 +1,99 @@
+36.72.216.190 https://www.koreaversikamu.co.id/prepurchase?view=finish 21:27:41 2020-05-13
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DORKAS MARIATI",
+    "birthDate": "19630518", 
+"birthPlace": "Semarang",
+"emailAddress": "dorkasmariati@gmail.com",
+"mobilePhone": "08164247463",
+"homePhone": "0243549542",
+"lineAddress1": "Jl. Taman Ade Irma Suryani 24 A , RT.03 RW.03 Kel Sekayu",
+"lineAddress2": "Kec Semarang Tengah",
+"cityAddress": "Semarang",
+"postalCode": 50132,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Taman Ade Irma Suryani 24 A , RT.03 RW.03 Kel Sekayu",
+"mailingLineAddress2": "Kec Semarang Tengah",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50132,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374015805630003",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agent Property",
+"namaLembaga": "Era Atlas Property",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "DORKAS MARIATI",
+    "birthDate": "19630518", 
+"birthPlace": "Semarang",
+"emailAddress": "dorkasmariati@gmail.com",
+"mobilePhone": "08164247463",
+"homePhone": "0243549542",
+"lineAddress1": "Jl. Taman Ade Irma Suryani 24 A , RT.03 RW.03 Kel Sekayu",
+"lineAddress2": "Kec Semarang Tengah",
+"cityAddress": "Semarang",
+"postalCode": 50132,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Taman Ade Irma Suryani 24 A , RT.03 RW.03 Kel Sekayu",
+"mailingLineAddress2": "Kec Semarang Tengah",
+"mailingCityAddress": "Semarang",
+"mailingpostalCode": 50132,
+"gender": "F",
+"jobType": "Job23",
+"identityType": 1,
+"identityNumber": "3374015805630003",
+"incomeSource": "Incoth",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "Agent Property",
+"namaLembaga": "Era Atlas Property",
+				"bidangUsaha": "Jasa "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "71909946",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20200513212741",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "4260242062",
+"bankAccountName": "Dorkas Mariati",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08122919629",
+"name": "Agus Thomas Daniarto",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19650411",
+"percentage": 100,
+"email": "tsoa_ind@yahoo.com"
+}
+]
+}

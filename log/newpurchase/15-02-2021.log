@@ -1,0 +1,297 @@
+182.23.35.194 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:37:36 2021-02-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "NI LUH SAWITRI",
+    "birthDate": "19660505", 
+"birthPlace": "BULELENG",
+"emailAddress": "luhsawitri8@gmail.com",
+"mobilePhone": "081916569611",
+"homePhone": "0361944650",
+"lineAddress1": "Lingkungan Sampiang,",
+"lineAddress2": "Desa/Kel. Gianyar, Kec. Gianyar, ",
+"cityAddress": "",
+"postalCode": 80511,
+"sameMailing": "1",
+"mailingLineAddress1": "Lingkungan Sampiang,",
+"mailingLineAddress2": "Desa/Kel. Gianyar, Kec. Gianyar, ",
+"mailingCityAddress": "",
+"mailingpostalCode": 80511,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "5104034505660001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SAWITRI SALON",
+				"bidangUsaha": "KECANTIKAN "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "NI LUH SAWITRI",
+    "birthDate": "19660505", 
+"birthPlace": "BULELENG",
+"emailAddress": "luhsawitri8@gmail.com",
+"mobilePhone": "081916569611",
+"homePhone": "0361944650",
+"lineAddress1": "Lingkungan Sampiang,",
+"lineAddress2": "Desa/Kel. Gianyar, Kec. Gianyar, ",
+"cityAddress": "",
+"postalCode": 80511,
+"sameMailing": "1",
+"mailingLineAddress1": "Lingkungan Sampiang,",
+"mailingLineAddress2": "Desa/Kel. Gianyar, Kec. Gianyar, ",
+"mailingCityAddress": "",
+"mailingpostalCode": 80511,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "5104034505660001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "SAWITRI SALON",
+				"bidangUsaha": "KECANTIKAN "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92012321",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210215133735",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "059001001234532",
+"bankAccountName": "NI LUH SAWITRI",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081916569611",
+"name": "I GEDE BASKARA ADI SUCAHYA",
+"famrel": 3,
+"gender": "M",
+"birthDate": "20021125",
+"percentage": 100,
+"email": "baskaraadisucahya@gmail.com"
+}
+]
+}
+114.122.139.253 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:50:05 2021-02-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "I NYOMAN ARIMBAWA ",
+    "birthDate": "19770930", 
+"birthPlace": "PESEDAHAN",
+"emailAddress": "arimbawa880@gmail.com",
+"mobilePhone": "081237675317",
+"homePhone": "081237675317",
+"lineAddress1": "BANJAR DINAS KANGINAN,",
+"lineAddress2": "DESA PESEDAHAN, KEC. MANGGIS,",
+"cityAddress": "",
+"postalCode": 80871,
+"sameMailing": "1",
+"mailingLineAddress1": "BANJAR DINAS KANGINAN,",
+"mailingLineAddress2": "DESA PESEDAHAN, KEC. MANGGIS,",
+"mailingCityAddress": "",
+"mailingpostalCode": 80871,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "5107033009770001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Herbal Karangasem",
+				"bidangUsaha": "Obat Herbal "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "I NYOMAN ARIMBAWA ",
+    "birthDate": "19770930", 
+"birthPlace": "PESEDAHAN",
+"emailAddress": "arimbawa880@gmail.com",
+"mobilePhone": "081237675317",
+"homePhone": "081237675317",
+"lineAddress1": "BANJAR DINAS KANGINAN,",
+"lineAddress2": "DESA PESEDAHAN, KEC. MANGGIS,",
+"cityAddress": "",
+"postalCode": 80871,
+"sameMailing": "1",
+"mailingLineAddress1": "BANJAR DINAS KANGINAN,",
+"mailingLineAddress2": "DESA PESEDAHAN, KEC. MANGGIS,",
+"mailingCityAddress": "",
+"mailingpostalCode": 80871,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "5107033009770001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Toko Herbal Karangasem",
+				"bidangUsaha": "Obat Herbal "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92012321",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20210215165005",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "3950272588",
+"bankAccountName": "I NYOMAN ARIMBAWA ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082138749788",
+"name": "I NENGAH WARTAWAN",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19750310",
+"percentage": 100,
+"email": "nengahwartawan75@gmail.com"
+}
+]
+}
+180.249.118.242 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 19:11:01 2021-02-15
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ni Komang Luriani",
+    "birthDate": "19961012", 
+"birthPlace": "Tukad Buah",
+"emailAddress": "komangluriani@gmail.com",
+"mobilePhone": "082146345680",
+"homePhone": "082146345680",
+"lineAddress1": "Jalan Waturenggong Gang XVII, No. 10 Koskosan Kuning Kamar no. 11 (Gultom), Panjer, Denpasar",
+"lineAddress2": "Jalan Pulau Serangan No. 14, Denpasar",
+"cityAddress": "Denpasar",
+"postalCode": 80225,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Waturenggong Gang XVII, No. 10 Koskosan Kuning Kamar no. 11 (Gultom), Panjer, Denpasar",
+"mailingLineAddress2": "Jalan Pulau Serangan No. 14, Denpasar",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80225,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "5107045210960002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Ni Komang Luriani",
+    "birthDate": "19961012", 
+"birthPlace": "Tukad Buah",
+"emailAddress": "komangluriani@gmail.com",
+"mobilePhone": "082146345680",
+"homePhone": "082146345680",
+"lineAddress1": "Jalan Waturenggong Gang XVII, No. 10 Koskosan Kuning Kamar no. 11 (Gultom), Panjer, Denpasar",
+"lineAddress2": "Jalan Pulau Serangan No. 14, Denpasar",
+"cityAddress": "Denpasar",
+"postalCode": 80225,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Waturenggong Gang XVII, No. 10 Koskosan Kuning Kamar no. 11 (Gultom), Panjer, Denpasar",
+"mailingLineAddress2": "Jalan Pulau Serangan No. 14, Denpasar",
+"mailingCityAddress": "Denpasar",
+"mailingpostalCode": 80225,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "5107045210960002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 9,
+"referenceCode": "92112923",
+"productCode": "B.101",
+"parentProductId": 9,
+"tenor": 24,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 375000,
+"autoDebet": "Y",
+"purchaseDate": "20210215191100",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "106701006585502",
+"bankAccountName": "Ni Komang Luriani",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081246994380",
+"name": "Ni Made Armini",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19770220",
+"percentage": 100,
+"email": "nimadearmini02@gmail.com"
+}
+]
+}

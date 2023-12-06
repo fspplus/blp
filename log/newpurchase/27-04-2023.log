@@ -1,0 +1,198 @@
+202.51.212.49 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:05:19 2023-04-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Irwan fajar",
+    "birthDate": "19760227", 
+"birthPlace": "Medan",
+"emailAddress": "fajar.irwan83@gmail.com",
+"mobilePhone": "08127021783",
+"homePhone": "08127021783",
+"lineAddress1": "Jl. Sei deli no. 17 - B",
+"lineAddress2": "Kelurahan silalas, kecamatan medan barat",
+"cityAddress": "",
+"postalCode": 20114,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sei deli no. 17 - B",
+"mailingLineAddress2": "Kelurahan silalas, kecamatan medan barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 20114,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271052702760001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank ibk idn",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Irwan fajar",
+    "birthDate": "19760227", 
+"birthPlace": "Medan",
+"emailAddress": "fajar.irwan83@gmail.com",
+"mobilePhone": "08127021783",
+"homePhone": "08127021783",
+"lineAddress1": "Jl. Sei deli no. 17 - B",
+"lineAddress2": "Kelurahan silalas, kecamatan medan barat",
+"cityAddress": "",
+"postalCode": 20114,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Sei deli no. 17 - B",
+"mailingLineAddress2": "Kelurahan silalas, kecamatan medan barat",
+"mailingCityAddress": "",
+"mailingpostalCode": 20114,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271052702760001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank ibk idn",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230427130518",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8230064165",
+"bankAccountName": "Irwan fajar",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126098065",
+"name": "Irwan sidik",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19830822",
+"percentage": 100,
+"email": "fajar.irwan83@gmail.com"
+}
+]
+}
+182.23.32.10 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 17:35:52 2023-04-27
+
+Content JSON:
+{
+"personalData": {
+"fullName": "TANG WAI PAN",
+    "birthDate": "19700702", 
+"birthPlace": "Medan",
+"emailAddress": "twpan8@yahoo.com",
+"mobilePhone": "0811610882",
+"homePhone": "0811610882",
+"lineAddress1": "JL KATALIA BLOK K LK XII NO.140",
+"lineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"cityAddress": "Medan",
+"postalCode": 20124,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KATALIA BLOK K LK XII NO.140",
+"mailingLineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271030207700002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BENGKEL UNITY AUTOMOBILE",
+				"bidangUsaha": "BENGKEL BODY REPAIR "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "TANG WAI PAN",
+    "birthDate": "19700702", 
+"birthPlace": "Medan",
+"emailAddress": "twpan8@yahoo.com",
+"mobilePhone": "0811610882",
+"homePhone": "0811610882",
+"lineAddress1": "JL KATALIA BLOK K LK XII NO.140",
+"lineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"cityAddress": "Medan",
+"postalCode": 20124,
+"sameMailing": "1",
+"mailingLineAddress1": "JL KATALIA BLOK K LK XII NO.140",
+"mailingLineAddress2": "KEL. HELVETIA TIMUR KEC. MEDAN HELVETIA",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20124,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271030207700002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BENGKEL UNITY AUTOMOBILE",
+				"bidangUsaha": "BENGKEL BODY REPAIR "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72311459",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230427173552",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0221969889",
+"bankAccountName": "TANG WAI PAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08126506277",
+"name": "EMELY",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19740404",
+"percentage": 100,
+"email": "em3ly_wu@yahoo.com"
+}
+]
+}

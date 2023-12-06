@@ -1,0 +1,99 @@
+140.213.36.171 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 15:24:23 2022-12-12
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Kartini ",
+    "birthDate": "19820613", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "085262800346",
+"homePhone": "085262800346",
+"lineAddress1": "Jl pukat harimau no.  134 c",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pukat harimau no.  134 c",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271145306820010",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ML Florist",
+				"bidangUsaha": "Karangan papan bunga "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Kartini ",
+    "birthDate": "19820613", 
+"birthPlace": "Medan",
+"emailAddress": "sukartini595@gmail.com",
+"mobilePhone": "085262800346",
+"homePhone": "085262800346",
+"lineAddress1": "Jl pukat harimau no.  134 c",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl pukat harimau no.  134 c",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271145306820010",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ML Florist",
+				"bidangUsaha": "Karangan papan bunga "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "58536129",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20221212152423",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0222015501",
+"bankAccountName": "Kartini",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085262800346",
+"name": "Alfonso Basil",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19750228",
+"percentage": 100,
+"email": "sukartini595@gmail.com"
+}
+]
+}

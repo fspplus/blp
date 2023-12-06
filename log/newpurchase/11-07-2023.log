@@ -1,0 +1,297 @@
+114.10.72.160 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:15:40 2023-07-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Chandra Susanto",
+    "birthDate": "19820902", 
+"birthPlace": "Medan",
+"emailAddress": "renhao88@gmail.com",
+"mobilePhone": "08126589778",
+"homePhone": "08126589778",
+"lineAddress1": "Jl Jambi no 34",
+"lineAddress2": "Jl jambi no 34",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Perjuangan no 8",
+"mailingLineAddress2": "PT. Gunung Raja Paksi",
+"mailingCityAddress": "",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207090209820001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Gunung Raja Paksi",
+				"bidangUsaha": "Produksi baja "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Chandra Susanto",
+    "birthDate": "19820902", 
+"birthPlace": "Medan",
+"emailAddress": "renhao88@gmail.com",
+"mobilePhone": "08126589778",
+"homePhone": "08126589778",
+"lineAddress1": "Jl Jambi no 34",
+"lineAddress2": "Jl jambi no 34",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Perjuangan no 8",
+"mailingLineAddress2": "PT. Gunung Raja Paksi",
+"mailingCityAddress": "",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207090209820001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Gunung Raja Paksi",
+				"bidangUsaha": "Produksi baja "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230711141539",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950868780",
+"bankAccountName": "Chandra Susanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082112684750",
+"name": "Erni",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19870127",
+"percentage": 100,
+"email": "ernichen88@gmail.com"
+}
+]
+}
+114.10.72.160 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:15:46 2023-07-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Chandra Susanto",
+    "birthDate": "19820902", 
+"birthPlace": "Medan",
+"emailAddress": "renhao88@gmail.com",
+"mobilePhone": "08126589778",
+"homePhone": "08126589778",
+"lineAddress1": "Jl Jambi no 34",
+"lineAddress2": "Jl jambi no 34",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Perjuangan no 8",
+"mailingLineAddress2": "PT. Gunung Raja Paksi",
+"mailingCityAddress": "",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207090209820001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Gunung Raja Paksi",
+				"bidangUsaha": "Produksi baja "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Chandra Susanto",
+    "birthDate": "19820902", 
+"birthPlace": "Medan",
+"emailAddress": "renhao88@gmail.com",
+"mobilePhone": "08126589778",
+"homePhone": "08126589778",
+"lineAddress1": "Jl Jambi no 34",
+"lineAddress2": "Jl jambi no 34",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Perjuangan no 8",
+"mailingLineAddress2": "PT. Gunung Raja Paksi",
+"mailingCityAddress": "",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207090209820001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Gunung Raja Paksi",
+				"bidangUsaha": "Produksi baja "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230711141546",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950868780",
+"bankAccountName": "Chandra Susanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082112684750",
+"name": "Erni",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19870127",
+"percentage": 100,
+"email": "ernichen88@gmail.com"
+}
+]
+}
+114.10.72.160 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:19:39 2023-07-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Chandra Susanto",
+    "birthDate": "19820902", 
+"birthPlace": "Bangun Purba",
+"emailAddress": "renhao88@gmail.com",
+"mobilePhone": "08126589778",
+"homePhone": "08126589778",
+"lineAddress1": "Jl. Jambi no. 34",
+"lineAddress2": "Pandau hilir, medan perjuangan",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Perjuangan no 8",
+"mailingLineAddress2": "PT. Gunung Raja Paksi",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207090209820001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Gunung Raja Paksi",
+				"bidangUsaha": "Baja "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Chandra Susanto",
+    "birthDate": "19820902", 
+"birthPlace": "Bangun Purba",
+"emailAddress": "renhao88@gmail.com",
+"mobilePhone": "08126589778",
+"homePhone": "08126589778",
+"lineAddress1": "Jl. Jambi no. 34",
+"lineAddress2": "Pandau hilir, medan perjuangan",
+"cityAddress": "",
+"postalCode": 20232,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl. Perjuangan no 8",
+"mailingLineAddress2": "PT. Gunung Raja Paksi",
+"mailingCityAddress": "Bekasi",
+"mailingpostalCode": 17530,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207090209820001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Gunung Raja Paksi",
+				"bidangUsaha": "Baja "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 4,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20230711141938",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950868780",
+"bankAccountName": "Chandra Susanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082112684750",
+"name": "Erni",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19870127",
+"percentage": 100,
+"email": "ernichen88@gmail.com"
+}
+]
+}

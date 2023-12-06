@@ -1,0 +1,71 @@
+182.1.44.46 http://koreaversikamu.co.id/prepurchase?view=finish 13:47:37 2020-03-06
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Stella maria",
+    "birthDate": "19920523", 
+"birthPlace": "Medan",
+"emailAddress": "stellamariatan5@gmail.com",
+"mobilePhone": "081376558858",
+"homePhone": "081376558858",
+"lineAddress1": "Jl. Masjid no. 6-H",
+"lineAddress2": "Jl. Masjid no. 6-H",
+"cityAddress": "Medan",
+"postalCode": 20373,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Masjid no. 6-H",
+"mailingLineAddress2": "Jl. Masjid no. 6-H",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20373,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1207256305920001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Pt. besteel lestarindo",
+				"bidangUsaha": "Kontraktor "
+			},
+			"dealsCode": "",
+			"maritalStatus": "Y"
+		}
+    },
+
+"purchase": {
+"productId": 4,
+"referenceCode": "91910472",
+"productCode": "B.101",
+"parentProductId": 4,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 1800000,
+"autoDebet": "Y",
+"purchaseDate": "20200306134736",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8005006577",
+"bankAccountName": "Stella maria",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082162785000",
+"name": "Davin margono",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19900416",
+"percentage": 100,
+"email": "stellamariatan5@gmail.com"
+}
+]
+}

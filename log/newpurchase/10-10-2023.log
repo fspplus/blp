@@ -1,0 +1,102 @@
+114.122.12.55 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 23:03:32 2023-10-10
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Gritfin juniso",
+    "birthDate": "20030613", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "gritfinjuniso03@gmail.com",
+"mobilePhone": "081262953439",
+"homePhone": "081262953439",
+"lineAddress1": "Jl sehat no 30 ",
+"lineAddress2": "Tanjung balai",
+"cityAddress": "",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sehat no 30 ",
+"mailingLineAddress2": "Tanjung balai",
+"mailingCityAddress": "",
+"mailingpostalCode": 20212,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1274061306030001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Gritfin juniso",
+    "birthDate": "20030613", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "gritfinjuniso03@gmail.com",
+"mobilePhone": "081262953439",
+"homePhone": "081262953439",
+"lineAddress1": "Jl sehat no 30 ",
+"lineAddress2": "Tanjung balai",
+"cityAddress": "",
+"postalCode": 20212,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sehat no 30 ",
+"mailingLineAddress2": "Tanjung balai",
+"mailingCityAddress": "",
+"mailingpostalCode": 20212,
+"gender": "M",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1274061306030001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20231010230331",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0520334581",
+"bankAccountName": "Gritfin juniso",
+"ewalletNo": "081262953439",
+"ewalletType": "OVO",
+"ewalletName": "Gritfin juniso",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081375368123",
+"name": "Ang lita",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19821212",
+"percentage": 100,
+"email": "gritfinjuniso03@gmail.com"
+}
+]
+}

@@ -1,0 +1,198 @@
+139.255.95.18 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:21:03 2021-03-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Selly Andika",
+    "birthDate": "19910729", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "selly_yap@hotmail.com",
+"mobilePhone": "085100067885",
+"homePhone": "085100067885",
+"lineAddress1": "Jalan Sibolga No.7 Kelurahan Pandau Hilir",
+"lineAddress2": "Kecamatan Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20232,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sibolga No.7 Kelurahan Pandau Hilir",
+"mailingLineAddress2": "Kecamatan Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276016907910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BTPN",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Selly Andika",
+    "birthDate": "19910729", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "selly_yap@hotmail.com",
+"mobilePhone": "085100067885",
+"homePhone": "085100067885",
+"lineAddress1": "Jalan Sibolga No.7 Kelurahan Pandau Hilir",
+"lineAddress2": "Kecamatan Medan Perjuangan",
+"cityAddress": "Medan",
+"postalCode": 20232,
+"sameMailing": "1",
+"mailingLineAddress1": "Jalan Sibolga No.7 Kelurahan Pandau Hilir",
+"mailingLineAddress2": "Kecamatan Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276016907910001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BTPN",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92011992",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210308132058",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "040315007",
+"bankAccountName": "Selly Andika",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92011992"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081933433596",
+"name": "Wiraharta",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19870319",
+"percentage": 100,
+"email": "selly_yap@hotmail.com"
+}
+]
+}
+139.255.95.18 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 16:06:12 2021-03-08
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Melly Yaperlin",
+    "birthDate": "20000530", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "yaperlinmelly@gmail.com",
+"mobilePhone": "081933433596",
+"homePhone": "085100067885",
+"lineAddress1": "Jalan SM Raja Komp Citra Harapan Blok C No. 48 LK III",
+"lineAddress2": "RT 003 RW 003 Kel. Bandarsono, Kec. Padang Hulu",
+"cityAddress": "",
+"postalCode": 20625,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Sibolga No. 7 Kelurahan Pandau Hilir",
+"mailingLineAddress2": "Kecamatan Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276017005000001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BTPN",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Melly Yaperlin",
+    "birthDate": "20000530", 
+"birthPlace": "Tebing tinggi",
+"emailAddress": "yaperlinmelly@gmail.com",
+"mobilePhone": "081933433596",
+"homePhone": "085100067885",
+"lineAddress1": "Jalan SM Raja Komp Citra Harapan Blok C No. 48 LK III",
+"lineAddress2": "RT 003 RW 003 Kel. Bandarsono, Kec. Padang Hulu",
+"cityAddress": "",
+"postalCode": 20625,
+"sameMailing": "0",
+"mailingLineAddress1": "Jalan Sibolga No. 7 Kelurahan Pandau Hilir",
+"mailingLineAddress2": "Kecamatan Medan Perjuangan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20232,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1276017005000001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "BTPN",
+				"bidangUsaha": "Perbankan "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "92010786",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210308160608",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0421031460",
+"bankAccountName": "Melly Yaperlin",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": "92010786"
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08192104358",
+"name": "Ng LIe Sian",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19680815",
+"percentage": 100,
+"email": "selly_yap@hotmail.com"
+}
+]
+}

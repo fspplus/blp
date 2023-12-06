@@ -1,0 +1,102 @@
+103.177.15.2 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 13:25:30 2023-09-14
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ang Lita",
+    "birthDate": "19821212", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "Anglitalita@gmail.com",
+"mobilePhone": "081375368123",
+"homePhone": "081375368123",
+"lineAddress1": "Jl sehat no 30",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 21331,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sehat no 30",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 21331,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1274065212820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ang Lita",
+    "birthDate": "19821212", 
+"birthPlace": "Tanjung balai",
+"emailAddress": "Anglitalita@gmail.com",
+"mobilePhone": "081375368123",
+"homePhone": "081375368123",
+"lineAddress1": "Jl sehat no 30",
+"lineAddress2": "Idem ",
+"cityAddress": "",
+"postalCode": 21331,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sehat no 30",
+"mailingLineAddress2": "Idem ",
+"mailingCityAddress": "",
+"mailingpostalCode": 21331,
+"gender": "F",
+"jobType": "Job13",
+"identityType": 1,
+"identityNumber": "1274065212820001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210841",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230914132529",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "0520207686",
+"bankAccountName": "Ang Lita ",
+"ewalletNo": "081375368123",
+"ewalletType": "OVO",
+"ewalletName": "Ang Lita ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085220647777",
+"name": "Priyanto",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19801130",
+"percentage": 100,
+"email": "anglitalita@gmail.com"
+}
+]
+}

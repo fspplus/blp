@@ -1,0 +1,99 @@
+140.213.158.63 https://koreaversikamu.co.id/purchase/prepurchase?view=finish 00:17:18 2021-04-21
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Joseph Kristanto",
+    "birthDate": "19921212", 
+"birthPlace": "Medan",
+"emailAddress": "joshkristanto92@yahoo.com",
+"mobilePhone": "08566281077",
+"homePhone": "08566281077",
+"lineAddress1": "Komplek Tasbi Blok D no 55 Kel Tanjung Rejo",
+"lineAddress2": "Kec Medan Sunggal Kota Medan",
+"cityAddress": "Medan",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Tasbi Blok D no 55 Kel Tanjung Rejo",
+"mailingLineAddress2": "Kec Medan Sunggal Kota Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20122,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271021212920005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "Joseph Kristanto",
+    "birthDate": "19921212", 
+"birthPlace": "Medan",
+"emailAddress": "joshkristanto92@yahoo.com",
+"mobilePhone": "08566281077",
+"homePhone": "08566281077",
+"lineAddress1": "Komplek Tasbi Blok D no 55 Kel Tanjung Rejo",
+"lineAddress2": "Kec Medan Sunggal Kota Medan",
+"cityAddress": "Medan",
+"postalCode": 20122,
+"sameMailing": "1",
+"mailingLineAddress1": "Komplek Tasbi Blok D no 55 Kel Tanjung Rejo",
+"mailingLineAddress2": "Kec Medan Sunggal Kota Medan",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20122,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271021212920005",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Hanwha Life Insurance Indonesia",
+				"bidangUsaha": "Asuransi "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "91910669",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20210421001717",
+"bankCode": "013",
+"ropBankCode": "013",
+"bankAccount": "9811506777",
+"bankAccountName": "Joseph Kristanto",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "08116198916",
+"name": "Harris Kristanto",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19881119",
+"percentage": 100,
+"email": "harrisasen@gmail.com"
+}
+]
+}

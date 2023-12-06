@@ -1,0 +1,263 @@
+114.124.175.83 https://bucketlistplan.co.id/prepurchase?view=finish 10:45:30 2019-10-02
+
+{
+"personalData": {
+"fullName": "Fery",
+    "birthDate": "19591007", 
+"birthPlace": "Jakarta",
+"emailAddress": "fery@dorado.id",
+"mobilePhone": "108281237128",
+"homePhone": "198237189738",
+"lineAddress1": "Tangerang",
+"lineAddress2": "Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 12312,
+"sameMailing": "1",
+"mailingLineAddress1": "Tangerang",
+"mailingLineAddress2": "Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 12312,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "1823718239187231",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dorado",
+"bidangUsaha": "Digital"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "FERYREFFERRALL",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191002104529",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "09183128309128309128",
+"bankAccountName": "Fery",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "198237128378",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19620906",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+114.124.175.83 https://bucketlistplan.co.id/prepurchase?view=finish 10:46:58 2019-10-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Fery",
+    "birthDate": "19591007", 
+"birthPlace": "Jakarta",
+"emailAddress": "fery@dorado.id",
+"mobilePhone": "108281237128",
+"homePhone": "198237189738",
+"lineAddress1": "Tangerang",
+"lineAddress2": "Tangerang",
+"cityAddress": "Tangerang",
+"postalCode": 12312,
+"sameMailing": "1",
+"mailingLineAddress1": "Tangerang",
+"mailingLineAddress2": "Tangerang",
+"mailingCityAddress": "Tangerang",
+"mailingpostalCode": 12312,
+"gender": "M",
+"jobType": "job8",
+"identityType": 1,
+"identityNumber": "1823718239187231",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Dorado",
+"bidangUsaha": "Digital"
+}
+}
+},
+"purchase": {
+"productId": 2,
+"referenceCode": "FERYREFFERRALL",
+"productCode": "B.101",
+"parentProductId": 2,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191002104657",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "09183128309128309128",
+"bankAccountName": "Fery",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "198237128378",
+"name": "Fery",
+"famrel": 4,
+"gender": "M",
+"birthDate": "19620906",
+"percentage": 100,
+"email": "fery@dorado.id"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/prepurchase?view=finish 10:55:17 2019-10-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "dipsy",
+    "birthDate": "19661018", 
+"birthPlace": "Jakarta",
+"emailAddress": "dipsy@gmai.co",
+"mobilePhone": "893419723712",
+"homePhone": "3251113131",
+"lineAddress1": "dsafa",
+"lineAddress2": "sdgfasa",
+"cityAddress": "Jakarta",
+"postalCode": 21341,
+"sameMailing": "1",
+"mailingLineAddress1": "dsafa",
+"mailingLineAddress2": "sdgfasa",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 21341,
+"gender": "M",
+"jobType": "job7",
+"identityType": 1,
+"identityNumber": "3122222193111333",
+"incomeSource": "slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "safa",
+"namaLembaga": "xsda",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 1,
+"referenceCode": "403",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20191002105516",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "24121312321321",
+"bankAccountName": "dipsy",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "219341021831",
+"name": "lala",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19701008",
+"percentage": 100,
+"email": "lala@gms.co"
+}
+]
+}
+10.1.1.33 https://bucketlistplan.co.id/prepurchase?view=finish 14:32:11 2019-10-02
+
+Content JSON:
+{
+"personalData": {
+"fullName": "barbie",
+    "birthDate": "19591014", 
+"birthPlace": "Jakarta",
+"emailAddress": "barbie@gmai.co",
+"mobilePhone": "13412341211",
+"homePhone": "21414132421",
+"lineAddress1": "dasf",
+"lineAddress2": "safda",
+"cityAddress": "Jakarta",
+"postalCode": 12312,
+"sameMailing": "1",
+"mailingLineAddress1": "dasf",
+"mailingLineAddress2": "safda",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 12312,
+"gender": "F",
+"jobType": "job9",
+"identityType": 1,
+"identityNumber": "3802420340111111",
+"incomeSource": "inv",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+"bidangUsaha": ""
+}
+}
+},
+"purchase": {
+"productId": 6,
+"referenceCode": "",
+"productCode": "B.101",
+"parentProductId": 6,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 100000000,
+"agrementDisclaimer": 701,
+"premium": 600000,
+"autoDebet": "Y",
+"purchaseDate": "20191002143210",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "2390123131",
+"bankAccountName": "barbie",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "324231",
+"name": "mam",
+"famrel": 1,
+"gender": "F",
+"birthDate": "19571003",
+"percentage": 100,
+"email": "mam@das.co"
+}
+]
+}

@@ -1,0 +1,99 @@
+114.124.213.211 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:05:00 2023-08-11
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Andika wira gunawan",
+    "birthDate": "19830106", 
+"birthPlace": "Jakarta",
+"emailAddress": "andikam@yahoo.com",
+"mobilePhone": "08128084568",
+"homePhone": "08128084568",
+"lineAddress1": "Jl kramat soka no 18. Senen. Jakarta pusat",
+"lineAddress2": "Jl kramat soka no 18. Senen. Jakarta pusat",
+"cityAddress": "",
+"postalCode": 10450,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl pulau panjang 2 blok m1 no 16. Permata buana. Puri kembangan. Jakarta barat",
+"mailingLineAddress2": "Jl pulau panjang 2 blok m1 no 16. Permata buana. Puri kembangan. Jakarta barat",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11610,
+"gender": "M",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3171040601830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Andika wira gunawan",
+    "birthDate": "19830106", 
+"birthPlace": "Jakarta",
+"emailAddress": "andikam@yahoo.com",
+"mobilePhone": "08128084568",
+"homePhone": "08128084568",
+"lineAddress1": "Jl kramat soka no 18. Senen. Jakarta pusat",
+"lineAddress2": "Jl kramat soka no 18. Senen. Jakarta pusat",
+"cityAddress": "",
+"postalCode": 10450,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl pulau panjang 2 blok m1 no 16. Permata buana. Puri kembangan. Jakarta barat",
+"mailingLineAddress2": "Jl pulau panjang 2 blok m1 no 16. Permata buana. Puri kembangan. Jakarta barat",
+"mailingCityAddress": "Jakarta",
+"mailingpostalCode": 11610,
+"gender": "M",
+"jobType": "Job21",
+"identityType": 1,
+"identityNumber": "3171040601830004",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "",
+				"bidangUsaha": " "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72311468",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230811120456",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8650684568",
+"bankAccountName": "Andika wira gunawan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811135588",
+"name": "Mira meliza arijanto",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19830302",
+"percentage": 100,
+"email": "mira.arijanto@gmail.com"
+}
+]
+}

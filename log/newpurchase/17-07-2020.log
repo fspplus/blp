@@ -1,0 +1,198 @@
+202.67.36.219 https://koreaversikamu.co.id/prepurchase?view=finish 18:46:43 2020-07-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "WANDA HAMIDA DAHLAN",
+    "birthDate": "19801122", 
+"birthPlace": "UJUNG PANDANG",
+"emailAddress": "midahfm@gmail.com",
+"mobilePhone": "081317261990",
+"homePhone": "081317261990",
+"lineAddress1": "Jl sukaria 10 no 37 a",
+"lineAddress2": "Sulsel",
+"cityAddress": "",
+"postalCode": 90231,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sukaria 10 no 37 a",
+"mailingLineAddress2": "Sulsel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90231,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7371096211890002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank CIMB NIAGA",
+				"bidangUsaha": "Jual beli  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "WANDA HAMIDA DAHLAN",
+    "birthDate": "19801122", 
+"birthPlace": "UJUNG PANDANG",
+"emailAddress": "midahfm@gmail.com",
+"mobilePhone": "081317261990",
+"homePhone": "081317261990",
+"lineAddress1": "Jl sukaria 10 no 37 a",
+"lineAddress2": "Sulsel",
+"cityAddress": "",
+"postalCode": 90231,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl sukaria 10 no 37 a",
+"mailingLineAddress2": "Sulsel",
+"mailingCityAddress": "",
+"mailingpostalCode": 90231,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "7371096211890002",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bank CIMB NIAGA",
+				"bidangUsaha": "Jual beli  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011426",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200717184642",
+"bankCode": "009",
+"ropBankCode": "009",
+"bankAccount": "0521720528",
+"bankAccountName": "WANDA HAMIDA DAHLAN",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081317261990",
+"name": "Gabriella Raisa Tiffany",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20160211",
+"percentage": 100,
+"email": "midahfm19@gmail.com"
+}
+]
+}
+202.67.36.219 https://koreaversikamu.co.id/prepurchase?view=finish 19:49:32 2020-07-17
+
+Content JSON:
+{
+"personalData": {
+"fullName": "DARMAYANA",
+    "birthDate": "19781231", 
+"birthPlace": "SENGKANG",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "08132649697",
+"lineAddress1": "Jl pahlawan lor 2 no 19",
+"lineAddress2": "Kab wajo",
+"cityAddress": "",
+"postalCode": 90912,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kab wajo",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ALL FE",
+				"bidangUsaha": "Jual beli "
+			},
+			"maritalStatus": "N"
+		}
+    },"policyHolder":{
+"fullName": "DARMAYANA",
+    "birthDate": "19781231", 
+"birthPlace": "SENGKANG",
+"emailAddress": "nonfyznon@gmail.com",
+"mobilePhone": "081342649697",
+"homePhone": "08132649697",
+"lineAddress1": "Jl pahlawan lor 2 no 19",
+"lineAddress2": "Kab wajo",
+"cityAddress": "",
+"postalCode": 90912,
+"sameMailing": "0",
+"mailingLineAddress1": "Jl a lantara lor 2 no 13",
+"mailingLineAddress2": "Kab wajo",
+"mailingCityAddress": "",
+"mailingpostalCode": 90911,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "7313065002730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "ALL FE",
+				"bidangUsaha": "Jual beli "
+			},
+			"maritalStatus": "N"
+		}
+},
+
+"purchase": {
+"productId": 10,
+"referenceCode": "92011295",
+"productCode": "B.101",
+"parentProductId": 10,
+"tenor": 36,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 250000,
+"autoDebet": "Y",
+"purchaseDate": "20200717194931",
+"bankCode": "002",
+"ropBankCode": "002",
+"bankAccount": "505301004101505",
+"bankAccountName": "DARMAYANA",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "081342649697",
+"name": "Darnawati",
+"famrel": 4,
+"gender": "F",
+"birthDate": "19701003",
+"percentage": 100,
+"email": "nonfyznon@gmail.com"
+}
+]
+}

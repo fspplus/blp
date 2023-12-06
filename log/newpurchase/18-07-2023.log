@@ -1,0 +1,594 @@
+182.253.242.69 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 09:34:45 2023-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Johan",
+    "birthDate": "19790429", 
+"birthPlace": "Sidikalang",
+"emailAddress": "fiovaljon@gmail.com",
+"mobilePhone": "082166804568",
+"homePhone": "082166804568",
+"lineAddress1": "Jl. Bedagai No. 18 E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Bedagai No. 18 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271202904790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Johan",
+    "birthDate": "19790429", 
+"birthPlace": "Sidikalang",
+"emailAddress": "fiovaljon@gmail.com",
+"mobilePhone": "082166804568",
+"homePhone": "082166804568",
+"lineAddress1": "Jl. Bedagai No. 18 E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Bedagai No. 18 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271202904790001",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT. Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230718093445",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950672931",
+"bankAccountName": "Johan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082166804568",
+"name": "Fiorenza Limbardon",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20081004",
+"percentage": 100,
+"email": "fiovaljon@gmail.com"
+}
+]
+}
+182.253.242.69 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 10:46:48 2023-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rosni",
+    "birthDate": "19810223", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "Fiovaljon@gmail.com",
+"mobilePhone": "085104718838",
+"homePhone": "085104718838",
+"lineAddress1": "Jl. Bedagai N0.18E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Bedagai N0.18E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206302810006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Rosni",
+    "birthDate": "19810223", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "Fiovaljon@gmail.com",
+"mobilePhone": "085104718838",
+"homePhone": "085104718838",
+"lineAddress1": "Jl. Bedagai N0.18E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Bedagai N0.18E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206302810006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230718104648",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950672931",
+"bankAccountName": "Rosni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085104718838",
+"name": "Valencia Limbardon",
+"famrel": 3,
+"gender": "F",
+"birthDate": "20101110",
+"percentage": 100,
+"email": "Fiovaljon@gmail.com"
+}
+]
+}
+140.213.17.78 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 12:49:28 2023-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Hasan Gunawan",
+    "birthDate": "19730323", 
+"birthPlace": "Binjei",
+"emailAddress": "hasan@gkutama.com",
+"mobilePhone": "0811646541",
+"homePhone": "0811646541",
+"lineAddress1": "Jl. Veteran Dalam No. 19 R",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Veteran Dalam No. 19 R",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20235,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271192303730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Hasan Gunawan",
+    "birthDate": "19730323", 
+"birthPlace": "Binjei",
+"emailAddress": "hasan@gkutama.com",
+"mobilePhone": "0811646541",
+"homePhone": "0811646541",
+"lineAddress1": "Jl. Veteran Dalam No. 19 R",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Veteran Dalam No. 19 R",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20235,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271192303730001",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230718124927",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1953689999",
+"bankAccountName": "Hasan Gunawan",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811646541",
+"name": "Ciu Phing",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19780328",
+"percentage": 100,
+"email": "hasan@gkutama.com"
+}
+]
+}
+45.126.185.232 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:47:15 2023-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Ciu Phing",
+    "birthDate": "19780328", 
+"birthPlace": "Tebing Tinggi",
+"emailAddress": "ciuphin@ganindo.com",
+"mobilePhone": "0811653330",
+"homePhone": "0811653330",
+"lineAddress1": "Jl Veteran Dalam No. 19 R",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Veteran Dalam No. 19 R",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271196803780002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Ciu Phing",
+    "birthDate": "19780328", 
+"birthPlace": "Tebing Tinggi",
+"emailAddress": "ciuphin@ganindo.com",
+"mobilePhone": "0811653330",
+"homePhone": "0811653330",
+"lineAddress1": "Jl Veteran Dalam No. 19 R",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20235,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Veteran Dalam No. 19 R",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20235,
+"gender": "F",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271196803780002",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 1,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 1,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 50000000,
+"agrementDisclaimer": 701,
+"premium": 1200000,
+"autoDebet": "Y",
+"purchaseDate": "20230718144714",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1959833999",
+"bankAccountName": "Ciu Phing",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "0811653330",
+"name": "Hasan Gunawan",
+"famrel": 2,
+"gender": "M",
+"birthDate": "19730323",
+"percentage": 100,
+"email": "hasan@ganindo.com"
+}
+]
+}
+45.126.185.232 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 14:59:38 2023-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Rosni",
+    "birthDate": "19810223", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "rosniang81@gmail.com",
+"mobilePhone": "085104718838",
+"homePhone": "085104718838",
+"lineAddress1": "Jl. Bedagai No. 18 E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Bedagai No. 18 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206302810006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Rosni",
+    "birthDate": "19810223", 
+"birthPlace": "Tanjung Balai",
+"emailAddress": "rosniang81@gmail.com",
+"mobilePhone": "085104718838",
+"homePhone": "085104718838",
+"lineAddress1": "Jl. Bedagai No. 18 E",
+"lineAddress2": "Idem",
+"cityAddress": "",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl. Bedagai No. 18 E",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "",
+"mailingpostalCode": 20000,
+"gender": "F",
+"jobType": "Job8",
+"identityType": 1,
+"identityNumber": "1271206302810006",
+"incomeSource": "Slr",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "PT Ganindo Overseas Internasional",
+				"bidangUsaha": "Pelayaran "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230718145932",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "1950672931",
+"bankAccountName": "Rosni",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "085104718838",
+"name": "Valencia Limbardon",
+"famrel": 2,
+"gender": "F",
+"birthDate": "20101110",
+"percentage": 100,
+"email": "rosniang81@gmail.com"
+}
+]
+}
+36.72.167.254 https://bucketlistplan.co.id/purchase/prepurchase?view=finish 21:16:59 2023-07-18
+
+Content JSON:
+{
+"personalData": {
+"fullName": "Wiropo",
+    "birthDate": "19850903", 
+"birthPlace": "Medan ",
+"emailAddress": "wiropo85@gmail.com",
+"mobilePhone": "089604447077",
+"homePhone": "089604447077",
+"lineAddress1": "Jl Tirtosari komplek 12 BM",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Tirtosari komplek 12 BM",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271140309850003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bengkel sehat",
+				"bidangUsaha": "Bengkel  "
+			},
+			"maritalStatus": "Y"
+		}
+    },"policyHolder":{
+"fullName": "Wiropo",
+    "birthDate": "19850903", 
+"birthPlace": "Medan ",
+"emailAddress": "wiropo85@gmail.com",
+"mobilePhone": "089604447077",
+"homePhone": "089604447077",
+"lineAddress1": "Jl Tirtosari komplek 12 BM",
+"lineAddress2": "Idem",
+"cityAddress": "Medan",
+"postalCode": 20000,
+"sameMailing": "1",
+"mailingLineAddress1": "Jl Tirtosari komplek 12 BM",
+"mailingLineAddress2": "Idem",
+"mailingCityAddress": "Medan",
+"mailingpostalCode": 20000,
+"gender": "M",
+"jobType": "Job19",
+"identityType": 1,
+"identityNumber": "1271140309850003",
+"incomeSource": "Shu",
+"additionalProperties": {
+"jobDetail": {
+"uraianPekerjaan": "",
+"namaLembaga": "Bengkel sehat",
+				"bidangUsaha": "Bengkel  "
+			},
+			"maritalStatus": "Y"
+		}
+},
+
+"purchase": {
+"productId": 8,
+"referenceCode": "72210842",
+"productCode": "B.101",
+"parentProductId": 8,
+"tenor": 12,
+"paymentMethod": "301",
+"paymentType": 2,
+"up": 25000000,
+"agrementDisclaimer": 701,
+"premium": 750000,
+"autoDebet": "Y",
+"purchaseDate": "20230718211658",
+"bankCode": "014",
+"ropBankCode": "014",
+"bankAccount": "8300111085",
+"bankAccountName": "Wiropo ",
+"additionalInfo": {
+"selfPurchaseFlag": 1
+,
+			"dealsCode": ""
+}
+},
+"beneficiary": [{
+"seqNo": "1",
+"mobileNo": "082166383022",
+"name": "Henny",
+"famrel": 2,
+"gender": "F",
+"birthDate": "19861101",
+"percentage": 100,
+"email": "wiropo85@gmail.com"
+}
+]
+}
